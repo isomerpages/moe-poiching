@@ -39,3 +39,44 @@ description: ""
         祝愿大家2022 年健康、平安！
 
 蔡颐龄校长
+
+**Learning Post-Covid**
+
+ Dear Parents
+
+        As Covid-19 swept the world seemingly out of nowhere, it brought unprecedented changes to the way we live and learn. In a short span of two years, we have experienced multiple occasions of Home-Based Learning (HBL), and adhered to extraordinary Safe Management Measures in school, turning once familiar school routines into a litany of novel experiences. We have come far though, adapting well to the “new normal”. Yet, in overcoming present challenges presented by the pandemic, let’s not forget to prepare for a post-Covid future, and ready ourselves for things to come. 
+
+        Some years back, when our teachers got our students to envision how schools and learning of the future would differ from the present, a relatively common image surfaced. Students envisioned learning would no longer be confined to classrooms and books, and could happen anywhere and at any time. They would not have to be physically present in school to learn, and could do so in the comfort of their homes. They could go online to meet their teachers, do research on the World Wide Web, and learn independently. They could also be members of virtual classrooms, global in scale, interacting and learning alongside international peers. Learning and interactions would no longer be limited by space and time. 
+
+        At this point, you would realise that elements of this futuristic vision are already here in our present lives. Perhaps Covid has brought education into the future. It has certainly taught us many lessons. Yet, the pandemic will pass, and we will have to consider the following imperatives, learning and living in a post-Covid world.
+				
+1. **Cohering Disciplines and the Importance of Soft Skills**
+
+        Professor Tan Eng Chye, president of the National University of Singapore, once shared in an interview his view of the qualities a student should possess to thrive in society. He shared that one should have a lively curiosity, creativity, the intellectual capacity to connect the dots, and possess self and social awareness. I could not agree more with his view. 
+
+        It is increasingly clear that the jobs of tomorrow will be interdisciplinary, requiring knowledge and skills across a gamut of domains. Being able to draw coherent linkages among seemingly diverse disciplines and subjects, and apply knowledge and skills gained across one’s whole learning experience will put a student in good stead to flourish. As we teach the academic aspect of education, as important – or perhaps even more important – would be the development of soft skills and character building. The academic knowledge may not always be relevant when students step forth into the world of work. But with soft skills, good character traits, and a positive learning disposition, one would be ready to face the future, regardless of its challenges. 
+
+     In 2022, our school will be further integrating soft skills into our daily learning experiences, to achieve the following:
+
+*   Enhanced socio-emotional competencies, especially communication and empathy. Through our values education programme, our students will learn perspective-taking in conversations, and to respect the opinions of others in frank discourse.
+*   Strengthened peer support and camaraderie. With more opportunities for smallgroup activities and discussion, our students will develop stronger and more positive interpersonal relationships, growing and learning together with their peers.
+
+2. **Mental Resilience**
+
+      It is common opinion that students of today are the “strawberry generation”, or a fruit that connotes preciousness, fragility and weakness. The pandemic years have taken a toll on us all, strawberry or otherwise, disrupting routines and throwing the future into uncertainty. As we prepare our students for the future, building up their mental resilience is key, and will be our focus as a school. In facing a volatile and uncertain future, our students will need to be adaptable and nimble in thinking. They will need to quickly assess problems from multiple perspectives to derive solutions. And they will sometimes have to escape the confines of convention to do so. Only with this adaptability and mental resilience will they be able to face challenges, regardless of what they are, and not crumble under pressure and stress.
+
+       Our teachers will be imparting skills to our students for self-care, engaging them in conversation to better develop mental resilience, and instil in them the awareness of the availability of help should they so require it.
+
+3. **Blended Learning**
+
+        The pandemic has taught us the importance of adaptability. With HBL, we have experienced a transformation of the age-old learning model in school, and adapted to it. In time, blended learning, a combination of in-person classes in school and HBL, will be implemented. Self-directedness and discipline factor strongly in this learning model, empowering students with the independence to control their learning progress both in and out of school. We trust our students will be self-directed learners and continue to adopt a positive ‘learning for life’ attitude through this transformation, and even after they graduate.  
+
+        Education Minister Chan Chun Sing said that there are three dimensions of confidence that our students should have – the confidence to chart their own paths; the confidence in accepting themselves – assured of their ability to bounce back from failure or adversity; and a confidence to compete in a more globalised world. Confidence, clearly, is key. Imbuing confidence in our students, unfortunately, is not as simple as flipping a textbook. It is a complex socio-emotional process of interaction, action and reaction, reflection and consolidation. As a school, it is imperative that we create such opportunities to imbue our students with confidence – and we will continue to do so. 
+
+    Primary education forms the foundation-building years, and arguably the most important years, for which skyscraper has stood if not for strong foundations? In building up our little skyscrapers, let’s work together in partnership, parents and school, to create a conducive, empowering, and encouraging learning environment for them.
+
+        Here’s to a happy and healthy 2022!
+
+Mrs Cheong Ye Ling
+
+Principal
