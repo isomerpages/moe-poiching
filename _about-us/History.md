@@ -96,3 +96,9 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 </table>
 
 ![](/images/history1.png)
+![](/images/history2.png)
+![](/images/history3.png)
+![](/images/history4.png)
+![](/images/history5.png)
+![](/images/history6.png)
+![](/images/history7.png)
