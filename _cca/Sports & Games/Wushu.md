@@ -87,3 +87,7 @@ We believe in developing students’ character during the training, focusing on 
 ![](/images/sg2019.jpg)
 
 **National Primary Schools Wushu Championships 2018**
+![](/images/table1.jpg)
+![](/images/table2.jpg)
+![](/images/table3.jpg)
+![](/images/table4.jpg)
