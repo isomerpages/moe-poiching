@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Alumni.md
       - Parents Information and Resources.md
       - Parent Support Group.md
       - Futsing Association.md
