@@ -469,8 +469,90 @@ Schools & Performance Timings:<br>
 
 **Title Piece: “Back To Spring 大地回春”**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3vIY6By_Klg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 6. **PCS Brass Band Showcase 2019 @ Our Tampines Hub**
 
                                                                                                 [https://flic.kr/s/aHskR6GAX5](https://flic.kr/s/aHskR6GAX5)
 
 **PCS Brass Band Showcase 2019 Introduction**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THaPgrD-b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: I Ask Heaven 我问天)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zt-4qmJXEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: Loco-motion)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IVrq8QKV5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: Another One Bites The Dust)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbUrNOPpl80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: Moonlight In The Town 城里的月光)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmaMSViKMyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**PCS Brass Band Showcase 2019 (Title: Back To Spring 大地回春 [CNY Song])**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfdLhyTuP2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: The Final Countdown)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hH2x7_oHvIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: Stand By Me) (Version 1)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wbKkXI_-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase 2019 (Title: Stand By Me) (Version 2)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XluH40AcuE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2018
+
+**1. SYF Brass Band Competition 2018 @ Singapore Conference Hall**
+
+[https://flic.kr/s/aHsmacFpPY](https://flic.kr/s/aHsmacFpPY)
+
+**2. SYF Brass Band Rehearsal 2018 @ Singapore Conference Hall**
+
+[https://flic.kr/s/aHsmacEYAb](https://flic.kr/s/aHsmacEYAb)
+
+**3. Our First Band Exchange 2018 @ Poi Ching School**
+
+[https://flic.kr/s/aHskunnCz2](https://flic.kr/s/aHskunnCz2)
+
+**4. Candid Camera @ Poi Ching School**
+
+[https://flic.kr/s/aHsm87Djw3](https://flic.kr/s/aHsm87Djw3)
+
+**5. Our Band CCA Facilitation Session @ Poi Ching School**
+
+[Photo & Video Credits: Mdm Suhaila]
+
+[https://flic.kr/s/aHsmji3qnc](https://flic.kr/s/aHsmji3qnc)
+
+**Our band members sharing on group dynamics below:**
+
+**6. Welcoming Our New P3 Band Members**
+
+[Photo Credits: Mrs Jazreel Quah]
+
+[https://flic.kr/s/aHsmgwfojx](https://flic.kr/s/aHsmgwfojx)
+
+**7. Fantasia 2018: CCA Appreciation Night @ Golden Theatre**  
+
+[Photo and Video Credits: Miss Toh Wei Ting]
+
+[https://flic.kr/s/aHskyZvo5g](https://flic.kr/s/aHskyZvo5g)
+
+**PCS Brass Band Performance @ Fantasia 2018: CCA Appreciation Night @ Golden Theatre** 
+
+**8. School Band Exchange with He Ming Wind Band (Zhengzhou, China)**
+
+[https://flic.kr/s/aHsmrXhM4k](https://flic.kr/s/aHsmrXhM4k)
