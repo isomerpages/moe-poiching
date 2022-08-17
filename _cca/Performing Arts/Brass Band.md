@@ -406,3 +406,17 @@ Schools & Performance Timings:<br>
  **(3)        Little Apples**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ma1_5PVdpEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+4. **Our Band CCA Facilitation Session @ Poi Ching School [10th May 2019]**
+
+**[Photo & Video Credits: Mdm Suhaila & Mrs Jazreel Quah]**
+
+[https://flic.kr/s/aHsmDT3Ppw](https://flic.kr/s/aHsmDT3Ppw)
+
+**Miss Khoo sharing about the importance of group dynamics and unity in preparation for SYF Brass Band 2020**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKV0QcSRGw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1HYchlqc40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Our band members sharing about the importance of group dynamics and unity in preparation for SYF Brass Band 2020**
