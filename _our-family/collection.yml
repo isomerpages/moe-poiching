@@ -2,15 +2,15 @@ collections:
   our-family:
     output: true
     order:
-      - Staff Directory/Administrative and EAS Staff.md
-      - Staff Directory/Allied Educator.md
-      - Staff Directory/Non Form Teachers.md
-      - Staff Directory/Primary 6.md
-      - Staff Directory/Primary 5.md
-      - Staff Directory/Primary 4.md
-      - Staff Directory/Primary 3.md
-      - Staff Directory/Primary 2.md
-      - Staff Directory/Primary 1.md
       - Staff Directory/.keep
+      - Staff Directory/Primary 1.md
+      - Staff Directory/Primary 2.md
+      - Staff Directory/Primary 3.md
+      - Staff Directory/Primary 4.md
+      - Staff Directory/Primary 5.md
+      - Staff Directory/Primary 6.md
+      - Staff Directory/Non Form Teachers.md
+      - Staff Directory/Allied Educator.md
+      - Staff Directory/Administrative and EAS Staff.md
       - Key Personnel.md
       - School Management Board.md
