@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Brass Band.md
       - Performing Arts/.keep
       - Sports & Games/.keep
       - Sports & Games/Table Tennis.md
