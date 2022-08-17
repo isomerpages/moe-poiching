@@ -705,4 +705,19 @@ In conclusion, the band members have benefitted from the exposure of performing 
 ![](/images/brass9.jpg)
 **A group picture with the Principal, Mr Andrew Mah, the band teachers and the band alumni members to commemorate this meaningful event on 25th January 2019 (Friday)**
 
+### Our Band Events (2018)
+
+**Our Partnership Ties With PCS Alumni Band 2018**
+
+**Special Thanks To Our PCS Alumni Band Members (not in order):** Jingyu, Jordi, Jing You, Vareck Ng, Ewan Choa, Charlene Goh, Joel, Teng Quan Han, Ernest, Elyza, Trisha, Shelina, Lloyd, Denise Chin, Javier, Hong Le, Agnes, Clara, Jeffrey, Anna, Shermayne, Zhi Sun
+
+![](/images/alumni1.jpg)
+![](/images/alumni2.jpg)
+![](/images/alumni3.jpg)
+![](/images/alumni4.jpg)
+![](/images/alumni5.jpg)
+![](/images/alumni6.jpg)
+![](/images/alumni7.jpg)
+![](/images/alumni8.jpg)
+
 
