@@ -98,3 +98,354 @@ We believe in developing students’ character during the training, focusing on 
 ![](/images/wushu4.jpg)
 ![](/images/wushu5.jpg)
 ![](/images/wushu6.jpg)
+
+**12TH NATIONAL PRIMARY SCHOOLS WUSHU CHAMPIONSHIP 2016**
+
+The Wushu School Team participated in the 12th National Primary Schools Wushu Championships 2016 in March. It was held over a period of 7 days and took place in Tao Nan School and Toa Payoh Sports Hall. Our School Team has done well this year, **winning 14 awards (1st–4thposition) from the individual events and 1 award from the group events**.
+
+Everyone in the school team has given their best and no matter whether they won a trophy, we will like to thank them for their effort and hard work. Good job, boys and girls!
+
+**Senior Boys**
+
+Ong Yan Heng – Class 6F
+
+*   Broadsword: 3rd
+*   5-Duan Changquan: 5th
+*   Cudgel: 6th
+
+Justin Tan Shen Jun – Class 6H
+
+*   Sword: 6th
+
+Chong Jia Hao, Jordan – Class 6E
+
+*   Nan dao (Southern Broadsword): –
+*   5-Duan Nanquan (Southern Fist): –
+
+Kou Kai Yang Skyron – 6H
+
+*   5-Duan Broadsword
+
+Aloysius Yee – 6D
+
+*   Group Quanshu: –
+
+Chong Jia Hao, Jordan – 6E
+
+*   Group Quanshu: –
+
+Justin Tan Shen Jun – Class 6H
+
+*   Group Quanshu: –
+
+Kou Kai Yang, Skyron – Class 6H
+
+*   Group Quanshu: –
+
+Ong Yan Heng – 6F
+
+*   Group Quanshu: –
+
+Tan Young Han Elson – 6C
+
+*   Group Quanshu: –
+
+Chi Liang Jun – 6H
+
+*   Group Quanshu: –
+
+Jerome Tam – 6C
+
+*   Group Quanshu: –
+
+**Senior Girls**
+
+Chang Jing Heng – Class 6C
+
+*   Nan Dao (Southern Broadsword): 1st
+*   Nan Gun (Southern Cudgel): 1st
+*   5-Duan Nanquan (Southern Fist): 2nd
+
+Shayne Lai Xuanru – Class 6H
+
+*   4-Duan Cudgel: 3rd
+*   5-Duan Changquan: 4th
+
+**Junior Boys**
+
+Javier Koh Wei Jun – Class 5H
+
+*   Broadsword: 4th
+*   Changquan: –
+
+Riqal Rong Guan Bin Ashari – Class 5I
+
+*   4-Duan Sword: 5th
+*   Changquan: 5th
+
+Aaron Koay Jun Khai – Class 5F
+
+*   3-Duan Changquan: –
+*   4-Duan Spear: –
+
+Kelvin Choo Jun Feng – Class 5F
+
+*   4-Duan Broadsword: –
+
+Zhao Tianqin – Class 5F
+
+*   Nan Dao (Southern Broadsword): –
+
+Lim Si Kai Andric – Class 4F
+
+*   3-Duan Nanquan (Southern Fist): 4th
+
+Chiah Jia An Cyrus – Class 4F
+
+*   3-Duan Nanquan (Southern Fist): 5th
+
+Elston Tan Jun Yang – Class 4H
+
+*   Nanquan (Southern Fist): 1st
+*   Nan Dao (Southern Broadsword): –
+
+Adester Low – Class 4F
+
+*   Nan Gun (Southern Cudgel): 6th
+
+Seow Yu Bin Cayden – Class 4E
+
+*   4-Duan Cudgel: –
+
+Aaron Koay Jun Khai – Class 5F
+
+*   Group Quanshu: –
+
+Javier Koh Wei Jun – Class 5H
+
+*   Group Quanshu: –
+
+Riqal Rong Guan Bin Ashari – Class 5I
+
+*   Group Quanshu: –
+
+Tan Han Jun Maximus – Class 5F
+
+*   Group Quanshu: –
+
+Tan Li Ang – Class 5E
+
+*   Group Quanshu: –
+
+Zhao Tianqin – Class 5F
+
+*   Group Quanshu: –
+
+Ong Wei En – Class 5I
+
+*   Group Quanshu: –
+
+Poh Yong Ming – Class 5F
+
+*   Group Quanshu: –
+
+**Junior Girls**
+
+Shermain Hoo Xuan Min – Class 5C
+
+*   Cudgel: 3rd
+*   3-Duan Nanquan (Southern Fist): –
+
+Magdeline Lin Hsien Huei – Class 5H
+
+*   Broadsword: 3rd
+
+Teo Ke Yi, Bella – Class 5G
+
+*   Broadsword: 5th
+
+Wu Zuxin Josie – Class 4F
+
+*   4-Duan Sword: 2nd
+*   Changquan: 4th
+
+Rachel Lee Jia Hui – Class 4C
+
+*   5-Duan Broadsword: 3rd
+*   5-Duan Changquan: –
+
+Wong Xian Yi – Class 3C
+
+*   3-Duan Nanquan (Southern Fist): –
+
+Ang Zhi Yi – Class 5E
+
+*   Group Quanshu: –
+
+Magdeline Lin Hsien Huei – Class 5H
+
+*   Group Quanshu: –
+
+Rachel Lee Jia Hui – Class 4C
+
+*   Group Quanshu: –
+
+Shermain Hoo Xuan Min – Class 5C
+
+*   Group Quanshu: –
+
+Teo Ke Yi, Bella – Class 5G
+
+*   Group Quanshu: –
+
+Wu Zuxin Josie – Class 4F
+
+*   Group Quanshu: –
+
+Ang Wei Ju – Class 5D
+
+*   Group Quanshu: –
+
+Sheryl On – Class 5H
+
+*   Group Quanshu: –
+
+Ang Wei Ju – Class 5D
+
+*   Group Weapon: 3rd
+
+Magdeline Lin Hsien Huei – Class 5H
+
+*   Group Weapon: 3rd
+
+Rachel Lee Jia Hui – Class 4C
+
+*   Group Weapon: 3rd
+
+Shermain Hoo Xuan Min – Class 5C
+
+*   Group Weapon: 3rd
+
+Teo Ke Yi, Bella – Class 5G
+
+*   Group Weapon: 3rd
+
+Wu Zuxin Josie – Class 4F
+
+*   Group Weapon: 3rd
+
+Naomi Ling – Class 5F
+
+*   Group Weapon: 3rd
+
+Ang Zhi Yi – Class 5E
+
+*   Group Weapon: 3rd
+
+**11TH NATIONAL PRIMARY SCHOOLS WUSHU CHAMPIONSHIP 2015**
+
+The Wushu School Team participated in the 11th National Primary Schools Wushu Championships 2015 in March. It was held over a period of 7 days and took place in Chung Cheng High School (Main) and Toa Payoh Sports Hall. Our School Team has done exceptionally well this year, winning 10 awards from the individual events and 2 awards from the group events. Our Senior Boys even managed to clinch the 3rd position in the Overall Senior Boys category, despite facing stiff competition from the other schools! Everyone in the school team has given their best and no matter whether they won a trophy, we will like to thank them for their effort and hard work. Good job, boys and girls!
+
+Malcolm Lai – Class 6H
+
+*   Chang Quan – Senior Boys: 1st
+
+Malcolm Lai – Class 6H
+
+*   Swords – Senior Boys: 1st
+
+Sylvia Chang – Class 5C
+
+*   5 Duan Nan Quan – Junior Girls: 1st
+
+Malcolm Lai – Class 6H
+
+*   4 Duan Spear – Senior Boys: 1st
+
+Matthew Koay – Class 6C
+
+*   5 Duan Nan Quan – Junior Boys: 2nd
+
+Goh Song Ying – Class 6F
+
+*   4 Duan Cudgel – Senior Boys: 2nd
+
+Matthew Koay – Class 6C
+
+*   Nan Dao (Southern Broadsword) –Senior Boys: 3rd
+
+Sylvia Chang – Class 5C
+
+*   3 Duan Cudgel – Junior Girls: 3rd
+
+Shayne Lai – Class 5H
+
+*   3 Duan Cudgel – Junior Girls: 4th
+
+Matthew Koay – Class 6C
+
+*   Nan Gun (Southern Cudgel) – Senior Boys: 4th
+
+Malcolm Lai – Class 6H
+
+*   Group Weapon – Senior Boys: 3rd
+
+Chong Kit Mun – Class 6H
+
+*   Group Weapon – Senior Boys: 3rd
+
+Reid Yu Pin Yao – Class 6H
+
+*   Group Weapon – Senior Boys: 3rd
+
+Lee Jie Kai – Class 6G
+
+*   Group Weapon – Senior Boys: 3rd
+
+Matthew Koay – Class 6C
+
+*   Group Weapon – Senior Boys: 3rd
+
+Goh Song Ying – Class 6F
+
+*   Group Weapon – Senior Boys: 3rd
+
+Siew Jing De( R ) – Class 6H
+
+*   Group Weapon – Senior Boys: 3rd
+
+Ng Jun Hong( R ) – Class 6I
+
+*   Group Weapon – Senior Boys: 3rd
+
+Malcolm Lai – Class 6H
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Chong Kit Mun – Class 6H
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Reid Yu Pin Yao – Class 6H
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Matthew Koay – Class 6C
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Goh Song Ying – Class 6F
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Siew Jing De – Class 6H
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Lee Jie Kai ( R ) – Class 6G
+
+*   Group Quan Shu – Senior Boys: 4th
+
+Ng Jun Hong ( R ) – Class 6I
+
+*   Group Quan Shu – Senior Boys: 4th
