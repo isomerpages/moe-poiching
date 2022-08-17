@@ -46,3 +46,29 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 
 **2019 : PRIMARY THREE PLAYERS**
 ![](/images/bm_p3players.jpg)
+
+**P4 Junior Girls with their trophies 2019**
+![](/images/P4-Junior-Girls-with-their-trophies.jpg)
+
+**Congratulation to our JUNIOR GIRLS for achieving Badminton East Zone 4th position and qualifying for Badminton Nationals 2019**
+![](/images/bm_4thpost.jpg)
+
+**JUNIOR GIRLS PRIZE GIVING CEREMONY**
+![](/images/bm_jrprize.jpg)
+
+**JUNIOR GIRLS TEAM 2019**
+![](/images/bm_jrgirlsteam.jpg)
+
+**PARENT SUPPORTERS**
+![](/images/bm_parents_support.jpg)
+
+**XIN MIN INVITATIONAL CHALLENGE 2018**
+![](/images/XIN-MIN-1.jpg)
+
+**BADMINTON MOVIE OUTING LEE CHONG WEI MOVIE**
+![](/images/2018-MOVIE-OUTING-1.jpg)
+
+**COACHING BY SECONDARY SCHOOL BADMINTON PLAYERS**
+![](/images/EXCHANGE-PROG.jpg)
+
+**2018 – Primary 5 Badminton Players**
