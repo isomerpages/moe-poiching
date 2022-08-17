@@ -4,7 +4,6 @@ permalink: /cca/Sports-and-Games/badminton
 description: ""
 third_nav_title: Sports & Games
 ---
-
 <img src="/images/badminton_pcs.png" 
      style="width:25%">
 		 
@@ -29,3 +28,21 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 
 **2019 SCHOOL TEAM – SENIOR GIRLS**
 ![](/images/bm_srgirls.jpg)
+
+**2019 SCHOOL TEAM – JUNIOR BOYS**
+![](/images/bm_jrboys.jpg)
+
+**2019 SCHOOL TEAM – JUNIOR GIRLS**
+![](/images/bm_jrgirls.jpg)
+
+**2019 : PRIMARY SIX PLAYERS**
+![](/images/bm_p6players.jpg)
+
+**2019 : PRIMARY FIVE PLAYERS**
+![](/images/bm_p5players.jpg)
+
+**2019 : PRIMARY FOUR PLAYERS**
+![](/images/bm_p4players.jpg)
+
+**2019 : PRIMARY THREE PLAYERS**
+![](/images/bm_p3players.jpg)
