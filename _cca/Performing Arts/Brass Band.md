@@ -773,3 +773,48 @@ During the finale, the three schools combined together to give a spirited, arous
 **Getting all ready before their combined performance in the finale………**
 ![](/images/band10.jpg)
 **A group picture to commemorate the School Band Exchange @ PCS on 10th March 2018**
+
+### Our Band Events (2017)
+
+**Arts Fiesta 2017 at Tampines Hub**
+
+On 1st April 2017, OUR TAMPINES HUB, PAssionARTSC@Tampines and Pasir Ris Secondary School organised the Arts Fiesta 2017 at Tampines Hub. The Arts Fiesta 2017 is a vital platform to showcase our youths’ talent and skills, a celebration of arts vibrancy in the Tampines Town, featuring the talents within schools in our community. The Minister for the Environment and Water Resources, Mr Masagos Zulkifli Bin Masagos Mohamad was the Guest of Honour for this event.
+
+Our Poi Ching School Brass Band had the honour to perform at the Festive Plaza on that day. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with well-known tunes like “Beauty and The Beast” and “Singapore Town”. The audiences enjoyed the performance very much. Many of our Poi Ching students, parents and staff have attended this event in support of our band performance. After our performance, the band members took a group photo together with our Principal, Mr Andrew Mah and the Minister for the Environment and Water Resources, Mr Masagos.
+
+Besides the stage performances presented by our band and other schools, there were also participatory arts booths set up by the students, Parents Support Groups as well as Tampines GRC Community Arts and Culture Clubs for residents.
+
+In conclusion, our band members have benefitted from the exposure of performing in an external venue and they really enjoyed this wonderful and fulfilling experience altogether.
+
+![](/images/artfiesta2.jpg)
+**Our Principal, Mr Andrew Mah exchanged greetings with The Minister for the Environment and  Water Resources, Mr Masagos Zulkifli Bin Masagos Mohamad.**
+![](/images/artfiesta3.jpg)
+**Our band members all geared up and ready to perform on stage at the Festive Plaza.**
+![](/images/artfiesta4.jpg)
+**Under the steadfast guidance of our band conductor Mr Aw, our band members performed “Beauty and The Beast”.**
+![](/images/artfiesta5.jpg)
+**A group picture to commemorate the Art Fiesta 2017@Tampines Hub on 1st April 2017.**
+![](/images/artfiesta6.jpg)
+**Our dear band members donning on their best informal pose……….**
+![](/images/artfiesta7.jpg)
+**And another best informal pose……….**
+![](/images/artfiesta8.jpg)
+**A final splendid picture to sum up the jubilant climax of the Arts Fiesta 2017@Tampines Hub.**
+
+### Our Past Band Archives
+
+
+**School Based Workshop 2015**
+![](/images/brassband.png)
+
+**Singapore Youth Festival 2014**
+![](/images/SYF2014.png)
+
+**Merlion Park Performance 2014**
+![](/images/brassband03.jpg)
+
+**Tampines Changkat CC National Day Performance**
+![](/images/brassband04.jpg)
+
+**Navy Open House**
+![](/images/brassband05.jpg)
