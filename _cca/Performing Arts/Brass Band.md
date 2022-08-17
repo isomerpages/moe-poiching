@@ -720,4 +720,38 @@ In conclusion, the band members have benefitted from the exposure of performing 
 ![](/images/alumni7.jpg)
 ![](/images/alumni8.jpg)
 
+**School Band Exchange 2018 with He Ming Wing Band (Zhengzhou, China) @ Poi Ching School**
 
+On 27th July 2018, our Poi Ching School Brass Band warmly welcomed our fellow band performers from He Ming Wing Band from Zhengzhou, China on a Friday morning, where we were honoured to be part of the Singapore International Band Exchange (SIBF) 2018 organised by The Wind Bands Association of Singapore to showcase their band performers’ talents / skills at our school. The He Ming Wind Band was first established in March 2016 at Renhe Road Elementary School, where they instilled a sense of discipline and good temperament through music learning, cultivated a positive and enterprising outlook on life and explored potential musical interests and talents. This is our second school band exchange since our SYF band exchange in March this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and listening from other overseas school bands in this meaningful event.
+
+Our band members had the honour to listen to two of their performance repertoire, namely the “Black Forest Overture” by Michael Sweeney and “Stone Creek Episode” by Ed Huckeby at the Band Room. Our fellow band performers from He Ming Wind Band also had the opportunity to witness our brass band’s rehearsals for our annual National Day school celebrations at the parade square. At the end of the event, both school leaders exchanged the tokens of appreciation to commemorate this meaningful event. Our band members also shared group photo shots and appreciation gifts to our fellow band performers from He Ming Wind Band during the informal interaction time.
+
+In conclusion, our band members have benefitted from the exposure of participating in this band exchange and they really enjoyed this wonderful and fulfilling experience together with the He Ming Wind Band performers.
+
+![](/images/sbe_pic1.jpg)
+**Our Principal, Mr Andrew Mah receiving a token of appreciation from Miss Yan Peng Rui, Principal of Renhe Road Elementary School from Zhengzhou, China.**
+![](/images/sbe_pic2.jpg)
+**The band conductor, Miss Fang Yawen conducting the He Ming Wing Band during the band exchange.**
+![](/images/sbe_pic3.jpg)
+**Our band member, Lucas Lee exchanging thank-you cards and tokens of appreciation with a fellow band performer from He Ming Wind Band.**
+![](/images/sbe_pic4.jpg)
+**Our band members, Joyce Khu and Seth Ghin taking group shots with our fellow band performers from He Ming Wind Band.**
+![](/images/sbe_pic5.jpg)
+**Our band members, Caleb Halim and Gini Ong taking group shots with our fellow band performers from He Ming Wind Band.**
+![](/images/sbe_pic6.jpg)
+**A group picture of the He Ming Wind Band pupils together with the school staff of Renhe Road Elementary School.**
+![](/images/sbe_pic7.jpg)
+**A group picture of the Renhe Road Elementary School staff together with our band teachers at Poi Ching School.**
+![](/images/sbe_pic8.jpg)
+**A group picture to commemorate our School Band Exchange @ PCS on 27th July 2018**
+
+**School Band Exchange 2018 @ Poi Ching School**
+
+On 10th March 2018, our Poi Ching School Brass Band organised the school band exchange on a Saturday morning, where we had the honour to invite Punggol Primary School and Zhenghua Primary School to showcase their band members’ talents / skills at our school hall. It is our first school band exchange this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and playing with other schools’ bands in this meaningful event.
+
+We had two of our band members, Tabitha and Hilary to host this event as emcees, where they briefly introduced the participating school bands before their formal showcases on the school hall stage. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with the SYF set piece ‘Dare To Dream’ and their choice piece ‘Tempest’. The audiences enjoyed our band’s showcase very much. At the end of all band performances, the respective band conductors from both schools were all presented a certificate of appreciation and and a plush bear token by our PCS Brass Band OIC Mdm Suryana to commemorate this wonderful event. Our band members also shared group photo shots and hand-made personal SYF well-wishes cards with both schools’ band members during the informal interaction time.
+
+During the finale, the three schools combined together to give a spirited, arousing performance of the SYF set piece ‘Dare To Dream’ at the hall stage, under the steadfast batonship of our band conductor Mr Aw. In conclusion, our band members have benefitted from the exposure of performing in a band exchange and they really enjoyed this wonderful and fulfilling experience altogether.
+
+
+ 
