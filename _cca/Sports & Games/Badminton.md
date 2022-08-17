@@ -93,3 +93,69 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 ![](/images/Slide15.jpg)
 ![](/images/badminton_match.png)
 ![](/images/badminton_match_Gan_Eng_Seng_pri.jpg)
+
+### Accolades
+
+**Results of Badminton Pines Cup 2017**
+
+Our P5 Badminton School Team (girls) had participated in the Pines Cup 2017 held @ Tampines Secondary School on 26 July.
+
+Results as below:
+
+**3rd position -Girls’ Single under-13**
+
+Audrie Ong Shi Ting (5E) 
+
+**4th position-Girls’ Doubles under-13**
+
+Chua Xin Yi Elise (5D) <br>
+Chng Wen Ting (5F)
+
+![](/images/badminton_prize.png)
+
+**SACSS Badminton Challenge (1 July 2017)**
+
+P5 Badminton School Team (girls) participated in the Badminton tournament which is organised by St Anthony ‘s Canosian Sec School. Congratulations to the following students : 
+
+1.  Audrie Ong Shi Ting (5E) won as P5 girls Single Champion 
+
+2.  Chng Wen Ting  (5F) won as P5 girls Single 1st runner up
+
+3.  Chang Si En (5D) won as P5 girls Single 2nd runner up
+
+![](/images/badminton.png)
+
+**Invitational Badminton Tournament (19 May 2017)**
+
+Senior Girl (Angela Hong Jin, 6D) participated in Xinmin Secondary School Invitational Badminton Tournament on 19 May 2017 won as 2nd runner up in Girl’s single under 13.
+
+**East Zone Badminton Championship (Jan 2016)**
+
+Senior Boys Team won as 4th position in East Zone Primary School Badminton inter-school Championship.
+
+![](/images/Slide16.jpg)
+
+Senior Boys Team (4th in place) Junior Boys Team  (4th in place) Junior Girls Team  (Quarter final)
+
+![](/images/slide2.png)
+![](/images/Slide3.jpg)
+![](/images/Slide4.jpg)
+![](/images/Slide5.jpg)
+
+![](/images/Slide1.jpg)
+![](/images/Slide2.jpg)
+![](/images/Slide3-1.jpg)
+![](/images/Slide4-1.jpg)
+
+**East Zone Badminton Championship (Jan 2015)**
+
+Junior Boys Team (8th Round) Junior Girls Team  (8th Round)
+
+Victorioa School Sports Fiesta (May 2015) Chin Xian Bo 5H         (16th Round) Joel Ng Joon Tat 5G   (16th Round) Xavier Lim Yi Kai 5H   (16th Round)
+
+**Upcoming Events**
+
+
+8 Junior Girls will be participating in St Anthony Canossian Secondary School Invitational Badminton Tournament on 1 July 2017.
+
+6 Junior Boys and Girls will be participated in Pines Cup Badminton Tournament on 26 July 2017.
