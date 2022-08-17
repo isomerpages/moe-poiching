@@ -663,3 +663,28 @@ On 7th July 2019, the PCS Brass Band had the honour to perform at the Festive P
 **PCS Brass Band Showcase 2019 @ The Istana**
 
 On 6th February 2019, the PCS Brass Band had the honour to perform at The Istana on the second day of the Lunar New Year. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Stand By Me”, “Loco-motion” and “Final Countdown”. The audiences enjoyed the performance very much. The band appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way. After the performance, the band members took a group photo together with the President, Mdm Halimah Yacob, the Principal, Mr Andrew Mah and the band teachers.
+
+![](/images/cny1.jpg)
+![](/images/cny2.jpg)
+![](/images/cny3.jpg)
+![](/images/cny4.jpg)
+![](/images/cny5.jpg)
+![](/images/cny6.jpg)
+![](/images/cny7.jpg)
+![](/images/cny8.jpg)
+![](/images/cny9.jpg)
+![](/images/cny10.jpg)
+![](/images/cny11.jpg)
+![](/images/cny12.jpg)
+
+**Celebration of Spring 2019 at Our Tampines Hub**
+
+On 25th January 2018, OUR TAMPINES HUB and the National Arts Council organised the Celebration of Spring 2019 at Our Tampines Hub. Our Poi Ching Brass Band had the honour to perform at the Festive Plaza on a Friday evening. The Celebration of Spring 2019 is a Festive Arts @ Our Tampines Hub programme that is part of the National Arts Council’s Arts and Culture Node initiative, which aims to bring people together to participate in, enjoy and experience the value of the arts in their neighbourhood.
+
+Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Another One Bites The Dust”, “Loco-motion” and “Moonlight In The Town”. The audiences enjoyed the performance very much. Many of our Poi Ching pupils, parents, staff and alumni pupils have attended this event in support of our band performance. After the performance, the band members took a group photo together with the Principal, Mr Andrew Mah and the band CCA teachers.
+
+The band is proud to be part of the cultural performances and offerings from Our Tampines Hub’s Celebration of Spring event for the upcoming Chinese New Year. Also, the band  appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
+
+In conclusion, the band members have benefitted from the exposure of performing in an external venue and they have really enjoyed this wonderful and fulfilling experience altogether.
+
+
