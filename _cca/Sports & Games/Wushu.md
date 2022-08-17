@@ -97,3 +97,4 @@ We believe in developing students’ character during the training, focusing on 
 ![](/images/wushu3-1.jpg)
 ![](/images/wushu4.jpg)
 ![](/images/wushu5.jpg)
+![](/images/wushu6.jpg)
