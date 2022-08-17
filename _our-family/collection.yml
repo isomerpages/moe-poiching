@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Frequently Asked Questions (FAQ).md
       - Alumni.md
       - General Information and Resources.md
       - Parent Support Group.md
