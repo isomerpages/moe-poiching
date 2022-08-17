@@ -753,5 +753,23 @@ We had two of our band members, Tabitha and Hilary to host this event as emcees,
 
 During the finale, the three schools combined together to give a spirited, arousing performance of the SYF set piece ‘Dare To Dream’ at the hall stage, under the steadfast batonship of our band conductor Mr Aw. In conclusion, our band members have benefitted from the exposure of performing in a band exchange and they really enjoyed this wonderful and fulfilling experience altogether.
 
-
- 
+![](/images/band1.jpg)
+**Our PCS Brass Band showcasing their formal performance during this band exchange**
+![](/images/band2.jpg)
+**The Zhenghua PS Brass Band showcasing their formal performance during this band exchange**
+![](/images/band3.jpg)
+**The Punggol PS Wind Band showcasing their formal performance during this band exchange**
+![](/images/band4.jpg)
+**Our band members, Hilary and Tabitha honing their best emcee skills in this band exchange event**
+![](/images/band5.jpg)
+**Presenting the certificate of appreciation and the plush bear token to the Band Conductor of Zhenghua PS Brass Band**
+![](/images/band6.jpg)
+**Presenting the certificate of appreciation and the plush bear token to the Band Conductor of Punggol PS Wind Band**
+![](/images/band7.jpg)
+**Sharing group photo shots and hand-made personal SYF well-wishes cards with Zhenghua band members**
+![](/images/band8.jpg)
+**Sharing group photo shots and hand-made personal SYF well-wishes cards with Punggol band members**
+![](/images/band9.jpg)
+**Getting all ready before their combined performance in the finale………**
+![](/images/band10.jpg)
+**A group picture to commemorate the School Band Exchange @ PCS on 10th March 2018**
