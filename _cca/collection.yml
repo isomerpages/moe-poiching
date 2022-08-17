@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Basketball.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Wushu.md
-      - Sports & Games/Volleyball.md
-      - Sports & Games/Table Tennis.md
       - Sports & Games/.keep
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/Wushu.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
