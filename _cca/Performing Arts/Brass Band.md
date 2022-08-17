@@ -215,3 +215,150 @@ Please note that in the event of absences, request of early pickup or late arriv
 ### Brass Band Updates
 * [01-Parent-Letter_10-Jan-2020_for-P3](/files/01-Parent-Letter_10-Jan-2020_for-P3.pdf)
 * [01-Parent-Letter_10-Jan-2020_for-P456](/files/01-Parent-Letter_10-Jan-2020_for-P456.pdf)
+
+**Accolades**
+-------------
+
+SYF 2018 – Certificate of Distinction
+
+SYF 2016 – Certificate of Accomplishment
+
+SYF 2014 – Certificate of Accomplishment
+
+### Our Band Archives
+
+
+### 2020
+
+1. **Candid Camera @ Poi Ching School (1st February 2020, Saturday)**
+
+[https://flic.kr/s/aHsmL85Avp](https://flic.kr/s/aHsmL85Avp)
+
+**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
+
+**(1st February 2020, Saturday)**
+
+[https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
+
+**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4PIjgfjQyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. **PCS Chinese New Year School Celebrations 2020 (24th January 2020, Friday)**
+
+**PCS Brass Band CNY Showcase 2020**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qThpBak6THo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2019
+
+1.  **Band Rondo Camp 2019 (21st – 23rd November 2019 [Thursday to Saturday])**
+
+[https://flic.kr/s/aHsmJvJTqP](https://flic.kr/s/aHsmJvJTqP)
+
+**Video Montage for all our PCS Band Members**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUPhSvRZe5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Alumni Band Showcase (Title: Hand Clap by Fitz and the Tantrums)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tyw-_j2Qdqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Alumni Band Showcase (Title: Hawaii Five’O Theme)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJLudeMu5OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Alumni Band Showcase [Percussion Ensemble] (Title: – Senorita by Shawn Mendes, Camila Cabello)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l5kpf0I9QBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Another One Bites The Dust by Queen)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvmdzYr08dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Loco-motion by Little Eva)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE0ahH3Rm8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Final Countdown by Joey Tempest)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkNAZAMgmzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase [Tan Xin Ling Eunice, 2 Diligence]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RetO7WmaZaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub (7thJuly 2019)**     
+
+**Candid Camera @ Poi Ching School (7th July 2019)**
+
+[https://flic.kr/s/aHsmESUjNQ](https://flic.kr/s/aHsmESUjNQ)
+
+ **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub**
+
+[https://flic.kr/s/aHsmESSzDB](https://flic.kr/s/aHsmESSzDB)
+
+**PCS Brass Band Showcase: Cataclysm**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWensZ1Dn10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase: Moonlight In The Town**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHhVSt_1N5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Horn Solo Part for “Moonlight In The Town” by Xaven Tey  (5 Excellence)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v1J0OVpTdt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Horn Solo Part for “Moonlight In The Town” by Brien Tan  (5 Excellence)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1tsoqWeolg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase: Final Countdown**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8o71u8uako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**The Finale Part of “Final Countdown”**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hQk171Gq94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase: Loco-motion**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txPUaxpcSlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3. **SYF 2019 Celebrations Band Jamboree Rehearsal @ St. Patrick’s School on 28th June 2019 (Friday)**                                                                                                     
+
+**(Organized by Arts Education Branch, Student Development Curriculum Branch [Ministry Of Education])**
+
+**Date of Actual Performance: 7th July 2019 (Sunday)**
+
+Venue: Our Tampines Hub <br>
+Schools & Performance Timings:<br>
+(a)  East Spring Secondary School <br>
+2:30 pm – 2:50 pm
+
+(b) Patrick’s School<br>
+3:00 pm – 3:20 pm
+
+(c) Poi Ching School <br>
+3:20 pm – 3:40 pm
+
+(d) Margaret’s Primary School<br>
+3:40 pm – 4:00 pm
+
+[https://flic.kr/s/aHsmECDBUn](https://flic.kr/s/aHsmECDBUn)
+
+**St. Patrick’s School Performance Showcase:** <br>
+**(1)      Chan Mali Chan**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8at3a1oNPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ **(2)        Dancing Queen**
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/g5G6N8x8VYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ **(3)        Treasure (Bruno Mars)**
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/d1i2zhQUVOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+**Poi Ching School Performance Showcase:**
+
+**(1)        Cataclysm**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFNLRfovrs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(2)      Cataclysm [Landscape View]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2Jhz8yzmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
