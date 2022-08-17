@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Staff Directory/Administrative and EAS Staff.md
       - Staff Directory/Allied Educator.md
       - Staff Directory/Non Form Teachers.md
       - Staff Directory/Primary 6.md
