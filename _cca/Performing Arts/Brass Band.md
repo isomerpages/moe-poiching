@@ -674,7 +674,6 @@ On 6th February 2019, the PCS Brass Band had the honour to perform at The Istan
 ![](/images/cny8.jpg)
 ![](/images/cny9.jpg)
 ![](/images/cny10.jpg)
-![](/images/cny11.jpg)
 ![](/images/cny12.jpg)
 
 **Celebration of Spring 2019 at Our Tampines Hub**
@@ -686,5 +685,24 @@ Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the
 The band is proud to be part of the cultural performances and offerings from Our Tampines Hub’s Celebration of Spring event for the upcoming Chinese New Year. Also, the band  appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
 
 In conclusion, the band members have benefitted from the exposure of performing in an external venue and they have really enjoyed this wonderful and fulfilling experience altogether.
+
+![](/images/brass1.jpg)
+**Our Poi Ching School Brass Band’s performance venue at the Festive Plaza @ Our Tampines Hub.**
+![](/images/brass2.jpg)
+**Our band emcees, Inez and Jade rehearsing their lines before the start of performance.**
+![](/images/brass_3.jpg)
+**Capturing the best moments of our band members before the actual performance.**
+![](/images/brass4.jpg)
+**Looking formal and confident with their hash tag captions.**
+![](/images/brass5.jpg)
+**Bringing out the fun/play element with their hash tag captions.**
+![](/images/brass6.jpg)
+**Capturing the best moments of our trombonists before their performance on stage.**
+![](/images/brass7.jpg)
+**Capturing the camaraderie moments among our band and alumni members in this meaningful event.**
+![](/images/brass8.jpg)
+**Our young budding percussionists of Poi Ching School Brass Band.**
+![](/images/brass9.jpg)
+**A group picture with the Principal, Mr Andrew Mah, the band teachers and the band alumni members to commemorate this meaningful event on 25th January 2019 (Friday)**
 
 
