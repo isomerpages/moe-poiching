@@ -436,3 +436,41 @@ Schools & Performance Timings:<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YFU67UOWRfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMvUHCCbCBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+5. **PCS Brass Band CNY Showcase 2019 @ The Istana**
+
+[https://flic.kr/s/aHsmvcCmxL](https://flic.kr/s/aHsmvcCmxL)
+
+**PCS Brass Band CNY Showcase 2019 @ The Istana (1)**
+
+**Title Piece: “Gong Xi Fa Cai 咚咚呛”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efremwF7NdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band CNY Showcase 2019 @ The Istana (2)**
+
+**Title Piece: “Loco-motion”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxNFHaTdxus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band CNY Showcase 2019 @ The Istana (3)**
+
+**Title Piece: “Stand By Me”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zI3zjfC1jM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band CNY Showcase 2019 @ The Istana (4)**
+
+**Title Piece: “Final Countdown”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElIXlJToWxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band CNY Showcase 2019 @ The Istana (5)**
+
+**Title Piece: “Back To Spring 大地回春”**
+
+6. **PCS Brass Band Showcase 2019 @ Our Tampines Hub**
+
+                                                                                                [https://flic.kr/s/aHskR6GAX5](https://flic.kr/s/aHskR6GAX5)
+
+**PCS Brass Band Showcase 2019 Introduction**
