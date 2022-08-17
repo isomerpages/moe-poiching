@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Staff Directory/Primary 1.md
       - Staff Directory/.keep
       - Key Personnel.md
       - School Management Board.md
