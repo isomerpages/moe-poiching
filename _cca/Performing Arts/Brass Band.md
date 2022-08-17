@@ -767,7 +767,7 @@ During the finale, the three schools combined together to give a spirited, arous
 **Presenting the certificate of appreciation and the plush bear token to the Band Conductor of Punggol PS Wind Band**
 ![](/images/band7.jpg)
 **Sharing group photo shots and hand-made personal SYF well-wishes cards with Zhenghua band members**
-![](/images/band8.jpg)
+![](/images/band8_.jpg)
 **Sharing group photo shots and hand-made personal SYF well-wishes cards with Punggol band members**
 ![](/images/band9.jpg)
 **Getting all ready before their combined performance in the finale………**
