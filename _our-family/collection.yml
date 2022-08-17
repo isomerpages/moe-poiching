@@ -2,11 +2,8 @@ collections:
   our-family:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
-      - Alumni.md
-      - General Information and Resources.md
-      - Parent Support Group.md
-      - Futsing Association.md
+      - School Management Board.md
+      - Key Personnel.md
       - Staff Directory/.keep
       - Staff Directory/Primary 1.md
       - Staff Directory/Primary 2.md
@@ -17,5 +14,8 @@ collections:
       - Staff Directory/Non Form Teachers.md
       - Staff Directory/Allied Educator.md
       - Staff Directory/Administrative and EAS Staff.md
-      - Key Personnel.md
-      - School Management Board.md
+      - Futsing Association.md
+      - Parent Support Group.md
+      - General Information and Resources.md
+      - Alumni.md
+      - Frequently Asked Questions (FAQ).md
