@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Alumni.md
-      - Parents Information and Resources.md
+      - General Information and Resources.md
       - Parent Support Group.md
       - Futsing Association.md
       - Staff Directory/.keep
