@@ -90,3 +90,6 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 **BADMINTON SCHOOL TEAM**
 ![](/images/teamlist1.png)
 ![](/images/teamlist2.png)
+![](/images/Slide15.jpg)
+![](/images/badminton_match.png)
+![](/images/badminton_match_Gan_Eng_Seng_pri.jpg)
