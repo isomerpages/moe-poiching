@@ -556,3 +556,106 @@ Schools & Performance Timings:<br>
 **8. School Band Exchange with He Ming Wind Band (Zhengzhou, China)**
 
 [https://flic.kr/s/aHsmrXhM4k](https://flic.kr/s/aHsmrXhM4k)
+
+**Brief Introduction of He Ming Wing Band [Conductor: Fang Yawen]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K0L5YKxwAV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Black Forest Overture by Michael Sweeney [He Ming Wind Band]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1I7gh48eo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Stone Creek Episode by Ed Huckeby [He Ming Wind Band]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oafJ6DFB-PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+9. ***Band Performance @ PCS Mid-Autumn Festival 2018**
+
+                                                               [https://flic.kr/s/aHskMS93Q5](https://flic.kr/s/aHskMS93Q5)
+
+[Photo credits: Miss Toh Wei Ting\]
+
+10. **PCS Brass Band ‘Rondo’ Showcase 2018**
+
+                                                                            [https://flic.kr/s/aHsmrwb5vA](https://flic.kr/s/aHsmrwb5vA) 
+
+11. **PCS Band Team-Bonding Activities (23th November 2018)**
+
+[https://flic.kr/s/aHsmua3pAr](https://flic.kr/s/aHsmua3pAr)
+
+12. **Partnership with PCS Band Alumni 2018**
+
+[https://flic.kr/s/aHskJwxPLe](https://flic.kr/s/aHskJwxPLe)
+
+13. **PCS ‘Rondo’ Band Camp 2018**
+
+[https://flic.kr/s/aHsmu7Qsdr](https://flic.kr/s/aHsmu7Qsdr)
+
+### Video Montage for all our PCS Band Members
+
+[Video Credits: Mrs Jazreel Quah]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IkP7OChwoqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Another One Bites The Dust)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BphC_J0PHkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Loco-motion)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKL3sLk4Vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: Moonlight In The Town) （城里的月光）**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GL_9cAYQ8ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase (Title: I Ask Heaven) ( 我问天)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEbfggt_OTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase** 
+
+**[Matthew Gan Cheong Yew, 3 Diligence]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3FdN3_ar3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PCS Brass Band Showcase** 
+
+**[Caleb Quek Jia Le, 3 Excellence]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNMcId3z-f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ **Mdm Suryana’s Closing Speech On Gratitude**
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/gIBA-PAsfqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+### 2017
+
+**1. PCS Band @ NDP School Celebrations 2017**
+
+[https://flic.kr/s/aHsm26oEbm](https://flic.kr/s/aHsm26oEbm)
+
+**2. Art Fiesta 2017 @ Tampines Hub**
+
+[https://flic.kr/s/aHskUtdkMN](https://flic.kr/s/aHskUtdkMN)
+
+**3. Poi Ching School @ Art Fiesta 2017**
+
+[https://flic.kr/s/aHskS72FcM](https://flic.kr/s/aHskS72FcM)
+
+### Our Band Events (2019)
+
+
+**SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub**
+
+On 7th July 2019, the PCS Brass Band had the honour to perform at the Festive Plaza for the **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub.** Under the steadfast batonship of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Moonlight In The Town”, “Loco-motion”, “Final Countdown” and “Cataclysm”. The audiences enjoyed the performances very much. The band appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
+
+![](/images/eas1_jul.jpg)
+![](/images/eas2_jul.jpg)
+![](/images/eas3_jul.jpg)
+![](/images/eas4_jul.jpg)
+![](/images/eas5_jul.jpg)
+![](/images/eas6_jul.jpg)
+![](/images/eas7_jul.jpg)
+![](/images/eas8_jul.jpg)
+![](/images/eas9_jul.jpg)
