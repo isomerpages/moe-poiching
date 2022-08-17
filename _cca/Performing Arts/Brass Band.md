@@ -659,3 +659,7 @@ On 7th July 2019, the PCS Brass Band had the honour to perform at the Festive P
 ![](/images/eas7_jul.jpg)
 ![](/images/eas8_jul.jpg)
 ![](/images/eas9_jul.jpg)
+
+**PCS Brass Band Showcase 2019 @ The Istana**
+
+On 6th February 2019, the PCS Brass Band had the honour to perform at The Istana on the second day of the Lunar New Year. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Stand By Me”, “Loco-motion” and “Final Countdown”. The audiences enjoyed the performance very much. The band appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way. After the performance, the band members took a group photo together with the President, Mdm Halimah Yacob, the Principal, Mr Andrew Mah and the band teachers.
