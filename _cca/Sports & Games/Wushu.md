@@ -78,3 +78,12 @@ We believe in developing students’ character during the training, focusing on 
 ![](/images/wushu2019.jpg)
 
 ### Accolades
+
+**National School Games Wushu Competition 2019**
+
+![](/images/jb2019-wushu.jpg)
+![](/images/jg2019-wushu.jpg)
+![](/images/sbd-2019.jpg)
+![](/images/sg2019.jpg)
+
+**National Primary Schools Wushu Championships 2018**
