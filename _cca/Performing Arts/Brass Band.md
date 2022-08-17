@@ -362,3 +362,47 @@ Schools & Performance Timings:<br>
 **(2)      Cataclysm [Landscape View]**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2Jhz8yzmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(3)        Moonlight In The Town**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AftLmEk-TN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(4)        Moonlight In The Town [Landscape View]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9JJtQmTkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(5)        Final Countdown**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nci3edIAL6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(6)        Loco-motion**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXJ9yFtXNLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ **St. Margaret’s Primary School Performance Showcase:**
+
+**(1)        Twist And Shout**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvmTdFYnZqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ **(2)        Havana**
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/N2ODn_hdAO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ **(3)        Another One Bites The Dust**
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/IZLp3WXkvyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ **East Spring Secondary School Performance Showcase:**
+
+**(1)        Koo Gud**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v68pSLxBNDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**(2)        Runaway Baby**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOQjtWh7ssU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ **(3)        Little Apples**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ma1_5PVdpEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
