@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Sports & Games/Table Tennis.md
       - Sports & Games/.keep
