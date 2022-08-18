@@ -399,3 +399,125 @@ ROCHELLE TEH XINYUE 6D – 7th for Speed climbing
 **National Primary Schools Sports Climbing Championships (Junior Novice) 2018**
 
 On 27 August 2018, our Primary 3 and 4 members participated in the National Primary Schools Sports Climbing Championships (Junior Novice) held at Hougang Primary School. The students took part in both top rope and bouldering. Our students fully enjoyed the challenges as this sport has a mix of adventure, physical challenge and mental focus. With adrenaline pumping through their veins, beads of sweat rolled down their foreheads, they walked away physically weaker but mentally stronger. Every junior rock climber had put in their best effort in the competition. Here are our junior rock climbers:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Primary 3</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Primary 4</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">Tay Si En</td>
+    <td class="tg-xyrl">Reuben Tay</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Raelynn Teo</td>
+    <td class="tg-tsok">Kyan Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl">Sim Jun Xi</td>
+    <td class="tg-xyrl">Derrick Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Shelbi Wee</td>
+    <td class="tg-tsok">Zelia Wong</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl">Wesley Poh</td>
+    <td class="tg-xyrl">Cleo Lim</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Crystle Ang</td>
+    <td class="tg-tsok">Dylan Liu</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl">Tyler Woo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/2018-odac-npsscc01-1350x1013.jpg)
+
+Congratulations to the following winners:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Gold Award</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Silver Award</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Bronze Award</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">Tyler Woo</td>
+    <td class="tg-xyrl">Raelynn Teo</td>
+    <td class="tg-xyrl">Shelbi Wee</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Zelia Wong</td>
+    <td class="tg-tsok">Wesley Poh</td>
+    <td class="tg-tsok">Crystle Ang</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-xyrl">Dylan Liu</td>
+    <td class="tg-xyrl">Reuben Tay</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"> </td>
+    <td class="tg-1ppo"> </td>
+    <td class="tg-tsok">Kyan Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-xyrl">Derrick Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"> </td>
+    <td class="tg-1ppo"> </td>
+    <td class="tg-tsok">Cleo Lim</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/ODAC1.png)
+
+**National Primary Schools Sports Climbing Competition 2018**
+
+The Primary 5 and 6 members took part in the National Primary Schools Sport Climbing Competition on 4 March to 27 April 2018. They took part in bouldering, top rope and speed climbing. Despite the challenging routes, the students put in their efforts to give their best and persevere through the competition. They made many new friends from other schools and had the opportunity to learn some of the techniques from the other climbers.
+
+
+![](/images/aoc11.jpg)
+![](/images/oac1.jpg)
+![](/images/aoc21.jpg)
+![](/images/aoc31.jpg)
+![](/images/aoc41.jpg)
+
