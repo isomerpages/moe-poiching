@@ -520,4 +520,110 @@ The Primary 5 and 6 members took part in the National Primary Schools Sport Clim
 ![](/images/aoc21.jpg)
 ![](/images/aoc31.jpg)
 ![](/images/aoc41.jpg)
+The climbers at the competition area and back in school during training.
+
+**Bouldering and Top Rope**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qeid{background-color:#FFF;color:#222;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qeid">Junior Girls</th>
+    <th class="tg-qeid">Senior Girls</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">●     Rochelle Teh Xin Yue<br>●     Poh Zixuan Claudia</td>
+    <td class="tg-xyrl">●     Hilary Chan Seok Teng<br>●     Cho Yut Yan Chloe<br>●     Katherine Yeo Zi Ying<br>●     Quek Su Jia Ashley</td>
+  </tr>
+</tbody>
+</table>
+
+**Speed**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qeid{background-color:#FFF;color:#222;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qeid">Junior Girls</th>
+    <th class="tg-qeid">Senior Girls</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">●     Rochelle Teh Xin Yue<br>●     Poh Zixuan Claudia</td>
+    <td class="tg-xyrl">●     Hilary Chan Seok Teng<br>●     Cho Yut Yan Chloe<br>●     Katherine Yeo Zi Ying</td>
+  </tr>
+</tbody>
+</table>
+
+**Bouldering and Top Rope**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qeid{background-color:#FFF;color:#222;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qeid">Junior Boys</th>
+    <th class="tg-qeid">Senior Boys</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">●     Noah Lim Jea Hur<br>●     Lin Weijun<br>●     Osbert Tham Yeow Peng<br>●     Toh Qi Ye Pierre (Zhuo Qiye)<br>●     Low Feng Hao Esmond</td>
+    <td class="tg-xyrl">●     Adriel Loh Cheng Jun<br>●     Lim Jin Yi Dexter<br>●     Branden Lee Yi<br>●     Tay Ee Siang Kendrick<br>●     Chia Jin Shyun Caleb</td>
+  </tr>
+</tbody>
+</table>
+
+**Speed**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-va4t{background-color:#FFF;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-rt4x{background-color:#E6E6E6;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-va4t">Junior Boys</th>
+    <th class="tg-va4t">Senior Boys</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rt4x">●     Noah Lim Jea Hur<br>●     Toh Qi Ye Pierre (Zhuo Qiye)</td>
+    <td class="tg-rt4x">●     Adriel Loh Cheng Jun<br>●     Branden Lee Yi<br>●     Tay Ee Siang Kendrick</td>
+  </tr>
+</tbody>
+</table>
+
+
 
