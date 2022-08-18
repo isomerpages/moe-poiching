@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Academic/English.md
       - Academic/Chinese.md
       - Academic/.keep
