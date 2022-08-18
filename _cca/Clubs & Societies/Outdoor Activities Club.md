@@ -696,3 +696,60 @@ April 2016 – Participation in S.E.A. Aquarium Learning Journey with Environmen
 
 May 2016 – Participation in X-Calade Xinmin Boulder Carnival 2016
 
+### Photographs
+
+ODAC teachers demonstrating how to belay at the school’s rockwall.
+
+![](/images/Odac6.png)
+
+Students practising sport climbing techniques at the rockwall.
+
+![](/images/odac7.png)
+
+Students abseiling down from the rockwall after reaching the top.
+
+![](/images/ODAC-5.jpg)
+
+ODAC members demonstrating values of teamwork and trust through experiential learning.
+
+![](/images/Odac8.png)
+
+Learning how to cook outdoors at the environmental camp!
+
+![](/images/ODAC-8.jpg)
+
+Learning to communicate with one another and work in teams to pitch tents.
+
+![](/images/ODAC-9.jpg)
+
+Learning journey to S.E.A. Aquarium. Appreciating the wonders of the underwater world!
+
+![](/images/odac9.png)
+
+Unwavering spirit at the National Primary Schools Sport Climbing Championships!
+
+![](/images/odac10.png)
+
+Goh Kenji received his 2nd Runner Up, “Bouldering” event, NPSSCC (Nationals) 2015 from Ms Chua Meili, Vice Principal.
+
+![](/images/oca01.jpg)
+
+Goh Kenji, 2nd Runner Up, “Bouldering” event, NPSSCC (Nationals) 2015
+
+![](/images/oca02.jpg)
+
+Senior Girls receiving their Team Award medals from Mr Lawrence Chong, then Principal, and Mr Alvin Goh, Advisor of ODAC.
+
+![](/images/oca03.jpg)
+
+Senior Girls, Team Award for both “Top Rope” and “Bouldering” events in NPSSCC (Nationals) 2014
+
+![](/images/oca04.jpg)
+
+Boys Team, at NPSSCC (Nationals) 2014
+![](/images/oca05.jpg)
+
+Girls Team, at NPSSCC (Nationals 2014) with Coaches from The Rock School
+![](/images/oca06.jpg)
+
+_Access the ODAC Blog for more pictures : [poichingschoolodac.blogspot.sg](http://poichingschoolodac.blogspot.sg/)_
