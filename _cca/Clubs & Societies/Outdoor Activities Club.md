@@ -384,3 +384,18 @@ The following Primary 5 and 6 students took part in the National Primary Schools
 </tbody>
 </table>
 
+Faced with different challenges in bouldering, top rope and speed climbing, the students have shown good sportsmanship and resilience.
+
+![](/images/odac01-2019.jpg)
+
+Congratulations to the following winners!
+
+WONG YI XUAN, ZELIA (HUANG YIXUAN) 5D – 6th for Speed climbing
+
+ROCHELLE TEH XINYUE 6D – 7th for Speed climbing
+
+![](/images/odac02-2019.jpg)
+
+**National Primary Schools Sports Climbing Championships (Junior Novice) 2018**
+
+On 27 August 2018, our Primary 3 and 4 members participated in the National Primary Schools Sports Climbing Championships (Junior Novice) held at Hougang Primary School. The students took part in both top rope and bouldering. Our students fully enjoyed the challenges as this sport has a mix of adventure, physical challenge and mental focus. With adrenaline pumping through their veins, beads of sweat rolled down their foreheads, they walked away physically weaker but mentally stronger. Every junior rock climber had put in their best effort in the competition. Here are our junior rock climbers:
