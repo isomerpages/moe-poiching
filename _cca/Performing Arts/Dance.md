@@ -177,3 +177,23 @@ Our students are able to seek admission to the following schools via DSA on the 
 **Chinese New Year Concert**
 
 ![](/images/CD2021.png)
+
+**Chinese dance performance at SCO bookfest opening**
+
+![](/images/dance1.jpg)
+
+**SYF Chinese Dancers on 9 April 2018**
+
+![](/images/dance2.jpg)
+
+**SYF International Dancers on 17 April 2018**
+![](/images/ch_2.jpg)
+
+**2018 CNY Performance in Poi Ching School**
+![](/images/ch_3.jpg)
+
+**2018 Warming up during Dance Practice**
+
+![](/images/ch4.jpg)
+![](/images/ch5.jpg)
+![](/images/ch6.jpg)
