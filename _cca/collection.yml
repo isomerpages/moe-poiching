@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Infocomm Club.md
-      - Clubs & Societies/Art Club.md
-      - Clubs & Societies/Outdoor Activities Club.md
-      - Clubs & Societies/Science Club.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Science Club.md
+      - Clubs & Societies/Outdoor Activities Club.md
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Infocomm Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/Brownies.md
