@@ -81,3 +81,44 @@ All members will learn various skills of Chinese Drum. P5 &6 leaders act as ment
 ![](/images/COP-3.png)
 ![](/images/COP-2.png)
 ![](/images/COP-4.png)
+![](/images/COP-13.png)
+![](/images/COP-14.png)
+![](/images/COP-15-1.png)
+![](/images/COP-16.png)
+![](/images/COP-17.png)
+![](/images/COP-18.png)
+![](/images/COP-19.png)
+![](/images/COP-28.jpg)
+
+[http://padlet.com/wall/pcsopera2013](http://padlet.com/wall/pcsopera2013)
+
+[https://padlet.com/liauml14/rhb2017pcs](https://padlet.com/liauml14/rhb2017pcs)
+
+![](/images/opera2020-11-1350x1793.jpg)
+
+![](/images/opera_sched1.jpg)
+![](/images/opera2020-04.jpg)
+
+
+**Chinese Drum**
+
+**Performance at people’ Park complex on 5th January 2020**
+
+![](/images/chinesedrum2020-1350x337.jpg)
+![](/images/IMG-20190413-WA0010.jpg)
+
+**世界书香日**
+
+![](/images/IMG-20190412-WA0020.jpg)
+![](/images/cdrum1.jpg)
+![](/images/cdrum2.jpg)
+![](/images/cdrum3.jpg)
+![](/images/cdrum4.jpg)
+
+**Performance at Vivo City .”CHEERS”!**
+![](/images/drum1.jpg)
+
+**Rehearsal for “OPOM” at the National Stadium**
+![](/images/IMG-20140701-WA0000.jpg)
+![](/images/IMG-20140701-WA0001.jpg)
+![](/images/IMG-20140701-WA0002.jpg)
