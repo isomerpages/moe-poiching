@@ -625,5 +625,74 @@ The climbers at the competition area and back in school during training.
 </tbody>
 </table>
 
+**Congratulations to the following winners!**
 
+![](/images/aoc51.jpg)
+
+**Individual Winners**
+
+**_Hilary Chan Seok Teng (6E)_**  –  2nd for Bouldering, 2nd for Top Rope
+
+**_Cho Yut Yan Chloe (6E)_**  – 5th for Top Rope and 4th for Speed
+
+**_Rochelle Teh Xin Yue (5D)_** – 4th for Top Rope
+
+**Team Winners**
+
+**_Senior Girls Team_** – 2nd overall
+
+**National Primary Schools Sports Climbing Championships 2017**
+
+The ODAC members participated in the National Primary Schools Sport Climbing Championships on 21-28 March 2017. This year, 3 teams were sent for the competition. Some students from other CCAs who have rock climbing experience have also joined in. All the students who participated in the competition have demonstrated perseverance and good sportsmanship.
+
+![](/images/ODAC2.png)
+![](/images/ODAC3.png)
+
+**Congratulations to the following winners!**
+
+**Individual Winners**
+
+Joshua Woo (6D)  –  4th   for bouldering, 4th    for top rope,  4th   for speed climb
+
+Chung Shuang Ying (6D)  –  3rd  for speed climb, 6th   for bouldering
+
+Chloe Cho –  9th   for speed climbing
+
+**Team Winners**
+
+Senior Boys Team – 3rd overall
+
+![](/images/ODAC5.png)
+
+**National Primary Schools Sports Climbing Championships 2016**
+
+**Top Rope Challenge**
+
+Junior Girls Category: Chloe Cho (4C) – 12th
+
+Senior Boys Category: Joshua Woo (5D) – 13th
+
+**Boulder Challenge**
+
+Senior Boys Category: Joshua Woo (5D) – 9th
+
+Junior Girls Category: Chloe Cho (4C) – 15th
+
+**Speed Climbing**
+
+Senior Boys Category: Joshua Woo (5D) – 7th
+
+Senior Boys Category: Chung Shuang Ying (5D) – 8th
+
+**Completed Events** 
+
+March 2017 – Participation in National Primary Schools Sport Climbing Championships 2017
+
+March 2016 – Participation in National Primary Schools Sport Climbing Championships 2016
+
+March 2016 – Participation in Environmental Camp during March holidays with Scouts and Environment Champions
+
+April 2016 – Participation in S.E.A. Aquarium Learning Journey with Environment Champions
+
+May 2016 – Participation in X-Calade Xinmin Boulder Carnival 2016
 
