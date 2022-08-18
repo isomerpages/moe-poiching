@@ -2,23 +2,23 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Science Club.md
-      - Clubs & Societies/Outdoor Activities Club.md
-      - Clubs & Societies/Art Club.md
-      - Clubs & Societies/Infocomm Club.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Brownies.md
-      - Performing Arts/.keep
-      - Performing Arts/Brass Band.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Dance.md
-      - Performing Arts/Chinese Drum & Opera.md
-      - Performing Arts/Chinese Calligraphy.md
       - Sports & Games/.keep
       - Sports & Games/Table Tennis.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Wushu.md
       - Sports & Games/Badminton.md
       - Sports & Games/Basketball.md
+      - Performing Arts/.keep
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Chinese Drum & Opera.md
+      - Performing Arts/Chinese Calligraphy.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/Brownies.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Science Club.md
+      - Clubs & Societies/Outdoor Activities Club.md
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Infocomm Club.md
