@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Chinese Calligraphy.md
-      - Performing Arts/Chinese Drum & Opera.md
-      - Performing Arts/Dance.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Brass Band.md
       - Performing Arts/.keep
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Chinese Drum & Opera.md
+      - Performing Arts/Chinese Calligraphy.md
       - Sports & Games/.keep
       - Sports & Games/Table Tennis.md
       - Sports & Games/Volleyball.md
