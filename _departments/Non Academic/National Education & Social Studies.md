@@ -97,3 +97,14 @@ Click on the link to [www.medialiteracycouncil.sg/Lists/Resources/Attachments/2
 
 ![](/images/df02.png)
 [Student Handbook](/files/OnlineSafetyandSecurity-Class2-StudentHandbook.pdf)
+
+![](/images/df03.png)
+[Instructor’s Lesson Plan](/files/OnlineSafetyandSecurity-Class2-TeachingGuide-1.pdf)
+
+2. Learning Journey: Kampung Glam P3, Little India P4 and Chinatown P6
+
+3. NE Ambassador Training
+
+4. P4 Integrated Project Work (IPW) using Wiki
+
+5. SAF Day 2014 
