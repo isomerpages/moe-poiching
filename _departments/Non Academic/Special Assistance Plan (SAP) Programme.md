@@ -796,7 +796,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tuyz" colspan="2"><a href="https://drive.google.com/file/d/0B2uUdsTFiuj4cDBkTi1Xc2dWMlk/view?usp=sharing"><span style="font-weight:bold">欢迎收听培青学校学生2015年演播的广播剧</span></a><br>圣婴中学广播剧小组的学生于4月9日和4月23日前来我校为小五的13名学生上了两次培训课程。之后，学生在<br>李皆乐老师的督导下终于完成了广播剧的编写工作。8月28日李皆乐老师带领了13位学生前往圣婴中学进行广播<br>剧的录制。以友情为主题的三个广播剧是：</th>
+    <th class="tg-tuyz" colspan="2"><a href="https://drive.google.com/file/d/0B2uUdsTFiuj4cDBkTi1Xc2dWMlk/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">欢迎收听培青学校学生2015年演播的广播剧</span></a><br><br><span style="font-weight:bold;color:#000">圣婴中学广播剧小组的学生于4月9日和4月23日前来我校为小五的13名学生上了两次培训课程。之后，学生在</span><br><span style="font-weight:bold;color:#000">李皆乐老师的督导下终于完成了广播剧的编写工作。8月28日李皆乐老师带领了13位学生前往圣婴中学进行广播剧的录制。以友情为主题的三个广播剧是：</span></th>
   </tr>
 </thead>
 <tbody>
@@ -817,4 +817,3 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
   </tr>
 </tbody>
 </table>
-
