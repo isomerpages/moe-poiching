@@ -1190,3 +1190,18 @@ Congratulations to both pupils again.
 ![](/images/cl2.jpg)
 ![](/images/cl3.jpg)
 ![](/images/certs.jpg)
+
+### **24th National Chinese Essay Writing Competition for Primary Schools**
+
+**第二十四届全国小学现场华文创作比赛颁奖典礼**
+
+由新加坡福州会馆、新加坡华文教师总会和新加坡作家协会联办的第二十四届全国小学现场华文创作比赛于8月25日（星期六）下午在新加坡福州会馆进行了颁奖典礼。
+
+我校来自4E班的黄隆睿今年在众多名参赛者中脱颖而出，荣获佳作奖。两位带队老师和另外九名学生于8月25日到新加坡福州会馆陪同领奖。获奖学生受邀报名成为新加坡小作家学会会员，有难得的机会在本地杰出作家的指导下接受写作培训，提高写作能力。他的佳作与其他得奖作品已刊登在最新的作文文集《笔耕19》。
+
+**The 24th National Primary School On-the-Spot Chinese Creative Essay Writing Competition Award Ceremony**
+
+Jointly organised by Singapore Foochow Association, Singapore Chinese Teachers’ Union and Singapore Association of Writers, the 24th National Primary School On-the-Spot Chinese Creative Essay Writing Competition Award Ceremony was held at Singapore Foochow Association on 25th August 2018 (Saturday).
+
+We would like to proudly announce and congratulate Ian Wong Neng Rui from P4E and for winning the Commendation Award in the competition. A team of 9 students and 2 Chinese teachers were present at Singapore Foochow Association to support Ian at the Award Ceremony. Ian will be invited to join the Young Writers’ Club to further sharpen his writing skills and his award winning essay is published in the latest Chinese Essay Publication 《笔耕19》.
+
