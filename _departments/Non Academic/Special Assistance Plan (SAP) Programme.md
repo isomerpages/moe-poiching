@@ -849,3 +849,46 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 P5 students participated hands-on dumpling making session on 23 May 2016
 
 ![](/images/sap17.png)
+
+**2015**
+
+*   **Chinese New Year 农历新年庆祝会**
+![](/images/sap18.png)
+
+*   **River Hongbao Singapore 2015**
+
+Members of Chinese Speech & Drama perform at River Hongbao Singapore 2015
+
+![](/images/sap19.png)
+
+*   **Dumpling Festival** **端午节**
+
+P5 students participated hands-on dumpling making session on 22 May 2015
+
+![](/images/sap21.png)
+
+### Overseas Immersion Programme
+
+**2016**
+
+*   Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅
+*   Shanghai Experimental Primary School 上海市实验小学访问培青学校的文化浸濡
+
+![](/images/sap22.png)
+
+**2015**
+
+*   **Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅**
+
+今年5月29日至6月4日，6名小四、小五的学生生在马校长和4位老师的带领下，前往中国厦门福清进行浸濡学习。7天的行程中，学生们到了一都培青学校以及东张华石中心小学进行交流。一都培青这所乡村学校是由新加坡福清会馆的董事资助而建。新中两校的学生们进行了文化交流、才艺观摩、一起学习、一起互动。学生们也参观了鼓浪屿（又称音乐之岛）以及南靖土楼等。他们也学习陶艺和剪纸艺术，此趟可谓满载而归。
+![](/images/SAP-33.jpg)
+
+**2014**
+
+*   **Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅**
+
+![](/images/SAP-34.jpg)
+
+*   **Hanzhou, China Immersion Programme杭州浸濡之旅**
+
+![](/images/SAP-35.jpg)
