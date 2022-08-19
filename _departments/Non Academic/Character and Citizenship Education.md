@@ -167,3 +167,13 @@ A day in the life of a service provider…
 **Social Skills Tips**: refer to p57, 88, 120 and 147, Student Handbook 2020
 
 **Gratitude & Mindfulness:** refer to p84, 118, 144 and 182, Student Handbook 2020
+
+### Building the Resilience Muscle
+![](/images/resilience-resources_for-parents_2016-1_Page_01-1350x1893.jpg)
+
+[Download brochure](https://drive.google.com/file/d/0BwUYQqJ5nKu0ZEx4bHBIUDE1bU0/view?usp=sharing)
+
+**Helping Students cope with Crisis**
+![](/images/Helping-students-cope-with-crisis-1-1350x954.jpg)
+![](/images/Helping-students-cope-with-crisis-2-1350x954.jpg)
+[Download brochure](https://drive.google.com/file/d/0BwUYQqJ5nKu0SzNBTXkydlRWV28/view?usp=sharing)
