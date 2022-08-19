@@ -333,3 +333,425 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 **2016**
 
 **9th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017** **co-organised by  Temasek JC and NTU Confucius Institute on 15 April /** **淡马锡初级学院和南大孔子学院联合主办“第九届全国中小学生华文文化常识比赛”**
+
+![](/images/sap2.png)
+![](/images/sap3.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pr30"><span style="font-weight:bold">序号</span></th>
+    <th class="tg-pr30" colspan="2"><span style="font-weight:bold">学校</span></th>
+    <th class="tg-pr30"><span style="font-weight:bold">得奖学生</span></th>
+    <th class="tg-pr30"><span style="font-weight:bold">名次</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2" rowspan="2">1</td>
+    <td class="tg-a3j2" rowspan="2">卍慈学校</td>
+    <td class="tg-a3j2" rowspan="2">Red Swastika School</td>
+    <td class="tg-a3j2">林伟杰</td>
+    <td class="tg-a3j2">第一名</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">蔡宇佳  /周瀚琳 /钱蕴琳</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2" rowspan="3">2</td>
+    <td class="tg-a3j2" rowspan="3">南华小学</td>
+    <td class="tg-a3j2" rowspan="3">Nan Hua Primary School</td>
+    <td class="tg-a3j2">祝　安</td>
+    <td class="tg-a3j2">第二名</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">沈星扬</td>
+    <td class="tg-gj5f">第三名</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">袁浩翔 / 张恩浩</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">3</td>
+    <td class="tg-gj5f">培青学校</td>
+    <td class="tg-gj5f">Poi Ching School</td>
+    <td class="tg-gj5f">张嘉为 /张旻玥 / 陈善雯</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">4</td>
+    <td class="tg-a3j2">康岭小学</td>
+    <td class="tg-a3j2">Casuarina Primary School</td>
+    <td class="tg-a3j2">王欣怡</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">5</td>
+    <td class="tg-gj5f">育民小学</td>
+    <td class="tg-gj5f">Yumin Primary School</td>
+    <td class="tg-gj5f">应泽宜</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">6</td>
+    <td class="tg-a3j2">奥匹拉小学</td>
+    <td class="tg-a3j2">Opera Estate Primary School</td>
+    <td class="tg-a3j2">苏怀宇 /孙启涵 /赵元桢</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">7</td>
+    <td class="tg-gj5f">光华学校</td>
+    <td class="tg-gj5f">Kong Hwa PrIamry  School</td>
+    <td class="tg-gj5f">程琬晴</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">8</td>
+    <td class="tg-a3j2">丹绒加东小学</td>
+    <td class="tg-a3j2">Tanjong Kantong Primary School</td>
+    <td class="tg-a3j2">荀圣迪</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">9</td>
+    <td class="tg-gj5f">伊丽莎白公主小学</td>
+    <td class="tg-gj5f">Princess Elizabeth Primary School</td>
+    <td class="tg-gj5f">沈蕊羽</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">10</td>
+    <td class="tg-a3j2">城景小学</td>
+    <td class="tg-a3j2">Townsville Primary School</td>
+    <td class="tg-a3j2">刘抒羿 /韩嘉谊 /李贞羲</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">11</td>
+    <td class="tg-gj5f">中华小学</td>
+    <td class="tg-gj5f">Zhonghua Primary School</td>
+    <td class="tg-gj5f">梁静盈</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">12</td>
+    <td class="tg-a3j2">圣尼格拉小学</td>
+    <td class="tg-a3j2">St Nichole Primary School</td>
+    <td class="tg-a3j2">颜乐儿</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">13</td>
+    <td class="tg-gj5f">克明小学</td>
+    <td class="tg-gj5f">Keming Primary School</td>
+    <td class="tg-gj5f">罗裕欣</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">14</td>
+    <td class="tg-a3j2">百德小学</td>
+    <td class="tg-a3j2">Bukit View Primary School</td>
+    <td class="tg-a3j2">陈思汗 /王正浩</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">15</td>
+    <td class="tg-gj5f">美雅小学</td>
+    <td class="tg-gj5f">Admiralty Primary School</td>
+    <td class="tg-gj5f">许翰文 /于艳玲</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">16</td>
+    <td class="tg-a3j2">启化小学</td>
+    <td class="tg-a3j2">Qihua Primary School</td>
+    <td class="tg-a3j2">万天资</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">17</td>
+    <td class="tg-gj5f">德贤小学</td>
+    <td class="tg-gj5f">North View Primary School</td>
+    <td class="tg-gj5f">宫本天</td>
+    <td class="tg-gj5f">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">18</td>
+    <td class="tg-a3j2">伟群小学</td>
+    <td class="tg-a3j2">West Grove Primary School</td>
+    <td class="tg-a3j2">唐鸿芊 / 邹佳玥</td>
+    <td class="tg-a3j2">优胜奖</td>
+  </tr>
+</tbody>
+</table>
+
+**2015**
+
+**8th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017** **co-organised by  Temasek JC and NTU Confucius Institute on 15 April /** **淡马锡初级学院和南大孔子学院联合主办“第八届全国中小学生华文文化常识比赛”**
+
+![](/images/sap4.png)
+![](/images/sap5.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gj5f">1st</th>
+    <th class="tg-gj5f">Poi Ching School</th>
+    <th class="tg-gj5f">培青学校</th>
+    <th class="tg-gj5f">石琪论</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">2nd</td>
+    <td class="tg-a3j2">Red Swastika School</td>
+    <td class="tg-a3j2">卍慈学校</td>
+    <td class="tg-a3j2">黎芷君</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">3rd</td>
+    <td class="tg-gj5f">Telok  Kurau Primary School</td>
+    <td class="tg-gj5f">德乐小学</td>
+    <td class="tg-gj5f">黄雷乾</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"> Merit</td>
+    <td class="tg-a3j2">Red Swastika School</td>
+    <td class="tg-a3j2">卍慈学校</td>
+    <td class="tg-a3j2">陈子翊 /黄凯琳 / 王劭恒</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Poi Ching School</td>
+    <td class="tg-gj5f">培青学校</td>
+    <td class="tg-gj5f">刘若谷</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Telok  Kurau Primary School</td>
+    <td class="tg-a3j2">德乐小学</td>
+    <td class="tg-a3j2">陈冠霖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Kong Hua School</td>
+    <td class="tg-gj5f">光华学校</td>
+    <td class="tg-gj5f">陈星匀</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Opera Estate Primary School</td>
+    <td class="tg-a3j2">奥匹拉小学</td>
+    <td class="tg-a3j2">陈芳瑛 / 林威霖</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Tao Nan School</td>
+    <td class="tg-gj5f">道南学校</td>
+    <td class="tg-gj5f">洪思淇 /梁惠雯 / 馬俊洋</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Yu Neng Primary School</td>
+    <td class="tg-a3j2">育能小学</td>
+    <td class="tg-a3j2">卓明萱</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">St. Hilda Primary School</td>
+    <td class="tg-gj5f">圣希尔达小学</td>
+    <td class="tg-gj5f">白月宁</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Kheng Cheng School</td>
+    <td class="tg-a3j2">擎青学校</td>
+    <td class="tg-a3j2">谭佳榕 /黄瑀甯</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Marsling Primary School</td>
+    <td class="tg-gj5f">马西岭小学</td>
+    <td class="tg-gj5f">袁一嘉</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">North Vista Primary School</td>
+    <td class="tg-a3j2">远景小学</td>
+    <td class="tg-a3j2">吴与同 /陈欣芃</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">St. Nicholas School</td>
+    <td class="tg-gj5f">圣尼格拉小学</td>
+    <td class="tg-gj5f">魏    莱</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Zhangde Primary School</td>
+    <td class="tg-a3j2">彰德小学</td>
+    <td class="tg-a3j2">谭靖凯</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Admiralty Primary School</td>
+    <td class="tg-gj5f">美雅小学</td>
+    <td class="tg-gj5f">周    涛</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Boon Lay Garden Primary School</td>
+    <td class="tg-a3j2">文园小学</td>
+    <td class="tg-a3j2">吴怡欣 /王一斐 /张雨婷 / 苏界聪 / 董清远</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">Merit</td>
+    <td class="tg-gj5f">Jurong West Primary School</td>
+    <td class="tg-gj5f">裕廊西小学</td>
+    <td class="tg-gj5f">吴佳芸 /曾钰琦 /温俊杰</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">Merit</td>
+    <td class="tg-a3j2">Pei Hwa Presbyterian Pri School</td>
+    <td class="tg-a3j2">培华长老会小学</td>
+    <td class="tg-a3j2">郭铭辉</td>
+  </tr>
+</tbody>
+</table>
+
+**The 43rd National Schools Translation Competition**
+
+**2016**
+
+![](/images/sap6.png)
+
+### Chinese Calligraphy
+
+<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 714px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 25px;"><span style="box-sizing: inherit; color: rgb(0, 0, 0); font-size: 14pt;"><strong style="box-sizing: inherit; font-weight: bold;">2017</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 44px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 44px;"><span style="box-sizing: inherit; color: rgb(128, 0, 0);"><strong style="box-sizing: inherit; font-weight: bold;">8th National Brush and Hard Pen Chinese Calligraphy Competition organised by Chinese Calligraphy Society of Singapore on Sunday,&nbsp;28 May&nbsp;2017 /<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">第八届全国毛笔与硬笔书法大赛决赛</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 367px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 526px; height: 367px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Chinese Calligraphy</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>/<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">毛笔</strong></p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Merit</strong></p><p style="box-sizing: inherit; font-size: 1em;">6D Zhao Yueyi 赵悦伊</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></p></td><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 1733px; height: 367px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong><strong style="box-sizing: inherit; font-weight: bold;">Penmanship</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>/</strong><strong style="box-sizing: inherit; font-weight: bold;">硬笔书法</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong><strong style="box-sizing: inherit; font-weight: bold;">Merit</strong></p><p style="box-sizing: inherit; font-size: 1em;">4D &nbsp;POH ZIXUAN CLAUDIA&nbsp;傅紫轩</p><p style="box-sizing: inherit; font-size: 1em;">6C &nbsp;XUE KEXIN&nbsp;薛可昕</p><p style="box-sizing: inherit; font-size: 1em;">6D &nbsp;ZHAO YUEYI&nbsp;赵悦伊</p><p style="box-sizing: inherit; font-size: 1em;">6E &nbsp;LIN SHENGXI 林圣熹</p><p style="box-sizing: inherit; font-size: 1em;">6F &nbsp;LIN ZhIJUN 林芷君</p><p style="box-sizing: inherit; font-size: 1em;">6F &nbsp;KUAN JING XUN关靖勋</p><p style="box-sizing: inherit; font-size: 1em;">6F &nbsp;CHEW JIA YAN, TRICIA&nbsp;周佳燕</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 46px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 46px;"><span style="box-sizing: inherit; color: rgb(128, 0, 0);"><strong style="box-sizing: inherit; font-weight: bold;">23<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">rd</sup><span>&nbsp;</span>National Primary School On-the-Spot Chinese Calligraphy Competition organised by Pei Tong Primary School on 19 May / 2017</strong><strong style="box-sizing: inherit; font-weight: bold;">年第二十三届全国小学现场书法比赛</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 173px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 173px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong><strong style="box-sizing: inherit; font-weight: bold;">1</strong><strong style="box-sizing: inherit; font-weight: bold;"><sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">st</sup></strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>Prize</strong></p><p style="box-sizing: inherit; font-size: 1em;">4D Loh Hoi Hei David 罗凯熙</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong><strong style="box-sizing: inherit; font-weight: bold;">Merit</strong></p><p style="box-sizing: inherit; font-size: 1em;">6D Zhao Yueyi&nbsp; 赵悦伊</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 68px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 68px;"><span style="box-sizing: inherit; color: rgb(128, 0, 0);"><strong style="box-sizing: inherit; font-weight: bold;">28th National Chinese Calligraphy Competition</strong><span>&nbsp;</span><strong style="box-sizing: inherit; font-weight: bold;">co-organised by Lian He Zao Bao and Chinese Calligraphy Society of Singapore on 1 May /<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">《联合早报》和新加坡书法家协会联合主办“</strong><strong style="box-sizing: inherit; font-weight: bold;">第二十八届全国学生书法比赛”</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 92px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 92px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong><strong style="box-sizing: inherit; font-weight: bold;">Merit</strong></p><p style="box-sizing: inherit; font-size: 1em;">6D Zhao Yueyi&nbsp; 赵悦伊</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 44px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 44px;"><span style="box-sizing: inherit; color: rgb(128, 0, 0);"><strong style="box-sizing: inherit; font-weight: bold;">2017<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">The National Chinese</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>Pen</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>Calligraphy Competition<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">organised by<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">Singapore Fo Guang</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>Shan on 8 April&nbsp; /<span>&nbsp;</span></strong><strong style="box-sizing: inherit; font-weight: bold;">新加坡佛光山主办</strong><strong style="box-sizing: inherit; font-weight: bold;">“</strong><strong style="box-sizing: inherit; font-weight: bold;">2017</strong><strong style="box-sizing: inherit; font-weight: bold;">威德智海全国硬笔书法比赛”</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 131px;"><td colspan="4" style="box-sizing: inherit; padding: 5px 10px; width: 2259px; height: 131px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Merit</strong></p><p style="box-sizing: inherit; font-size: 1em;">6E Lin Shenxi林圣熹</p><p style="box-sizing: inherit; font-size: 1em;">6F Lin Zhijun林芷君</p></td></tr></tbody></table>
+
+![](/images/sap7.png)
+![](/images/sap8.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6yxg{background-color:#E6E6E6;color:#800000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5"><span style="font-weight:bold">2016</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">5th National</span> <span style="font-weight:bold"> Chinese Calligraphy Competition organised by</span> <span style="font-weight:bold">Futsing Association and Poi Ching School on 15</span> <span style="font-weight:bold">July</span> <span style="font-weight:bold">2016</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">2</span>nd<span style="font-weight:bold"> prize</span><br>6D Neo Ming Hui.<br><span style="font-weight:bold">Merit           </span> <span style="font-weight:bold"> </span><br>6C Low Yang Zhi<br>5D  Zhao Yueyi.<br><span style="font-weight:bold">Consolation</span><br>6H Cheong Jia En</td>
+  </tr>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">27th National Primary Schools Chinese New Year Chinese Calligraphy Competition 2016 organised by Hong Wen School, S4 Cluster Centre of Excellence (Chinese Cultural Arts) on 19 Feb Friday from 2pm to 6pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">3rd prize            </span><br>6C Low Yang Zhi<br><span style="font-weight:bold">Merit          </span><br>6D Neo Ming Hui<br><span style="font-weight:bold">Consolation       </span><br>3E Shaun Lim En Wee</td>
+  </tr>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">8th National Youth Chinese Calligraphy Competition organised by NUS on 20 Feb</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">2nd prize</span><br>6C Low Yang Zhi<br><span style="font-weight:bold">Merit</span><br>6D Neo Ming Hui</td>
+  </tr>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">2016 Art Fest，“张瘦石书画比赛”co-organised by East Zone Chinese Centre and Chong Cheng High on Feb 26, art work displayed at Central Library, Level B1, from 2nd to 9th April</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Merit</span><br>6C Low Yang Zhi</td>
+  </tr>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">Calligraphy Competition co-organised by Lian He Zao Bao and Chinese Calligraphy Society of Singapore -1 May</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">2nd prize</span><br>6D Neo Ming Hui<br><span style="font-weight:bold">Merit</span><br>6C Low Yang Zhi</td>
+  </tr>
+  <tr>
+    <td class="tg-6yxg"><span style="font-weight:bold">7th National Primary Schools Chinese Calligraphy Competition organised by Chinese Calligraphy Society of Singapore-5 June(Sunday)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Merit</span><br>6C Low Yang Zhi<br>6D Neo Ming Hui</td>
+  </tr>
+</tbody>
+</table>
+
+### Chinese Speech and Drama
+
+**2017**
+
+![](/images/sap9.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xyrl" colspan="3">The students combined their story telling skills and the immersive digital storybook software, Moo-O to present their story. You may click on the video link below to view the winning entry.<br> <a href="http://goo.gl/i4cUGa"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Video Link </span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l2bf" colspan="3"><span style="font-weight:bold">The 10</span>th <span style="font-weight:bold">National Chinese Story-telling Competition “ Leaders of Greatness” 2017 ／2017年第十届全国中小学生《讲伟人故事比赛》</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl" colspan="3">The <span style="font-weight:bold">10</span>th <span style="font-weight:bold">National Chinese Story-telling Competition “ Leaders of Greatness” 2017</span> was jointly organised by the Committee to Promote Chinese Language Learning (CPCLL) , Anderson Primary School, The Chinese Teachers Literary Recital Society and Sgwritings Culture Association.  The competition was held on 27 May 2017 at Anderson Primary School.</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/sap10.png)
+
+**2016**
+
+![](/images/sap11.png)
+![](/images/sap12.png)
+
+**2015**
+
+![](/images/sap13.png)
+![](/images/sap14.png)
+
+#### Chinese Broadcasting
+
+**2016**
