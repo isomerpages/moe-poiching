@@ -295,3 +295,41 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 6勇　許榤沣 <br>
 6勇　刘劼隽 <br>
 6卓　郑毅
+
+![](/images/sap1.png)
+
+**2017**
+
+**10th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017 co-organised by  Temasek JC and NTU Confucius Institute on 7 April / 淡马锡初级学院和南大孔子学院联合主办“第十届全国中小学生华文文化常识比赛”**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4ufn" colspan="2"><span style="font-weight:bold">Merit</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">Team A</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Team B</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">6C Zhao Fangzhou  赵方舟<br>6D Lim Yong Da林涌达<br>6F Lin Zhijun林芷君<br>6F Zhao Tianqin赵天勤</td>
+    <td class="tg-tsok">6D Sim Shu Yue沈舒月<br>6D Zhao Yueyi赵悦伊<br>6F Ma Yujia马誉嘉<br>6E Anna Ni Houjing倪厚晶</td>
+  </tr>
+</tbody>
+</table>
+
+**2016**
+
+**9th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017** **co-organised by  Temasek JC and NTU Confucius Institute on 15 April /** **淡马锡初级学院和南大孔子学院联合主办“第九届全国中小学生华文文化常识比赛”**
