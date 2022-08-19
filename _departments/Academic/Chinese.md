@@ -1352,3 +1352,86 @@ Reading Comprehension and Writing Skills are the main teaching points, moreover,
 ### KEY PROGRAMMES (部门的主要活动与计划)
 
 ![](/images/Note-to-add-below-the-textbook.jpg)
+It is compulsory for all P1 students to take Chinese Language upon admission to school.
+
+**SHARING SESSION**
+
+Date: 8 July 2016, Friday <br>
+Venue  : Academy of Singapore Teachers <br>
+Title of Sharing: Self-Directed Learning Task for Lower Primary Students
+
+The sharing was conducted by Mdm Toh Chiew Hoon when she went to Overseas Immersion Trip to Shanghai in 2015. She had an enriching learning experience and shared at the Academy of Singapore Teachers after her trip. Research and surveys have shown positive results on Self-Directed Learning Task for Lower Primary Students.
+
+![](/images/clsharing.png)
+
+Sharing was conducted by two Chinese Teachers, Ms Wong Mei Chu and Ms Fiona Yoong Huei Lian on the teaching of Character and Citizenship Education (CCE) in Primary 3 classes. Creative strategies and activities were conducted and shared to 250 teachers in Singapore at Academy of Singapore Teachers (AST) on 12 August 2015.
+
+**由新加坡教师学院主办的品德与公民教育研讨会吸引了250名老师前来参加。我校两名华文老师**
+
+
+黄美珠老师和熊慧莲老师在2015年8月12日进行分享，把她们在上三年级品德与公民教育课
+
+的教学心得、创意教学与活动和大家分享。
+
+![](/images/cce001.jpg)
+
+**CCE-CL Lesson study conducted in PCS by Ying Teng with 1F class 16 Aug 2017** 
+
+Successful Lesson Study conducted with CCE-CL Committee North-East Networked Learning Communities.
+
+CCE-CL group members (Ms. Woo Ying Teng, Mdm Irene Siew, Mdm Li Jing ) had successfully conducted the Lesson study with 1F students.CCE-CL NE4 group leader, Teacher Isabella Lai from Tampines Pri School and Wong Chin Yin From MOE CCE-CL Branch had joined us in the lesson study.
+
+![](/images/cl4.png)
+
+### ACHIEVEMENTS & ACCOLADES (学生成就)
+
+**2018**
+
+**全国小学现场华文创作比赛**
+
+**National Chinese Creative Writing Competition**
+
+由新加坡福州会馆、新加坡华文教师总会、新加坡作家协会联合主办的年度第二十四届全国小学现场
+
+华文创作比赛，已经在5月22日（星期六）上午藉协办单位城景小学隆重掀开战幔。
+
+我校选派十二位同学来自小四至小六参加比赛。
+
+带队老师：吴诗玲老师和林蔓琳老师
+
+**The 24th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition** was
+
+jointly organised by Singapore Foochow Association, Singapore Chinese Teachers’ Union and Singapore
+
+Association of Writers held the event at Townsville Primary School on 22 May 2018 (Saturday).
+
+We have selected 12 students from P4 to P6 to participate in the competition.
+
+Accompanying Teachers are : Ms Wendy Goh and Ms Magdalene Lim.
+
+![](/images/acc_1.jpg)
+![](/images/acc_2.jpg)
+
+**全国小学现场华文创作比赛**
+
+**National Chinese Creative Writing Competition**
+
+由新加坡福州会馆、新加坡华文教师总会、新加坡作家协会联合主办的年度第二十三届全国小学现场华文创作比赛，已经在5月20日（星期六）上午藉协办单位城景小学隆重掀开战幔。
+
+我校很荣幸有两位来自小五的同学皆获得佳作奖。他们是：郑毅（5E）和徐思佳（5C）。两位同学连同班级老师和带队老师，和其他十一名学生于8月19日到新加坡福州会馆领奖。两位获奖学生受邀报名成为新加坡小作家会员，进一步提高自己的写作能力。他们的佳作已刊登在最新的作文文集《笔耕18》。
+
+**The 23rd National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition** was jointly organised by Singapore Foochow Association, Singapore Chinese Teachers’ Union and Singapore Association of Writers held the event at Townsville Primary School on 20 May 2017 (Saturday).
+
+Our heartiest congratulations to Gerold Tay Yi (5E) and Xu Sijia (5C) and for winning the Commendation Award in the competition. A team of 11 students and Chinese teachers were present to support the Prize Giving Ceremony. Both prize winners will be invited to join the Writers’ Club to further sharpen their writing skills and their prize winning essays will be included in the latest Chinese Essay Publication 《笔耕18》
+
+![](/images/cl5.png)
+![](/images/cl6.png)
+
+**14th Singapore-Malaysia Bilingual Olympiad (SMBO) for Primary Schools**
+
+Congratulations to Gracia Chew (6C) and Tricia Chew (6F) have done our school proud by winning **Top 30** placing in the Preliminary Round of the **14th Singapore-Malaysia Bilingual Olympiad (SMBO) for Primary Schools**.  Both of them will be attending The Top 30 certificate presentation ceremony and participating in the **SMBO Finals** at Nanyang Girls’ High School on **10th April afternoon 2 – 5pm.**  We will be inviting their parents to attend the Top 30 certificate presentation ceremony as well, this will be one of the joyous moments of their family! 
+
+We would also like to extend our gratitude to their subjects teachers for their hard-work with the girls:
+
+Mdm Jeanne Phuah (both 6C’s and 6F’s EL teacher), Ms Nicole Chan (6C’s CL teacher) and Mr Dave Yang (6F’s CL teacher)
+
