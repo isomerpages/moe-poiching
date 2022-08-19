@@ -1205,3 +1205,105 @@ Jointly organised by Singapore Foochow Association, Singapore Chinese Teachers�
 
 We would like to proudly announce and congratulate Ian Wong Neng Rui from P4E and for winning the Commendation Award in the competition. A team of 9 students and 2 Chinese teachers were present at Singapore Foochow Association to support Ian at the Award Ceremony. Ian will be invited to join the Young Writers’ Club to further sharpen his writing skills and his award winning essay is published in the latest Chinese Essay Publication 《笔耕19》.
 
+![](/images/img1535244176373.png)
+![](/images/20180825_131239-1350x656.jpg)
+
+### National Essay Writing Competition
+
+The National Essay Writing Competition for Primary School was organized by Boon Lay Community Club on 28 July 2018 (Saturday). A group of P6 students took part on the competition.
+
+Accompanying Teacher : Mr. Matthew Teo
+
+**全国小学生作文比赛**
+
+由文礼民众俱乐部主办的全国小学生作文比赛，在2018年7月28日(星期六)举行。我们一共有六名小六学生参加。
+
+带队老师：张福财
+
+### Spicing up Chinese language classes at Poi Ching School
+
+![](/images/image1-10.jpg)
+
+The learning of Chinese language is often associated with rote learning, where one will need to memorise characters and phrases.
+
+How is Poi Ching School doing their Chinese lessons differently? Students get out of the classrooms to hone their speaking, listening, reading and thinking skills, so that they can effectively use the language in their daily lives.
+
+The school’s Chinese language curriculum is targeted at equipping students with skills to communicate, read and write well in Mandarin. To achieve this, programmes and activities are lined up for students at every level.
+
+From Primary 1 to 5, students get to build confidence and hone their public speaking skills as they present stories to their peers at assembly. In addition, all students would be encouraged to expand their vocabulary by reading voraciously, with guided reading sessions and opportunities to loan books from the school library.
+
+On top of that, students also get to participate in intra-school story-telling competitions, as well as external competitions in areas such as creative writing, cultural quizzes and calligraphy.
+
+“Sending students to participate in competitions creates a platform for them to showcase their skills in writing, speaking, creativity and innovation,” explains Mr Matthew Teo, head of department of Chinese at Poi Ching School “Students can benefit as they prepare for competitions as it takes courage and confidence to accept the challenge and it allows students to think critically and express creatively. Competitions also help spark a love for learning the language.”
+
+“Besides, having a strong foundation and knowledge of Chinese language from will give students the confidence to learn the language further. Chinese language also provides an opportunity for students to work and study abroad, conduct better business and get more out of the world where China is a dominant force. Mandarin is not limited to mainland China; it is also used in other regions including Taiwan, Hong Kong, Macau and Malaysia,” explains Mr Teo.
+
+No one is left behind
+---------------------
+
+Mr Teo acknowledges that the learning of a language goes beyond just knowing how to speak, read or write it. “Learning any language requires an understanding and respect for the cultures that use it. Mastering a language shows commitment, passion and a high level of cross-cultural competence,” he says.
+
+Thus, while the school has many activities lined up to impart the necessary language skills, some students may still find difficulty in mastering the subject. However, these students are not left behind.
+
+At lower primary level, a smaller class size would be planned for students so that they can learn at a slower pace and have more individual attention from their teachers. Teachers would cover basics including character recognition, sentence construction and reading.
+
+“For these students, there will be emphasis on learning to form simple sentences and improving their vocabulary,” says Mr Teo. “These students will not feel discouraged that they have to learn at a slower pace than their friends, as various activities, such as the inter-class recital competition and mass lecture on cultural appreciation, will still allow students to participate together as a class.”
+
+While students have found the Chinese language lessons and activities challenging, they have also found it enriching.
+
+“The National Chinese Composition Writing Competition has triggered my creativity, as I had to write according to the given topics,” shares Primary 6 student Gerold Tay. “In competitions, there are also questions which I do not face regularly in my school work. I feel encouraged to boost my standard of Chinese.”
+
+“Sometimes during Chinese lessons, we would do group work, in areas such as having discussions on Chinese oral,” adds Primary 6 student Elysia Koh. “This is fun because we get to voice our opinions and learn from one another.”
+
+### 1st Singapore Primary and Secondary School Text Recital Competition
+
+**3D Peng Zhe Han and Chen Zerong** won the silver prize in the lower primary group ; 5F Sim Si Chen won the silver prize in the upper primary group in **1st Singapore Primary and Secondary School Text Recital Competition**. — by Mdm Xu Haiying @ Anderson Primary School
+
+![](/images/ch_1-1.jpg)
+![](/images/ch_1-2.png)
+
+### Using Different ICT tools in Classroom
+
+On 18 April 2018,  Chinese Teachers shared on using different ICT tools in classroom to motivate and engage students in learning. Besides that teachers who attended CCE Symposium have also shared their enriching learning experiences.
+
+**Teachers who conducted sharing are :**
+
+Ms Woo Ying Teng, Mr Chua Yong Tee,
+
+Ms Magdalene Lim & Ms Louise Peh
+
+2018年 4月18日，我校华文老师聚集在一起分享他们如何利用电脑与科技进行教学，以便让学生在课堂上更积极地学习，并激发学生的兴趣。此外，曾经参加公民与道德教育研讨会的老师，回校之后也和大家分享他们的学习心得。
+
+**分享会负责老师：**
+
+胡颖婷老师、蔡勇智老师、
+
+林蔓琳老师、白雪敏老师
+
+![](/images/PhotoGrid_1524365016697.jpg)
+![](/images/image.jpg)
+
+**15th Singapore-Malaysia Bilingual Olympiad (SMBO)**
+
+19 Primary 6 students participated in the Preliminary round of **15th Singapore-Malaysia Bilingual Olympiad (SMBO) for Primary Schools** held at Nanyang Girls’ High School on Tuesday, 3rd April 2018 afternoon 2PM to 5PM. This competition is organized by Nanyang Girls’ High School. It is in a form of a written test in each respective examination venues. With smiles on their faces, our students faced the challenge with confidence. We wish them all the best while we are waiting for the final results.
+
+Accompanying teachers are : Ms Woo Ying Teng and Ms Louise Peh
+
+19个小六学生于2018年4月3日的下午2点到5点间到达南洋女子中学参加了第十五届新马小学双语奥林匹克赛的初赛。这场比赛是由南洋女子中学举办的。我们的学生当天在各自所分配的考场进行了一场笔试。学生都从容应战，自信地完成了这一次的笔试。成绩公布在即，希望各位参赛者都能获得佳绩。
+
+带队老师：胡颖婷老师和白雪敏老师
+
+### National Chinese Challenge 2018
+
+**The National Chinese Challenge organized by Nanyang Girls’ High School on 24 March 2018, Saturday. 18 students from P5 & P6 took part in the competition. Accompanying teachers are : Mr Matthew Teo and Mr Dave Yang.**
+
+### 华文大比拼 2018
+
+**由南洋女子中学主办的华文大比拼，于南洋女子中学举行 18名五、六年级的学生于3月24日，星期六参加比赛。**
+
+**带队老师：张福财老师和杨庆年老师。**
+
+![](/images/20180324_085243.jpg)
+![](/images/20180324_085250.jpg)
+![](/images/20180324_101024.jpg)
+![](/images/IMG-20180324-WA0011.jpg)
