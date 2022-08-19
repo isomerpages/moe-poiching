@@ -805,15 +805,16 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
   </tr>
   <tr>
     <td class="tg-bhuf">《三个好朋友》演播者是5D班的陈嘉乐、蔡恒熙、许珉恺和吴浚杭；</td>
-    <td class="tg-b04k"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-1-1.png" alt="speaker-1" width="27" height="27"></td>
+    <td class="tg-b04k"><img src="/images/speaker-1-1.png" alt="speaker-1" width="27" height="27"></td>
   </tr>
   <tr>
     <td class="tg-ring">《高山流水》演播者是5D班的刘懿萱、刘芳辰、郑靖幼和何齐佳。</td>
-    <td class="tg-b36l"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-2-1.png" alt="speaker-2" width="27" height="27"></td>
+    <td class="tg-b36l"><img src="/images/speaker-1-1.png" alt="speaker-2" width="27" height="27"></td>
   </tr>
   <tr>
     <td class="tg-bhuf">《汉斯》演播者是5C班的张嘉为、杨佳萱、何俊陞、刘枊智和5E班的黄浩然；</td>
-    <td class="tg-b04k"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-3-1.png" alt="speaker-3" width="27" height="27"></td>
+    <td class="tg-b04k"><img src="/images/speaker-1-1.png" alt="speaker-3" width="27" height="27"></td>
   </tr>
 </tbody>
 </table>
+
