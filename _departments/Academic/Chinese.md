@@ -1307,3 +1307,48 @@ Accompanying teachers are : Ms Woo Ying Teng and Ms Louise Peh
 ![](/images/20180324_085250.jpg)
 ![](/images/20180324_101024.jpg)
 ![](/images/IMG-20180324-WA0011.jpg)
+
+### Date: 8th March 2018
+
+Venue : National Institute of Education
+
+Event: Symposium on Innovative Teaching and Learning of Mother Tongue Languages (MTL) 2018
+
+Title of Sharing : A Conceptual Development of an interactive Electronic Chinese Language Adventure Gamebook
+
+A sharing led by NIE lecturers Dr Aw Guat Poh and Mrs Jesmine Lim,  was conducted by three teachers from different schools. One of the presenter is Ms Louise Peh.  The sharing is about a new reading tool, the GameBook, that aims to enable self-directed learning to take place at home. This concept and its prototype is shared with many educators during the event, whom expressed their interest in the concept.
+
+在胡月宝博士以及陈小惠老师的指导下，三位来自不同学校的华文教师到了新加坡国立教育学院的首次论坛上分享其尝试制作的游戏书。其中一位呈现教师便是培青学校的白雪敏老师。这一次的分享提出了游戏书的概念。这个阅读工具着眼于在家里的自主阅读。在那一天的呈现当中，许多教师都纷纷表达了对游戏书概念的支持。
+
+![](/images/pic_2.jpg)
+![](/images/pic1-2.jpg)
+
+### Curriculum (课程)
+
+Lower Primary (P1-P2) 低年级（小一和小二）：
+
+MOE-approved school-based curriculum (Chinese Yunyu Teaching Approach)
+
+校本教材，采用韵语课本和活动本
+
+Middle & Upper Primary (P3-P6) 中、高年级学生（小三至小六）：
+
+MOE curriculum (Higher Chinese Language)
+
+采用教育部课本（小三至小六高级华文课本和活动本）
+
+### Main Pedagogy (教学策略)
+
+P1 and P2: emphasis on word recognition.
+
+P3 to P6: emphasis on language skills (listening, oral, reading and writing).
+
+Reading Comprehension and Writing Skills are the main teaching points, moreover, comprehension and essay-writing skills are enhanced. With hthe infusion of mindmaps and reading techniques, students are able to have an in-depth understanding of the text and comprehension passages, master the ability to learn Chinese.
+
+小一和小二着重于大量认字、朗读、拼写、背诵和听力。
+
+小三至小六着重于听说读写四个技能，阅读理解与作文教学是小三至小六的教学重点，此外听力与口试也加强训练，以应付考试需求。通过思维导图、阅读微技与写作训练让学生对文本有深层的理解，掌握华文华语的能力。
+
+### KEY PROGRAMMES (部门的主要活动与计划)
+
+![](/images/Note-to-add-below-the-textbook.jpg)
