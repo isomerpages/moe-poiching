@@ -843,3 +843,9 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 
 *   **Chinese New Year 农历新年庆祝会**
 ![](/images/sap16.png)
+
+*   **Dumpling Festival** **端午节**
+
+P5 students participated hands-on dumpling making session on 23 May 2016
+
+![](/images/sap17.png)
