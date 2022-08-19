@@ -817,3 +817,29 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
   </tr>
 </tbody>
 </table>
+
+![](/images/2015broadcast.jpg)
+
+**Chinese Comic Writing Programme**
+
+  **2016**
+
+*   为了鼓励学生学习华文，提高华文写作水平，推广华文学习委员会写作组、联合早报属下学生报《大拇指》、《逗号》和本地漫画导师将联办了“2016年全国中小学华文漫画写作计划”，而培青是参与的学校之一。本地漫写导师通过漫画，指导学生使用华文写作，一方面可让学生获取画漫画的宝贵知识；另一方面可激发他们的创意思考，增强学生对华文写作的信心，同时也培养学生通过漫画写作的兴趣，提高他们使用华文写作的能力。此写漫画写作班于7月20日开始了第一堂课。
+
+![](/images/sap15.png)
+
+**Events and Performances 活动项目）**
+
+**2017**
+
+*   **The 5th Singapore Youth Opera Showcase 2017**
+
+![](/images/The-5th-Singapore-Youth-Opera-Showcase-2017_updated_Page_1-1-e1508919103698-1350x1745.jpg)
+![](/images/The-5th-Singapore-Youth-Opera-Showcase-2017_updated_Page_2-2-e1508919259767.jpg)
+![](/images/The-5th-Singapore-Youth-Opera-Showcase-2017_updated_Page_3-e1508919314337.jpg)
+![](/images/The-5th-Singapore-Youth-Opera-Showcase-2017_updated_Page_4-4.jpg)
+
+**2016**
+
+*   **Chinese New Year 农历新年庆祝会**
+![](/images/sap16.png)
