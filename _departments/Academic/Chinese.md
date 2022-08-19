@@ -1540,4 +1540,191 @@ Out of 108 participants, 15 top participants were selected to enter the finals h
 
 **The National Primary School Chinese Story Telling Competition** was jointly organised by Singapore Hokkien Huay Kuan, the Singapore Middle School Chinese Teachers’ Association and Nan Chiau Primary School, with support from The Promote Mandarin Council and Capital 958FM. The finals was held on 1 August 2015 at Nan Chiau Primary School. Over 90 participants from various primary schools took part in the competition.
 
-* Merit Prize  :    4G Lin Shengxi
+* Merit Prize : 4G Lin Shengxi
+
+<img src="/images/2016dramastorytelling.jpg" 
+     style="width:50%">
+		 
+### 2015
+
+**The 2015 International Chinese Language Competition (ICLC) 2015年国际小学生电脑创意写作比赛**
+
+This competition was organized by Holy Innocents’ Primary School, Shen Jia Men Primary School in Zhejiang Province and The Education Board, Taiwan.  There were more than nine thousand participants worldwide. Congratulations to 3 of our pupils who have won awards in this competition.
+
+这次比赛由圣婴小学、中国浙江省舟山市普陀区沈家门小学和台湾台北市教育局主办。参赛者超过九千人。我们学校有三位同学获奖。
+
+**Singapore Category – 新加坡赛区**
+
+Gold Prize: Cheok Yun Zhen Lecia (6F) – 金奖：石芸祯（6F）
+
+Silver Prize: Shi Qilun (6E) – 银奖：石琪伦（6E）
+
+Copper Prize: Liu Yixuan (5D) – 铜奖：刘懿萱（5D）
+
+**International Category – 国际赛**
+
+Gold Prize: Cheok Yun Zhen Lecia (6F) – 金奖：石芸祯（6F）
+
+Silver Prize: Shi Qilun (6E) – 银奖：石琪伦（6E）
+
+![](/images/mt02.png)
+
+**21st National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition**  
+
+**第21届全国小学生现场作文比赛**
+
+A group of 24 students from P4 to P6 were selected to take part in the National Primary Schools Essay Writing Competition at Ang Mo Kio Primary School on 23 May 2015, Saturday.
+
+我校选派24名来自小四至小六的学生于2015年5月23日（星期六） 到茂桥小学参加全国小学生现场作文比赛。
+
+![](/images/cl10.png)
+
+**4th National Chinese Language Competition 2015**
+
+**2015年第四届全国小学语文比赛**
+
+The 4th National Chinese Language Competition was jointly organised by Bukit Panjang Primary School and Lam Soon CC Women’s Executive Committe (WEC), and sponsored by Creative Knowledge Pte Ltd, Wizlearn Technologies, ETutor and Lingzi Media Pte Ltd. 165 participants from 30 schools (55 teams) took part in this competition. Our school sent 2 teams, one of which emerged as top eight.
+
+我校获得2015年第四届全国小学语文比赛团体优胜奖。
+
+奖品：每人一个汉神电子词典PX2051、10元玲子传媒书券和奖状
+
+2015年4月10日下午，在武吉班让小学聚集了来自全国30所小学参赛学生，一共有55支参赛队伍。经过初赛以及紧张而又激烈的决赛，我校参赛的两支队伍中一支队伍入围八强之列。
+
+参赛的每支队伍中分数最高者获颁个人表现优异奖。
+
+![](/images/mt03.png)
+
+奖品：一本故事书、一个文具袋和奖状 <br>
+个人表现优异奖*：6F 石芸桢、5D 陈善雯 <br>
+团体优胜奖     ：5D陈善雯、5C孙亦宁、5D何齐佳
+
+![](/images/mt04.png)
+
+**2015年四年级讲故事比赛得奖者名单**
+
+第一名 – 4G – 魏欣瑶、何婧彤、罗佳敏
+
+第二名 – 4E – 陈涵俊，宋学蓉
+
+第三名 – 4D – 饶乐祺、邓嘉毅
+
+优胜奖 – 4C – 薛可昕
+
+优胜奖 – 4F – 陈靖杰
+
+优胜奖 – 4H – 赵天勤
+
+![](/images/mt05.png)
+
+**2015 世界书香日暨文学四月天**
+
+4月18日 由新加坡推广华文学习委员会和国家图书馆联合举办世界书香日暨文学四月天开幕日活动，我们学校4E班和6C班学生参加了这次盛会。4E班的沈舒月和宋学蓉同学在我们学校的阅读成果展板前向教育部兼通讯及新闻部政务部长沈颖女士介绍了我们学校推广阅读的活动情况。
+
+![](/images/mt06.png)
+
+**2015年上半年华文部校外比赛项目记录**
+
+**External Competition for Chinese Pupils**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">序号</span></th>
+    <th class="tg-l2bf" colspan="2"><span style="font-weight:bold">比赛项目</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">年级</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">日期</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">成绩</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">S/No</span></td>
+    <td class="tg-rs0e" colspan="2"><span style="font-weight:bold">External Competition</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Level</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Date</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Result</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">1</td>
+    <td class="tg-1ppo">2015 年全国中小学现场华文故事创作比赛</td>
+    <td class="tg-1ppo">The National On-The-Spot Chinese Story Writing Competition</td>
+    <td class="tg-1ppo">P4-P6</td>
+    <td class="tg-1ppo">6 Mar</td>
+    <td class="tg-1ppo">Pending for results</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">2</td>
+    <td class="tg-h5mn">2015年国际小学生电脑创意写作比赛</td>
+    <td class="tg-h5mn">2015 International Chinese Creative Writing Competition for Primary Schools</td>
+    <td class="tg-h5mn">P1-P6</td>
+    <td class="tg-h5mn">31 Mar</td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Singapore Category</span><br>Gold Prize:<br>Cheok Yun Zhen Lecia (6F)<br>Silver Prize:<br>Shi Qilun (6E)<br>Copper Prize:<br>Liu Yixuan(5D)<br><span style="font-weight:bold">International Category</span><br>Gold Prize:<br>Cheok Yun Zhen Lecia (6F)<br>Silver Prize:<br>Shi Qilun (6E)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3</td>
+    <td class="tg-1ppo">第四届全国小学语文比赛</td>
+    <td class="tg-1ppo">4th  National Chinese Language Competition</td>
+    <td class="tg-1ppo">P5-P6</td>
+    <td class="tg-1ppo">10 Apr</td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Individual Performance Merit Award：</span><br>Cheok Yun Zhen Lecia (6F), Tan Shan Wen Chloe (5D)<br>Prizes: Story book, Stationary Bag and Certificate<br><span style="font-weight:bold">Group Performace Merit Award: </span><br>SUN YINING(5C), HE QIJIA(5D), TAN SHAN WEN(5D)<br>Prizes: Certificate, Electronic Dictionary, $30 book voucher</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">4</td>
+    <td class="tg-h5mn">新马小学双语奥林匹克比赛</td>
+    <td class="tg-h5mn">12th Sinqapore-Malavsia Schools Bilinqual Olvmpiad (SMBO) 2015</td>
+    <td class="tg-h5mn">P5-P6</td>
+    <td class="tg-h5mn">17 Apr</td>
+    <td class="tg-xyrl">Lecia Cheok Yun Zhen (6F) and Thue Zhan Wei Aden (6D) are among the top 30 scorers out of 409 participants in the SMBO Preliminary Round.<br>Prizes: Certificate, $40 book voucher ($20/per), Xtream360 Headphone<br><span style="font-weight:bold">2nd Prize (Individual Award):</span><br>Shi Qilun (6E)<br>Prizes: Trophy, Certificate, $20 Book Voucher</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">5</td>
+    <td class="tg-1ppo">第八届全国中小学生华文文化常识比赛</td>
+    <td class="tg-1ppo">8th Inter-school (Pri &amp; Sec) Chinese Language and Cultural Quiz Competition 2015</td>
+    <td class="tg-1ppo">P5-P6</td>
+    <td class="tg-1ppo">24 Apr</td>
+    <td class="tg-tsok">Consolation Prize (Team Award):<br>Zhang Jiawei(5C), Yong Jia Xuan Nicole (5C)<br>TAN SHAN WEN(5D),      Liu Yixuan(5D)<br>Shi Qilun (6E),            Cheok Yun Zhen Lecia (6F),<br>Stuart Lim Yi Xiong (6F),  He Qijia(5D)<br>Certificate, $80 book voucher ($20/per)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">6</td>
+    <td class="tg-h5mn">全国中小学生“我最爱的新加坡”征文比赛</td>
+    <td class="tg-h5mn">“I love My Singapore” Creative Writing Competition</td>
+    <td class="tg-h5mn">P3-P6</td>
+    <td class="tg-h5mn">30 Apr</td>
+    <td class="tg-h5mn">Pending for results</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">7</td>
+    <td class="tg-1ppo">第二十一届全国现场华文创作比赛</td>
+    <td class="tg-1ppo">21st National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</td>
+    <td class="tg-1ppo">P4-P6</td>
+    <td class="tg-1ppo">23 May</td>
+    <td class="tg-1ppo">Pending for results</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">8</td>
+    <td class="tg-h5mn">中英文互译比赛</td>
+    <td class="tg-xyrl">National School Translation Competition<br>(Chinese English and Vice Versa)</td>
+    <td class="tg-h5mn">P4-P6</td>
+    <td class="tg-h5mn">23 May</td>
+    <td class="tg-h5mn">Pending for results</td>
+  </tr>
+</tbody>
+</table>
+
+**Department Blog :**
+
+[https://poichingchinese.blogspot.sg/](https://poichingchinese.blogspot.sg/)
