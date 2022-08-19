@@ -755,3 +755,65 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 #### Chinese Broadcasting
 
 **2016**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax" rowspan="4"><span style="font-weight:bold">欢迎收听培青学校学生 2016年演播的广播剧</span><br><br><span style="font-weight:bold"> </span>为了培养学生学习华文兴趣，提高学生的华文华语听说读写能力，我校搭建乐学善用平台：2016年继续和圣婴中学<br> 合作举办了第二期广播剧培训班。通过培训，学生学会了如何把课文改编成广播剧脚本以及如何演播广播剧，从而<br> 提高华文听说读写的综合能力。这里上载的是他们练习录音。我们将去圣婴中学录制广播剧，请耐心等待。<br></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+</table>
+
+**2015**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-b36l{background-color:#E6E6E6;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:middle}
+.tg .tg-tuyz{background-color:#FFF;color:#F1AE16;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-bhuf{background-color:#FFF;color:#222;text-align:right;vertical-align:top}
+.tg .tg-b04k{background-color:#FFF;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:middle}
+.tg .tg-ring{background-color:#E6E6E6;color:#222;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tuyz" colspan="2"><a href="https://drive.google.com/file/d/0B2uUdsTFiuj4cDBkTi1Xc2dWMlk/view?usp=sharing"><span style="font-weight:bold">欢迎收听培青学校学生2015年演播的广播剧</span></a><br>圣婴中学广播剧小组的学生于4月9日和4月23日前来我校为小五的13名学生上了两次培训课程。之后，学生在<br>李皆乐老师的督导下终于完成了广播剧的编写工作。8月28日李皆乐老师带领了13位学生前往圣婴中学进行广播<br>剧的录制。以友情为主题的三个广播剧是：</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn" colspan="2">  </td>
+  </tr>
+  <tr>
+    <td class="tg-bhuf">《三个好朋友》演播者是5D班的陈嘉乐、蔡恒熙、许珉恺和吴浚杭；</td>
+    <td class="tg-b04k"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-1-1.png" alt="speaker-1" width="27" height="27"></td>
+  </tr>
+  <tr>
+    <td class="tg-ring">《高山流水》演播者是5D班的刘懿萱、刘芳辰、郑靖幼和何齐佳。</td>
+    <td class="tg-b36l"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-2-1.png" alt="speaker-2" width="27" height="27"></td>
+  </tr>
+  <tr>
+    <td class="tg-bhuf">《汉斯》演播者是5C班的张嘉为、杨佳萱、何俊陞、刘枊智和5E班的黄浩然；</td>
+    <td class="tg-b04k"><img src="https://poiching.moe.edu.sg/wp-content/uploads/2017/01/speaker-3-1.png" alt="speaker-3" width="27" height="27"></td>
+  </tr>
+</tbody>
+</table>
