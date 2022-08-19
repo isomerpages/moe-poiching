@@ -1435,3 +1435,109 @@ We would also like to extend our gratitude to their subjects teachers for their 
 
 Mdm Jeanne Phuah (both 6C’s and 6F’s EL teacher), Ms Nicole Chan (6C’s CL teacher) and Mr Dave Yang (6F’s CL teacher)
 
+![](/images/cl7.png)
+
+**全国华文大比拼**
+
+23 位来自小五和小六学生在2017年4月1日到南洋女中参加华文大比拼比赛
+
+   负责老师：杨庆年老师、吴诗玲老师     
+
+**National Chinese Challenge**
+
+A total of 23 P5 and P6 students took part in the National Chinese Challenge 2017 at Nanyang Girls High School on 1 April 2017, Saturday.
+
+Teachers in-charge : Dave Yang & Wendy Goh
+
+![](/images/National-Chinese-Challenge-2017-Nanyang-Girls-High-School-1April-2017-1350x759.jpg)
+
+**2016**
+
+**2016 International Chinese Language Competition for Primary Schools**
+
+Singapore District
+
+* Silver Award     :   Xue Kexin (5C)
+
+* Bronze Award  :    Liu Yixuan (6D)
+
+International
+
+* Silver Award     :   Xue Kexin (5C)
+
+<img src="/images/Intl-Chinese-Lang-Competition-for-Pri.jpg" 
+     style="width:50%">
+		 
+**10th National Inter-Primary Chinese Poetry Writing Competition** on 15 July 2016.
+
+* 2nd Prize  : 刘懿萱 Liu Yixuan
+
+![](/images/cl8.png)
+
+**9th Chinese Language and Cultural Quiz Competition** organized by Temasek  Junior College on 15 April 2016.
+
+* 3rd Prize (Team Award)   :   Tan Shan Wen (6D),  Liu Yixuan (6D),  Lim Zhi Min (6D),  Lim Yong Da (5D).
+
+* Merit Prize (Team Award) :   Zhang Jiawei (6C),  Liang Ruiqian (6C),  Leow Yu Xuan Valencia (5D),  Sim Shu Yue (5D)
+
+![](/images/cl9.png)
+
+**5th National**  **Chinese Calligraphy Competition** organised by Futsing Association and Poi Ching School on 15 July 2016.
+
+* 2nd prize : 6D Neo Ming Hui.
+
+* Merit Prize : 6C Low Yang Zhi,  5D  Zhao Yueyi.
+
+* Consolation Prize  : 6H Cheong Jia En
+
+**National Primary Schools Chinese Calligraphy** Competition co-organised by Yew Tee CC and Chinese Calligraphy Society of Singapore on 27 March (Sunday).
+
+* 2nd Prize : 6C Low Yang Zhi
+
+* Merit Prize : 6D Neo Ming Hui
+
+**27th National Primary Schools Chinese New Year Chinese Calligraphy Competition 2016** organised by Hong Wen School, S4 Cluster Centre of Excellence (Chinese Cultural Arts) on 19 Feb Friday from 2pm to 6pm.
+
+* 3rd prize : 6C Low Yang Zhi
+
+* Merit Prize : 6D Neo Ming Hui
+
+* Consolation : 3E Shaun Lim En Wee
+
+**8th National Youth Chinese Calligraphy Competition** organised by NUS on 20 Feb Saturday.
+
+* 2nd prize : 6C Low Yang Zhi
+
+* Merit Prize : 6DNeo Ming Hui
+
+**2016 Art Fest**，“张瘦石书画比赛”co-organised by East Zone Chinese Centre and Chong Cheng High on Feb 26, art work displayed at Central Library, Level B1, from 2nd to 9th April.
+
+* Merit Prize : 6C Low Yang Zhi
+
+**Calligraphy Competition co-organised by Lian He Zao Bao and Chinese Calligraphy Society of Singapore** -1 May(Sunday)
+
+* 2nd prize : 6D Neo Ming Hui
+
+* Merit Prize : 6C Low Yang Zhi
+
+·       **7th National Primary Schools Chinese Calligraphy Competition** organised by Chinese Calligraphy Society of Singapore-5 June(Sunday)
+
+* Merit Prize : 6C Low Yang Zhi, 6D Neo Ming Hui
+
+**The National Primary Schools Chinese Telling Competition 2016** was jointly organised by the Middle School Chinese Teachers’ Association and Tao Nan School, with the support from CAPITAL 958FM and Singapore Hokkien Huay Kuan.
+
+Out of 108 participants, 15 top participants were selected to enter the finals held at Tao Nan School on 23 July 2016.
+
+![](/images/2016dramatellingcomp.jpg)
+
+* Koh Kai Yang ( 5G) was awarded the Merit Prize.
+
+**The 8th International Primary Students Mandarin Recital Contest  2016** 年第八届“朝阳杯”国际中小学生朗诵比赛（新加坡选拔赛）was jointly organised by Anderson Primary School, Chinese Teachers Literary Recital Society and Sgwritings Culture Association on 01 July 2016 (Saturday).
+
+* 3F Lin Chen 林  晨  ( 3F)  Lin Shengxi   林 圣 熹  (5I) and  Koh Kai Yang  高 凱 扬（5G) did well and won the 2nd prize.  They are invited to participate in the International Competition ( 2016 年第八届“朝阳杯”国际中小学生朗诵比赛   [国际赛] ）to be held on 13 August 2016.
+
+![](/images/2016drama8intl-2.jpg)
+
+**The National Primary School Chinese Story Telling Competition** was jointly organised by Singapore Hokkien Huay Kuan, the Singapore Middle School Chinese Teachers’ Association and Nan Chiau Primary School, with support from The Promote Mandarin Council and Capital 958FM. The finals was held on 1 August 2015 at Nan Chiau Primary School. Over 90 participants from various primary schools took part in the competition.
+
+* Merit Prize  :    4G Lin Shengxi
