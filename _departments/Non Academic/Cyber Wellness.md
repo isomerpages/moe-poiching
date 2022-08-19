@@ -89,3 +89,39 @@ Our Cyber Wellness Ambassadors went to different classes in all the different le
 *   Recess Duties
 
 ![](/images/cyberwellness_pic2-768x576.jpg)
+
+### Resources
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo"><img src="https://www.poiching.moe.edu.sg/wp-content/uploads/2021/03/QR01-1.jpg" alt="Qr01"></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">MOE Cyber Wellness Portal</span><br>MOE’s Cyber Wellness Portal has useful tips, strategies and resources on various cyber issues. You can also access it through “The ICT Connection” mobile app.<br><a href="http://www.ictconnection.moe.edu.sg/cyber-wellness"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">www.ictconnection.moe.edu.sg/cyber-wellness </span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn"><img src="https://www.poiching.moe.edu.sg/wp-content/uploads/2021/03/QR02.jpg" alt="Qr02"></td>
+    <td class="tg-rs0e">Media Literacy Council<br>Media Literacy Council provides information, tips and resources on managing personal information online.<br><a href="http://www.medialiteracycouncil.sg/Online-Safety/sharing-personal-information-online"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">www.medialiteracycouncil.sg/Online-Safety/sharing-personal-information-online</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://www.poiching.moe.edu.sg/wp-content/uploads/2021/03/QR03.jpg" alt="Qr03"></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">National Library Board</span><br>Pick up some research skills and learn more about the S.U.R.E. method from NLB’s eLearn Centre. <br><a href="http://nlb.gov.sg/sure/elearn-centre"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nlb.gov.sg/sure/elearn-centre</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://www.poiching.moe.edu.sg/wp-content/uploads/2021/03/QR04.jpg" alt="Qr04"></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Personal Data Protection Commission</span><br>Personal Data Protection Commission Singapore has useful information and tips on protecting personal data.<br><a href="http://www.pdpc.gov.sg/Individuals/Protecting-Your-Personal-Data"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">www.pdpc.gov.sg/Individuals/Protecting-Your-Personal-Data</span></a> </td>
+  </tr>
+</tbody>
+</table>
