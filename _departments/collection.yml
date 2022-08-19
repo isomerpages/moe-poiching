@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Non Academic/Physical Education.md
       - Non Academic/National Education & Social Studies.md
       - Non Academic/Character and Citizenship Education.md
       - Non Academic/Media Resource Library.md
