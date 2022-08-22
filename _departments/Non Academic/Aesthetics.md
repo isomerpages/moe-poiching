@@ -148,3 +148,23 @@ We also require these high achievers to do service learning, integrating meaning
 **Listen to Angelina’s (6 Filial Piety) piano performance during 1st Music Aesthetics Week @ PCS 2021**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIzdButqmFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Art Aesthetics Week 2021 @ PCS**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BbbVLxaG0mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Music Aesthetics Week 2021 @ PCS**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1al3CMwHsgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Aesthetics Week 2021 Advertisement Trainer @ PCS**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VcIni7cEqcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Art Camp 2.0: Evolution Teaser Video For 2020**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rwW0ytHUHko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Our Dept Events (2020)
+
+**Student Leadership Training For Art and Music Monitors @ Poi Ching School (6th January 2020, [Monday])**
