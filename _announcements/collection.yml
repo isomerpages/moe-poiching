@@ -1,4 +1,6 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - 11th National Primary and Secondary Schools Chinese Calligraphy
+        Competition.md
