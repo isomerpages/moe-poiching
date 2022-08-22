@@ -640,4 +640,19 @@ Our students were also involved in the project. As part of our Apprenticeship Pr
 ![](/images/smural-3.jpeg)
 ![](/images/smural-4.jpeg)
 
+**P2 Dance Performance during Assembly 2016**
 
+On Tuesday, 2 August 2016, we had an Assembly Programme titled “Dance of The World”.  Pupils learnt about the dance styles from all over the world such as Jive – USA, Paso Doble – Spain, Cha Cha Cha – Cuba. Pupils engaged in a total appreciation of various cultures of the world through these dances, their histories, and a participative taster mass dance segment to complete their arts experience.
+
+![](/images/p2-dance-1-e1496717227321.jpeg)
+![](/images/p2-dance-6-e1496717277203.jpeg)
+![](/images/p2-dance-2.jpeg)
+![](/images/p2-dance-3.jpeg)
+![](/images/p2-dance-4.jpeg)
+![](/images/p2-dance-5.jpeg)
+![](/images/p2-dance-7.jpeg)
+![](/images/p2-dance-8.jpeg)
+
+**Art Assembly Programme by Art Outreach 2016**
+
+During the Art assembly programme, Art Outreach presenters took the Lower Primary pupils on a journey to explore Singapore’s history through artworks by Liu Kang and Ho Kok Hoe. Pupils were actively involved in the stories behind people, places and events that inspired the artworks through dramatization, games and discussions facilitated by the presenters. Through exploring artworks by the local artists, pupils developed an understanding of Singapore’s history and also an appreciation for our cultural diversity.
