@@ -194,3 +194,37 @@ We also require these high achievers to do service learning, integrating meaning
 **Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1OaBqx5ZoQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Tiancheng’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KA8NE6SLLPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Brandon’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FtW_0LBO7U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Gek Min’s performances on the flute during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yp-HNh4Wvgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7TW18_3SBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NtyqNPdmzFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Angelina’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f11BFdySGtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Cheryl’s, Joan’s & Alyssia’s performance on the violins during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFTybL0SVm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Phoebe’s & Jiahe’s performance during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_s27161HHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Cadence’s performance during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qFcMPF-6JPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
