@@ -477,3 +477,131 @@ Video & Photo Credits: Mdm Aishah & Mrs Jazreel Quah
 Video & Photo Credits: Miss Khoo W W
 
 [https://flic.kr/s/aHsmKynT2p](https://flic.kr/s/aHsmKynT2p)
+
+**2019**
+
+1. Artstravanganza 2019: Appreciating Diversity [7th November 2019]
+
+Video & Photo Credits: Mrs Fiona Poh & Miss Khoo W W    
+
+[https://flic.kr/s/aHsmGZS1gY](https://flic.kr/s/aHsmGZS1gY)
+
+2. East Zone Art Teaching Lab 2019 @ PCS Art Gallery [17th September 2019]
+
+Photo Credits: Mr Alex Huang      
+
+[https://flic.kr/s/aHsmGZS1gY](https://flic.kr/s/aHsmGZS1gY)
+
+3. Art Camp 2019 @ PCS[12th – 13th September 2019]
+
+Photo/Video Credits: W W Khoo
+
+[https://flic.kr/s/aHsmGTn8Us](https://flic.kr/s/aHsmGTn8Us)
+
+4. Music Aesthetics Week 2019 @ Poi Ching School (3rd – 4th September 2019)
+
+Photo Credits: Mr Wong Chee Wee
+
+[https://flic.kr/s/aHsmGGB7Pc](https://flic.kr/s/aHsmGGB7Pc)
+
+5. Art Aesthetics Week 2019 @ Poi Ching School (2nd September 2019)
+
+Photo Credits: Mdm Aishah and Mrs Fiona Poh
+
+[https://flic.kr/s/aHsmGDJnTL](https://flic.kr/s/aHsmGDJnTL)
+
+6. SYF Art Exhibition 2019 @ National Museum of Singapore                         
+
+[5th – 21st July 2019]
+
+[https://flic.kr/s/aHsmEP6QtK](https://flic.kr/s/aHsmEP6QtK)
+
+7. Art Aesthetics Week 2019 @ Poi Ching School (27th May 2019)
+
+Photo Credits: Mdm Marwati and Mrs Fiona Poh**
+
+[https://flic.kr/s/aHsmDT3WH9](https://flic.kr/s/aHsmDT3WH9)
+
+8. Music Aesthetics Week 2019 @ Poi Ching School (28th – 29th May 2019)
+
+Photo Credits: Mr Alex Huang
+
+[https://flic.kr/s/aHsmDT49Jd](https://flic.kr/s/aHsmDT49Jd)
+
+9.  National Primary School On-the-Spot Art Competition @ Nan Hua High      
+
+School (15th March 2019)
+
+Photo Credits: Mrs Fiona Poh
+
+[https://flic.kr/s/aHsmwBes5m](https://flic.kr/s/aHsmwBes5m)
+
+10.  Music Aesthetics Week 2019 @ Poi Ching School (13th-14th March 2019)
+
+Photo Credits: Mdm Rose 
+
+[https://flic.kr/s/aHskPH6eaX](https://flic.kr/s/aHskPH6eaX)
+
+11.  Art Aesthetics Week 2019 @ Poi Ching School (11th-12th March 2019)
+
+Photo Credits: Mdm Aishah, Mr Ng Theng Hian and Mrs Fiona Poh
+
+[https://flic.kr/s/aHskPBpCqp](https://flic.kr/s/aHskPBpCqp)
+
+12.  PCS Student Leadership Training (Art Monitors) 2019
+
+[https://flic.kr/s/aHsmyBnTrd](https://flic.kr/s/aHsmyBnTrd)
+
+13.  PCS Student Leadership Training (Music Monitors) 2019
+
+[https://flic.kr/s/aHsmyBr7HC](https://flic.kr/s/aHsmyBr7HC)
+
+**2018**
+
+
+1. Music Aesthetics Week 2018 (Term 1, Week 10): A platform to showcase our PCS pupils’ musical talents on stage
+                                                                                                  [https://flic.kr/s/aHsme4iiha](https://flic.kr/s/aHsme4iiha)
+
+2. P6 Learning Journey (Dance/Choral Performance) @ Tampines Changkat CC**
+
+[https://flic.kr/s/aHsmkH9UHB](https://flic.kr/s/aHsmkH9UHB)
+
+**Watch our PCS P6 pupils in action of their nifty hip-hop dance moves below:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg-E1TwphUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lhOZSL2b930" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NPS10XfcYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_pf3ktIGDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIqqvOZE-mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3. PCS Idol Superstar 2018
+
+4. 2nd Music Aesthetics Week 2018 (Term 3, Week 10)
+
+[https://flic.kr/s/aHsmpyG9W2](https://flic.kr/s/aHsmpyG9W2)
+
+5. Art Aesthetics Week 2018 (Term 3, Week 10)
+
+[https://flic.kr/s/aHsmtLgVmK](https://flic.kr/s/aHsmtLgVmK)
+
+**2017**
+
+1. P5 Learning Journey (Instrumental Performance)
+
+[https://flic.kr/s/aHskx2dgkn](https://flic.kr/s/aHskx2dgkn)
+
+**Watch our P5 teachers in performance on stage below:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAWrqcLfDNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. NDP School Celebrations @ PCS
+
+[https://flic.kr/s/aHsm2v1dS1](https://flic.kr/s/aHsm2v1dS1)
+
+3. PCS Superstar 2017
+
+[https://flic.kr/s/aHskZZxu4b](https://flic.kr/s/aHskZZxu4b)
