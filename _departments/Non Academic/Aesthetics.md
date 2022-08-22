@@ -237,7 +237,20 @@ We also require these high achievers to do service learning, integrating meaning
 
 ![](/images/aest2.jpg)
 
-### Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 1)**
+### Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 1)
 
 **Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVr_xj4dFLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Zhi Han’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jwx788VFRuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Kaylee’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g571SkVEQxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Angelina’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neAEea4rmHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
