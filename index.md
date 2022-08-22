@@ -17,7 +17,7 @@ sections:
           url: /announcements/11th-national-primary-and-secondary-schools-chinese-calligraphy-competition/
         - title: Quick Links
           description: ""
-          url: ""
+          url: /quick-links/for-students
   - resources:
       title: 100th Anniversary Celebration
 ---
