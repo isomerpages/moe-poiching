@@ -646,7 +646,23 @@ On Tuesday, 2 August 2016, we had an Assembly Programme titled “Dance of The W
 
 During the Art assembly programme, Art Outreach presenters took the Lower Primary pupils on a journey to explore Singapore’s history through artworks by Liu Kang and Ho Kok Hoe. Pupils were actively involved in the stories behind people, places and events that inspired the artworks through dramatization, games and discussions facilitated by the presenters. Through exploring artworks by the local artists, pupils developed an understanding of Singapore’s history and also an appreciation for our cultural diversity.
 
+![](/images/art-outreach-1.jpg)
+![](/images/art-outreach-2.jpg)
+![](/images/art-outreach-3.jpg)
+![](/images/art-outreach-4.png)
+![](/images/art-outreach-5.jpg)
+![](/images/art-outreach-6.jpg)
 
 **Primary 4 Aesthetics Learning Journey 2016**
 
 As part of the broad-based art experience under the Aesthetics Department, the school organized a learning journey for the Primary 4 pupils to attend a Chinese Musical Drama &lt; The Legend of Monkey King &gt; on the 28th July 2016. This production draws inspiration from the famous classical Chinese novel  and aims to raise the interest of our pupils in learning Chinese language and culture. We hope that this authentic theatre experience will help to nurture a lifelong love and appreciation of the Arts.
+
+![](/images/lj-1.jpeg)
+![](/images/lj-2.jpeg)
+![](/images/lj-3.jpeg)
+![](/images/lj-4.jpeg)
+![](/images/lj-5.jpeg)
+![](/images/lj-6.jpeg)
+![](/images/lj-8.jpeg)
+![](/images/lj-9.jpeg)
+
