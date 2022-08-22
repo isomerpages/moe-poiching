@@ -783,3 +783,15 @@ Students artworks will be featured in the SYF 2015 exhibition publication and vi
 **Award:** Certificate of Recognition <br>
 \*Artwork has been selected for SYF exhibition at Raffles City Shopping Centre, City Square Level 3 <br>
 **Artist statement:** Through the building of the houses that our grandparents and our parents lived in, we realized the shared space that they had as a community had shrunk a lot over the years. Everyone had more personal space but we lost something precious, the kampong spirit. We hope that with the limited land we have, our generation can forgo a little of our personal space and find ways to create more shared and accessible open spaces to live like members of a big family who cares for one another.
+
+![](/images/aesthetics07.png)
+
+**Category:** C (Pri 5 & 6) <br>
+**Title:** What Can Our Shoes Tell Us
+
+**Artists:** Aracelia Tjandrakirana, Nicholas Tan, Lee Jing Yi, Michelle Tan Min Shuen, Choy Wen Xuan,Jernelle Louis Haryono, Kelly Mak Rae Lynn, Tan Hui Xuan Serene
+
+**Class:** 6C, 6D, 6E <br>
+**Medium:** Mixed Media <br>
+**Award:** Certificate of Participation <br>
+**Artist statement:** School shoes serve a practical purpose but also provide cues on how our nation has progressed. In the past, students wore similar all white canvas shoes, used with bottled white starch. Now we have more choices and our shoes reveal our personalities. We were excited when we did our research for future shoes. There are already shoes that track our fitness and send the data to smartphone app etc.
