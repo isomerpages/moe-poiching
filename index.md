@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Poi Ching School
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +16,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
+        - title: 100th Anniversary Celebration
+          description: ""
+          url: /100th-anniversary-celebration/
 ---
