@@ -270,3 +270,40 @@ We also require these high achievers to do service learning, integrating meaning
 **Listen to Gek Min’s performance on her flute during Music Aesthetics Week 2019**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3xWYyMZ-nZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**A uniquely designed poster using the concept of Bubble Printing to commemorate our 1st Aesthetics Week 2019 @ Poi Ching School**
+
+**– Designed by: Mdm Aishah**
+
+![](/images/poster1.jpg)
+
+### Student Leadership Training for Art and Music Monitors
+The Aesthetics Department has conducted the Student Leadership Training for the Art and Music monitors on 4th January 2019 (Friday) during Week 0 of Term 1. The training took place in the following respective venues: Music Room 1 and Art Room 1 at Block E. The department has continued to leverage on our school’s Student Leadership Training and our focus of nurturing the leadership attributes of our Art and Music monitors continues, where they learn to take up roles and responsibilities assigned to them. At the end of their training, our Art and Music monitors are awarded the certification of completion of their training for their roles and responsibilities in Poi Ching School. To further commemorate this meaningful training, our Music monitors recited their leadership pledge as an affirmed acceptance of their duties and responsibilities.
+
+![](/images/aes_1.jpg)
+**Sharing the joy and jubilation of becoming Art monitors in Poi Ching School.**
+![](/images/aes_2.jpg)
+**Our Art monitors listened with rapt attention during the training session.**
+![](/images/aes_3.jpg)
+**Our Art teachers, Mrs Fiona Poh (ST/Art) and Mdm Aishah explaining the roles and responsibilities of Art monitors in Poi Ching School.**
+![](/images/aes_4.jpg)
+**An informal shot of our new Art monitors…………….**
+![](/images/aes_5.jpg)
+**A formal shot of our new Art monitors receiving their certification of completion of their training in Poi Ching School.**
+![](/images/aes_6.jpg)
+**Our new Music monitors receiving their certificates upon completion of their training.**
+![](/images/aes_7.jpg)
+**Sharing the joy and jubilation of becoming Music monitors in Poi Ching School.**
+![](/images/aes_8.jpg)
+**A formal shot of our new Music monitors receiving their certification of completion of their training in Poi Ching School.**
+![](/images/aes_9.jpg)
+**Our newly-minted Music monitors reciting their leadership pledge.**
+![](/images/aes_10.jpg)
+**Our Music monitors displaying their new certificates as an affirmed acceptance of their duties and responsibilities in Poi Ching School.**
+![](/images/aes_11.jpg)
+**Student Leadership Training Pledge Certificates for Art and Music Monitors – Designed by Miss Khoo W.W.**
+![](/images/aes_12-1.jpg)
+**Roles & Responsibilities of Music Monitors – Designed by Miss Khoo W.W.**
+
+**Listen to our new Music monitors reciting their leadership pledge below:**
+
