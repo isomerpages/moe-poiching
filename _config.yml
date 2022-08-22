@@ -2,8 +2,8 @@ title: Poi Ching School
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#ffffff"
-  secondary-color: "#f5a623"
+  primary-color: "#f5a623"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
