@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - SLS Support for Home based Learning.md
       - Poi Ching School – Wait List.md
       - MOE FAS e application Form.md
       - 11th National Primary and Secondary Schools Chinese Calligraphy
