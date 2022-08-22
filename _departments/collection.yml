@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Non Academic/Aesthetics.md
       - Non Academic/Counselling.md
       - Non Academic/Sexuality Education.md
       - Non Academic/Corporate Social Responsibility & Partnership.md
