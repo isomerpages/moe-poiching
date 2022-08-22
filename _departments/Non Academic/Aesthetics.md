@@ -666,3 +666,8 @@ As part of the broad-based art experience under the Aesthetics Department, the s
 ![](/images/lj-8.jpeg)
 ![](/images/lj-9.jpeg)
 
+**Aesthetics Week (Term 3) 2016**
+
+For Aesthetic Week this term, the P1 to P4 dropped by the art gallery during their recesses for some Lego fun. As they enter the gallery, they picked up some Lego blocks and built something for the Poi Ching School Lego Garden. Pupils are free to add a flower, an insect, a little creature or anything they can imagine and create, to help make the garden come alive.
+
+**_Lego Fun in the Art Gallery_**
