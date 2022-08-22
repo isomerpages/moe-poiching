@@ -234,4 +234,3 @@ We also require these high achievers to do service learning, integrating meaning
 **A uniquely designed poster using the concept of String Printing to commemorate our 2nd Aesthetics Week 2019 @ Poi Ching School**
 
 **– Designed by: Mdm Aishah**
-
