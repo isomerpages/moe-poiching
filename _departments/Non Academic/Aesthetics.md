@@ -605,3 +605,39 @@ Photo Credits: Mdm Aishah, Mr Ng Theng Hian and Mrs Fiona Poh
 3. PCS Superstar 2017
 
 [https://flic.kr/s/aHskZZxu4b](https://flic.kr/s/aHskZZxu4b)
+
+### Past Dept Archives
+
+**2016**
+
+**Performing Arts and Sports CCA Appreciation Night 2016**
+
+On Friday, 29 July 2016, we organized Poi Ching School’s Performing Arts and Sports Appreciation Night to celebrate the success of our preforming arts and sports CCAs. In addition, through this appreciation night, we would like to show our heartfelt gratitude to our parents and instructors for their unwavering support.
+
+![](/images/cca-1.jpeg)
+![](/images/cca-2.jpeg)
+![](/images/cca-3.jpeg)
+![](/images/cca-4.jpeg)
+![](/images/cca-6.jpeg)
+![](/images/cca-7.jpeg)
+
+
+**Mural Painting @ Parkview RC 2016**
+
+On Friday, 24 Jun 2016, teachers of Poi Ching School, in collaboration with Tampines Central Constituency People’s Association organized a Mural Painting Project for Parkview RC Senior Citizens Corner. This initiative is part of our staff VIA (Values-In-Action) and staff bonding activity. The designs of the murals are based on the theme ‘Kampung Spirit’.
+
+![](/images/mural-1.jpeg)
+![](/images/mural-2.jpeg)
+![](/images/mural-3.jpeg)
+![](/images/mural-4.jpeg)
+![](/images/mural-5.jpeg)
+![](/images/mural-6.jpeg)
+
+Our students were also involved in the project. As part of our Apprenticeship Programme for Visual Arts, we also got our talented students to be involved in this project as part of service learning, integrating meaningful community service with reflection to enrich their learning experience, teach civic responsibility, and strengthen communities.
+
+![](/images/smural-1.png)
+![](/images/smural-2.jpeg)
+![](/images/smural-3.jpeg)
+![](/images/smural-4.jpeg)
+
+
