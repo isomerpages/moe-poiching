@@ -734,3 +734,52 @@ The Aesthetics Week hopes to help students discover strengths and interests by g
 **_Printmaking in the Art Gallery_**
 
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGgks_Gw2oIdT4u9gC3t2w2Ik6dcfmRXGKfYNGKL8buDuB-_lFol45MUDC2GzxdP4V7sOYwm4PqAKj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+**_Performance at the Library_**
+
+![](/images/Audiences.png)
+![](/images/P12_Performers.png)
+![](/images/P34_Performers.png)
+![](/images/P56_Performers.png)
+[Videos of Performances](https://drive.google.com/drive/folders/0BwUYQqJ5nKu0S28zR18yODIzYXc?usp=sharing)
+
+### Accolades
+
+**Tampines Kindness Movement Art Competition 2016**
+
+Poi Ching School pupils took part in the Tampines Kindness Movement Art Competition 2016. It was a meaningful competition where pupils got to share their perspectives on what kindness meant to them. We would like to extend our heartiest congratulations to Andric Lim of 4 Filial Piety and Kaelyn Sum of 3 Courage for winning 1st and 3rd respectively in the Primary School Category. Andric and Kaelyn received their prizes from Tampines MP, Mr Baey Yam Keng at One Community Fiesta on 4th August 2016.
+
+![](/images/accolades.png)
+
+**SG50 in Art Curriculum Online Showcase**
+
+In celebration of SG50 in the Art Curriculum, 50 artworks by the primary students and 50 artworks by the secondary students are being showcased in the MOE-SG50 Microsite – http://moe.gov.sg/sg50.
+
+The artworks by Chloe Low from 4F and Hayley Yew and Angel Tan from 4H are selected for the SG50 Microsite and they are awarded Certificate of Commendation for their participation.
+
+![](/images/Aesthetics13.jpeg)
+![](/images/Aesthetics14.jpeg)
+![](/images/Aesthetics15.jpeg)
+
+**Singapore Youth Festival 2015**
+
+Students artworks will be featured in the SYF 2015 exhibition publication and via an online showcase.
+
+**Category:** A (Pri 1 & 2) <br>
+**Title:** Our Singapore Wheel <br>
+**Artists:** Ho Wen Xuan, Joyce Khu Le Xuan, Janessa Yeo Jing Wen, Tan Yu Jun Kyla, Lim Hui Ping Elaiin <br>
+**Class:** 1H <br>
+**Medium:** Mixed Media <br>
+**Award:** Certificate of Participation <br>
+**Artist’s statement:** Our teachers shared with us on Singapore’s past and present. Through this project, we learnt about Singapore’s past landscapes and transportations. We decided to think of the future and hang our ideas on the Singapore Flyer. We realised how lucky we are as Singaporeans and appreciate the comfortable life we are living in. We love our country.
+
+![](/images/aesthetics06.png)
+
+**Category:** B (Pri 3 & 4) <br>
+**Title:** Our Shared Space <br>
+**Artists:** Chung Shuang Ying, Ray Chow Kai Rui, Tai Hao Qing Bryan, Chung Xin Ying <br>
+**Class:** 4D, 4E <br>
+**Medium:** Lego Blocks <br>
+**Award:** Certificate of Recognition <br>
+\*Artwork has been selected for SYF exhibition at Raffles City Shopping Centre, City Square Level 3 <br>
+**Artist statement:** Through the building of the houses that our grandparents and our parents lived in, we realized the shared space that they had as a community had shrunk a lot over the years. Everyone had more personal space but we lost something precious, the kampong spirit. We hope that with the limited land we have, our generation can forgo a little of our personal space and find ways to create more shared and accessible open spaces to live like members of a big family who cares for one another.
