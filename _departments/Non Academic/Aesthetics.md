@@ -168,3 +168,29 @@ We also require these high achievers to do service learning, integrating meaning
 ### Our Dept Events (2020)
 
 **Student Leadership Training For Art and Music Monitors @ Poi Ching School (6th January 2020, [Monday])**
+
+**Student Leadership Training 2020 [A Video Montage for all our PCS Art and Music Monitors]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBHtYqJ_u8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Our Dept Events (2019)
+
+**Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 3)**
+
+**Listen to Mr Dave Yang’s voice performance on stage during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/21-nQiU7SOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Andrey’s and Isabelle’s performance on their cellos during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_vHgW9UuuS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Phoebe’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfwT3Nyb4fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 2)
+
+**Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OaBqx5ZoQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
