@@ -15,6 +15,7 @@ contacts:
   - content:
       - phone: +65 6785 6420
       - email: contact@poiching.moe.edu.sg
-      - other: Fax :67857198
+      - other: Fax :67857198 <br> Nearest MRT Station – Tampines MRT station <br> Buses
+          – 293, 27, 27A, 127, 72, 168
     title: General Enquiries & Feedback
 ---
