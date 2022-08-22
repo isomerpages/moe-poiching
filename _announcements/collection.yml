@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - Winner List – 10th National Primary & Secondary School Chinese
+        Calligraphy Competition.md
       - Leave of Absence Application Form.md
       - SLS Support for Home based Learning.md
       - Poi Ching School – Wait List.md
