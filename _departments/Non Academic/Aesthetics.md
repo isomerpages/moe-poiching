@@ -795,3 +795,29 @@ Students artworks will be featured in the SYF 2015 exhibition publication and vi
 **Medium:** Mixed Media <br>
 **Award:** Certificate of Participation <br>
 **Artist statement:** School shoes serve a practical purpose but also provide cues on how our nation has progressed. In the past, students wore similar all white canvas shoes, used with bottled white starch. Now we have more choices and our shoes reveal our personalities. We were excited when we did our research for future shoes. There are already shoes that track our fitness and send the data to smartphone app etc.
+
+![](/images/aesthetics08.png)
+
+**SBS Transit Art Competition**
+
+Ng Shin Rei, Variel from Class 2G won a Merit Prize in SBS Transit Art Competition in Nov 2014. She received her award from Mrs Josephine Teo, Senior Minister for State for Finance and Transport.
+
+![](/images/aesthetics09.png)
+
+**2015 National Dancesport Competition for Primary Schools** 
+
+Shayne Lai from 5 Honesty and Edric Gan from 2 Filial Piety
+
+Shayne was awarded the 4th place for Jive and the 6th place for Cha Cha!
+
+![](/images/aesthetics10.png)
+
+**National Arts Education Award 2013**
+
+A national award conferred by the National Arts Council to recognise school’s efforts in promoting arts education at different stages by
+
+* developing a holistic approach to arts education
+
+* adopting good arts practices and programme
+
+![](/images/aesthetics11.png)
