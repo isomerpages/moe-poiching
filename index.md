@@ -18,6 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
-  - resources:
-      title: 100th Anniversary Celebration
 ---
