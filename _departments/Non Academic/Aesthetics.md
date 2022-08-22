@@ -83,87 +83,87 @@ We also require these high achievers to do service learning, integrating meaning
 
 **Art Aesthetics Week@PCS Advertisement Trailer (Term 3) 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iExbe2jmuHs" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iExbe2jmuHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Music Aesthetics Week@PCS Advertisement Trailer (Term 3) 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/O-_2wRR-DoQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O-_2wRR-DoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Term 2 Aesthetics Week Showcase 2021 (For Art &amp; Music)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/22BM2IPxDJ8" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/22BM2IPxDJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **2nd Music Aesthetics @ PCS (Term 2, 2021)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KMLbuOeVVgI" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMLbuOeVVgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **2nd Art Aesthetics @ PCS (Term 2, 2021)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9Obkb3L3eDg" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Obkb3L3eDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **1st Art Aesthetics @ PCS Class Winners 2021 (Term 1)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/44jB2yZKMgc" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/44jB2yZKMgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **1st Music Aesthetics @ PCS Winners 2021 (Term 1)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zSpjVoOvwag" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSpjVoOvwag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **1st Music Aesthetics Week Showcase 2021 (Term 1)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NFwAcylG5a0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NFwAcylG5a0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Olivia’s (1 Gratitude) voice performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5GjAO9IH6rQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GjAO9IH6rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Alyssa’s (2 Filial Piety) piano performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dlXo_razucM" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlXo_razucM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Daoguo’s (2 Integrity) violin performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ilI5kWl2ce0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilI5kWl2ce0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Jovie’s (4 Diligence) piano performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IVNAHSuC1iw" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IVNAHSuC1iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Yuze’s (4 Diligence) piano performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3rbJfywpeQ8" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rbJfywpeQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Watch Charlotte’s (4 Filial Piety) ballet performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9TXbgnqsCPY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TXbgnqsCPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Ethan’s (5 Diligence) piano performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jM3NRUU3G7k" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM3NRUU3G7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Alethea (5 Excellence) and Elaine’s (5 Filial Piety) piano duet performance during 1st Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jR7mOY3WI5c" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jR7mOY3WI5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen&nbsp;to Angelina’s (6 Filial Piety) piano performance during 1st&nbsp;Music Aesthetics Week @ PCS 2021**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kIzdButqmFs" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIzdButqmFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Art Aesthetics Week 2021 @ PCS**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BbbVLxaG0mk" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BbbVLxaG0mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Music Aesthetics Week 2021 @ PCS**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1al3CMwHsgE" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1al3CMwHsgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Aesthetics Week 2021 Advertisement Trainer @ PCS**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VcIni7cEqcE" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VcIni7cEqcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Art Camp 2.0: Evolution Teaser Video For 2020**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rwW0ytHUHko" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rwW0ytHUHko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Our Dept Events (2020)
 
@@ -171,7 +171,7 @@ We also require these high achievers to do service learning, integrating meaning
 
 **Student&nbsp;Leadership Training 2020 [A Video Montage for all our PCS Art and Music Monitors]**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vBHtYqJ_u8w" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBHtYqJ_u8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Our Dept Events (2019)
 
@@ -179,57 +179,57 @@ We also require these high achievers to do service learning, integrating meaning
 
 **Listen&nbsp;to Mr Dave Yang’s voice performance on stage during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/21-nQiU7SOY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/21-nQiU7SOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Andrey’s and Isabelle’s performance on their cellos during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_vHgW9UuuS4" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_vHgW9UuuS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Phoebe’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xfwT3Nyb4fs" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfwT3Nyb4fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 2)
 
 **Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1OaBqx5ZoQA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OaBqx5ZoQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Tiancheng’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KA8NE6SLLPw" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KA8NE6SLLPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Brandon’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FtW_0LBO7U0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FtW_0LBO7U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Gek Min’s performances on the flute during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yp-HNh4Wvgo" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yp-HNh4Wvgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P7TW18_3SBM" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7TW18_3SBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NtyqNPdmzFo" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NtyqNPdmzFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Angelina’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f11BFdySGtQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f11BFdySGtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Cheryl’s, Joan’s &amp; Alyssia’s performance on the violins during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fFTybL0SVm0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFTybL0SVm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Phoebe’s &amp; Jiahe’s performance during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/s_s27161HHA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_s27161HHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Cadence’s performance during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qFcMPF-6JPU" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qFcMPF-6JPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Jia Rong’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/q0PG_bPDZ4g" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0PG_bPDZ4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **A uniquely designed poster using the concept of String Printing to commemorate our 2nd&nbsp;Aesthetics Week 2019 @ Poi Ching School**
 
@@ -241,35 +241,35 @@ We also require these high achievers to do service learning, integrating meaning
 
 **Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wVr_xj4dFLM" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVr_xj4dFLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Zhi Han’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Jwx788VFRuY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jwx788VFRuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Kaylee’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g571SkVEQxM" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g571SkVEQxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Angelina’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/neAEea4rmHA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neAEea4rmHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Shawn’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uwi9veXxj6g" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwi9veXxj6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Phoebe’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vML8qnQRi8M" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vML8qnQRi8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Joseph’s performance on the piano during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z_2Wj0TJQSA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_2Wj0TJQSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Gek Min’s performance on her flute during Music Aesthetics Week 2019**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3xWYyMZ-nZ0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xWYyMZ-nZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **A uniquely designed poster using the concept of Bubble Printing to commemorate our 1st&nbsp;Aesthetics Week 2019 @ Poi Ching School**
 
@@ -307,15 +307,15 @@ The Aesthetics Department has conducted the Student Leadership Training for the 
 
 **Listen to our new Music monitors reciting their leadership pledge below:**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GEIWvHYHqic" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GEIWvHYHqic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Student Leadership Training for Music Monitors 2019 (4th January 2019) [Part 1]**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/r-mokUsCPFY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-mokUsCPFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Student Leadership Training for Music Monitors 2019 (4th January 2019) [Part 2]**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ziFcHGPVuwQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziFcHGPVuwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Our Dept Events (2018)
 
@@ -329,23 +329,23 @@ A uniquely designed poster using the concept of chromatography art to commemorat
 
 **Listen to Pinshuo and Faith, as they both talk about their roles as emcees during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3I0rQmiHyBw" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3I0rQmiHyBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Stanley’s performance on his cello during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/r6yOWFTij3c" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6yOWFTij3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Brandon’s performance on the piano during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BsA_83TFWJc" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BsA_83TFWJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Brandon and Stanley, as they share their thoughts and views as music performers during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IzesF7ynCIk" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzesF7ynCIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Listen to Chloe, Raelyn and Rochelle, as they share their thoughts and views as music performers during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Cz8q5Zc34o" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Cz8q5Zc34o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Music Aesthetics Week 2018 @ Poi Ching School
 
@@ -355,7 +355,7 @@ We had also invited our Year Heads, Mrs Jeanette Tan, Ms Joanna Tan and Mdm Saad
 
 **Listen to Estrella (6C), as she talks about her role as a emcee during Music Aesthetics Week 2018**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y_cgyA-woB0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_cgyA-woB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/aesthetic1.jpg)
 **A group photo of our P5P6 performers with our P5P6 Year Head Mdm Saadah**
@@ -408,46 +408,46 @@ On 4th&nbsp;March 2017, some of our P5-P6 pupils attended the Music Elective Pro
 
 Our pupils had an interesting hands-on session during the rhythmic improvisation workshop at the Rooftop Studio conducted by the MEP students from Anglo-Chinese School (Independent). Subsequently, they had watched a number of solo and ensemble live performances on classical music from various MEP secondary schools and junior colleges at the Padang Atrium and the Singapore Courtyard. The pupil participants were also given a brief guided tour of the art exhibition featuring&nbsp;_Art in Singapore since the 19th&nbsp;century_&nbsp;at National Gallery Singapore. In conclusion, our pupils gained insightful fulfilment from their participation in this outreach event.
 
-<img style="width:50%" src="/images/aesthetic1-1.jpg">
+<img src="/images/aesthetic1-1.jpg" style="width:50%">
 
 **A curator from National Gallery Singapore explaining the historical significance behind the local painting of learning mother tongue languages**
 
-<img style="width:50%" src="/images/aesthetic1-1.jpg">
+<img src="/images/aesthetic1-1.jpg" style="width:50%">
 
 **A curator from National Gallery Singapore explaining the symbolic abstracts behind the local display wall piece**
 
-<img style="width:50%" src="/images/aesthetic2-1.jpg">
+<img src="/images/aesthetic2-1.jpg" style="width:50%">
 
 **A group picture before the local painting**
 		 
-<img style="width:50%" src="/images/aesthetic3-1.jpg">
+<img src="/images/aesthetic3-1.jpg" style="width:50%">
 	
 **The student emcee introducing the string ensemble group from CHIJ St. Nicholas**
 		 
-<img style="width:50%" src="/images/aesthetic4-1.jpg">
+<img src="/images/aesthetic4-1.jpg" style="width:50%">
 
 **An informal group picture before the solo and ensemble performances**
 		 
-<img style="width:50%" src="/images/aesthetic5-1.jpg">
+<img src="/images/aesthetic5-1.jpg" style="width:50%">
 
 **A solo violin performance from Tanjong Katong Girls’ School**
 		 
-<img style="width:50%" src="/images/aesthetic6-1.jpg">
+<img src="/images/aesthetic6-1.jpg" style="width:50%">
 		 
 **The hands-on session of the rhythmic improvisation workshop conducted by the MEP students from ACS(I)**
 		 
-<img style="width:50%" src="/images/aesthetic7-1.jpg">
+<img src="/images/aesthetic7-1.jpg" style="width:50%">
 
 **Group work and discussion during the rhythmic improvisation workshop**
 		 
-<img style="width:50%" src="/images/aesthetic8-1-1.jpg">
+<img src="/images/aesthetic8-1-1.jpg" style="width:50%">
 
 **Group work and discussion during the rhythmic improvisation workshop**
 		 
-<img style="width:50%" src="/images/aesthetic9-1.jpg">
+<img src="/images/aesthetic9-1.jpg" style="width:50%">
 **Sharing of ideas and feedback during the rhythmic improvisation workshop**
 
-<img style="width:50%" src="/images/aesthetic10-1.jpg">
+<img src="/images/aesthetic10-1.jpg" style="width:50%">
 		 
 		 
 ### Our Dept Archives [Via Flickr]
@@ -557,15 +557,15 @@ Photo Credits: Mdm Aishah, Mr Ng Theng Hian and Mrs Fiona Poh
 
 **Watch our PCS P6 pupils in action of their nifty hip-hop dance moves below:**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Vg-E1TwphUw" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg-E1TwphUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lhOZSL2b930" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lhOZSL2b930" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-NPS10XfcYM" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NPS10XfcYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/A_pf3ktIGDo" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_pf3ktIGDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JIqqvOZE-mY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIqqvOZE-mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 3. PCS Idol Superstar 2018
 
@@ -585,7 +585,7 @@ Photo Credits: Mdm Aishah, Mr Ng Theng Hian and Mrs Fiona Poh
 
 **Watch our P5 teachers in performance on stage below:**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UAWrqcLfDNg" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAWrqcLfDNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 2. NDP School Celebrations @ PCS
 
@@ -666,8 +666,71 @@ As part of the broad-based art experience under the Aesthetics Department, the s
 ![](/images/lj-8.jpeg)
 ![](/images/lj-9.jpeg)
 
-**Aesthetics Week (Term 3) 2016**
+### Aesthetics Week (Term 3) 2016
 
-For Aesthetic Week this term, the P1 to P4 dropped by the art gallery during their recesses for some Lego fun. As they enter the gallery, they picked up some Lego blocks and built something for the Poi Ching School Lego Garden. Pupils are free to add a flower, an insect, a little creature or anything they can imagine and create, to help make the garden come alive.
+For Aesthetic Week this term, the P1 to P4 dropped by the art gallery during their recesses for some&nbsp;Lego&nbsp;fun. As they enter the gallery, they picked up some&nbsp;Lego&nbsp;blocks and built something for the Poi Ching School Lego&nbsp;Garden. Pupils are free to add a flower, an insect, a little creature or anything they can imagine and create, to help make the garden come alive.
 
 **_Lego Fun in the Art Gallery_**
+
+![](/images/lego-fun.jpg)
+![](/images/lego-fun-1-e1496044352148.jpg)
+![](/images/lego-fun-2.jpg)
+![](/images/lego-fun-3.jpg)
+![](/images/lego-fun-4.jpg)
+![](/images/lego-fun-5.jpg)
+![](/images/lego-fun-6.jpg)
+![](/images/lego-fun-7.jpg)
+
+**_Performance at the Library_**
+![](/images/Performance-library-p1n2-768x432.jpeg)
+![](/images/Performance-library-p3n4-768x432.jpeg)
+![](/images/Performance-library-p5n6-768x432.jpeg)
+
+**Aesthetics Week (Term 2) 2016**
+
+In Term 2 Week 10, we had our Aesthetic week. It was a platform for pupils who wants to perform. Many children signed up to put up a musical performance during their recesses. The audience consists of children that share the same recess. Friend of the performers came to show support.
+
+![](/images/aw-t2-1-e1496643055197.jpeg)
+![](/images/aw-t2-2.jpeg)
+![](/images/aw-t2-3.jpeg)
+![](/images/aw-t2-4.jpeg)
+![](/images/aw-t2-5.jpeg)
+
+**East Zone Zapin/Joget Rhythm Ensemble Programme For Primary School Students 2016**
+
+The East Zone COE (Creative Arts) organized the EZ Zapin/Joget Rhythm Ensemble programme for Primary school students to develop our students’ interest and appreciation of music. This programme is conducted as part of the Special Music Programme for EZ ‘O’ Level Music Students for secondary school students. 5 of our pupils took part in this event.
+
+
+![](/images/ez-1.jpeg)
+![](/images/ez-3.jpeg)
+![](/images/ez-4.jpeg)
+![](/images/ez-5.jpeg)
+
+**East Zone Music Warriors for Primary Schools 2016**
+
+The East Zone COE (Creative Arts) organized the EZ Music Warriors 2016 to excite and develop our students’ interest and appreciation towards music on 30 June 2016 at Pasir Ris Crest Secondary School. The competition is open to all Primary 4 and 5 students in the East Zone. Our pupils took part in competitive station games. &nbsp;6 of our pupils took part in this event.
+
+![](/images/warrior-1.jpeg)
+![](/images/warrior-2.jpeg)
+![](/images/warrior-3.jpeg)
+![](/images/warrior-4.jpeg)
+
+**Chime and Bam Event @ Paya Lebar Methodist Girls Primary School 2016**
+
+The East Zone Centre of Excellence (Creative Arts) organized an afternoon of experiential learning, ‘Chime and Bam’ Event, on Friday, 15 July 2016 at Paya Lebar Methodist Girls Primary School.&nbsp; 20 pupils were selected to learn to make music together in either the Handbells or the Angklung in the “Chime – Ringing-in-Harmony” and “Bam – Shaking-in-Rhythm” Workshops respectively. In addition, they also learnt ensemble skills as well as how to create an introduction or ending for the piece of music.
+
+![](/images/chime-1.jpeg)
+![](/images/chime-2.jpeg)
+![](/images/chime-3.jpeg)
+![](/images/chime-4.jpeg)
+![](/images/chime-5.jpeg)
+![](/images/chime-6.jpeg)
+![](/images/chime-7.jpeg)
+
+### Aesthetics Week (Term 1) 2016
+
+The Aesthetics Week hopes to help students discover strengths and interests by giving them opportunities to experiment with different mediums in the Poi Ching School’s Art Gallery or perform to their friends during the three recesses. We hope that such students led projects will serve as a platform for performers and student leaders to exercise their leadership skills, improve on relationship management and confidence building and for audiences to be inspired and learn museum and concert etiquettes.
+
+**_Printmaking in the Art Gallery_**
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGgks_Gw2oIdT4u9gC3t2w2Ik6dcfmRXGKfYNGKL8buDuB-_lFol45MUDC2GzxdP4V7sOYwm4PqAKj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
