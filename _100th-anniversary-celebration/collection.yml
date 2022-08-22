@@ -1,4 +1,5 @@
 collections:
   100th-anniversary-celebration:
     output: true
-    order: []
+    order:
+      - 100th Anniversary Celebration.md
