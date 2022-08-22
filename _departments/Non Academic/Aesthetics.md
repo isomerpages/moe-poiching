@@ -24,3 +24,13 @@ One of our main pedagogy which cuts across the Art and Music curriculum is i-Pla
 The Visual Art Curriculum is structured based on Art Forms as we want to give our students the exposure to a wide variety of art forms so that they can explore and discover their interests. Students are also taught Art Theory such as the Elements and Principles of Design as well as Feldman’s approach to art criticism so that students have the vocabulary and skills discuss artworks.
 
 ![](/images/aesthetics03.png)
+
+**Music**
+
+The Music Curriculum is structured to provide our students with the opportunity to explore a wide range of instruments and learn to use these instruments to express and communicate.  Principles of music specific pedagogies such as Kodaly, Dalcroze and Orff are also used in the teaching of music concepts. In Poi Ching, our students also develop an awareness and appreciation of local and global cultures through music.
+
+![](/images/aesthetics04.png)
+
+**Dance**
+
+![](/images/aesthetics05.png)
