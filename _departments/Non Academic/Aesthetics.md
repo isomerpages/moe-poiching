@@ -356,3 +356,124 @@ We had also invited our Year Heads, Mrs Jeanette Tan, Ms Joanna Tan and Mdm Saad
 **Listen to Estrella (6C), as she talks about her role as a emcee during Music Aesthetics Week 2018**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_cgyA-woB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/aesthetic1.jpg)
+**A group photo of our P5P6 performers with our P5P6 Year Head Mdm Saadah**
+![](/images/aesthetic2.jpg)
+**A group photo of our P3P4 performers with our P3P4 Year Head Ms Joanna Tan**
+![](/images/aesthetic3.jpg)
+**A group photo of our P1P2 performers with our P1P2 Year Head Mrs Jeanette Tan**
+![](/images/aesthetic4.jpg)
+**Our two emcees, Bianca and Estrella (6C) presenting during the P5P6 recesses at the Library Stage**
+![](/images/aesthetic5.jpg)
+**Our young budding emcee, Velencia (3E) honing her best public speaking skills during the event**
+![](/images/aesthetic6.jpg)
+**Our emcee, Bianca (6C) briefing our audiences about concert etiquette before start of the event**
+![](/images/aesthetic7.jpg)
+**Presenting the token of appreciation to our P1P2 Year Head Mrs Jeanette Tan**
+![](/images/aesthetic8.jpg)
+**Presenting the token of appreciation to our P3P4 Year Head Ms Joanna Tan**
+![](/images/aesthetic9.jpg)
+**Presenting the token of appreciation to our P5P6 Year Head Mdm Saadah**
+![](/images/aesthetic10.jpg)
+**Our pupils listened with rapt attention during the performances**
+![](/images/aesthetic11.jpg)
+**A set of individually designed event posters to commemorate our first showcase for Music**
+
+**Aesthetics Week 2018. – Designed by: Miss Khoo W. W.**
+
+### Our Dept Events (2017)
+
+**Singapore Youth Festival (SYF) 2017 Art Exhibition**
+
+Five of our Primary 2 student artists’ SYF artwork, Singapore, Our Common Space had been selected for the Artist Talk and would be exhibited during the **2017 SYF Art Exhibition held on 15th July 2017 SCAPE, The Ground Theatre**. During the Artist Talk, our student artists presented their artwork and shared their art making processes. They also facilitate an art making activity to the public audience. Artist Talk provides opportunities for student artists to learn in authentic settings and in the process to develop their 21st century competencies such as learning to communicate well and work collaboratively with their peers and teachers to present their talk with the aim of engaging their audience.
+
+ANG JIN XUAN, SARAH                 (2C)
+
+DARALYNN LEE QINXUAN            (2C)
+
+CHLOE CHEUNG RUI EN              (2E)
+
+ELIZABETH ZARA LIM SHI YI        (2F)
+
+LIM YAN RU ABRIELLE                  (2I)
+
+We would like to thank the parents and staff of PCS who had been instrumental in this meaningful journey!
+
+![](/images/aesthetic12.png)
+
+**Music Elective Programme (MEP) Outreach Event at National Gallery Singapore 2017**
+
+On 4th March 2017, some of our P5-P6 pupils attended the Music Elective Programme (MEP) Outreach Event organised by the Arts Education Branch (Student Development Curriculum Branch, MOE) on a Saturday afternoon at National Gallery Singapore. This outreach event is a platform for MEP students from secondary schools and junior colleges to engage the primary school audience in their musical learning. Also, the primary school pupils have the opportunity to learn more about what MEP is at the secondary school level.
+
+Our pupils had an interesting hands-on session during the rhythmic improvisation workshop at the Rooftop Studio conducted by the MEP students from Anglo-Chinese School (Independent). Subsequently, they had watched a number of solo and ensemble live performances on classical music from various MEP secondary schools and junior colleges at the Padang Atrium and the Singapore Courtyard. The pupil participants were also given a brief guided tour of the art exhibition featuring _Art in Singapore since the 19th century_ at National Gallery Singapore. In conclusion, our pupils gained insightful fulfilment from their participation in this outreach event.
+
+<img src="/images/aesthetic1-1.jpg" 
+     style="width:50%">
+
+**A curator from National Gallery Singapore explaining the historical significance behind the local painting of learning mother tongue languages**
+
+<img src="/images/aesthetic1-1.jpg" 
+     style="width:50%">
+
+**A curator from National Gallery Singapore explaining the symbolic abstracts behind the local display wall piece**
+
+<img src="/images/aesthetic2-1.jpg" 
+     style="width:50%">
+
+**A group picture before the local painting**
+		 
+<img src="/images/aesthetic3-1.jpg" 
+     style="width:50%">
+	
+**The student emcee introducing the string ensemble group from CHIJ St. Nicholas**
+		 
+<img src="/images/aesthetic4-1.jpg" 
+     style="width:50%">
+
+**An informal group picture before the solo and ensemble performances**
+		 
+<img src="/images/aesthetic5-1.jpg" 
+     style="width:50%">
+
+**A solo violin performance from Tanjong Katong Girls’ School**
+		 
+<img src="/images/aesthetic6-1.jpg" 
+     style="width:50%">
+		 
+**The hands-on session of the rhythmic improvisation workshop conducted by the MEP students from ACS(I)**
+		 
+<img src="/images/aesthetic7-1.jpg" 
+     style="width:50%">
+
+**Group work and discussion during the rhythmic improvisation workshop**
+		 
+<img src="/images/aesthetic8-1-1.jpg" 
+     style="width:50%">
+
+**Group work and discussion during the rhythmic improvisation workshop**
+		 
+<img src="/images/aesthetic9-1.jpg" 
+     style="width:50%">
+**Sharing of ideas and feedback during the rhythmic improvisation workshop**
+
+<img src="/images/aesthetic10-1.jpg" 
+     style="width:50%">
+		 
+		 
+### Our Dept Archives [Via Flickr]
+
+**2020**
+
+
+1. Student Leadership Training 2020 (Art Monitors) [6th January 2020]
+
+Video & Photo Credits: Mdm Aishah & Mrs Jazreel Quah
+
+[https://flic.kr/s/aHsmKyeyKU](https://flic.kr/s/aHsmKyeyKU)
+
+2. Student Leadership Training 2020 (Music Monitors) [6th January 2020]
+
+Video & Photo Credits: Miss Khoo W W
+
+[https://flic.kr/s/aHsmKynT2p](https://flic.kr/s/aHsmKynT2p)
