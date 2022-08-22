@@ -307,3 +307,50 @@ The Aesthetics Department has conducted the Student Leadership Training for the 
 
 **Listen to our new Music monitors reciting their leadership pledge below:**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GEIWvHYHqic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Student Leadership Training for Music Monitors 2019 (4th January 2019) [Part 1]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-mokUsCPFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Student Leadership Training for Music Monitors 2019 (4th January 2019) [Part 2]**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziFcHGPVuwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Our Dept Events (2018)
+
+### 2nd Music Aesthetics Week 2018 @ Poi Ching School
+
+The Aesthetics Department continued with the series of music performances during the three recesses at the Library Stage (Level 3) on 29th August 2018 (Wednesday) during the last week of Term 3. Our department continued to leverage on our school’s Student Leadership training that we had conducted for our music monitors at the start of the year. Our focus of nurturing the leadership attributes of our music monitors will continue, where they will learn to take up roles and responsibilities assigned to them. Two of our newest emcees, Guo Pinshuo and Faith Chow from 5F are given the opportunity to hone their public speaking skills in front of the audiences at the Library Stage. They will also share about their positive experiences of public speaking during the Music Aesthetics Week event in a short video. We have also invited some of our pupil performers to share about their personal experiences of performing in front of the audiences during the Music Aesthetics Week event in a short video.
+
+A uniquely designed poster using the concept of chromatography art to commemorate our 2nd Aesthetics Week 2018. – Designed by: Miss Gan Ching Ching]
+
+![](/images/musicwk_pic1.jpg)
+
+**Listen to Pinshuo and Faith, as they both talk about their roles as emcees during Music Aesthetics Week 2018**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3I0rQmiHyBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Stanley’s performance on his cello during Music Aesthetics Week 2018**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6yOWFTij3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Brandon’s performance on the piano during Music Aesthetics Week 2018**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BsA_83TFWJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Brandon and Stanley, as they share their thoughts and views as music performers during Music Aesthetics Week 2018**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzesF7ynCIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Chloe, Raelyn and Rochelle, as they share their thoughts and views as music performers during Music Aesthetics Week 2018**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Cz8q5Zc34o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Music Aesthetics Week 2018 @ Poi Ching School
+
+The Aesthetics Department had organised a series of music performances during the three recesses at the Library Stage (Level 3) on 7th (Wednesday) and 8th March 2018 (Thursday) during the last week of Term 1. This event is a vital platform not just to showcase our pupils’ musical talents and skills, but the invaluable experience and exposure gained from playing and performing in front of audiences. Leveraging on the Student Leadership training that we had conducted for our music monitors at the start of the year, we are moving into the direction of nurturing the leadership attributes of our music monitors, where they will learn to take up roles and responsibilities assigned to them. For our first showcase at the Library Stage, our selected music monitors are exposed to the roles and responsibilities of ushering pupils into the performance venue, fetching the performers, displaying concert etiquette placards at the audiences and emcee-ing during the events. Our four girls, Velencia (3E), Kaylee (4D), Estrella and Bianca (6C) are given the opportunity to hone their public speaking skills in front of the audiences at the Library Stage.
+
+We had also invited our Year Heads, Mrs Jeanette Tan, Ms Joanna Tan and Mdm Saadah to present the certificates and tokens of appreciation to our performers on stage. At the end of our event, our respective Year Heads were all presented with the commemorative Aesthetics Week event poster as a token of appreciation for their support in this meaningful event. One of our emcees, Estrella (6C) shared about her positive experiences of public speaking during the Music Aesthetics Week event in a short video. Many of our performers’ peers have come to support them at the Library Stage during the two-day event. In conclusion, our performers have benefitted from the exposure of performing in front of audiences and they have really enjoyed this wonderful and fulfilling experience altogether.
+
+**Listen to Estrella (6C), as she talks about her role as a emcee during Music Aesthetics Week 2018**
