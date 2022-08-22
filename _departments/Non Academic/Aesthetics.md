@@ -254,3 +254,19 @@ We also require these high achievers to do service learning, integrating meaning
 **Listen to Angelina’s performance on the piano during Music Aesthetics Week 2019**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neAEea4rmHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Shawn’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwi9veXxj6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Phoebe’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vML8qnQRi8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Joseph’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_2Wj0TJQSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Listen to Gek Min’s performance on her flute during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xWYyMZ-nZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
