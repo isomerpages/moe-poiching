@@ -234,3 +234,10 @@ We also require these high achievers to do service learning, integrating meaning
 **A uniquely designed poster using the concept of String Printing to commemorate our 2nd Aesthetics Week 2019 @ Poi Ching School**
 
 **– Designed by: Mdm Aishah**
+
+![](/images/aest2.jpg)
+
+### Music Aesthetics Week 2019 @ Poi Ching School (Week 10, Term 1)**
+
+**Listen to Stanley’s performance on his cello during Music Aesthetics Week 2019**
+
