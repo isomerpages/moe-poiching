@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: /announcements/11th-national-primary-and-secondary-schools-chinese-calligraphy-competition/
         - title: Quick Links
           description: ""
           url: ""
