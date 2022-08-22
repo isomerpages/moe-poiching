@@ -227,4 +227,11 @@ We also require these high achievers to do service learning, integrating meaning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qFcMPF-6JPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Listen to Jia Rong’s performance on the piano during Music Aesthetics Week 2019**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0PG_bPDZ4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**A uniquely designed poster using the concept of String Printing to commemorate our 2nd Aesthetics Week 2019 @ Poi Ching School**
+
+**– Designed by: Mdm Aishah**
 
