@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - MOE FAS e application Form.md
       - 11th National Primary and Secondary Schools Chinese Calligraphy
         Competition.md
