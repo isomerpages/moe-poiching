@@ -1,0 +1,5 @@
+collections:
+  100th-anniversary-celebration:
+    output: true
+    order:
+      - 100th Anniversary Celebration.md

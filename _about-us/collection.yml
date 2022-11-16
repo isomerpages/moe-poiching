@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - History.md
+      - School Vision & Mission.md
+      - Principal's Message.md
+      - Our School Crest.md
+      - School Core Values.md
+      - School Song.md
+      - School Rules & Attire.md
