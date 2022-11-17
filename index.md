@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Poi Ching School
-      background: /images/hero-banner.png
+      background: /images/sch website banner.jpeg
       key_highlights:
         - title: Announcements
           description: ""
