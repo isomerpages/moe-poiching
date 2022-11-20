@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - test.md
       - Hidden page not need for now/Futsing Association.md
       - Hidden page not need for now/.keep
       - School Management Board.md
