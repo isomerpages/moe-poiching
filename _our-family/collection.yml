@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Hidden page not need for now/.keep
       - School Management Board.md
       - Key Personnel.md
       - Staff Directory/.keep
