@@ -11,16 +11,16 @@ description: ""
 
 [Primary 4 Booklist](/files/PCS%20BOOKLIST%20P4%202023.pdf)
 
-[Primary 5 (HMT) Booklist](/files/PCS%20BOOKLIST%20P5%20(HCL)%202023.pdf)
+[Primary 5 (HCL) Booklist](/files/PCS%20BOOKLIST%20P5%20(HCL)%202023.pdf)
 
 
-[Primary 5 (MT) Booklist](/files/PCS%20BOOKLIST%20P5%20(CL)%202023.pdf)
+[Primary 5 (CL) Booklist](/files/PCS%20BOOKLIST%20P5%20(CL)%202023.pdf)
 
 [Primary 5 (FDN) Booklist](/files/PCS%20BOOKLIST%20P5%20(FDN)%202023.pdf)
 
-[Primary 6 (HMT) Booklist](/files/PCS%20BOOKLIST%20P6%20%20(HCL)%202023.pdf)
+[Primary 6 (HCL) Booklist](/files/PCS%20BOOKLIST%20P6%20%20(HCL)%202023.pdf)
 
-[Primary 6 (MT) Booklist](/files/PCS%20BOOKLIST%20P6%20(CL)%202023.pdf)
+[Primary 6 (CL) Booklist](/files/PCS%20BOOKLIST%20P6%20(CL)%202023.pdf)
 
 
 [Primary 6 (FDN) Booklist](/files/PCS%20BOOKLIST%20P6%20(FDN)%202023.pdf)
