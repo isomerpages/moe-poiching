@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 Booklists.md
       - 11th National Primary and Secondary Schools Chinese Calligraphy
         Competition.md
       - MOE FAS e application Form.md
