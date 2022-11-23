@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /our-family/key-personnel
+permalink: /our-family/key-personnel/
 description: ""
 ---
 <style type="text/css">
@@ -90,7 +90,7 @@ description: ""
     <td class="tg-gj5f">LH/MA</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">Mdm Ginger Tay</td>
+    <td class="tg-a3j2">Mrs Ginger Oh</td>
     <td class="tg-a3j2">SH/ICT</td>
   </tr>
   <tr>
