@@ -1,10 +1,10 @@
 ---
 title: Primary 5
-permalink: /our-family/Staff-Directory/primary-5
+permalink: /our-family/Staff-Directory/primary-5/
 description: ""
 third_nav_title: Staff Directory
 ---
-![](/images/Primary-5-2022.jpg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,4 +77,3 @@ third_nav_title: Staff Directory
   </tr>
 </tbody>
 </table>
-
