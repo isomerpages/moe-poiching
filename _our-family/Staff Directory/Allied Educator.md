@@ -1,10 +1,10 @@
 ---
 title: Allied Educator
-permalink: /our-family/Staff-Directory/allied-educator
+permalink: /our-family/Staff-Directory/allied-educator/
 description: ""
 third_nav_title: Staff Directory
 ---
-![](/images/AED-2022.jpg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
