@@ -1,11 +1,9 @@
 ---
 title: Primary 2
-permalink: /our-family/Staff-Directory/primary-2
+permalink: /our-family/Staff-Directory/primary-2/
 description: ""
 third_nav_title: Staff Directory
 ---
-![](/images/Primary-2-2022.jpg)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
