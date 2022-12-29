@@ -25,8 +25,8 @@ third_nav_title: Staff Directory
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn">Mdm Filzah</td>
-    <td class="tg-al0j"><a href="mailto:nurul_filzah_daluwa@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nurul_filzah_daluwa@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Suryana</td>
+    <td class="tg-al0j"><a href="mailto:nurul_filzah_daluwa@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>suryana_buang@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-1ppo">Mdm Zhang Shuying</td>
