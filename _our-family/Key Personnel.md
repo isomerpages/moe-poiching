@@ -46,7 +46,7 @@ description: ""
     <td class="tg-a3j2">DM</td>
   </tr>
   <tr>
-    <td class="tg-gj5f">Ms Angeline Leow</td>
+    <td class="tg-gj5f">Mdm Leow Angeline</td>
     <td class="tg-gj5f">HOD/EL</td>
   </tr>
   <tr>
