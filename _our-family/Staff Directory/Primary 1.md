@@ -86,7 +86,11 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-1ppo">Mdm Suhaini</td>
-    <td class="tg-y5j8"><a href="mailto:suhaini_tohid@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Liang_HONGBING@moe.edu.sg</span></a></td>
+    <td class="tg-y5j8"><a href="mailto:suhaini_tohid@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">suhaini_tohid@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-1ppo">Mdm Loh Wai Yee</td>
+    <td class="tg-y5j8"><a href="mailto:loh_wai_yee@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">loh_wai_yee@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
