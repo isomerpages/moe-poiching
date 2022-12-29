@@ -22,7 +22,40 @@ third_nav_title: Staff Directory
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-h5mn">Mdm Nur Khairin</td>
+    <td class="tg-al0j"><a href="mailto:nur_khairin_abdul_jafar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>nur_khairin_abdul_jafar@moe.edu.sg</a></td>
+  </tr>
   <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zhang Shuying</td>
+    <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
+  </tr>
+	
+	<tr>
     <td class="tg-h5mn">Mrs Gomes</td>
     <td class="tg-h5mn">melissa_hoeden@moe.edu.sg</td>
   </tr>
