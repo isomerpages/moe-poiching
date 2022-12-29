@@ -4,8 +4,6 @@ permalink: /our-family/Staff-Directory/allied-educator/
 description: ""
 third_nav_title: Staff Directory
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,14 +29,18 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:Tng_Zhi_ling_jolyn@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Tng_Zhi_ling_jolyn@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Lindsay Soh</td>
-    <td class="tg-y5j8"><a href="mailto:soh_siew_hoon_a@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">soh_siew_hoon_a@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Ms Irene Li</td>
+    <td class="tg-y5j8"><a href="mailto:lim_chin_yin_a@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">lim_chin_yin_a@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-bsu7">Mdm Raihana</td>
-    <td class="tg-al0j"><a href="mailto:raihana_zainalabidin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">raihana_zainalabidin@moe.edu.sg</span></a></td>
+    <td class="tg-bsu7">Mr Clarence Cheong</td>
+    <td class="tg-al0j"><a href="mailto:cheong_ye_meng_clarence@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">cheong_ye_meng_clarence@moe.edu.sg</span></a></td>
   </tr>
   <tr>
+    <td class="tg-zr06">Mdm Raihana</td>
+    <td class="tg-y5j8"><a href="mailto:raihana_zainalabidin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">raihana_zainalabidin@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-zr06">Mdm Grace Teo</td>
     <td class="tg-y5j8"><a href="mailto:teo_swee_yee_grace@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">teo_swee_yee_grace@moe.edu.sg</span></a></td>
   </tr>
