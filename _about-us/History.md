@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/history
+permalink: /about-us/history/
 description: ""
 ---
 Poi Ching School was founded in 1919 by the late Reverend Canon Guok Koh Muo（郭可模） as a Chinese-medium school at Victoria Street. In 1924, due to financial difficulties, the Futsing Association took over the management of the school and shifted the school from Victoria Street to its office in Queen Street.
@@ -28,6 +28,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 *   Mdm Foo Mui Chuw (2000 to 2006)
 *   Mr Chong Kwai Kuen (2007 to 2014)
 *   Mr Andrew Mah (2015 to present)
+*   Mrs Cheong Ye Ling (2020 to present)
 
 ### Milestones
 
