@@ -4,8 +4,6 @@ permalink: /our-family/Staff-Directory/primary-6/
 description: ""
 third_nav_title: Staff Directory
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,12 +25,12 @@ third_nav_title: Staff Directory
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn">Mdm Dzaariny</td>
-    <td class="tg-al0j"><a href="mailto:dzaariny_koloos@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">dzaariny_koloos@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Ms Joanna Tan</td>
+    <td class="tg-al0j"><a href="mailto:tan_phaedra_joanna@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_phaedra_joanna@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Fiona Poh</td>
-    <td class="tg-y5j8"><a href="mailto:poh-lim_shir_pei@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">poh-lim_shir_pei@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mdm Wong Wenna</td>
+    <td class="tg-y5j8"><a href="mailto:wong_wenna@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_wenna@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn">Mdm Tee Li Ping</td>
