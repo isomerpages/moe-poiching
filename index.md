@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Poi Ching School
       background: /images/PSC Homepage banner_v1.jpeg
       key_highlights:
         - title: Announcements
