@@ -41,7 +41,7 @@ PCS may update this Policy to ensure that it is consistent with any changes in l
 *   Security purpose
     
 
-Please contact us via contact@poiching.moe.edu.sg ) if you
+Please contact us via contact@poiching.moe.edu.sg if you
 
 1.  have any enquires or feedback on our data protection policies and procedures,
     
