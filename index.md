@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PCS_hero_banner_1200x630.png
+      background: /images/banner2.jpeg
       key_highlights:
         - title: Announcements
           description: ""
