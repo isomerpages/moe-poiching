@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PSC Homepage banner_v2.jpeg
+      background: /images/PSC Homepage banner_v3.jpeg
       key_highlights:
         - title: Announcements
           description: ""
