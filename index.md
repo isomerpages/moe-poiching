@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Poi Ching School
-      background: /images/sch website banner.jpeg
+      background: /images/banner2.jpeg
       key_highlights:
         - title: Announcements
           description: ""
