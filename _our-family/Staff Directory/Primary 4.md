@@ -4,8 +4,6 @@ permalink: /our-family/Staff-Directory/primary-4/
 description: ""
 third_nav_title: Staff Directory
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,52 +25,55 @@ third_nav_title: Staff Directory
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn">Mdm Shirley Hoe</td>
-    <td class="tg-al0j"><a href="mailto:hoe_siok_cheng_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">hoe_siok_cheng_shirley@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Ms Janice Chuan</td>
+    <td class="tg-al0j"><a href="mailto:janice_chuan_jia_en@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">janice_chuan_jia_en@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Jazreel Quah</td>
-    <td class="tg-y5j8"><a href="mailto:jazreel_lim_seh_kai@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">jazreel_lim_seh_kai@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mr Seow Chee How</td>
+    <td class="tg-y5j8"><a href="mailto:seow_chee_how@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">seow_chee_how@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Khairul</td>
-    <td class="tg-al0j"><a href="mailto:khairul_annuar_ibrahim_alsagoff@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">khairul_annuar_ibrahim_alsagoff@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Suhaila</td>
+    <td class="tg-al0j"><a href="mailto:suhaila_abdullah@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">suhaila_abdullah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Yu Danning</td>
-    <td class="tg-y5j8"><a href="mailto:yu_danning@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yu_danning@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Ms Scarlett Un</td>
+    <td class="tg-y5j8"><a href="mailto:un_yih_miin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">un_yih_miin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mdm Yuhana</td>
-    <td class="tg-al0j"><a href="mailto:dian_yuhana_sayuti@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">dian_yuhana_sayuti@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Tee Li Ping</td>
+    <td class="tg-al0j"><a href="mailto:tee_li_ping@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tee_li_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Lian Hwee Eng</td>
+    <td class="tg-1ppo"></td>
     <td class="tg-y5j8"><a href="mailto:tan-lian_hwee_eng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan-lian_hwee_eng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mdm Woo Wei Fen</td>
-    <td class="tg-al0j"><a href="mailto:woo_wei_fen@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">woo_wei_fen@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Ms Ivy Wong</td>
+    <td class="tg-al0j"><a href="mailto:wong_ye_shuang_ivy@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_ye_shuang_ivy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Aishah</td>
-    <td class="tg-y5j8"><a href="mailto:nur_aishah@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nur_aishah@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mr Khairul</td>
+    <td class="tg-y5j8"><a href="mailto:khairul_annuar_ibrahim_alsagoff@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">khairul_annuar_ibrahim_alsagoff@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Jason Lim</td>
-    <td class="tg-al0j"><a href="mailto:Lim_Teck_Heen_Jason@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Lim_Teck_Heen_Jason@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Ji Xiaoyi</td>
+    <td class="tg-al0j"><a href="mailto:ji_xiao_yi@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ji_xiao_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Junie Seetor</td>
-    <td class="tg-y5j8"><a href="mailto:wong_xing_min_junie@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_xing_min_junie@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Ms Nur Amira</td>
+    <td class="tg-y5j8"><a href="mailto:nur_amira_syahidah_mazlan@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nur_amira_syahidah_mazlan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Alvin Ng</td>
-    <td class="tg-al0j"><a href="mailto:ng_eng_seng_alvin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ng_eng_seng_alvin@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mr Eugene Chin</td>
+    <td class="tg-al0j"><a href="mailto:eugene_chin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">eugene_chin@moe.edu.sgg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Law Mei Fun</td>
-    <td class="tg-y5j8"><a href="mailto:Law_Mei_Fun@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Law_Mei_Fun@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mdm Suseila</td>
+    <td class="tg-y5j8"><a href="mailto:k_suseila@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">k_suseila@moe.edu.sg</span></a></td>
+		<tr>
+    <td class="tg-1ppo">Mr Ng Theng Hian</td>
+    <td class="tg-y5j8"><a href="mailto:ng_theng_hian@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ng_theng_hian@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

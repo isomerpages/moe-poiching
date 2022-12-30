@@ -40,7 +40,7 @@ third_nav_title: Staff Directory
     <td class="tg-1ppo">Operation Manager</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mrs Lau – Khoon Sau Lin</td>
+    <td class="tg-xyrl">Ms Lin Haijiao</td>
     <td class="tg-xyrl">Administration Manager</td>
   </tr>
   <tr>
@@ -56,19 +56,19 @@ third_nav_title: Staff Directory
     <td class="tg-tsok">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Ms Hafizah</td>
+    <td class="tg-xyrl">Ms Siti Nur Hafizah</td>
     <td class="tg-xyrl">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Alex Huang</td>
-    <td class="tg-tsok">ICT Associate</td>
+    <td class="tg-tsok">Mr Wilson Li</td>
+    <td class="tg-tsok">ICT Manager</td>
   </tr>
   <tr>
     <td class="tg-xyrl">Mr Wong Chee Wee</td>
     <td class="tg-xyrl">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Siti Khalijah</td>
+    <td class="tg-tsok">Chang Chuan Ping</td>
     <td class="tg-tsok">Librarian</td>
   </tr>
   <tr>
