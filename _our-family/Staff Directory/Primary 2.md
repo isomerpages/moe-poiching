@@ -80,26 +80,21 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:yu_wei_a@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
 			</span>yu_wei_a@moe.edu.sg</a></td>
   </tr>
-	
-	</tr>
   <tr>
     <td class="tg-h5mn">Mrs Pokhrel</td>
     <td class="tg-al0j"><a href="mailto:tan_shu_jin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
 			</span>tan_shu_jin@moe.edu.sg</a></td>
   </tr>
-	</tr>
-  <tr>
+	  <tr>
     <td class="tg-h5mn">Mdm Lin Feng</td>
     <td class="tg-al0j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
 			</span>lin_feng@moe.edu.sg</a></td>
   </tr>
-	</tr>
   <tr>
     <td class="tg-h5mn">Mdm Nurain Amirah</td>
     <td class="tg-al0j"><a href="mailto:nurain_amirah_abdul_rahim@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>nurain_amirah_abdul_rahim@moe.edu.sg</a></td>
   </tr>
-	</tr>
-  <tr>
+	  <tr>
     <td class="tg-h5mn">Mdm Liang Hong Bing</td>
     <td class="tg-al0j"><a href="mailto:liang_hongbing@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>liang_hongbing@moe.edu.sg</a></td>
   </tr>
