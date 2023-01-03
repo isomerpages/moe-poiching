@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner2.jpeg
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +17,5 @@ sections:
         - title: 100th Anniversary Celebration
           description: ""
           url: /100th-anniversary-celebration/
+      background: /images/banner9.png
 ---
