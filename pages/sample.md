@@ -3,8 +3,6 @@ title: sample
 permalink: /sample/
 description: ""
 ---
-
-
 | Name | Class | Email  |
 | -------- | -------- | -------- |
 | Mrs Oh | 5L3 | gingertay@gmail.com |
