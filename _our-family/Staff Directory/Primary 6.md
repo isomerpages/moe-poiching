@@ -25,60 +25,53 @@ third_nav_title: Staff Directory
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn">Ms Joanna Tan</td>
+    <td class="tg-h5mn">Ms Joanna Tan (6J1)</td>
     <td class="tg-al0j"><a href="mailto:tan_phaedra_joanna@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_phaedra_joanna@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Wong Wenna</td>
+    <td class="tg-1ppo">Mdm Wong Wenna (6J1)</td>
     <td class="tg-y5j8"><a href="mailto:wong_wenna@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_wenna@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Calvin Tan</td>
+    <td class="tg-h5mn">Mr Calvin Tan (6J2)</td>
     <td class="tg-al0j"><a href="mailto:tan_you_chuan_calvin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_you_chuan_calvin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Faezah</td>
+    <td class="tg-1ppo">Ms Faezah (6J2)</td>
     <td class="tg-y5j8"><a href="mailto:faezah_abdul_samad@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">faezah_abdul_samad@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mrs Yan Lim</td>
+    <td class="tg-h5mn">Mrs Yan Lim (6J3)</td>
     <td class="tg-al0j"><a href="mailto:ong_yu_yan@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ong_yu_yan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Chang Cheng Liang</td>
+    <td class="tg-1ppo">Mr Chang Cheng Liang (6J3)</td>
     <td class="tg-y5j8"><a href="mailto:chang_cheng_liang@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">chang_cheng_liang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Redzuan</td>
+    <td class="tg-h5mn">Mr Redzuan (6J4)</td>
     <td class="tg-al0j"><a href="mailto:muhammad_redzuan_omar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">muhammad_redzuan_omar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Khoo Wee Wee</td>
+    <td class="tg-1ppo">Ms Khoo Wee Wee (6J4)</td>
     <td class="tg-y5j8"><a href="mailto:khoo_wee_wee@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">khoo_wee_wee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mdm Saadah</td>
+    <td class="tg-h5mn">Mdm Saadah (6J5)</td>
     <td class="tg-al0j"><a href="mailto:saadah_abdul_samad@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">saadah_abdul_samad@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Dave Yang</td>
+    <td class="tg-1ppo">Mr Dave Yang (6J5)</td>
     <td class="tg-y5j8"><a href="mailto:yang_kin_ngian@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yang_kin_ngian@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mdm Leow Angeline</td>
+    <td class="tg-h5mn">Mdm Leow Angeline (6J6)</td>
     <td class="tg-al0j"><a href="mailto:leow_mei_yian_angeline@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">leow_mei_yian_angeline@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Qian Yan</td>
+    <td class="tg-1ppo">Ms Qian Yan (6J6)</td>
     <td class="tg-y5j8"><a href="mailto:qian_yan@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">qian_yan@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-h5mn">Mdm Julianna Pushpam</td>
-    <td class="tg-al0j"><a href="mailto:julianna_dyalashree_pushpam@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">julianna_dyalashree_pushpam@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mdm Ra’idah</td>
-    <td class="tg-y5j8"><a href="mailto:raidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">raidah_rahmat@moe.edu.sg</span></a></td>
-  </tr>
+
 </tbody>
 </table>
