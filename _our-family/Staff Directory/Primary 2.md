@@ -50,27 +50,22 @@ third_nav_title: Staff Directory
     <td class="tg-h5mn">Mdm Noraishah (2S4)</td>
     <td class="tg-al0j"><a href="mailto:noraishah_mhd_ayob@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>noraishah_mhd_ayob@moe.edu.sg</a></td>
   </tr>
-</tr>
   <tr>
     <td class="tg-1ppo">Ms Wendy Goh (2S4)</td>
     <td class="tg-y5j8"><a href="mailto:goh_sze_lin_wendy@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>goh_sze_lin_wendy@moe.edu.sg</a></td>
   </tr>
-	</tr>
   <tr>
     <td class="tg-h5mn">Ms Nurul Amirah (2S5)</td>
     <td class="tg-al0j"><a href="mailto:nurul_amirah_amir@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>nurul_amirah_amir@moe.edu.sg</a></td>
   </tr>
-	</tr>
   <tr>
     <td class="tg-1ppo">Mdm Xu Haiying (2S5)</td>
     <td class="tg-y5j8j"><a href="mailto:xu_haiying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>zhang_shuying@moe.edu.sg</a></td>
   </tr>
-	</tr>
   <tr>
     <td class="tg-h5mn">Mrs Jeanette Tan (2S6)</td>
     <td class="tg-al0j"><a href="mailto:jeanette_neo_soo_ling@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>jeanette_neo_soo_ling@moe.edu.sg</a></td>
   </tr>
-	</tr>
   <tr>
     <td class="tg-1ppo">Mdm Yu Wei (2S6)</td>
     <td class="tg-y5j8j"><a href="mailto:yu_wei_a@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
