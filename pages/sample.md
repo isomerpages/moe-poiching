@@ -5,7 +5,7 @@ description: ""
 ---
 | Name | Class | Email  |
 | -------- | -------- | -------- |
-| Mrs Oh | 5L3 | gingertay@gmail.com |
+| Mrs Oh | 5L3 |[gingertay@gmail.com](mailto:gingertay@gmail.com) |
 | Mrs Oh | 5L3 | gingertay@gmail.com |
 | Mrs Oh | 5L3 | gingertay@gmail.com |
 
