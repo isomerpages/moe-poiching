@@ -51,7 +51,7 @@ third_nav_title: Staff Directory
     <td class="tg-y5j8"><a href="mailto:wong_xing_min_junie@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_xing_min_junie@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Rozidah (CAJT) (3M4)</td>
+    <td class="tg-1ppo">Mdm Rozidah (3M4)</td>
     <td class="tg-y5j8"><a href="mailto:rozidah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">rozidah_jaffar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
