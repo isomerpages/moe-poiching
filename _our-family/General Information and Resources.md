@@ -1,9 +1,8 @@
 ---
 title: General Information and Resources
-permalink: /our-family/general-information-and-resources
+permalink: /our-family/general-information-and-resources/
 description: ""
 ---
-
 **PRIMARY 1 ADMISSION**
 
 *   [GENERAL INFORMATION](https://www.moe.gov.sg/education/admissions/primary-one-registration/)
@@ -38,7 +37,7 @@ Purchase of School uniform and P.E. attire are now available at Jeep Sing Fashio
 
 **School Dental Clinic**
 
-Mdm Ling (Dental Therapist), Tel: 6784 5966
+Mdm Ling (Dental Therapist), Tel: 89407158
 
 **EZ Link Card Matters** – Please call TransitLink at the following numbers in accordance with the specific subject matter of concern: <br> 
 Application – 1800 2255 663 (TransitLink)  <br>
