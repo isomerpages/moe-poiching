@@ -33,11 +33,7 @@ third_nav_title: Staff Directory
     <td class="tg-h5mn">Mrs Rachel Neo</td>
     <td class="tg-al0j"><a href="mailto:tan_ching_ling_rachel@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_ching_ling_rachel@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-1ppo">Mr Toh Wee Kwang</td>
-    <td class="tg-y5j8"><a href="mailto:toh_wee_kwang@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">toh_wee_kwang@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-h5mn">Mrs Agnes Teo</td>
     <td class="tg-al0j"><a href="mailto:yue_puay_leng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yue_puay_leng@moe.edu.sg</span></a></td>
   </tr>
