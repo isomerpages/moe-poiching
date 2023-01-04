@@ -38,10 +38,6 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:goh_kwee_seng_alvin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">goh_kwee_seng_alvin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Leow Angeline</td>
-    <td class="tg-y5j8"><a href="mailto:leow_mei_yian_angeline@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">leow_mei_yian_angeline@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-h5mn">Mdm Panny Ong</td>
     <td class="tg-al0j"><a href="mailto:ong_panny@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ong_panny@moe.edu.sg</span></a></td>
   </tr>
