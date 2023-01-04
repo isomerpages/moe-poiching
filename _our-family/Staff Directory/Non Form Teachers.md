@@ -37,11 +37,7 @@ third_nav_title: Staff Directory
     <td class="tg-h5mn">Mr Alvin Goh</td>
     <td class="tg-al0j"><a href="mailto:goh_kwee_seng_alvin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">goh_kwee_seng_alvin@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-h5mn">Mdm Panny Ong</td>
-    <td class="tg-al0j"><a href="mailto:ong_panny@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ong_panny@moe.edu.sg</span></a></td>
-  </tr>
-   <tr>
+     <tr>
     <td class="tg-h5mn">Mrs Rachel Neo</td>
     <td class="tg-al0j"><a href="mailto:tan_ching_ling_rachel@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_ching_ling_rachel@moe.edu.sg</span></a></td>
   </tr>
