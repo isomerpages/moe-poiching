@@ -43,7 +43,7 @@ third_nav_title: Staff Directory
 		<span style="text-decoration:underline;color:#F1AE16;background-color:transparent">marwati_kamarudin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mrs Gomes (3M2)</td>
+    <td class="tg-h5mn">Mrs Gomes (3M3)</td>
     <td class="tg-al0j"><a href="mailto:un_yih_miin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">melissa_hoeden@moe.edu.sg</span></a></td>
   </tr>
   <tr>
