@@ -30,35 +30,6 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:tan_jingyi@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_jingyi@moe.edu.sg</span></a></td>
   </tr>
     <tr>
-    <td class="tg-1ppo">Mrs Lee Kheng Leng</td>
-    <td class="tg-y5j8"><a href="mailto:yap_kheng_leng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yap_kheng_leng@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Mr Alvin Goh</td>
-    <td class="tg-al0j"><a href="mailto:goh_kwee_seng_alvin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">goh_kwee_seng_alvin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mdm Leow Angeline</td>
-    <td class="tg-y5j8"><a href="mailto:leow_mei_yian_angeline@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">leow_mei_yian_angeline@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Mdm Panny Ong</td>
-    <td class="tg-al0j"><a href="mailto:ong_panny@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ong_panny@moe.edu.sg</span></a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-1ppo">Mdm Nur Khairin</td>
-    <td class="tg-y5j8"><a href="mailto:nur_khairin_abdul_jafar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nur_khairin_abdul_jafar@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Mrs Rachel Neo</td>
-    <td class="tg-al0j"><a href="mailto:tan_ching_ling_rachel@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">tan_ching_ling_rachel@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mr Toh Wee Kwang</td>
-    <td class="tg-y5j8"><a href="mailto:toh_wee_kwang@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">toh_wee_kwang@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-h5mn">Mrs Agnes Teo</td>
     <td class="tg-al0j"><a href="mailto:yue_puay_leng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yue_puay_leng@moe.edu.sg</span></a></td>
   </tr>
@@ -66,15 +37,7 @@ third_nav_title: Staff Directory
     <td class="tg-1ppo">Ms Evelyn Chua</td>
     <td class="tg-y5j8"><a href="mailto:evelyn_chua_kim_choo@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">evelyn_chua_kim_choo@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-h5mn">Mdm Rozidah</td>
-    <td class="tg-al0j"><a href="mailto:rozidah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">rozidah_jaffar@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mdm Radiah</td>
-    <td class="tg-y5j8"><a href="mailto:radiah_mohamed@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">radiah_mohamed@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+      <tr>
     <td class="tg-h5mn">Mr Jais</td>
     <td class="tg-al0j"><a href="mailto:mohd_jais_ahmad@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">mohd_jais_ahmad@moe.edu.sg</span></a></td>
   </tr>
