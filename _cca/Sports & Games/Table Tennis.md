@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /cca/Sports-and-Games/table-tennis
+permalink: /cca/Sports-and-Games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -23,17 +23,13 @@ third_nav_title: Sports & Games
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-h5mn">Mdm Poh</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-1ppo">Mrs Pokhrel</td>
     <td class="tg-1ppo">Member</td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mrs Seetoh</td>
-    <td class="tg-h5mn">Associate Member</td>
+    <td class="tg-1ppo">Mrs Seetoh</td>
+    <td class="tg-1ppo">Associate Member</td>
   </tr>
 </tbody>
 </table>
