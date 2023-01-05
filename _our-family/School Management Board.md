@@ -37,7 +37,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Member 成员</td>
-    <td class="tg-tsok">Mr Yu Chu Siong 俞书祥先生<br>Mr Ko Tjie Ming<br>高居明先生<br>Mr Adam Jauw Tong Hau<br> 姚堂皓先生<br>Mr Lim Swee Thye 林瑞泰先生<br>Mr Lim Hui Choon 林惠春先生<br>Mr Chia How Ming 谢孝铭先生<br>Mr Lin Si He<br> 林思和先生<br>Mr Huang Cheng Gui<br> 黄成贵先生<br>Mr Wang De Qing 王德清先生<br>Mr Ee Poh Thye <br>俞堡钛先生</td>
+    <td class="tg-tsok">Mr Yu Chu Siong 俞书祥先生<br>Mr Ko Tjie Ming 高居明先生<br>Mr Adam Jauw Tong Hau 姚堂皓先生<br>Mr Lim Swee Thye 林瑞泰先生<br>Mr Chia How Ming 谢孝铭先生<br>Mr Lin Si He 林思和先生<br>Mr Huang Cheng Gui 黄成贵先生<br>Mr Wang De Qing 王德清先生<br>Mr Ee Poh Thye 俞堡钛先生</td>
   </tr>
 </tbody>
 </table>
