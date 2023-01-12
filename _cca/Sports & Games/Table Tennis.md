@@ -4,50 +4,31 @@ permalink: /cca/Sports-and-Games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-### Teachers-in-charge
+# Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Mr Ng</th>
-    <th class="tg-1ppo">OIC</th>
-  </tr>
-</thead>
-<tbody>
-    <tr>
-    <td class="tg-1ppo">Mrs Pokhrel</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mrs Seetoh</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+| | |
+| -------- |  -------- |
+| Mr Ng |  OIC |
+|Mrs Seetoh | Associate Member |
+|Mrs Pokhrel | Member |
+|Ms Elmizah | Associate Member |
 
-### Training Schedule
+# Training Schedule
 
 **School Team Training:**
 
-Monday:  <br>
-2-3pm (P3&P4)  <br>
-3-4pm (P5&P6)
+|Date| time | Primary| 
+|-----|----|------|
+|Monday|2-3pm |(P3&P4)|
+||3-4pm |(P5&P6)|
+|Thursday:|2-3.30pm |(P3&P4)|
+||3.30-5pm |(P5&P6)|
 
-Thursday:  <br>
-2-3.30pm (P3&P4)  <br>
-3.30-5pm (P5&P6)
+**Venue:**
+||
+|---|
+|Level 5 at Blk E|
 
-Venue: <br>
-Level 5 at Blk E
 
 ### Introduction
 
@@ -57,8 +38,8 @@ Many of our school players have gained access into good secondary schools throug
 
 During each weekly CCA, the players are split into three smaller groups each taken by respective teachers-in-charge and engage in a lively discussion of our school values in CCE.  The aim is to help pupils put these values into practice during their training as well as during competitions.
 
-### Table Tennis Updates
 
+### Table Tennis Updates
 ![](/images/Slide2.png)
 ![](/images/etennis01.jpg)
 ![](/images/etennis02.jpg)
