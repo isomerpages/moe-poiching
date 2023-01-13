@@ -25,6 +25,8 @@ third_nav_title: Sports & Games
 ||3.30-5pm |(P5&P6)|
 
 **Venue:**
+|  |
+|-----|
 Level 5 at Blk E
 
 
