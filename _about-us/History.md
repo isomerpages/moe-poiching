@@ -27,8 +27,8 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 *   Mr Lim Chin Sam (1995 to 1999)
 *   Mdm Foo Mui Chuw (2000 to 2006)
 *   Mr Chong Kwai Kuen (2007 to 2014)
-*   Mr Andrew Mah (2015 to present)
-*   Mrs Cheong Ye Ling (2020 to present)
+*   Mr Andrew Mah (2015 to 2020)
+*   Mrs Cheong Ye Ling (2021 to present)
 
 ### Milestones
 
