@@ -73,7 +73,7 @@ third_nav_title: Staff Directory
     <td class="tg-y5j8"><a href="mailto:ong_panny@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ong_panny@moe.edu.sg</span></a></td>
   </tr>
     <tr>
-    <td class="tg-h5mn">Mdm El (1D7)</td>
+    <td class="tg-h5mn">Mdm Elmizah (1D7)</td>
     <td class="tg-al0j"><a href="mailto:nur_elmizah_mhd_yassin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nur_elmizah_mhd_yassin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
