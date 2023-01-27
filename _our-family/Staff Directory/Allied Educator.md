@@ -40,11 +40,7 @@ third_nav_title: Staff Directory
     <td class="tg-zr06">Mdm Raihana</td>
     <td class="tg-y5j8"><a href="mailto:raihana_zainalabidin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">raihana_zainalabidin@moe.edu.sg</span></a></td>
   </tr>
-	<tr>
-    <td class="tg-bsu7">Mdm Grace Teo</td>
-    <td class="tg-al0j"><a href="mailto:teo_swee_yee_grace@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">teo_swee_yee_grace@moe.edu.sg</span></a></td>
-  </tr>
-	 <tr>
+		 <tr>
     <td class="tg-zr06">Mdm Lim Chin Yin</td>
     <td class="tg-y5j8"><a href="mailto:lim_chin_yin_a@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">lim_chin_yin_a@moe.edu.sg</span></a></td>
   </tr>
