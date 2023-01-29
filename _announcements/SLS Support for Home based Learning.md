@@ -9,9 +9,9 @@ description: ""
 
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
-**School-based Helpline: 6785 6420 (ask for Mr Alex Huang)**
 
-**Email: alex\_huang@schools.gov.sg**
+
+**Email: ginger_tay@schools.gov.sg**
 
 **Mondays – Fridays: 8:00 am – 4:00 pm**
 
