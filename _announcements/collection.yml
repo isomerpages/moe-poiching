@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - PHASE 2B PCS PARENT VOLUNTEER SCHEME.md
       - 2023 Booklists.md
       - 11th National Primary and Secondary Schools Chinese Calligraphy
         Competition.md
