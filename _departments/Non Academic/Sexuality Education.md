@@ -32,20 +32,25 @@ third_nav_title: Non Academic
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
+        
 
+**Overview of Poi Ching School’s Sexuality Education Programme for 2023**
 
-**Overview of POI CHING** **School’s** **Sexuality Education Programme for 2022**
+4.        Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
-5.  The subjects that incorporate topics on sexuality include:
-6.  Science
-7.  Form Teacher Guidance Period (FTGP)
-8.  Character and Citizenship Education (CCE)
+5.        The subjects that incorporate topics on sexuality include:
 
-**Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+a.         Science
 
-6.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
-7.  The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+b.         Character and Citizenship Education (CCE)
+
+         
+
+**Sexuality Education Lessons**:
+
+6.        The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+
+7\.        Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
 **At Poi Ching School, the following Sexuality Education lessons will be taught in 2022:**
 
