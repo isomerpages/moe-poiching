@@ -52,13 +52,17 @@ b.         Character and Citizenship Education (CCE)
 
 7\.        Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-**At Poi Ching School, the following Sexuality Education lessons will be taught in 2022:**
+**At Poi Ching School, the following Sexuality Education lessons will be taught in 2023:**
 
 ![](/images/SEd2022-2-scaled.jpg)
 
+         
 **Information for Parents**
 
-8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
-9.  Parents are to give consent for your child to attend the Sexuality Education lessons via Parent Gateway from **Friday, 28** **January 2022.** Parents who wish to opt their child out, please complete an opt-out form by clicking on the link provided in Parent Gateway. This form is also downloadable [here](/files/SEd_Opt_Out_form_2022%20(1).pdf) A hardcopy of the opt-out form, duly completed and signed, is to be submitted to the form teacher by **Monday, 14 February 2022.**
-10.  Parents can contact the school at 67856420 for discussion or to seek clarification about the school’s sexuality education programme.
-11.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+8.        Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.        Parents are to give consent for your child to attend the Sexuality Education lessons via Parent Gateway from **24/02/2023**. Parents who wish to opt their child out, please complete an opt-out form by clicking on the link provided in Parent Gateway. **This is to be done and submitted by** **03/03/2023**.
+
+10.      Parents can contact the school at 67856420 for discussion or to seek clarification about the school’s Sexuality Education programme.
+**Information for Parents**
+
