@@ -54,7 +54,8 @@ b.         Character and Citizenship Education (CCE)
 
 **At Poi Ching School, the following Sexuality Education lessons will be taught in 2023:**
 
-![](/images/SEd2022-2-scaled.jpg)
+[2023 info on SEd](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20PCS%20(%20p5%20n%206%20syllabus).pdf)
+
 
          
 **Information for Parents**
@@ -65,4 +66,3 @@ b.         Character and Citizenship Education (CCE)
 
 10.      Parents can contact the school at 67856420 for discussion or to seek clarification about the school’s Sexuality Education programme.
 **Information for Parents**
-
