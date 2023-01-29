@@ -51,20 +51,20 @@ third_nav_title: Staff Directory
     <td class="tg-y5j8"><a href="mailto:wong_xing_min_junie@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_xing_min_junie@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Rozidah (3M4)</td>
-    <td class="tg-y5j8"><a href="mailto:rozidah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">rozidah_jaffar@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Rozidah (3M4)</td>
+    <td class="tg-al0j"><a href="mailto:rozidah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">rozidah_jaffar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mrs Lee Kheng Leng (3M4)</td>
-    <td class="tg-al0j"><a href="mailto:yap_kheng_leng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yap_kheng_leng@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mrs Lee Kheng Leng (3M4)</td>
+    <td class="tg-y5j8"><a href="mailto:yap_kheng_leng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">yap_kheng_leng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Fazila (3M5)</td>
-    <td class="tg-y5j8"><a href="mailto:fazila_banu_dhadha_hussain@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">fazila_banu_dhadha_hussain@moe.edu.sg</span></a></td>
+    <td class="tg-h5mn">Mdm Fazila (3M5)</td>
+    <td class="tg-al0j"><a href="mailto:fazila_banu_dhadha_hussain@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">fazila_banu_dhadha_hussain@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Victor Ho (3M5)</td>
-    <td class="tg-al0j"><a href="mailto:ho_see_hoong_victor@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ho_see_hoong_victor@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mr Victor Ho (3M5)</td>
+    <td class="tg-y5j8"><a href="mailto:ho_see_hoong_victor@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ho_see_hoong_victor@moe.edu.sg</span></a></td>
   </tr>
     <tr>
     <td class="tg-h5mn">Mr Jason Lim (3M6)</td>

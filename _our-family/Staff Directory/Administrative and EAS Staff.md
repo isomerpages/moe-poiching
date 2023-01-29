@@ -37,7 +37,7 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-tsok">Mr K. Adiyapatham</td>
-    <td class="tg-1ppo">Operation Manager</td>
+    <td class="tg-1ppo">Operation(s) Manager</td>
   </tr>
   <tr>
     <td class="tg-xyrl">Ms Lin Haijiao</td>
@@ -45,7 +45,7 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-tsok">Mdm Elsie Yeong</td>
-    <td class="tg-tsok">Corporate Support Officer</td>
+    <td class="tg-tsok">Administrative Executive</td>
   </tr>
   <tr>
     <td class="tg-xyrl">Mdm Saudah Bte Kazim</td>

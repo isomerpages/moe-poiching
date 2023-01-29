@@ -24,13 +24,13 @@ School Holidays: 7.30am – 6.30pm
 
 **Bookshop – Pacific Bookstores Pte Ltd**
 
-Customer Service Tel: (65) 6559 2269 <br>
+Customer Service Tel: (65) 6226 5788 <br>
 Email: sales@pacificbookstores.com
 
 **School Uniform Vendor – Jeep Sing Fashion**
 
 Company name: Jeep Sing Fashion  <br>
-Tel: 6074 3163<br>
+Tel: 6456 3198<br>
 URL: [https://jeepsinguniform.com](https://jeepsinguniform.com/)
 
 Purchase of School uniform and P.E. attire are now available at Jeep Sing Fashion’s online store via the URL [https://jeepsinguniform.com/collections/poi-ching-primary-school](https://jeepsinguniform.com/collections/poi-ching-primary-school)
