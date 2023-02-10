@@ -70,63 +70,8 @@ third_nav_title: Sports & Games
 
 
 
-	| Appointment | Name | Class |
-	| -------- | -------- | -------- |
+	
 
-| P6 Captain    | Lim Ding Zhi Zephan | 6 Justice 4 |
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4ufn"><span style="font-weight:bold">Appointment</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bold">Name</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bold">Class</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gj5f">P6 Captain</td>
-    <td class="tg-gj5f">Lim Yu Heng Ethan</td>
-    <td class="tg-gj5f">6 Diligence</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">P6 Vice-Captain</td>
-    <td class="tg-a3j2">Justin Zhao Jun Ming</td>
-    <td class="tg-a3j2">6 Excellence</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">P5 Captain</td>
-    <td class="tg-gj5f">Justin Ng Hong Jie</td>
-    <td class="tg-gj5f">5 Courage</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">P5 Vice-Captain</td>
-    <td class="tg-a3j2">Chong Yi Feng, Chester</td>
-    <td class="tg-a3j2">5 Filial Piety</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">P4 Captain</td>
-    <td class="tg-gj5f">Gabriel Chan</td>
-    <td class="tg-gj5f">4 Diligence</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">P4 Vice-Captain</td>
-    <td class="tg-a3j2">Thian Jing Kai, Jovan</td>
-    <td class="tg-a3j2">4 Excellence</td>
-  </tr>
-</tbody>
-</table>
 
 ### Leadership (Girls)
 
