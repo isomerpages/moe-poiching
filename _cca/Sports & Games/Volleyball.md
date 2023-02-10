@@ -18,10 +18,9 @@ third_nav_title: Sports & Games
 | Goh Kwee Seng Alvin   |      | Associate Member    |
 | Neo Soo Ling Jeanette   |      | Associate Member    |
 
+**Coach ** :     Coach Chua
 
 
-| **Coach**       |          | Coach Chua|
-| -------- | -------- | -------- |
 
 
 
