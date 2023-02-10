@@ -59,9 +59,21 @@ third_nav_title: Sports & Games
 
 
 
-	| Appointment | Name | Class |
+| Appointment | Name | Class |
 | -------- | -------- | -------- |
-| P6 Captain     |    | Text     |
+| P6 Captain     | Lim Ding Zhi Zephan    | 6J4     |
+| P6 Vice-Captain     | Ong Feng Xiang Lucas    | 6J2     |
+| P5 Captain     | Tan Yan Feng Keiston    | 5L1     |
+| P5 Vice-Captain     | Neo Chen Shuo    | 5L4     |
+| P4 Captain     | Tan Ze Yu, Ray   | 4P3     |
+| P4 Vice-Captain     |   Caerwyn Lee Zhi Lei  | 4P3     |
+
+
+
+	| Appointment | Name | Class |
+	| -------- | -------- | -------- |
+
+| P6 Captain    | Lim Ding Zhi Zephan | 6 Justice 4 |
 
 
 <style type="text/css">
