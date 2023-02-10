@@ -5,53 +5,23 @@ description: ""
 third_nav_title: Sports & Games
 ---
 ### Teachers-in-charge
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Yap Kheng Leng</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Marwati Bte Kamarudin</td>
-    <td class="tg-bsu7">2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Nurain Amirah Binte Abdul Rahim</td>
-    <td class="tg-zr06">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">Nurul Amirah Binte Amir</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Tan You Chuan Calvin</td>
-    <td class="tg-zr06">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">Tee Li Ping</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Goh Kwee Seng Alvin</td>
-    <td class="tg-zr06">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">Neo Soo Ling Jeanette</td>
-    <td class="tg-bsu7">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+
+
+
+| Name |  | Role |
+| -------- | -------- | -------- |
+| Yap Kheng Leng    |      | OIC    |
+| Marwati Bte Kamarudin   |      | 2IC    |
+| Nurul Amirah Binte Amir   |      | Member  |
+| Tan You Chuan Calvin    |      | Member    |
+| Tee Li Ping    |      | Member    |
+| Goh Kwee Seng Alvin   |      | Associate Member    |
+| Neo Soo Ling Jeanette   |      | Associate Member    |
+
+
+
+| **Coach**       |          | Coach Chua|
+| -------- | -------- | -------- |
 
 
 
