@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /cca/Sports-and-Games/volleyball
+permalink: /cca/Sports-and-Games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -54,11 +54,16 @@ third_nav_title: Sports & Games
 </table>
 
 
-### Coach
-
-*   Coach Chua Siew Choo
 
 ### Leadership (Boys)
+
+
+
+	| Appointment | Name | Class |
+| -------- | -------- | -------- |
+| P6 Captain     |    | Text     |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
