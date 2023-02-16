@@ -89,7 +89,7 @@ Our students are able to seek admission to the following schools via DSA on the 
 *   SYF (International Dance) – Certificate of Distinction
 
 ### Photographs
-**Chinese New Year 2023**
+**Chinese New Year Concert 2023**
 ![](/images/ch%20dance%20CNY%201.jpg)
 
 ![](/images/ch%20dance%20CNY2.jpg)
