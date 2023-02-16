@@ -61,7 +61,7 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | -------- | -------- | -------- |
 | Dance Trainings  |   | Mdm Wenna Wong|
 | Leadership Matters  |   | Ms Ivy Wong|
-| P6 DSA |   | Mrs Melisa Gomez|
+| P6 DSA |   | Mrs Melisa Gomes|
 | Dance Essentials Purchase |   | Ms Janice Chuan|
 | CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
 | Cosmetics & Makeup |   | Ms Ivy Wong|
@@ -89,7 +89,7 @@ Our students are able to seek admission to the following schools via DSA on the 
 *   SYF (International Dance) – Certificate of Distinction
 
 ### Photographs
-**Chinese New Year 2023**
+**Chinese New Year Concert 2023**
 ![](/images/ch%20dance%20CNY%201.jpg)
 
 ![](/images/ch%20dance%20CNY2.jpg)
