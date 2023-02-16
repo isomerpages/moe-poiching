@@ -61,74 +61,8 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
 | Cosmetics & Makeup |   | Ms Ivy Wong|
 | Dance Noticeboard |   |Mrs Melissa Gomez|
-| Social Media Platforms  |   | MS Janice Chuan|
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"></th>
-    <th class="tg-l2bf">OIC</th>
-    <th class="tg-0lax"><span style="font-weight:bold">IC</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xyrl">Dance Trainings</td>
-    <td class="tg-xyrl">Mdm Wong Wenna</td>
-    <td class="tg-xyrl">Ms Vanessa Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Singapore Youth Festival (SYF)</td>
-    <td class="tg-tsok">Mdm Wong Wenna</td>
-    <td class="tg-tsok">Ms Vanessa Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Leadership Matters</td>
-    <td class="tg-xyrl">Ms Vanessa Tan</td>
-    <td class="tg-xyrl">Mdm Panny Ong</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">P6 DSA</td>
-    <td class="tg-tsok">Ms Ivy Wong</td>
-    <td class="tg-tsok">–</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">P3 Uniform Purchase</td>
-    <td class="tg-xyrl">Ms Janice Chuan</td>
-    <td class="tg-xyrl">Mrs Jazreel Quah</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">CCA Fair/ P2 Selection</td>
-    <td class="tg-tsok">Ms Yu Danning</td>
-    <td class="tg-tsok">–</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Cosmetics &amp; Makeup</td>
-    <td class="tg-xyrl">Mdm Panny Ong</td>
-    <td class="tg-xyrl">Ms Ivy Wong</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Dance Noticeboard</td>
-    <td class="tg-tsok">Ms Vanessa Tan</td>
-    <td class="tg-tsok"> </td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Social Media Platforms</td>
-    <td class="tg-xyrl">Ms Janice Chuan</td>
-    <td class="tg-xyrl">–</td>
-  </tr>
-</tbody>
-</table>
+| Social Media Platforms  |   | Ms Janice Chuan|
+
 
 ### Direct School Admission (DSA)
 
