@@ -31,14 +31,19 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 In Poi Ching Dance, we can be ourselves.
 
-### Training Schedules**
+### Training Schedules
 
 
 Mondays: 2pm – 4.30pm <br>
 Thursdays:  2pm – 4.30pm <br>
 Venue: Dance Room / PAL Room
 
-[Dance-CCA-Term-3-Training-Schedule](/files/Dance-CCA-Term-3-Training-Schedule.pdf)
+
+
+##### **2023 Term 1 Training Schedule**
+
+[2023 Dance CCA Term 1 Schedule]()
+
 
 ### Dance Teachers’ Duty List
 
@@ -85,6 +90,13 @@ Our students are able to seek admission to the following schools via DSA on the 
 
 ### Photographs
 **Chinese New Year 2023**
+![](/images/ch%20dance%20CNY%201.jpg)
+
+![](/images/ch%20dance%20CNY2.jpg)
+
+![](/images/ch%20dance%20CNY%203.jpg)
+
+![](/images/ch%20dance%20cny%204.jpg)
 
 
 **SYF 2022**
