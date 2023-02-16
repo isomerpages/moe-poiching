@@ -13,11 +13,11 @@ third_nav_title: Performing Arts
 
 | Teachers |  | Roles |
 | -------- | -------- | -------- |
-| Wong Wenna     |  | OIC     |
-| Ivy Wong Ye Shuang   |  | Member    |
-| Janice Chuan Jia En   |  | Member   |
-| Melissa Gomes   |  | Member    
-| Hsu Tzu Chun  |  | Member    |
+| Mdm Wong Wenna     |  | OIC     |
+| Ms Ivy Wong Ye Shuang   |  | Member    |
+| Ms Janice Chuan Jia En   |  | Member   |
+| Mrs Melissa Gomes   |  | Member    
+| Ms Hsu Tzu Chun  |  | Member    |
 
 
 
@@ -47,74 +47,24 @@ P3 Dancers – Mrs Melissa Gomes <br>
 P4 Dancers – Ms Janice Chuan <br>
 P5 Dancers – Ms Hsu Tzu Chun<br>
 
+```
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"></th>
-    <th class="tg-l2bf">OIC</th>
-    <th class="tg-0lax"><span style="font-weight:bold">IC</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xyrl">Dance Trainings</td>
-    <td class="tg-xyrl">Mdm Wong Wenna</td>
-    <td class="tg-xyrl">Ms Vanessa Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Singapore Youth Festival (SYF)</td>
-    <td class="tg-tsok">Mdm Wong Wenna</td>
-    <td class="tg-tsok">Ms Vanessa Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Leadership Matters</td>
-    <td class="tg-xyrl">Ms Vanessa Tan</td>
-    <td class="tg-xyrl">Mdm Panny Ong</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">P6 DSA</td>
-    <td class="tg-tsok">Ms Ivy Wong</td>
-    <td class="tg-tsok">–</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">P3 Uniform Purchase</td>
-    <td class="tg-xyrl">Ms Janice Chuan</td>
-    <td class="tg-xyrl">Mrs Jazreel Quah</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">CCA Fair/ P2 Selection</td>
-    <td class="tg-tsok">Ms Yu Danning</td>
-    <td class="tg-tsok">–</td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Cosmetics &amp; Makeup</td>
-    <td class="tg-xyrl">Mdm Panny Ong</td>
-    <td class="tg-xyrl">Ms Ivy Wong</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Dance Noticeboard</td>
-    <td class="tg-tsok">Ms Vanessa Tan</td>
-    <td class="tg-tsok"> </td>
-  </tr>
-  <tr>
-    <td class="tg-xyrl">Social Media Platforms</td>
-    <td class="tg-xyrl">Ms Janice Chuan</td>
-    <td class="tg-xyrl">–</td>
-  </tr>
-</tbody>
-</table>
+```
+
+
+| | | Teacher-in-charge |
+| -------- | -------- | -------- |
+| Dance Trainings  |   | Mdm Wenna Wong|
+| Leadership Matters  |   | Ms Ivy Wong|
+| P6 DSA |   | Mrs Melisa Gomez|
+| Dance Essentials Purchase |   | Ms Janice Chuan|
+| CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
+| Cosmetics & Makeup |   | Ms Ivy Wong|
+| Dance Noticeboard |   |Mrs Melissa Gomez|
+| Social Media Platforms  |   | Ms Janice Chuan|
+
+![](/images/Dance%20CCA%20Leaders.png)
+
 
 ### Direct School Admission (DSA)
 
@@ -134,6 +84,8 @@ Our students are able to seek admission to the following schools via DSA on the 
 *   SYF (International Dance) – Certificate of Distinction
 
 ### Photographs
+**Chinese New Year 2023**
+
 
 **SYF 2022**
 
