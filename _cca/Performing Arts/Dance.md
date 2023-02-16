@@ -38,7 +38,10 @@ Mondays: 2pm – 4.30pm <br>
 Thursdays:  2pm – 4.30pm <br>
 Venue: Dance Room / PAL Room
 
-[Dance-CCA-Term-3-Training-Schedule](/files/Dance-CCA-Term-3-Training-Schedule.pdf)
+
+Dance CCA-2023 Term 1 Training Schedule
+[2023 Dance CCA Term 1 Schedule]()
+
 
 ### Dance Teachers’ Duty List
 
