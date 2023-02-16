@@ -13,11 +13,11 @@ third_nav_title: Performing Arts
 
 | Teachers |  | Roles |
 | -------- | -------- | -------- |
-| Wong Wenna     |  | OIC     |
-| Ivy Wong Ye Shuang   |  | Member    |
-| Janice Chuan Jia En   |  | Member   |
-| Melissa Gomes   |  | Member    
-| Hsu Tzu Chun  |  | Member    |
+| Mdm Wong Wenna     |  | OIC     |
+| Ms Ivy Wong Ye Shuang   |  | Member    |
+| Ms Janice Chuan Jia En   |  | Member   |
+| Mrs Melissa Gomes   |  | Member    
+| Ms Hsu Tzu Chun  |  | Member    |
 
 
 
@@ -47,7 +47,21 @@ P3 Dancers – Mrs Melissa Gomes <br>
 P4 Dancers – Ms Janice Chuan <br>
 P5 Dancers – Ms Hsu Tzu Chun<br>
 
+```
 
+```
+
+
+| | | Teacher-in-charge |
+| -------- | -------- | -------- |
+| Dance Trainings  |   | Mdm Wenna Wong|
+| Leadership Matters  |   | Ms Ivy Wong|
+| P6 DSA |   | Mrs Melisa Gomez|
+| Dance Essentials Purchase |   | Ms Janice Chuan|
+| CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
+| Cosmetics & Makeup |   | Ms Ivy Wong|
+| Dance Noticeboard |   |Mrs Melissa Gomez|
+| Social Media Platforms  |   | MS Janice Chuan|
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
