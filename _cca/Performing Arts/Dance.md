@@ -63,6 +63,8 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | Dance Noticeboard |   |Mrs Melissa Gomez|
 | Social Media Platforms  |   | Ms Janice Chuan|
 
+![](/images/Dance%20CCA%20Leaders.png)
+
 
 ### Direct School Admission (DSA)
 
@@ -82,6 +84,8 @@ Our students are able to seek admission to the following schools via DSA on the 
 *   SYF (International Dance) – Certificate of Distinction
 
 ### Photographs
+**Chinese New Year 2023**
+
 
 **SYF 2022**
 
