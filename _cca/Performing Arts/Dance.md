@@ -42,11 +42,11 @@ Venue: Dance Room / PAL Room
 
 ### Dance Teachers’ Duty List
 
-P2 Dancers – Ms Yu Danning <br>
-P3 Dancers – Ms Janice Chuan <br>
-P4 Dancers – Ms Vanessa Tan <br>
-P5 Dancers – Mdm Panny Ong <br>
-P6 Dancers – Ms Ivy Wong
+P2 Dancers – Ms Ivy Wong <br>
+P3 Dancers – Mrs Melissa Gomes <br>
+P4 Dancers – Ms Janice Chuan <br>
+P5 Dancers – Ms Hsu Tzu Chun<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
