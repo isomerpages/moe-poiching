@@ -61,7 +61,7 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | -------- | -------- | -------- |
 | Dance Trainings  |   | Mdm Wenna Wong|
 | Leadership Matters  |   | Ms Ivy Wong|
-| P6 DSA |   | Mrs Melisa Gomez|
+| P6 DSA |   | Mrs Melisa Gomes|
 | Dance Essentials Purchase |   | Ms Janice Chuan|
 | CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
 | Cosmetics & Makeup |   | Ms Ivy Wong|
