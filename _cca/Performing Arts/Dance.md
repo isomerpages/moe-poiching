@@ -31,7 +31,7 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 In Poi Ching Dance, we can be ourselves.
 
-### Training Schedules**
+### Training Schedules
 
 
 Mondays: 2pm – 4.30pm <br>
