@@ -65,7 +65,7 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | Dance Essentials Purchase |   | Ms Janice Chuan|
 | CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
 | Cosmetics & Makeup |   | Ms Ivy Wong|
-| Dance Noticeboard |   |Mrs Melissa Gomez|
+| Dance Noticeboard |   |Mrs Melissa Gomes|
 | Social Media Platforms  |   | Ms Janice Chuan|
 
 ![](/images/Dance%20CCA%20Leaders.png)
@@ -109,7 +109,7 @@ Our students are able to seek admission to the following schools via DSA on the 
 
 ![](/images/CD2021.png)
 
-**Chinese dance performance at SCO bookfest opening**
+
 
 ![](/images/dance1.jpg)
 
