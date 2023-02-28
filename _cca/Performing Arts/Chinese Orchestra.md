@@ -1,69 +1,50 @@
 ---
 title: Chinese Orchestra
-permalink: /cca/Performing-Arts/chinese-orchestra
+permalink: /cca/Performing-Arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Ng Eng Seng Alvin</th>
-    <th class="tg-1ppo">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Yu Wei</td>
-    <td class="tg-h5mn">2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Cassandra Tan Jingyi</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Lee Suk Fun</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Xu Haiying</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Zhang Shuying</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Zheng Xiaodong (Vincent)</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Ong Wai Lit</td>
-    <td class="tg-h5mn">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Saadah Bte Abdul Samad</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-</tbody>
-</table>
 
-### Training Schedule
 
-![](/images/CO.jpg)
+| Name |  | Email |
+| -------- | -------- | -------- |
+| Miss Khoo Wee Wee    | OIC     | khoo_wee_wee@moe.edu.sg     |
+| Mr Vincent Zheng    | 2IC     | zheng_xiaodong@moe.edu.sg     |
+| Miss Evelyn Leow    |      | leow_ling_ling@moe.edu.sg     |
+| Miss Lee Suk Fun    |      | lee_suk_fun@moe.edu.sg     |
+| Miss Yu Danning    |      | yu_danning@moe.edu.sg     |
+| Miss Zhang Shuying   |      | zhang_shuying@moe.edu.sg     |
 
-### Announcement
-[Chinese Orchestra Term 1 Letter 2022](/files/CCA-Term-1-Letter-2022_CO.pdf)
+
+
+**PCS Chinese Orchestra EXCO 2022-2023**
+
+
+
+
+
+### Training Schedule 2023
+
+* Venue : CO Room (Blk E , level 1)
+* Mondays: 2 p.m. to 5 p.m.  (Combined)
+* Thursdays : 2 p.m. to 5 p.m. (Sectionals)
+
+
+### Our CO Archives
+
+**2022**
+
+PCS Chinese Orchestra SYF AP 2022
+[https://flic.kr/s/aHBqjAsFk6](https://flic.kr/s/aHBqjAsFk6)
+
+**2020**
+
+PCS Chinese Orchestra Showcase @ Tampines Central  Lunar New Year Dinner 2020
+
+[https://flic.kr/s/aHsmL7XgSV](https://flic.kr/s/aHsmL7XgSV)
+
 
 ### Introduction
 
