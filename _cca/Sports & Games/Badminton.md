@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /cca/Sports-and-Games/badminton
+permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -14,14 +14,32 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 
 ### Training Schedule     
 
-[Notice-for-Badminton-CCA-Term-1-2021-1.pdf](/files/Notice-for-Badminton-CCA-Term-1-2021-1.pdf)
-
-**BADMINTON TEACHERS AND COACH**
-
-![](/images/badminton_trs-e1550725420510.jpg)
 
 **BADMINTON TEACHERS**
-![](/images/Badminton-teachers-1350x1013.jpg)
+
+| Names |  | |
+| -------- | -------- | -------- |
+| Mr Victor Ho  |    | OIC     |
+| Mdm Radiah Binte Mohamed  |    | 2IC     |
+| Mrs Rachel Neo  |    |     |
+| Mr Muhammad Redzuan Bin Omar  |    | 
+| Mr Jason Lim |    |     |
+| Mdm Wendy Goh |    |  Advisor   |
+
+
+
+
+![](/images/Badminton%20Pic%205.jpeg)
+
+
+**2023**
+![](/images/Badminton%20Pic%201.jpeg)
+
+![](/images/Badminton%20Pic%202.jpeg)
+
+![](/images/Badminton%20Pic%203.jpeg)
+
+![](/images/Badminton%20Pic%204.jpeg)
 
 **2019 SCHOOL TEAM – SENIOR BOYS**
 ![](/images/bm_srboys.jpg)
