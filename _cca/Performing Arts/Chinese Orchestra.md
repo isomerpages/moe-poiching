@@ -22,10 +22,14 @@ third_nav_title: Performing Arts
 **PCS Chinese Orchestra EXCO 2022-2023**
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Cello / Bass    | Text     | Text     |
 
-    <td class="tg-h5mn">Lee Suk Fun</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
+
+
+
+
   <tr>
     <td class="tg-1ppo">Xu Haiying</td>
     <td class="tg-1ppo">Member</td>
@@ -49,9 +53,12 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-### Training Schedule
+### Training Schedule 2023
 
-![](/images/CO.jpg)
+* Venue : CO Room (Blk E , level 1)
+* Mondays: 2 p.m. to 5 p.m.  (Combined)
+* Thursdays : 2 p.m. to 5 p.m. (Sectionals)
+
 
 ### Announcement
 [Chinese Orchestra Term 1 Letter 2022](/files/CCA-Term-1-Letter-2022_CO.pdf)
