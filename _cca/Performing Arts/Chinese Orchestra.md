@@ -60,8 +60,19 @@ third_nav_title: Performing Arts
 * Thursdays : 2 p.m. to 5 p.m. (Sectionals)
 
 
-### Announcement
-[Chinese Orchestra Term 1 Letter 2022](/files/CCA-Term-1-Letter-2022_CO.pdf)
+### Our CO Archives
+
+**2022**
+
+PCS Chinese Orchestra SYF AP 2022
+[https://flic.kr/s/aHBqjAsFk6](https://flic.kr/s/aHBqjAsFk6)
+
+**2020**
+
+PCS Chinese Orchestra Showcase @ Tampines Central  Lunar New Year Dinner 2020
+
+[https://flic.kr/s/aHsmL7XgSV](https://flic.kr/s/aHsmL7XgSV)
+
 
 ### Introduction
 
