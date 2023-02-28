@@ -15,9 +15,7 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 ### Training Schedule     
 
 
-**BADMINTON TEACHERS AND COACH**
-
-
+**BADMINTON TEACHERS**
 
 | Names |  | |
 | -------- | -------- | -------- |
@@ -29,10 +27,19 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 | Mdm Wendy Goh |    |  Advisor   |
 
 
-**BADMINTON TEACHERS**
-![](/images/badminton_trs-e1550725420510.jpg)
 
-![](/images/Badminton-teachers-1350x1013.jpg)
+
+![](/images/Badminton%20Pic%205.jpeg)
+
+
+**2023**
+![](/images/Badminton%20Pic%201.jpeg)
+
+![](/images/Badminton%20Pic%202.jpeg)
+
+![](/images/Badminton%20Pic%203.jpeg)
+
+![](/images/Badminton%20Pic%204.jpeg)
 
 **2019 SCHOOL TEAM – SENIOR BOYS**
 ![](/images/bm_srboys.jpg)
