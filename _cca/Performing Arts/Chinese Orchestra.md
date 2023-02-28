@@ -22,36 +22,8 @@ third_nav_title: Performing Arts
 **PCS Chinese Orchestra EXCO 2022-2023**
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Cello / Bass    | Text     | Text     |
 
 
-
-
-
-  <tr>
-    <td class="tg-1ppo">Xu Haiying</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Zhang Shuying</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Zheng Xiaodong (Vincent)</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Ong Wai Lit</td>
-    <td class="tg-h5mn">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Saadah Bte Abdul Samad</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-</tbody>
-</table>
 
 ### Training Schedule 2023
 
