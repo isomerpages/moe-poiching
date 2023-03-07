@@ -18,6 +18,7 @@ description: ""
 | Ms Scarlett | | HOD/MA|
 | Mrs Cheng Wan Chin | | HOD/ICT|
 | Mr Alvin Goh | | HOD/PE & CCA|
+| Mrs Junie Seetoh | | SH/ Student Well-Being & AYH/P5(internal)|
 | Mrs Agnes Teo | | SH/ SAP|
 | Ms Wendy Goh | | SH/ CCE|
 | Mrs Ginger Oh | | SH/ ICT|
@@ -27,9 +28,9 @@ description: ""
 | Mr Toh Wee Kwang | | LH/ MA|
 | Mdm Panny Ong | | AYH/P1|
 | Mrs Jeanette Tan | | YH/P2|
-| Mrs Gomez| | AYH/P3 (internal)|
+| Mrs Gomez| | AYH/P3(internal)|
 | Ms Ong Yi Ting | | AYH/P4|
-| Mrs Junie Seetoh | | SH/ Student Well-Bing & AYH/P5 (internal)|
+
 | Ms Joanna Tan | | YH/P6|
 
 
@@ -44,5 +45,3 @@ description: ""
 | Mdm Dzaariny  | | ST/SCI    |
 | Mdm Tee Li Ping  | | ST/EL    |
 | Mrs Rachel Neo  | | ST/SEN   |
-
-
