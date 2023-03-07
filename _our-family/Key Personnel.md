@@ -3,11 +3,7 @@ title: Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 ---
-
-
-
-
-| Column 1 | Column 2 | Column 3 |
+| Names| | Designation |
 | -------- | -------- | -------- |
 | Mrs Cheong Ye Ling    | | Principal    |
 | Mdm Peh Tan Wee   | | Vice Principal  (1)   |
