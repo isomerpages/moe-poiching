@@ -35,14 +35,14 @@ In Poi Ching Dance, we can be ourselves.
 
 
 Mondays: 2pm – 4.30pm <br>
-Thursdays:  2pm – 4.30pm <br>
+Thursdays:&nbsp; 2pm – 4.30pm <br>
 Venue: Dance Room / PAL Room
 
 
 
 ##### **2023 Term 1 Training Schedule**
+[2023 Dance CCA Term 2 Scheule]()
 
-[2023 Dance CCA Term 1 Schedule]()
 
 
 ### Dance Teachers’ Duty List
@@ -64,7 +64,7 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | P6 DSA |   | Mrs Melisa Gomes|
 | Dance Essentials Purchase |   | Ms Janice Chuan|
 | CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
-| Cosmetics & Makeup |   | Ms Ivy Wong|
+| Cosmetics &amp; Makeup |   | Ms Ivy Wong|
 | Dance Noticeboard |   |Mrs Melissa Gomes|
 | Social Media Platforms  |   | Ms Janice Chuan|
 
@@ -73,9 +73,9 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 
 ### Direct School Admission (DSA)
 
-On top of all these opportunities given to our Dance leaders, they are also given a chance to become facilitators during CCA time using the MOE CCA toolkit.  Through the sessions, the leaders have a chance to hone their leadership skills and cultivate a sense of belonging amongst all members.
+On top of all these opportunities given to our Dance leaders, they are also given a chance to become facilitators during CCA time using the MOE CCA toolkit.&nbsp; Through the sessions, the leaders have a chance to hone their leadership skills and cultivate a sense of belonging amongst all members.
 
-Our students are able to seek admission to the following schools via DSA on the basis of talents and achievements that may not be demonstrated at the Primary School Leaving Examination (PSLE).  The DSA-Sec enables students to enter suitable academic and non-academic programmes in Secondary Schools that can develop the students in these areas. 
+Our students are able to seek admission to the following schools via DSA on the basis of talents and achievements that may not be demonstrated at the Primary School Leaving Examination (PSLE).&nbsp; The DSA-Sec enables students to enter suitable academic and non-academic programmes in Secondary Schools that can develop the students in these areas.&nbsp;
 
 ### List of Secondary Schools DSA- Performing Arts (Dance):
 
@@ -123,7 +123,7 @@ Our students are able to seek admission to the following schools via DSA on the 
 **2018 CNY Performance in Poi Ching School**
 ![](/images/ch_3.jpg)
 
-**2018 Warming up during Dance Practice**
+**2018&nbsp;Warming up during Dance Practice**
 
 ![](/images/ch4.jpg)
 ![](/images/ch5.jpg)
