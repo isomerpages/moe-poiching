@@ -1,10 +1,17 @@
 ---
 title: Brass Band
-permalink: /cca/Performing-Arts/brass-band
+permalink: /cca/Performing-Arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
 ---
 ### Teachers-in-charge
+
+
+
+| Names | |Roles|
+| -------- | -------- | -------- |
+|Mdm Suryana Binte Buang     |       | OIC
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -204,13 +211,13 @@ As Poi Ching School Brass Band continue to grow in strength and spirit, we look 
 
 Venue : Band Room (Level 7, Block E) <br>
 Mondays: 2.30 pm to 5.30 pm<br>
-Thursdays:  2.30 pm to 5.30 pm
+Thursdays: &nbsp;2.30 pm to 5.30 pm
 
 ### Important Information About Band Attendance
 
-Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. We also worked towards the importance of nurturing your child’s core values, social and emotional competencies and the emerging 21st Century competencies as from the 21st Century Competencies Framework in our education system. We value every band member’s contributions in his / her participation in the Band CCA, where they will gain invaluable exposure and experience in their route of music-making and musical development. We believe in the strong continuous partnership between the school, our stake-holders and our parents in ensuring our band members to contribute in their best for success in their CCA, as we worked tirelessly “Towards Excellence” in our school motto.
+Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. We also worked towards the importance of nurturing your child’s core values, social and emotional competencies and the emerging 21st&nbsp;Century competencies as from the 21st&nbsp;Century Competencies Framework in our education system. We value every band member’s contributions in his / her participation in the Band CCA, where they will gain invaluable exposure and experience in their route of music-making and musical development. We believe in the strong continuous partnership between the school, our stake-holders and our parents in ensuring our band members to contribute in their best for success in their CCA, as we worked tirelessly “Towards Excellence” in our school motto.
 
-Please note that in the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via school’s official email. [Email: [suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
+Please note that in the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via school’s official email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
 ### Brass Band Updates
 * [01-Parent-Letter_10-Jan-2020_for-P3](/files/01-Parent-Letter_10-Jan-2020_for-P3.pdf)
@@ -230,102 +237,102 @@ SYF 2014 – Certificate of Accomplishment
 
 ### 2020
 
-1. **Candid Camera @ Poi Ching School (1st February 2020, Saturday)**
+1. **Candid Camera @ Poi Ching School&nbsp;(1st&nbsp;February 2020, Saturday)**
 
 [https://flic.kr/s/aHsmL85Avp](https://flic.kr/s/aHsmL85Avp)
 
 **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
 
-**(1st February 2020, Saturday)**
+**(1st&nbsp;February 2020, Saturday)**
 
 [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
 
 **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c4PIjgfjQyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4PIjgfjQyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-2. **PCS Chinese New Year School Celebrations 2020 (24th January 2020, Friday)**
+2. **PCS Chinese New Year School Celebrations 2020 (24th&nbsp;January 2020, Friday)**
 
 **PCS Brass Band CNY Showcase 2020**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qThpBak6THo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qThpBak6THo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### 2019
 
-1.  **Band Rondo Camp 2019 (21st – 23rd November 2019 [Thursday to Saturday])**
+1.&nbsp;&nbsp;**Band Rondo Camp 2019 (21st – 23rd November 2019 [Thursday to Saturday])**
 
 [https://flic.kr/s/aHsmJvJTqP](https://flic.kr/s/aHsmJvJTqP)
 
 **Video Montage for all our PCS Band Members**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUPhSvRZe5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUPhSvRZe5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Alumni Band Showcase (Title: Hand Clap by Fitz and the Tantrums)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tyw-_j2Qdqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tyw-_j2Qdqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Alumni Band Showcase (Title: Hawaii Five’O Theme)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FJLudeMu5OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJLudeMu5OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Alumni Band Showcase [Percussion Ensemble] (Title: – Senorita by Shawn Mendes, Camila Cabello)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l5kpf0I9QBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l5kpf0I9QBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: Another One Bites The Dust by Queen)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UvmdzYr08dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvmdzYr08dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: Loco-motion by Little Eva)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vE0ahH3Rm8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE0ahH3Rm8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: Final Countdown by Joey Tempest)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkNAZAMgmzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkNAZAMgmzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase [Tan Xin Ling Eunice, 2 Diligence]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RetO7WmaZaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RetO7WmaZaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-2. **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub (7thJuly 2019)**     
+2. **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub (7thJuly 2019)**&nbsp; &nbsp; &nbsp;
 
 **Candid Camera @ Poi Ching School (7th July 2019)**
 
 [https://flic.kr/s/aHsmESUjNQ](https://flic.kr/s/aHsmESUjNQ)
 
- **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub**
+&nbsp;**SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub**
 
 [https://flic.kr/s/aHsmESSzDB](https://flic.kr/s/aHsmESSzDB)
 
 **PCS Brass Band Showcase: Cataclysm**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kWensZ1Dn10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWensZ1Dn10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase: Moonlight In The Town**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHhVSt_1N5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHhVSt_1N5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Horn Solo Part for “Moonlight In The Town” by Xaven Tey  (5 Excellence)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v1J0OVpTdt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Horn Solo Part for “Moonlight In The Town” by Xaven Tey&nbsp; (5 Excellence)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v1J0OVpTdt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Horn Solo Part for “Moonlight In The Town” by Brien Tan  (5 Excellence)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1tsoqWeolg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Horn Solo Part for “Moonlight In The Town” by Brien Tan&nbsp; (5 Excellence)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1tsoqWeolg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase: Final Countdown**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8o71u8uako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8o71u8uako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **The Finale Part of “Final Countdown”**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6hQk171Gq94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hQk171Gq94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase: Loco-motion**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txPUaxpcSlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txPUaxpcSlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-3. **SYF 2019 Celebrations Band Jamboree Rehearsal @ St. Patrick’s School on 28th June 2019 (Friday)**                                                                                                     
+3. **SYF 2019 Celebrations Band Jamboree Rehearsal @ St. Patrick’s School on 28th&nbsp;June 2019&nbsp;(Friday)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**(Organized by Arts Education Branch, Student Development Curriculum Branch [Ministry Of Education])**
+**(Organized by Arts Education Branch, Student Development Curriculum Branch [Ministry Of&nbsp;Education])**
 
-**Date of Actual Performance: 7th July 2019 (Sunday)**
+**Date of Actual Performance: 7th&nbsp;July 2019 (Sunday)**
 
 Venue: Our Tampines Hub <br>
-Schools & Performance Timings:<br>
+Schools &amp; Performance Timings:<br>
 (a)  East Spring Secondary School <br>
 2:30 pm – 2:50 pm
 
@@ -341,101 +348,101 @@ Schools & Performance Timings:<br>
 [https://flic.kr/s/aHsmECDBUn](https://flic.kr/s/aHsmECDBUn)
 
 **St. Patrick’s School Performance Showcase:** <br>
-**(1)      Chan Mali Chan**
+**(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chan Mali Chan**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8at3a1oNPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8at3a1oNPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
- **(2)        Dancing Queen**
+&nbsp;**(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dancing Queen**
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/g5G6N8x8VYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/g5G6N8x8VYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  
- **(3)        Treasure (Bruno Mars)**
+ **(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Treasure (Bruno Mars)**
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/d1i2zhQUVOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/d1i2zhQUVOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  
 **Poi Ching School Performance Showcase:**
 
-**(1)        Cataclysm**
+**(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cataclysm**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFNLRfovrs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFNLRfovrs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(2)      Cataclysm [Landscape View]**
+**(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cataclysm [Landscape View]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2Jhz8yzmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2Jhz8yzmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(3)        Moonlight In The Town**
+**(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moonlight In The Town**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AftLmEk-TN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AftLmEk-TN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(4)        Moonlight In The Town [Landscape View]**
+**(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moonlight In The Town [Landscape View]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b9JJtQmTkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9JJtQmTkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(5)        Final Countdown**
+**(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final Countdown**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nci3edIAL6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nci3edIAL6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(6)        Loco-motion**
+**(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loco-motion**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cXJ9yFtXNLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXJ9yFtXNLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
- **St. Margaret’s Primary School Performance Showcase:**
+&nbsp;**St. Margaret’s Primary School Performance Showcase:**
 
-**(1)        Twist And Shout**
+**(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twist And Shout**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TvmTdFYnZqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvmTdFYnZqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
- **(2)        Havana**
+&nbsp;**(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Havana**
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/N2ODn_hdAO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/N2ODn_hdAO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  
- **(3)        Another One Bites The Dust**
+ **(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another One Bites The Dust**
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/IZLp3WXkvyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/IZLp3WXkvyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  
  **East Spring Secondary School Performance Showcase:**
 
-**(1)        Koo Gud**
+**(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koo Gud**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v68pSLxBNDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v68pSLxBNDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**(2)        Runaway Baby**
+**(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Runaway Baby**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WOQjtWh7ssU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOQjtWh7ssU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
- **(3)        Little Apples**
+ **(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Little Apples**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ma1_5PVdpEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ma1_5PVdpEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-4. **Our Band CCA Facilitation Session @ Poi Ching School [10th May 2019]**
+4. **Our Band CCA Facilitation Session @ Poi Ching School [10th&nbsp;May 2019]**
 
-**[Photo & Video Credits: Mdm Suhaila & Mrs Jazreel Quah]**
+**[Photo &amp; Video Credits: Mdm Suhaila &amp; Mrs Jazreel Quah]**
 
 [https://flic.kr/s/aHsmDT3Ppw](https://flic.kr/s/aHsmDT3Ppw)
 
 **Miss Khoo sharing about the importance of group dynamics and unity in preparation for SYF Brass Band 2020**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fKV0QcSRGw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKV0QcSRGw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C1HYchlqc40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1HYchlqc40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Our band members sharing about the importance of group dynamics and unity in preparation for SYF Brass Band 2020**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wwsPmHODJLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wwsPmHODJLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UFnVoNbb9c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFnVoNbb9c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/18K0ogNPzGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18K0ogNPzGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F-0ArjCiNVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F-0ArjCiNVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Our band members sharing about the challenges/obstacles they faced in Brass Band CCA**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q3lJL3SZsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3lJL3SZsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YFU67UOWRfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFU67UOWRfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kMvUHCCbCBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMvUHCCbCBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 5. **PCS Brass Band CNY Showcase 2019 @ The Istana**
 
@@ -445,73 +452,73 @@ Schools & Performance Timings:<br>
 
 **Title Piece: “Gong Xi Fa Cai 咚咚呛”**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/efremwF7NdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efremwF7NdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band CNY Showcase 2019 @ The Istana (2)**
 
 **Title Piece: “Loco-motion”**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wxNFHaTdxus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxNFHaTdxus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band CNY Showcase 2019 @ The Istana (3)**
 
 **Title Piece: “Stand By Me”**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zI3zjfC1jM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zI3zjfC1jM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band CNY Showcase 2019 @ The Istana (4)**
 
 **Title Piece: “Final Countdown”**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ElIXlJToWxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElIXlJToWxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band CNY Showcase 2019 @ The Istana (5)**
 
 **Title Piece: “Back To Spring 大地回春”**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3vIY6By_Klg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3vIY6By_Klg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 6. **PCS Brass Band Showcase 2019 @ Our Tampines Hub**
 
-                                                                                                [https://flic.kr/s/aHskR6GAX5](https://flic.kr/s/aHskR6GAX5)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [https://flic.kr/s/aHskR6GAX5](https://flic.kr/s/aHskR6GAX5)
 
 **PCS Brass Band Showcase 2019 Introduction**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/THaPgrD-b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THaPgrD-b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: I Ask Heaven 我问天)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zt-4qmJXEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zt-4qmJXEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: Loco-motion)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0IVrq8QKV5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IVrq8QKV5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: Another One Bites The Dust)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VbUrNOPpl80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbUrNOPpl80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: Moonlight In The Town 城里的月光)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmaMSViKMyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmaMSViKMyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 **PCS Brass Band Showcase 2019 (Title: Back To Spring 大地回春 [CNY Song])**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfdLhyTuP2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfdLhyTuP2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: The Final Countdown)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hH2x7_oHvIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hH2x7_oHvIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: Stand By Me) (Version 1)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wbKkXI_-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wbKkXI_-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase 2019 (Title: Stand By Me) (Version 2)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XluH40AcuE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XluH40AcuE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### 2018
 
@@ -533,7 +540,7 @@ Schools & Performance Timings:<br>
 
 **5. Our Band CCA Facilitation Session @ Poi Ching School**
 
-[Photo & Video Credits: Mdm Suhaila]
+[Photo &amp; Video Credits: Mdm Suhaila]
 
 [https://flic.kr/s/aHsmji3qnc](https://flic.kr/s/aHsmji3qnc)
 
@@ -545,13 +552,13 @@ Schools & Performance Timings:<br>
 
 [https://flic.kr/s/aHsmgwfojx](https://flic.kr/s/aHsmgwfojx)
 
-**7. Fantasia 2018: CCA Appreciation Night @ Golden Theatre**  
+**7. Fantasia 2018: CCA Appreciation Night @ Golden Theatre**&nbsp;&nbsp;
 
 [Photo and Video Credits: Miss Toh Wei Ting]
 
 [https://flic.kr/s/aHskyZvo5g](https://flic.kr/s/aHskyZvo5g)
 
-**PCS Brass Band Performance @ Fantasia 2018: CCA Appreciation Night @ Golden Theatre** 
+**PCS Brass Band Performance @ Fantasia 2018: CCA Appreciation Night @ Golden Theatre**&nbsp;
 
 **8. School Band Exchange with He Ming Wind Band (Zhengzhou, China)**
 
@@ -559,25 +566,25 @@ Schools & Performance Timings:<br>
 
 **Brief Introduction of He Ming Wing Band [Conductor: Fang Yawen]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K0L5YKxwAV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K0L5YKxwAV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Black Forest Overture by Michael Sweeney [He Ming Wind Band]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A1I7gh48eo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1I7gh48eo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Stone Creek Episode by Ed Huckeby [He Ming Wind Band]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oafJ6DFB-PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oafJ6DFB-PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 9. ***Band Performance @ PCS Mid-Autumn Festival 2018**
 
-                                                               [https://flic.kr/s/aHskMS93Q5](https://flic.kr/s/aHskMS93Q5)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [https://flic.kr/s/aHskMS93Q5](https://flic.kr/s/aHskMS93Q5)
 
 [Photo credits: Miss Toh Wei Ting\]
 
 10. **PCS Brass Band ‘Rondo’ Showcase 2018**
 
-                                                                            [https://flic.kr/s/aHsmrwb5vA](https://flic.kr/s/aHsmrwb5vA) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [https://flic.kr/s/aHsmrwb5vA](https://flic.kr/s/aHsmrwb5vA)&nbsp;
 
 11. **PCS Band Team-Bonding Activities (23th November 2018)**
 
@@ -595,39 +602,39 @@ Schools & Performance Timings:<br>
 
 [Video Credits: Mrs Jazreel Quah]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkP7OChwoqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IkP7OChwoqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: Another One Bites The Dust)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BphC_J0PHkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BphC_J0PHkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: Loco-motion)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mKL3sLk4Vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKL3sLk4Vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**PCS Brass Band Showcase (Title: Moonlight In The Town) （城里的月光）**
+**PCS Brass Band Showcase (Title: Moonlight In The Town)&nbsp;（城里的月光）**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GL_9cAYQ8ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GL_9cAYQ8ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **PCS Brass Band Showcase (Title: I Ask Heaven) ( 我问天)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LEbfggt_OTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEbfggt_OTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**PCS Brass Band Showcase** 
+**PCS Brass Band Showcase**&nbsp;
 
 **[Matthew Gan Cheong Yew, 3 Diligence]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3FdN3_ar3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3FdN3_ar3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**PCS Brass Band Showcase** 
+**PCS Brass Band Showcase**&nbsp;
 
 **[Caleb Quek Jia Le, 3 Excellence]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yNMcId3z-f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNMcId3z-f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
- **Mdm Suryana’s Closing Speech On Gratitude**
+&nbsp;**Mdm Suryana’s Closing Speech On Gratitude**
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/gIBA-PAsfqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/gIBA-PAsfqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  
 ### 2017
 
@@ -648,7 +655,7 @@ Schools & Performance Timings:<br>
 
 **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub**
 
-On 7th July 2019, the PCS Brass Band had the honour to perform at the Festive Plaza for the **SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub.** Under the steadfast batonship of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Moonlight In The Town”, “Loco-motion”, “Final Countdown” and “Cataclysm”. The audiences enjoyed the performances very much. The band appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
+On 7th&nbsp;July 2019, the PCS Brass Band had the honour to perform at the Festive Plaza for the&nbsp;**SYF 2019 Celebrations In The Community Band Jamboree @ Our Tampines Hub.**&nbsp;Under the steadfast batonship of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Moonlight In The Town”, “Loco-motion”, “Final Countdown” and “Cataclysm”. The audiences enjoyed the performances very much. The band&nbsp;appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
 
 ![](/images/eas1_jul.jpg)
 ![](/images/eas2_jul.jpg)
@@ -662,7 +669,7 @@ On 7th July 2019, the PCS Brass Band had the honour to perform at the Festive P
 
 **PCS Brass Band Showcase 2019 @ The Istana**
 
-On 6th February 2019, the PCS Brass Band had the honour to perform at The Istana on the second day of the Lunar New Year. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Stand By Me”, “Loco-motion” and “Final Countdown”. The audiences enjoyed the performance very much. The band appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way. After the performance, the band members took a group photo together with the President, Mdm Halimah Yacob, the Principal, Mr Andrew Mah and the band teachers.
+On 6th&nbsp;February 2019, the PCS Brass Band had the honour to perform at The Istana on the second day of the Lunar New Year. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Stand By Me”, “Loco-motion” and “Final Countdown”. The audiences enjoyed the performance very much. The band&nbsp;appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way. After the performance, the band members took a group photo together with the President, Mdm Halimah Yacob, the Principal, Mr Andrew Mah and the band teachers.
 
 ![](/images/cny1.jpg)
 ![](/images/cny2.jpg)
@@ -678,11 +685,11 @@ On 6th February 2019, the PCS Brass Band had the honour to perform at The Istan
 
 **Celebration of Spring 2019 at Our Tampines Hub**
 
-On 25th January 2018, OUR TAMPINES HUB and the National Arts Council organised the Celebration of Spring 2019 at Our Tampines Hub. Our Poi Ching Brass Band had the honour to perform at the Festive Plaza on a Friday evening. The Celebration of Spring 2019 is a Festive Arts @ Our Tampines Hub programme that is part of the National Arts Council’s Arts and Culture Node initiative, which aims to bring people together to participate in, enjoy and experience the value of the arts in their neighbourhood.
+On 25th&nbsp;January 2018, OUR TAMPINES HUB and the National Arts Council organised the Celebration of Spring 2019 at Our Tampines Hub. Our Poi Ching Brass Band had the honour to perform at the Festive Plaza on a Friday evening. The Celebration of Spring 2019 is a Festive Arts @ Our Tampines Hub programme that is part of the National Arts Council’s Arts and Culture Node initiative, which aims to bring people together to participate in, enjoy and experience the value of the arts in their neighbourhood.
 
 Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with popular tunes like “Another One Bites The Dust”, “Loco-motion” and “Moonlight In The Town”. The audiences enjoyed the performance very much. Many of our Poi Ching pupils, parents, staff and alumni pupils have attended this event in support of our band performance. After the performance, the band members took a group photo together with the Principal, Mr Andrew Mah and the band CCA teachers.
 
-The band is proud to be part of the cultural performances and offerings from Our Tampines Hub’s Celebration of Spring event for the upcoming Chinese New Year. Also, the band  appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
+The band is proud to be part of the cultural performances and offerings from Our Tampines Hub’s Celebration of Spring event for the upcoming Chinese New Year. Also, the band&nbsp; appreciates the continuous support, help and encouragement from our ever faithful, dedicated band alumni members and our dear parent volunteers who have contributed in every possible way.
 
 In conclusion, the band members have benefitted from the exposure of performing in an external venue and they have really enjoyed this wonderful and fulfilling experience altogether.
 
@@ -703,13 +710,13 @@ In conclusion, the band members have benefitted from the exposure of performing 
 ![](/images/brass8.jpg)
 **Our young budding percussionists of Poi Ching School Brass Band.**
 ![](/images/brass9.jpg)
-**A group picture with the Principal, Mr Andrew Mah, the band teachers and the band alumni members to commemorate this meaningful event on 25th January 2019 (Friday)**
+**A group picture with the Principal, Mr Andrew Mah, the band teachers and the band alumni members to commemorate this meaningful event on 25th&nbsp;January 2019 (Friday)**
 
 ### Our Band Events (2018)
 
 **Our Partnership Ties With PCS Alumni Band 2018**
 
-**Special Thanks To Our PCS Alumni Band Members (not in order):** Jingyu, Jordi, Jing You, Vareck Ng, Ewan Choa, Charlene Goh, Joel, Teng Quan Han, Ernest, Elyza, Trisha, Shelina, Lloyd, Denise Chin, Javier, Hong Le, Agnes, Clara, Jeffrey, Anna, Shermayne, Zhi Sun
+**Special Thanks To Our PCS Alumni Band Members (not in order):**&nbsp;Jingyu, Jordi, Jing You, Vareck Ng, Ewan Choa, Charlene Goh, Joel, Teng Quan Han, Ernest, Elyza, Trisha, Shelina, Lloyd, Denise Chin, Javier, Hong Le, Agnes, Clara, Jeffrey, Anna, Shermayne, Zhi Sun
 
 ![](/images/alumni1.jpg)
 ![](/images/alumni2.jpg)
@@ -722,7 +729,7 @@ In conclusion, the band members have benefitted from the exposure of performing 
 
 **School Band Exchange 2018 with He Ming Wing Band (Zhengzhou, China) @ Poi Ching School**
 
-On 27th July 2018, our Poi Ching School Brass Band warmly welcomed our fellow band performers from He Ming Wing Band from Zhengzhou, China on a Friday morning, where we were honoured to be part of the Singapore International Band Exchange (SIBF) 2018 organised by The Wind Bands Association of Singapore to showcase their band performers’ talents / skills at our school. The He Ming Wind Band was first established in March 2016 at Renhe Road Elementary School, where they instilled a sense of discipline and good temperament through music learning, cultivated a positive and enterprising outlook on life and explored potential musical interests and talents. This is our second school band exchange since our SYF band exchange in March this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and listening from other overseas school bands in this meaningful event.
+On 27th&nbsp;July 2018, our Poi Ching School Brass Band warmly welcomed our fellow band performers from He Ming Wing Band from Zhengzhou, China on a Friday morning, where we were honoured to be part of the Singapore International Band Exchange (SIBF) 2018 organised by The Wind Bands Association of Singapore to showcase their band performers’ talents / skills at our school. The He Ming Wind Band was first established in March 2016 at Renhe Road Elementary School, where they instilled a sense of discipline and good temperament through music learning, cultivated a positive and enterprising outlook on life and explored potential musical interests and talents. This is our second school band exchange since our SYF band exchange in March this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and listening from other overseas school bands in this meaningful event.
 
 Our band members had the honour to listen to two of their performance repertoire, namely the “Black Forest Overture” by Michael Sweeney and “Stone Creek Episode” by Ed Huckeby at the Band Room. Our fellow band performers from He Ming Wind Band also had the opportunity to witness our brass band’s rehearsals for our annual National Day school celebrations at the parade square. At the end of the event, both school leaders exchanged the tokens of appreciation to commemorate this meaningful event. Our band members also shared group photo shots and appreciation gifts to our fellow band performers from He Ming Wind Band during the informal interaction time.
 
@@ -743,11 +750,11 @@ In conclusion, our band members have benefitted from the exposure of participati
 ![](/images/sbe_pic7.jpg)
 **A group picture of the Renhe Road Elementary School staff together with our band teachers at Poi Ching School.**
 ![](/images/sbe_pic8.jpg)
-**A group picture to commemorate our School Band Exchange @ PCS on 27th July 2018**
+**A group picture to commemorate our School Band Exchange @ PCS on 27th&nbsp;July 2018**
 
 **School Band Exchange 2018 @ Poi Ching School**
 
-On 10th March 2018, our Poi Ching School Brass Band organised the school band exchange on a Saturday morning, where we had the honour to invite Punggol Primary School and Zhenghua Primary School to showcase their band members’ talents / skills at our school hall. It is our first school band exchange this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and playing with other schools’ bands in this meaningful event.
+On 10th&nbsp;March 2018, our Poi Ching School Brass Band organised the school band exchange on a Saturday morning, where we had the honour to invite Punggol Primary School and Zhenghua Primary School to showcase their band members’ talents / skills at our school hall. It is our first school band exchange this year, as other band teachers had also organised band exchanges in the previous years. This band exchange is a vital platform not just to showcase our band members’ talents / skills, but the invaluable experience and exposure gained from learning and playing with other schools’ bands in this meaningful event.
 
 We had two of our band members, Tabitha and Hilary to host this event as emcees, where they briefly introduced the participating school bands before their formal showcases on the school hall stage. Under the steadfast guidance of our band conductor Mr Aw, our band serenaded the audiences with the SYF set piece ‘Dare To Dream’ and their choice piece ‘Tempest’. The audiences enjoyed our band’s showcase very much. At the end of all band performances, the respective band conductors from both schools were all presented a certificate of appreciation and and a plush bear token by our PCS Brass Band OIC Mdm Suryana to commemorate this wonderful event. Our band members also shared group photo shots and hand-made personal SYF well-wishes cards with both schools’ band members during the informal interaction time.
 
@@ -772,7 +779,7 @@ During the finale, the three schools combined together to give a spirited, arous
 ![](/images/band9.jpg)
 **Getting all ready before their combined performance in the finale………**
 ![](/images/band10.jpg)
-**A group picture to commemorate the School Band Exchange @ PCS on 10th March 2018**
+**A group picture to commemorate the School Band Exchange @ PCS on 10th&nbsp;March 2018**
 
 ### Our Band Events (2017)
 
@@ -787,7 +794,7 @@ Besides the stage performances presented by our band and other schools, there we
 In conclusion, our band members have benefitted from the exposure of performing in an external venue and they really enjoyed this wonderful and fulfilling experience altogether.
 
 ![](/images/artfiesta2.jpg)
-**Our Principal, Mr Andrew Mah exchanged greetings with The Minister for the Environment and  Water Resources, Mr Masagos Zulkifli Bin Masagos Mohamad.**
+**Our Principal, Mr Andrew Mah exchanged greetings with The Minister for the Environment and&nbsp; Water Resources, Mr Masagos Zulkifli Bin Masagos Mohamad.**
 ![](/images/artfiesta3.jpg)
 **Our band members all geared up and ready to perform on stage at the Festive Plaza.**
 ![](/images/artfiesta4.jpg)
