@@ -14,54 +14,7 @@ third_nav_title: Performing Arts
 |Mdm K Suseila   |       | Member
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Khoo Wee Wee</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Ra’idah Bte Rahmat</td>
-    <td class="tg-bsu7">2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Amalina Juhari</td>
-    <td class="tg-zr06">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">K Suseila</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Siti Nurhuda Bte Hamid</td>
-    <td class="tg-zr06">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">Nur Amira Syahidah Binte Mazlan</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Julianna Dyalashree Pushpam</td>
-    <td class="tg-zr06">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7">Teo Hock Chye (Matthew)</td>
-    <td class="tg-bsu7">Associate Member</td>
-  </tr>
-</tbody>
-</table>
-
+   
 ### BAND COMMITTEE 2020/2021:
 
 <style type="text/css">
