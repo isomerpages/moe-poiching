@@ -13,8 +13,10 @@ third_nav_title: Performing Arts
 |Mrs Agnes Lee     |       | Member
 |Mdm K Suseila   |       | Member
 
-
-   
+### Instructors
+ Mr Pisit Piriyaporn   
+ Mr Sia Chee Hsiang Mickey
+	
 ### BAND COMMITTEE 2020/2021:
 
 <style type="text/css">
