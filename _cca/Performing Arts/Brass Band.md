@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 |Mdm Suryana Binte Buang     |       | OIC
 |Ms Siti Nurhuda Bte Hamid    |       | 2IC
 |Mrs Agnes Lee     |       | Member
-|M dm K Suseila   |       | Member
+|Mdm K Suseila   |       | Member
 
 
 <style type="text/css">
