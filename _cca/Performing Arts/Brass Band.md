@@ -43,6 +43,7 @@ Mr Muhammad Roslee
 | 6) Seow Ding Ye    | 6J5    | Asst Section Leader (Trombone)  |)  |
 | 7) He Tan Rui Tyrael   | 6J3    | Section Leader (Tube)  |)  |
 | 8) Clovis Ngo En Xu  | 6J3    | Asst Section Leader (Tube)  |)  |
+| 9) Chai Hong En Gabriel   | 6J1    | Section Leader (Horn)  |)  |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
