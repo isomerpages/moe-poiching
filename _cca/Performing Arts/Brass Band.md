@@ -14,10 +14,18 @@ third_nav_title: Performing Arts
 |Mdm K Suseila   |       | Member
 
 ### Instructors
- Mr Pisit Piriyaporn   
- Mr Sia Chee Hsiang Mickey
-  Mr Nahli Bin Zakaria   
-	Mr Muhammad Roslee
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Mr Pisit Piriyaporn    | Text     | Text     |
+| Mr Sia Chee Hsiang Mickey
+  Mr Nahli Bin Zakaria| Text     | Text     |
+Mr Muhammad Roslee
+   
+ 
+   
+	
 	
 ### BAND COMMITTEE 2020/2021:
 
