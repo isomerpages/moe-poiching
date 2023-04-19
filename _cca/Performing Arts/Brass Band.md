@@ -27,7 +27,18 @@ Mr Muhammad Roslee
    
 	
 	
-### BAND COMMITTEE 2020/2021:
+### Brass Band Committee 2023:
+
+
+
+
+
+| Names | Class| Leadership Role |
+| -------- | -------- | -------- |
+| 1) Tan Xin Ling Eunice     | 6J2    | Band Major    |
+| 2) Tan Ee Sin Egin     | 6J3    |Assistant  Band Major  |
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
