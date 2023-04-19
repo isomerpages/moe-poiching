@@ -43,7 +43,7 @@ third_nav_title: Performing Arts
 |Jacob Choo Yu Ming | 6J6    |  Sectional Leader (Percussion)   |
 |Khow You Rui | 4P1  |  Asst Sectional Leader 1 (Percussion)   |
 |Lee Qin Zhen, Alyson | 4P4  |  Asst Sectional Leader 2 (Percussion)   |
-|JLai Siyuan Henry | 5L3   |  Sectional Leader (Guan Yue)   |
+|Lai Siyuan Henry | 5L3   |  Sectional Leader (Guan Yue)   |
 |Neo Zaeden | 5L6    |  Sectional Leader (Di Zi)   |
 
 
