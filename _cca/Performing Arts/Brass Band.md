@@ -16,6 +16,8 @@ third_nav_title: Performing Arts
 ### Instructors
  Mr Pisit Piriyaporn   
  Mr Sia Chee Hsiang Mickey
+ Mr Nahli Bin Zakaria
+ Mr Muhammad Roslee
 	
 ### BAND COMMITTEE 2020/2021:
 
