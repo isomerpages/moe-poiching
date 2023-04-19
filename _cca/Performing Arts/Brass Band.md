@@ -40,8 +40,9 @@ Mr Muhammad Roslee
 | 3) Yong Siew Lee    | 6J2    |Section Leader (Cornet)  |
 | 4) Tay Si Ting    | 6J5    |Asst Section Leader (Cornet)  |
 | 5) Cha Ke Ying, Katie    | 6J6    |Section Leader (Trombone
-| 6) Yong Siew Lee    | 6J2    |Section Leader (Cornet)  |)  |
-
+| 6) Seow Ding Ye    | 6J5    | Asst Section Leader (Trombone)  |)  |
+| 7) He Tan Rui Tyrael   | 6J3    | Section Leader (Tube)  |)  |
+| 8) Clovis Ngo En Xu  | 6J3    | Asst Section Leader (Tube)  |)  |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
