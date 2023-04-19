@@ -37,7 +37,7 @@ Mr Muhammad Roslee
 | -------- | -------- | -------- |
 | 1) Tan Xin Ling Eunice     | 6J2    | Band Major    |
 | 2) Tan Ee Sin Egin     | 6J3    |Assistant  Band Major  |
-
+| 3) Yong Siew Lee    | 6J2    |Section Leader (Cornet)  |
 
 
 <style type="text/css">
