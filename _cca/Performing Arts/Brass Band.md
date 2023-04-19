@@ -16,11 +16,11 @@ third_nav_title: Performing Arts
 ### Instructors
 
 
-| Column 1 | Column 2 | Column 3 |
+| Names |  | |
 | -------- | -------- | -------- |
-| Mr Pisit Piriyaporn    | Text     | Text     |
+| Mr Pisit Piriyaporn        |    |
 | Mr Sia Chee Hsiang Mickey
-  Mr Nahli Bin Zakaria| Text     | Text     |
+  Mr Nahli Bin Zakaria|   |     |
 Mr Muhammad Roslee
    
  
