@@ -11,7 +11,6 @@ third_nav_title: Staff Directory
 |Mr Jais		|mohd_jais_ahmad@moe.edu.sg|
 |Ms Law Mei Fun		|law_mei_fun@moe.edu.sg|
 |Mrs Jazreel Quah	|jazreel_lim_seh_kai@moe.edu.sg|
-|Mdm Amalina		|amalina_juhari@moe.edu.sg|
 |Mdm Ra'idah		|raidah_rahmat@moe.edu.sg|
 |Mdm Mashitah		|siti_mashitah_yusoff@moe.edu.sg|
 |Ms Vanessa Tan		|vanessa_tan_suan_yen@moe.edu.sg|
