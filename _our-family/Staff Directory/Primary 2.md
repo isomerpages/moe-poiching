@@ -78,7 +78,7 @@ third_nav_title: Staff Directory
   </tr>
 	  <tr>
     <td class="tg-1ppo">Mdm Lin Feng (2S7)</td>
-    <td class="tg-y5j8j"><a href="mailto:zhang_shuying@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
+    <td class="tg-y5j8j"><a href="mailto:lin_feng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">
 			</span>lin_feng@moe.edu.sg</a></td>
   </tr>
   <tr>
