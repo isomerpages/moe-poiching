@@ -14,17 +14,11 @@ third_nav_title: Performing Arts
 |Mdm K Suseila   |       | Member
 
 ### Instructors
-
-
-| Names |  | |
-| -------- | -------- | -------- |
-| Mr Pisit Piriyaporn        |    |
-| Mr Sia Chee Hsiang Mickey
-  Mr Nahli Bin Zakaria|   |     |
-Mr Muhammad Roslee
-   
  
-   
+*    Mr Pisit Piriyaporn
+*    Mr Sia Chee Hsiang Mickey
+*    Mr Nahli Bin Zakaria
+*    Mr Muhammad Roslee
 	
 	
 ### Brass Band Committee 2023:
