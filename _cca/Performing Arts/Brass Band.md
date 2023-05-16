@@ -12,6 +12,7 @@ third_nav_title: Performing Arts
 |Ms Siti Nurhuda Bte Hamid    |       | 2IC
 |Mrs Agnes Lee     |       | Member
 |Mdm K Suseila   |       | Member
+|Ms Cheong Shi Min   |       | Member
 
 ### Instructors
  
