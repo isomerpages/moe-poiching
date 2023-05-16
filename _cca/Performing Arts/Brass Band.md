@@ -45,7 +45,11 @@ Mr Muhammad Roslee
 | 8) Clovis Ngo En Xu  | 6J3    | Asst Section Leader (Tube)  |)  |
 | 9) Chai Hong En Gabriel   | 6J1    | Section Leader (Horn)  |)  |
 | 10) Andre Lee Yan Cheng   | 6J2    | Asst Section Leader (Horn)  |)  |
-| 11) Hoo Yu Ling, eeleen   | 6J4    | Section Leader (Baritone/ Euphonium)  |)  |
+| 11) Hoo Yu Ling, Eeleen   | 6J4    | Section Leader (Baritone/ Euphonium)  |)  | 12) Elijah Seah Kheng Ngee | 6J5    | Asst Section Leader (Baritone/ Euphonium)   |)  |
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
