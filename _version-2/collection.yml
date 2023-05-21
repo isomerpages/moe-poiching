@@ -1,4 +1,5 @@
 collections:
   version-2:
     output: true
-    order: []
+    order:
+      - sample.md
