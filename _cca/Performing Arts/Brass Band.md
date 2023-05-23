@@ -53,12 +53,10 @@ Please note that band attendance for all scheduled practices / performances is m
 
 Please note that in the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via school’s official email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
-### Brass Band Updates
-* [01-Parent-Letter_10-Jan-2020_for-P3](/files/01-Parent-Letter_10-Jan-2020_for-P3.pdf)
-* [01-Parent-Letter_10-Jan-2020_for-P456](/files/01-Parent-Letter_10-Jan-2020_for-P456.pdf)
 
 **Accolades**
 -------------
+SYF 2022 - Performance (participation without benchmark)
 
 SYF 2018 – Certificate of Distinction
 
