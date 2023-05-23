@@ -68,25 +68,28 @@ SYF 2014 – Certificate of Accomplishment
 
 ### 2023
 
-1. **PCS Brass Band Showcase @ Tampines Learning Festival** 
-   
-	https://flic.kr/s/aHBqjAEAfn
+1. **PCS Brass Band Showcase @ Tampines Learning Festival (20 May 2023)** 
+
+    https://flic.kr/s/aHBqjAEAfn
 
 
 ### 2022
 
 1. **SYF 2022 @ The Republic Cultural Centre**
-https://flic.kr/s/aHBqjA4nY1
+
+    https://flic.kr/s/aHBqjA4nY1
 
 ### 2020
 
 1. **Candid Camera @ Poi Ching School&nbsp;(1st&nbsp;February 2020, Saturday)**
 
-[https://flic.kr/s/aHsmL85Avp](https://flic.kr/s/aHsmL85Avp)
+   [https://flic.kr/s/aHsmL85Avp](https://flic.kr/s/aHsmL85Avp)
+
+
 
 2. **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020 (1st&nbsp;February 2020, Saturday)**
 
-[https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
+   [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
 
 3. **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
 
