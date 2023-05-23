@@ -1,10 +1,20 @@
 ---
 title: Wushu
-permalink: /cca/Sports-and-Games/wushu
+permalink: /cca/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports & Games
 ---
 ### Teachers-in-charge
+
+
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Dave Yang     | OIC     | yang_kin_ngian@moe.edu.sg     |
+| Mdm Yu Wei      | 2IC     | yu_wei_a@moe.edu.sg     |
+| Mdm Liang Hongbing     | Member    | liang_hongbing@moe.edu.sg     |
+| Mr Eugene Chin     | Member     | Text     |
+| Mr Dave Yang     | Text     | Text     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -60,9 +70,9 @@ third_nav_title: Sports & Games
 
 ### Training Schedule
 
-**P3 – P6 School Team Training:** <br>
-Date : Thursday (Term 1 – Term 4) <br>
-Time : 2.15 pm to 4.45 pm  <br>
+**P3 – P6 School Team Training:**&nbsp;<br>
+Date : Thursday (Term 1 – Term 4)&nbsp;<br>
+Time : 2.15 pm to 4.45 pm&nbsp;&nbsp;<br>
 Venue : Indoor Sports Hall Level 2
 
 ### Introduction
@@ -101,7 +111,7 @@ We believe in developing students’ character during the training, focusing on 
 
 **12TH NATIONAL PRIMARY SCHOOLS WUSHU CHAMPIONSHIP 2016**
 
-The Wushu School Team participated in the 12th National Primary Schools Wushu Championships 2016 in March. It was held over a period of 7 days and took place in Tao Nan School and Toa Payoh Sports Hall. Our School Team has done well this year, **winning 14 awards (1st–4thposition) from the individual events and 1 award from the group events**.
+The Wushu School Team participated in the 12th&nbsp;National Primary Schools Wushu&nbsp;Championships 2016 in March. It was held over a period of 7 days and took place in Tao Nan School and Toa Payoh Sports Hall. Our School Team has done well this year,&nbsp;**winning 14 awards (1st–4thposition) from the individual events and 1 award from the group events**.
 
 Everyone in the school team has given their best and no matter whether they won a trophy, we will like to thank them for their effort and hard work. Good job, boys and girls!
 
