@@ -16,57 +16,7 @@ third_nav_title: Sports & Games
 | Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
 | Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Yang Kin Ngian (Dave)</th>
-    <th class="tg-1ppo">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Liew Yann Shan</td>
-    <td class="tg-h5mn">2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Carina Tan Yea Yin</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Eugene Chin</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Loh Wai Yee</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Yu Danning</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Ong Yi Ting</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Toh Wee Kwang</td>
-    <td class="tg-h5mn">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Un Yih Miin (Scarlett)</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+
 
 ### Training Schedule
 
