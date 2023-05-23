@@ -13,8 +13,8 @@ third_nav_title: Sports & Games
 | Mr Dave Yang     | OIC     | yang_kin_ngian@moe.edu.sg     |
 | Mdm Yu Wei      | 2IC     | yu_wei_a@moe.edu.sg     |
 | Mdm Liang Hongbing     | Member    | liang_hongbing@moe.edu.sg     |
-| Mr Eugene Chin     | Member     | Text     |
-| Mr Dave Yang     | Text     | Text     |
+| Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
+| Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
