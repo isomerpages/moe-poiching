@@ -6,13 +6,16 @@ third_nav_title: Performing Arts
 ---
 ### Teachers-in-charge
 
-| Names | |Roles|
+
+
+| Names | Roles | Email |
 | -------- | -------- | -------- |
-|Mdm Suryana Binte Buang     |       | OIC
-|Ms Siti Nurhuda Bte Hamid    |       | 2IC
-|Mrs Agnes Lee     |       | Member
-|Mdm K Suseila   |       | Member
-|Ms Cheong Shi Min   |       | Member
+| Mdm Suryana Bte Buang     | OIC     | suryana_buang@moe.edu.sg     |
+|Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
+| Mdm K Suseila     | Member     | k_suseila@moe.edu.sg     |
+| Ms Cheong Shi Min     | Member     |cheong_shi_min@moe.edu.sg     |
+
+
 
 ### Instructors
  
