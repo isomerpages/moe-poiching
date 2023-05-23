@@ -66,6 +66,16 @@ SYF 2014 – Certificate of Accomplishment
 
 ### Our Band Archives
 
+### 2023
+
+1. **PCS Brass Band Showcase @ Tampines Learning Festival** 
+   2. https://flic.kr/s/aHBqjAEAfn
+
+
+### 2022
+
+1. **SYF 2022 @ The Republic Cultural Centre**
+https://flic.kr/s/aHBqjA4nY1
 
 ### 2020
 
@@ -73,13 +83,11 @@ SYF 2014 – Certificate of Accomplishment
 
 [https://flic.kr/s/aHsmL85Avp](https://flic.kr/s/aHsmL85Avp)
 
-**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
-
-**(1st&nbsp;February 2020, Saturday)**
+2. **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020 (1st&nbsp;February 2020, Saturday)**
 
 [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
 
-**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
+3. **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4PIjgfjQyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
