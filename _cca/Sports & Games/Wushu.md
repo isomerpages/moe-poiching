@@ -25,10 +25,15 @@ third_nav_title: Sports & Games
 
 ### Training Schedule
 
-**P3 – P6 School Team Training:**&nbsp;<br>
-Date : Thursday (Term 1 – Term 4)&nbsp;<br>
-Time : 2.15 pm to 4.45 pm&nbsp;&nbsp;<br>
-Venue : Indoor Sports Hall Level 2
+Day: Monday & Thursday
+P3: 2.15pm-3.45pm
+P4-P6: 2.15pm-4.45pm
+
+Day: Friday
+Selected P4: 2.00pm-4.30pm
+P2: 2.15pm-3.45pm
+
+Venue: ISH Level 2 & Field
 
 ### Introduction
 
