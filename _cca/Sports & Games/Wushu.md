@@ -21,7 +21,7 @@ third_nav_title: Sports & Games
 * Mr Yap Wei Ren
 
 ### Student leadership roles
-
+![](/images/wushu%20leadership%20roles.png)
 
 ### Training Schedule
 
