@@ -25,12 +25,8 @@ third_nav_title: Performing Arts
 	
 	
 ### Brass Band Committee 2023:
-![](/images/band%20leadership.jpg)
 
-
-
-
-
+![](/images/band%20leaders.JPG)
 
 
 
@@ -48,8 +44,8 @@ As Poi Ching School Brass Band continue to grow in strength and spirit, we look 
 
 
 Venue : Band Room (Level 7, Block E) <br>
-Mondays: 2.30 pm to 5.30 pm<br>
-Thursdays: &nbsp;2.30 pm to 5.30 pm
+Mondays: 2.00 pm to 5.00 pm<br>
+Thursdays: &nbsp;2.00 pm to 5.00 pm
 
 ### Important Information About Band Attendance
 
