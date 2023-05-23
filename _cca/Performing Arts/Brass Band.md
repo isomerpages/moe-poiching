@@ -22,7 +22,6 @@ third_nav_title: Performing Arts
 *    Mr Pisit Piriyaporn
 *    Mr Sia Chee Hsiang Mickey
 *    Mr Nahli Bin Zakaria
-*    Mr Muhammad Roslee
 	
 	
 ### Brass Band Committee 2023:
