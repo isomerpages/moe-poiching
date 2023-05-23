@@ -16,6 +16,9 @@ third_nav_title: Sports & Games
 | Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
 | Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
 
+### Coach
+* Mdm Li Li
+* Mr Yap Wei Ren
 
 
 ### Training Schedule
