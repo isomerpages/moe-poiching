@@ -40,7 +40,8 @@ Venue: Dance Room / PAL Room
 
 
 
-##### **2023 Term 1 Training Schedule**
+##### **2023 Term 2 Training Schedule**
+
 [2023 Dance CCA Term 2 Scheule]()
 
 
