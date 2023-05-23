@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Poi Ching School
+title: Poi Ching School 培青学校
 description: An Isomer site of the Singapore Government
 image: /images/school logo.jpeg
 permalink: /

@@ -1,8 +1,8 @@
-title: Poi Ching School
-url: ""
+title: Poi Ching School 培青学校
+url: https://poiching.moe.edu.sg
 favicon: /images/school logo.jpeg
 colors:
-  primary-color: "#f5a623"
+  primary-color: "#01a314"
   secondary-color: "#000000"
   media-colors:
     - title: media-color-one
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: 100th-anniversary
+google_analytics_ga4: ""

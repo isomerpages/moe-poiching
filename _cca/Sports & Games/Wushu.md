@@ -1,69 +1,43 @@
 ---
 title: Wushu
-permalink: /cca/Sports-and-Games/wushu
+permalink: /cca/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports & Games
 ---
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Yang Kin Ngian (Dave)</th>
-    <th class="tg-1ppo">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Liew Yann Shan</td>
-    <td class="tg-h5mn">2IC</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Carina Tan Yea Yin</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Eugene Chin</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Loh Wai Yee</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Yu Danning</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Ong Yi Ting</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Toh Wee Kwang</td>
-    <td class="tg-h5mn">Associate Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Un Yih Miin (Scarlett)</td>
-    <td class="tg-1ppo">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Dave Yang     | OIC     | yang_kin_ngian@moe.edu.sg     |
+| Mdm Yu Wei      | 2IC     | yu_wei_a@moe.edu.sg     |
+| Mdm Liang Hongbing     | Member    | liang_hongbing@moe.edu.sg     |
+| Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
+| Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
+
+### Coach
+* Mdm Li Li
+* Mr Yap Wei Ren
+
+### Student leadership roles
+![](/images/wushu%20leadership%20roles.png)
 
 ### Training Schedule
 
-**P3 – P6 School Team Training:** <br>
-Date : Thursday (Term 1 – Term 4) <br>
-Time : 2.15 pm to 4.45 pm  <br>
-Venue : Indoor Sports Hall Level 2
+> Day: Monday & Thursday
+
+P3: 2.15pm-3.45pm
+
+P4-P6: 2.15pm-4.45pm
+
+> Day: Friday
+
+Selected P4: 2.00pm-4.30pm
+
+P2: 2.15pm-3.45pm
+
+> Venue: ISH Level 2 & Field
 
 ### Introduction
 
@@ -101,7 +75,7 @@ We believe in developing students’ character during the training, focusing on 
 
 **12TH NATIONAL PRIMARY SCHOOLS WUSHU CHAMPIONSHIP 2016**
 
-The Wushu School Team participated in the 12th National Primary Schools Wushu Championships 2016 in March. It was held over a period of 7 days and took place in Tao Nan School and Toa Payoh Sports Hall. Our School Team has done well this year, **winning 14 awards (1st–4thposition) from the individual events and 1 award from the group events**.
+The Wushu School Team participated in the 12th&nbsp;National Primary Schools Wushu&nbsp;Championships 2016 in March. It was held over a period of 7 days and took place in Tao Nan School and Toa Payoh Sports Hall. Our School Team has done well this year,&nbsp;**winning 14 awards (1st–4thposition) from the individual events and 1 award from the group events**.
 
 Everyone in the school team has given their best and no matter whether they won a trophy, we will like to thank them for their effort and hard work. Good job, boys and girls!
 

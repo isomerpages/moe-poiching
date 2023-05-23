@@ -6,28 +6,27 @@ third_nav_title: Performing Arts
 ---
 ### Teachers-in-charge
 
-| Names | |Roles|
+
+
+| Names | Roles | Email |
 | -------- | -------- | -------- |
-|Mdm Suryana Binte Buang     |       | OIC
-|Ms Siti Nurhuda Bte Hamid    |       | 2IC
-|Mrs Agnes Lee     |       | Member
-|Mdm K Suseila   |       | Member
+| Mdm Suryana Bte Buang     | OIC     | suryana_buang@moe.edu.sg     |
+|Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
+| Mdm K Suseila     | Member     | k_suseila@moe.edu.sg     |
+| Ms Cheong Shi Min     | Member     |cheong_shi_min@moe.edu.sg     |
+
+
 
 ### Instructors
  
 *    Mr Pisit Piriyaporn
 *    Mr Sia Chee Hsiang Mickey
 *    Mr Nahli Bin Zakaria
-*    Mr Muhammad Roslee
 	
 	
 ### Brass Band Committee 2023:
-![](/images/band%20leadership.jpg)
 
-
-
-
-
+![](/images/band%20leaders.JPG)
 
 
 
@@ -45,8 +44,8 @@ As Poi Ching School Brass Band continue to grow in strength and spirit, we look 
 
 
 Venue : Band Room (Level 7, Block E) <br>
-Mondays: 2.30 pm to 5.30 pm<br>
-Thursdays: &nbsp;2.30 pm to 5.30 pm
+Mondays: 2.00 pm to 5.00 pm<br>
+Thursdays: &nbsp;2.00 pm to 5.00 pm
 
 ### Important Information About Band Attendance
 
@@ -54,12 +53,10 @@ Please note that band attendance for all scheduled practices / performances is m
 
 Please note that in the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via school’s official email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
-### Brass Band Updates
-* [01-Parent-Letter_10-Jan-2020_for-P3](/files/01-Parent-Letter_10-Jan-2020_for-P3.pdf)
-* [01-Parent-Letter_10-Jan-2020_for-P456](/files/01-Parent-Letter_10-Jan-2020_for-P456.pdf)
 
 **Accolades**
 -------------
+SYF 2022 - Performance (participation without benchmark)
 
 SYF 2018 – Certificate of Distinction
 
