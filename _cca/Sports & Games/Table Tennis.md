@@ -6,17 +6,12 @@ third_nav_title: Sports & Games
 ---
 # Teachers-in-charge
 
-| | |
-| -------- |  -------- |
-| Mr Ng |  OIC |
-|Mrs Pokhrel | Member |
-|Ms Elmizah | 
 
-| Column 1 | Column 2 | Column 3 |
+| Name | Role | Email |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Mr Ng Theng Hian     | OIC     | ng_theng_hian@moe.edu.sg     |
 
-Member |
+
 
 # Training Schedule
 
