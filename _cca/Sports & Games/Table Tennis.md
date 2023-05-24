@@ -10,6 +10,8 @@ third_nav_title: Sports & Games
 | Name | Role | Email |
 | -------- | -------- | -------- |
 | Mr Ng Theng Hian     | OIC     | ng_theng_hian@moe.edu.sg     |
+| Mrs Pokhel     | Member     | tan_shu_jin@moe.edu.sg     |
+| Mdm Elmizah     | Member     | nur_elmizah_mhd_yassin@moe.edu.sg     |
 
 
 
