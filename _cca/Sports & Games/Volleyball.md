@@ -61,17 +61,17 @@ third_nav_title: Sports & Games
 ### Accolades
 
 **2023 Senior Division**	
-Senior Boys
+Senior Boys:
 Tier 2 - 1st
 
-Senior Girls
+Senior Girls:
 Tier 1 - 3rd
 
 **2022 Junior Division**	
-Junior Boys
+Junior Boys:
 Tier 2 - 2nd
 
-Junior Girls
+Junior Girls:
 Tier 2 - 1st
 
 
