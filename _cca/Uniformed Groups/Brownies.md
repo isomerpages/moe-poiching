@@ -47,4 +47,6 @@ Today GGS is the largest volunteer organisation for girls and women in Singapore
 
 The girls are empowered through fun, challenging and unique experiences, adventures and activities. Equipping them to make a lasting positive impact by helping others. Our girls develop a deep sense of confidence and self-assurance, along with leadership and life skills - all while learning through fun adventure and making lifelong friendships.
 
+### Accolades
+
 ![](/images/Brownies-2020-updated-1350x1324.jpg)
