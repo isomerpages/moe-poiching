@@ -14,9 +14,16 @@ third_nav_title: Clubs & Societies
 | Mdm Noraishah      | Member     | noraishah_mhd_ayob@moe.edu.sg     |
 | Mr Jais     | Member    | mohd_jais_ahmad@moe.edu.sg     |
 
-### Training Days
+### Training Schedule
 
-Friday 8.30a.m. – 10.30a.m. (Curriculum time)
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.00pm |P3-P6|
+||2.00pm-5.00pm |Learning Journey/ External Training|
+
+
+**Venue:**
+ Science Labs
 ![](/images/Capture.jpg)
 
 ### Introduction
