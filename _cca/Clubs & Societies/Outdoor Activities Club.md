@@ -90,8 +90,10 @@ Exploring nature at Rifle Range Nature Walk.
 Going through an obstacle course at a playground at East Coast Park.
 
 ![](/images/odac%2024.jpg)
+Outdoor cooking at PCS.
 
 ![](/images/odac%2025.jpg)
+Designing their own kites for kite-flying activity at Marina Barrage.
 
 **Outdoor Cooking**
 
