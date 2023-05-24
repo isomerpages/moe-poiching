@@ -18,37 +18,6 @@ All Cub Scouts undergo training to build up individual and groups skills. There 
 
 _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 
-### Details of CCA Session
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">When?</span></th>
-    <th class="tg-tsok">Every Monday – 2.00 to 4.00 p.m.</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">Where?</span></td>
-    <td class="tg-xyrl">Hall of Wellness</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">Attire?</span></td>
-    <td class="tg-tsok">Scouts Uniform</td>
-  </tr>
-</tbody>
-</table>
 
 ### Teachers-in-charge
 
