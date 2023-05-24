@@ -37,7 +37,7 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 ||3.00pm-5.00pm |P6|
 
 **Venue:**
- ISH Level 2 &amp; Field
+ School Hall
 
 
 
