@@ -27,11 +27,11 @@ This year, 2020, we are embarking our kids to new area of Information communicat
 
 |Date| Time | Primary| 
 |-----|----|------|
-|Thursday|2.00pm-4.00pm |P3-P6|
+|Monday|2.00pm-4.00pm |P3-P6|
 
 
 **Venue:**
- Science Labs
+ Computer Labs
 
 ![](/images/ICT-Club2020.jpg)
 
