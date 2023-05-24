@@ -6,6 +6,21 @@ third_nav_title: Uniformed Groups
 ---
 ### Teachers-in-charge
 
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mdm Suhaini     | OIC     | suhaini_tohid@moe.edu.sg     |
+| Mdm Yuhana      | Member     | dian_yuhana_sayuti@moe.edu.sg     |
+
+### Training Schedule
+
+|Date| Time | Primary| 
+|-----|----|------|
+|Thursday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Hall of Wellness
+
 
 
 ### Brownie Sixers and Seconds
