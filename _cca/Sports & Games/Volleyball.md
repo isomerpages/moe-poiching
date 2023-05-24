@@ -67,6 +67,12 @@ Tier 2 - 1st
 Senior Girls
 Tier 1 - 3rd
 
+**2022 Junior Division**	
+Junior Boys
+Tier 2 - 2nd
+
+Junior Girls
+Tier 2 - 1st
 
 
 ![](/images/volleyball2021-01.jpg)
