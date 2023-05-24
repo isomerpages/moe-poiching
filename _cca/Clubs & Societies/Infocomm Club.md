@@ -39,6 +39,12 @@ This year, 2020, we are embarking our kids to new area of Information communicat
 
 **Venue:**
  Computer Labs
+ 
+ ![](/images/infocomm%206.jpg)
+ ![](/images/infocomm%202.jpg)
+ ![](/images/infocomm%203.jpg)
+ ![](/images/infocomm%204.jpg)
+ ![](/images/infocomm%205.jpg)
 
 ![](/images/ICT-Club2020.jpg)
 
