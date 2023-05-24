@@ -17,7 +17,16 @@ Poi Ching School Art Club aims to cultivate the love and appreciation of visual 
 | Mdm Aishah     | OIC     | nur_aishah@moe.edu.sg     |
 | Mdm Farah      | Member     | farah_shauna_mohamed@moe.edu.sg     |
 
+### Training Schedule
 
+|Date| Time | Primary| 
+|-----|----|------|
+|Thursday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Art Rooms
+ 
 ![](/images/0001-1350x1747.jpg)
 ![](/images/0002-1350x1747.jpg)
 ![](/images/0003-1350x1159.jpg)
