@@ -9,7 +9,6 @@ third_nav_title: Sports & Games
 | | |
 | -------- |  -------- |
 | Mr Ng |  OIC |
-|Mrs Seetoh | Associate Member |
 |Mrs Pokhrel | Member |
 |Ms Elmizah | Associate Member |
 
