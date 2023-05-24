@@ -39,6 +39,16 @@ P2: 2.15pm-3.45pm
 
 > Venue: ISH Level 2 & Field
 
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday & Thursday|2.15pm-3.45pm |P3|
+||3-4pm |P5&P6|
+|Thursday|2-3.30pm |P3&P4|
+||3.30-5pm |P5&P6|
+
+**Venue:**
+ Blk E Level 5
+
 ### Introduction
 
 Wushu means Chinese martial arts. Throughout all these years, Wushu has developed from traditional Chinese martial arts to an athletic and aesthetic performance and competitive sport now. Speed, difficulty level as well as presentation are judged during competition.
