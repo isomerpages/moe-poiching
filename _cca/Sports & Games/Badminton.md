@@ -4,16 +4,28 @@ permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/badminton_pcs.png" 
-     style="width:25%">
+<img src="/images/badminton_pcs.png" style="width:25%">
 		 
 ### Introduction
 
 
-Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 pupils from P3 to P6.  We encourage the players to take part in a variety of competition and friendly games. These exposure help the pupils to be more perseverant to face life’s challenges. Debrief sessions after the games further enforce the school values such as modesty, integrity ,loyalty and excellence taught during CCA.
+Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 pupils from P3 to P6. &nbsp;We encourage the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. Debrief sessions after the games further enforce the school values such as modesty,&nbsp;integrity ,loyalty and&nbsp;excellence taught during CCA.
 
-### Training Schedule     
+### Teachers-in-charge
 
+
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Dave Yang     | OIC     | yang_kin_ngian@moe.edu.sg     |
+| Mdm Yu Wei      | 2IC     | yu_wei_a@moe.edu.sg     |
+| Mdm Liang Hongbing     | Member    | liang_hongbing@moe.edu.sg     |
+| Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
+| Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
+
+### Coach
+* Mdm Li Li
+* Mr Yap Wei Ren
 
 **BADMINTON TEACHERS**
 
@@ -122,7 +134,7 @@ Results as below:
 
 **3rd position -Girls’ Single under-13**
 
-Audrie Ong Shi Ting (5E) 
+Audrie Ong Shi Ting (5E)&nbsp;
 
 **4th position-Girls’ Doubles under-13**
 
@@ -133,13 +145,13 @@ Chng Wen Ting (5F)
 
 **SACSS Badminton Challenge (1 July 2017)**
 
-P5 Badminton School Team (girls) participated in the Badminton tournament which is organised by St Anthony ‘s Canosian Sec School. Congratulations to the following students : 
+P5 Badminton School Team (girls) participated in the Badminton tournament which is organised by St Anthony ‘s Canosian Sec School. Congratulations to the following students :&nbsp;
 
-1.  Audrie Ong Shi Ting (5E) won as P5 girls Single Champion 
+1. &nbsp;Audrie Ong Shi Ting (5E) won as P5 girls Single Champion&nbsp;
 
-2.  Chng Wen Ting  (5F) won as P5 girls Single 1st runner up
+2. &nbsp;Chng Wen Ting&nbsp;&nbsp;(5F)&nbsp;won as P5 girls Single 1st runner up
 
-3.  Chang Si En (5D) won as P5 girls Single 2nd runner up
+3. &nbsp;Chang Si En&nbsp;(5D) won as P5 girls Single 2nd runner up
 
 ![](/images/badminton.png)
 
@@ -153,7 +165,7 @@ Senior Boys Team won as 4th position in East Zone Primary School Badminton inter
 
 ![](/images/Slide16.jpg)
 
-Senior Boys Team (4th in place) Junior Boys Team  (4th in place) Junior Girls Team  (Quarter final)
+Senior Boys Team (4th in place)&nbsp;Junior Boys Team &nbsp;(4th in place)&nbsp;Junior Girls Team &nbsp;(Quarter final)
 
 ![](/images/slide2.png)
 ![](/images/Slide3.jpg)
@@ -167,9 +179,9 @@ Senior Boys Team (4th in place) Junior Boys Team  (4th in place) Junior Girls
 
 **East Zone Badminton Championship (Jan 2015)**
 
-Junior Boys Team (8th Round) Junior Girls Team  (8th Round)
+Junior Boys Team (8th Round)&nbsp;Junior Girls Team &nbsp;(8th Round)
 
-Victorioa School Sports Fiesta (May 2015) Chin Xian Bo 5H         (16th Round) Joel Ng Joon Tat 5G   (16th Round) Xavier Lim Yi Kai 5H   (16th Round)
+Victorioa School Sports Fiesta (May 2015)&nbsp;Chin Xian Bo 5H &nbsp; &nbsp; &nbsp; &nbsp; (16th Round)&nbsp;Joel Ng Joon Tat 5G &nbsp;&nbsp;(16th Round)&nbsp;Xavier Lim Yi Kai 5H &nbsp; (16th Round)
 
 **Upcoming Events**
 
