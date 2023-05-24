@@ -17,14 +17,14 @@ third_nav_title: Sports & Games
 
 # Training Schedule
 
-**School Team Training:**
+
 
 |Date| time | Primary| 
 |-----|----|------|
-|Monday|2-3pm |(P3&P4)|
-||3-4pm |(P5&P6)|
-|Thursday:|2-3.30pm |(P3&P4)|
-||3.30-5pm |(P5&P6)|
+|Monday|2-3pm |P3&P4|
+||3-4pm |P5&P6|
+|Thursday|2-3.30pm |P3&P4|
+||3.30-5pm |P5&P6|
 
 **Venue:**
 Level 5 at Blk E
