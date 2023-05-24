@@ -31,11 +31,6 @@ third_nav_title: Sports & Games
 | P5 Captain     | Tan Yan Feng Kelston    | 5L1     |
 | P5 Vice-Captain     | Neo Chen Shuo    | 5L4     |
 | P4 Captain     | Tan Ze Yu, Ray   | 4P3     |
-| P4 Vice-Captain     |   Caerwyn Lee Zhi Lei  | 4P3     |
-
-
-
-	
 
 
 ### Leadership (Girls)
@@ -63,7 +58,9 @@ third_nav_title: Sports & Games
 **Venue:**
  ISH Level 1 & Level 2
 
-	
+### Accolades
+
+**National School Games Wushu Competition 2019**	
 
 
 
