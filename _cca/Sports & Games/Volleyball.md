@@ -54,7 +54,7 @@ third_nav_title: Sports & Games
 
 |Date| Time | Primary| 
 |-----|----|------|
-|Monday & Thursday|2.15pm-3.45pm |P3|
+|Tuesday & Thursday|2pm-3.30pm |P2 selected players|
 ||2.15pm-4.45pm |P4-P6|
 |Friday|2.00pm-4.30pm |Selected P4|
 ||2.15pm-3.45pm |P2|
