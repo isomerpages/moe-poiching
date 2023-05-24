@@ -60,7 +60,12 @@ third_nav_title: Sports & Games
 
 ### Accolades
 
-**National School Games Wushu Competition 2019**	
+**2023 Senior Division**	
+Senior Boys
+Tier 2 - 1st
+
+Senior Girls
+Tier 1 - 3rd
 
 
 
