@@ -13,7 +13,10 @@ third_nav_title: Sports & Games
 | Mrs Pokhel     | Member     | tan_shu_jin@moe.edu.sg     |
 | Mdm Elmizah     | Member     | nur_elmizah_mhd_yassin@moe.edu.sg     |
 
-
+### Coach
+* Kamarulzaman Ibrahim Thiara
+* Lim Ching Hang
+* Akida Pang Thiara
 
 # Training Schedule
 
