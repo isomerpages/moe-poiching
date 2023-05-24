@@ -17,13 +17,8 @@ third_nav_title: Sports & Games
 | Mdm Tee Li Ping     | Member     | tee_li_ping@moe.edu.sg     |
 | Mr Goh Kwee Seng Alvin     | Advisor     | goh_kwee_seng_alvin@moe.edu.sg     |
 
-
-
-
-**Coach**  :     Coach Chua Siew Choo
-
-
-
+### Coach
+* Chua Siew Choo
 
 
 ### Leadership (Boys)
