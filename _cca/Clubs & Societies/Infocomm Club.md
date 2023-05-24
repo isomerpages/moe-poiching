@@ -26,9 +26,9 @@ This year, 2020, we are embarking our kids to new area of Information communicat
 ### Student leadership roles
 | Appointment | Name | Class |
 | -------- | -------- | -------- |
-| P6 Captain     | Lim Ding Zhi Zephan    | 6J4     |
-| P6 Vice-Captain     | Ong Feng Xiang Lucas    | 6J2     |
-| P5 Captain     | Tan Yan Feng Kelston    | 5L1     |
+| Chairman     | Wong Yu Xin   | 6J1     |
+| Vice Chairman     | Lee Hui Re    | 6J3     |
+| Vice Chairman     | Louis Chen    | 6J3     |
 
 ### Training Schedule
 
