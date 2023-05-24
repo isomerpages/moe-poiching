@@ -25,20 +25,6 @@ third_nav_title: Sports & Games
 
 ### Training Schedule
 
-> Day: Monday & Thursday
-
-P3: 2.15pm-3.45pm
-
-P4-P6: 2.15pm-4.45pm
-
-> Day: Friday
-
-Selected P4: 2.00pm-4.30pm
-
-P2: 2.15pm-3.45pm
-
-> Venue: ISH Level 2 & Field
-
 |Date| Time | Primary| 
 |-----|----|------|
 |Monday & Thursday|2.15pm-3.45pm |P3|
