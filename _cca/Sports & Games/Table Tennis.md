@@ -10,7 +10,13 @@ third_nav_title: Sports & Games
 | -------- |  -------- |
 | Mr Ng |  OIC |
 |Mrs Pokhrel | Member |
-|Ms Elmizah | Associate Member |
+|Ms Elmizah | 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+Member |
 
 # Training Schedule
 
