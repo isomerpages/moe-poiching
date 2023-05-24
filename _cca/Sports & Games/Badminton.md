@@ -24,19 +24,10 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 | Mr Marcus Choy     | Member     | @moe.edu.sg     |
 
 ### Coach
-* Mdm Li Li
-* Mr Yap Wei Ren
+* Tan Kwai Hong
+* Wee Bing Hui
 
-**BADMINTON TEACHERS**
 
-| Names |  | |
-| -------- | -------- | -------- |
-| Mr Victor Ho  |    | OIC     |
-| Mdm Radiah Binte Mohamed  |    | 2IC     |
-| Mrs Rachel Neo  |    |     |
-| Mr Muhammad Redzuan Bin Omar  |    | 
-| Mr Jason Lim |    |     |
-| Mdm Wendy Goh |    |  Advisor   |
 
 
 
