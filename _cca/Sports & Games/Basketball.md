@@ -14,7 +14,7 @@ third_nav_title: Sports & Games
 
 
 ### Coach
-* Mdm Li Li
+* Lai Chee Kwan
 
 ### Training Schedule
 
