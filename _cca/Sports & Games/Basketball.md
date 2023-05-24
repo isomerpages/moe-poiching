@@ -19,8 +19,14 @@ third_nav_title: Sports & Games
 ### Training Schedule
 
 
-Monday – 2.00 pm to 5.00 pm&nbsp; ( School Team ) <br>
-Venue – Indoor Sports Hall Level 1
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.30pm |P4-P6|
+|Friday|2.00pm-3.30pm |P3|
+||3.30pm-5.00pm |P4 & P5|
+
+**Venue:**
+ Indoor Sports Hall Level 1
 
 ### Introduction
 
