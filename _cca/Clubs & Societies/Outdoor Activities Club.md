@@ -59,6 +59,10 @@ Our students also learn a few outdoor skills including navigation, topography, k
 
 **Accolades**
 
+**NPSSCC 2022 Team Awards**
+
+Junior Girls Division - 3rd
+
 **National Primary Schools Sports Climbing Competition 2019**
 
 The following Primary 5 and 6 students took part in the National Primary Schools Sport Climbing Competition on 2, 3 and 11 April 2019.
