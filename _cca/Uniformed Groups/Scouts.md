@@ -26,6 +26,16 @@ _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 | Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
 | Mdm Khairin      | Member     | nur_khairin_abdul_jafar@moe.edu.sg     |
 
+### Training Schedule
+
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Field & Hall of Wellness
+
 ### Accolades
 
 *   Frank Cooper Sands Awards 2014 (Bronze)
