@@ -41,6 +41,10 @@ Gnomes – Phoebe Tan Shi Ning and Natalie Sher Hui Shan
 
 ### Introduction
 
-Our regular brownies meetings are on Fridays during curriculum time. The guide leaders design varied activities to prepare the brownies for their tests and achievement badges. They are guided by the 5-point programme which develops them in 5 main areas: Personal &amp; Social Development, Home, Outdoor, Community and International. The girls display their leadership qualities when they take up appointments as Sixers and lead the brownies in group activities. The girls are constantly learning new skills and taking up challenges so as to equip and inspire them to be ready for their future.
+Girl Guide Singapore (GGS) (Brownies) has been providing us unparalleled opportunities for girls and women to discover and develop their strengths, their skills and their fullest potential to become responsible citizens of the world. Since the Girl Guide Movement began in Singapore in 1917, GGS has been delivering on the mission of building girls of courage, confidence and character, who make the world a better place.
+
+Today GGS is the largest volunteer organisation for girls and women in Singapore. As a member of the World Association of Girl Guides and Girl Scouts (WAGGGS), we are connected to over 10 million members in 152 countries.
+
+The girls are empowered through fun, challenging and unique experiences, adventures and activities. Equipping them to make a lasting positive impact by helping others. Our girls develop a deep sense of confidence and self-assurance, along with leadership and life skills - all while learning through fun adventure and making lifelong friendships.
 
 ![](/images/Brownies-2020-updated-1350x1324.jpg)
