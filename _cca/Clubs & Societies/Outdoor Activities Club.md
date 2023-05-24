@@ -37,10 +37,12 @@ These outdoor activities aim to increase the pupils’ knowledge and awareness a
 Our focus is to use outdoor experience to foster the whole child’s willingness to try out new things and take calculated risks to appreciate the world around them.
 
 ![](/images/odac%201.jpg)
+Kite-flying activity at Marina Barrage.
 
 ![](/images/odac%202.jpg)
 
 ![](/images/odac%203.jpg)
+Junior girls came in 3rd in team competition.
 
 ![](/images/odac%204.jpg)
 
@@ -67,6 +69,7 @@ Our focus is to use outdoor experience to foster the whole child’s willingness
 ![](/images/odac%2014.jpg)
 
 ![](/images/odac%2015.jpg)
+Training at Rock School at Our Tampines Hub.
 
 ![](/images/odac%2016.jpg)
 
@@ -77,12 +80,14 @@ Our focus is to use outdoor experience to foster the whole child’s willingness
 ![](/images/odac%2019.jpg)
 
 ![](/images/odac%2020.jpg)
+Exploring nature at Rifle Range Nature Walk.
 
 ![](/images/odac%2021.jpg)
 
 ![](/images/odac%2022.jpg)
 
 ![](/images/odac%2023.jpg)
+Going through an obstacle course at a playground at East Coast Park.
 
 ![](/images/odac%2024.jpg)
 
