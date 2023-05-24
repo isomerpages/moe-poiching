@@ -10,10 +10,10 @@ third_nav_title: Sports & Games
 
 | Name | Role | Email |
 | -------- | -------- | -------- |
-| Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
-| Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
-| Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
-| Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
+| Mrs Lee Kheng Leng     | OIC     | yap_kheng_leng@moe.edu.sg     |
+| Mdm Marwati Bte Kamarudin     | 2IC     | marwati_kamarudin@moe.edu.sg     |
+| Ms Nurul Amirah Binte Amir     | Member     | nurul_amirah_amir@moe.edu.sg     |
+| Mr Tan You Chuan Calvin     | Member     | tan_you_chuan_calvin@moe.edu.sg     |
 | Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
 | Mrs Lee Kheng Leng     | OIC     | @moe.edu.sg     |
 
