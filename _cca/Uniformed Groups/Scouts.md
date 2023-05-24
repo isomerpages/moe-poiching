@@ -34,7 +34,7 @@ _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 
 
 **Venue:**
- Field & Hall of Wellness
+ Field & Hall Of Wellness
 
 ### Accolades
 
