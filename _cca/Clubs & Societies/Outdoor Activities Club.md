@@ -36,6 +36,58 @@ These outdoor activities aim to increase the pupils’ knowledge and awareness a
 
 Our focus is to use outdoor experience to foster the whole child’s willingness to try out new things and take calculated risks to appreciate the world around them.
 
+![](/images/odac%201.jpg)
+
+![](/images/odac%202.jpg)
+
+![](/images/odac%203.jpg)
+
+![](/images/odac%204.jpg)
+
+![](/images/odac%205.jpg)
+
+![](/images/odac%205.jpg)
+
+![](/images/odac%206.jpg)
+
+![](/images/odac%207.jpg)
+
+![](/images/odac%208.jpg)
+
+![](/images/odac%209.jpg)
+
+![](/images/odac%2010.jpg)
+
+![](/images/odac%2011.jpg)
+
+![](/images/odac%2012.jpg)
+
+![](/images/odac%2013.jpg)
+
+![](/images/odac%2014.jpg)
+
+![](/images/odac%2015.jpg)
+
+![](/images/odac%2016.jpg)
+
+![](/images/odac%2017.jpg)
+
+![](/images/odac%2018.jpg)
+
+![](/images/odac%2019.jpg)
+
+![](/images/odac%2020.jpg)
+
+![](/images/odac%2021.jpg)
+
+![](/images/odac%2022.jpg)
+
+![](/images/odac%2023.jpg)
+
+![](/images/odac%2024.jpg)
+
+![](/images/odac%2025.jpg)
+
 **Outdoor Cooking**
 
 Our students were immersed in outdoor cooking and learnt lifeskills. Not only do they get to cook, they also made the realisation that they can always be creative with their menu even in the outdoors. Our students went through a week of planning their menu before creating their masterpiece and enjoying the fruits of their labour.
