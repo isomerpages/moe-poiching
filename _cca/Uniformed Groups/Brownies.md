@@ -48,5 +48,60 @@ Today GGS is the largest volunteer organisation for girls and women in Singapore
 The girls are empowered through fun, challenging and unique experiences, adventures and activities. Equipping them to make a lasting positive impact by helping others. Our girls develop a deep sense of confidence and self-assurance, along with leadership and life skills - all while learning through fun adventure and making lifelong friendships.
 
 ### Accolades
+![](/images/brownies%201.jpg)
+
+![](/images/brownies%202.jpg)
+
+**World Thinking Day 2023**
+![](/images/brownies%203.jpg)
+
+![](/images/brownies%204.jpg)
+
+![](/images/brownies%205.jpg)
+
+![](/images/brownies%206.jpg)
+
+![](/images/brownies%207.jpg)
+
+**Fashion Show using recycling materials**
+![](/images/brownies%208.jpg)
+
+![](/images/brownies%209.jpg)
+
+![](/images/brownies%2010.jpg)
+
+![](/images/brownies%2011.jpg)
+
+**Design a bag using recycling materials**
+![](/images/brownies%2012.jpg)
+
+![](/images/brownies%2013.jpg)
+
+![](/images/brownies%2014.jpg)
+
+![](/images/brownies%2015.jpg)
+
+![](/images/brownies%2016.jpg)
+
+![](/images/brownies%2017.jpg)
+
+**National Parade 2022**
+![](/images/brownies%2018.jpg)
+
+![](/images/brownies%2019.jpg)
+
+![](/images/brownies%2020.jpg)
+
+![](/images/brownies%2021.jpg)
+
+![](/images/brownies%2022.jpg)
+
+![](/images/brownies%2023.jpg)
+
+![](/images/brownies%2024.jpg)
+
+![](/images/brownies%2025.jpg)
+
+![](/images/brownies%2026.jpg)
 
 ![](/images/Brownies-2020-updated-1350x1324.jpg)
