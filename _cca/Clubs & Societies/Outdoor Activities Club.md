@@ -10,9 +10,9 @@ third_nav_title: Clubs & Societies
 
 | Name | Role | Email |
 | -------- | -------- | -------- |
-| Mdm Dzaariny     | OIC     | dzaariny_koloos@moe.edu.sg     |
-| Ms Nur Amira      | Member     | nur_amira_syahidah_mazlan@moe.edu.sg     |
-| Mdm Tan Ching Ling Rachel     | Member    | tan_ching_ling_rachel@moe.edu.sg     |
+| Ms Faezah     | OIC     | faezah_abdul_samad@moe.edu.sg     |
+| Mdm Noraishah      | Member     | noraishah_mhd_ayob@moe.edu.sg     |
+| Mr Jais     | Member    | mohd_jais_ahmad@moe.edu.sg     |
 
 ### Training Days
 
