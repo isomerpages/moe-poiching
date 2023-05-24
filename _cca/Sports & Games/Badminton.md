@@ -17,11 +17,11 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 
 | Name | Role | Email |
 | -------- | -------- | -------- |
-| Mr Victor Ho      | OIC     | @moe.edu.sg     |
-| Mdm Radiah Binte Mohamed      | 2IC     | @moe.edu.sg     |
-| Mr Muhammad Redzuan Bin Omar     | Member    | @moe.edu.sg     |
-| Mr Jason Lim     | Member     | @moe.edu.sg     |
-| Mr Marcus Choy     | Member     | @moe.edu.sg     |
+| Mr Victor Ho      | OIC     | ho_see_hoong_victor@moe.edu.sg     |
+| Mdm Radiah Binte Mohamed      | 2IC     | radiah_mohamed@moe.edu.sg     |
+| Mr Muhammad Redzuan Bin Omar     | Member    | muhammad_redzuan_omar@moe.edu.sg     |
+| Mr Jason Lim     | Member     | lim_teck_heen_jason@moe.edu.sg     |
+| Mr Marcus Choy     | Member     | marcus_choy_zheng_hoe@moe.edu.sg     |
 
 ### Coach
 * Tan Kwai Hong
