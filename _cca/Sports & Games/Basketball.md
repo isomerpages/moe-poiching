@@ -8,11 +8,10 @@ third_nav_title: Sports & Games
 
 | Name | Role | Email |
 | -------- | -------- | -------- |
-| Mr Dave Yang     | OIC     | yang_kin_ngian@moe.edu.sg     |
-| Mdm Yu Wei      | 2IC     | yu_wei_a@moe.edu.sg     |
-| Mdm Liang Hongbing     | Member    | liang_hongbing@moe.edu.sg     |
-| Mr Eugene Chin     | Member     | eugene_chin@moe.edu.sg     |
-| Mdm Loh Wai Yee     | Member     | loh_wai_yee@moe.edu.sg     |
+| Ms Qian Yan     | OIC     | qian_yan@moe.edu.sg     |
+| Ms Bahiah      | Member     | nurulbahiah_ishak@moe.edu.sg     |
+| Mr Khairul Annuar     | Member    | khairul_annuar_ibrahim_alsagoff@moe.edu.sg     |
+
 
 ### Coach
 * Mdm Li Li
