@@ -85,7 +85,7 @@ The girls are empowered through fun, challenging and unique experiences, adventu
 
 ![](/images/brownies%2017.jpg)
 
-**National Parade 2022**
+**National Day Parade 2022**
 ![](/images/brownies%2018.jpg)
 
 ![](/images/brownies%2019.jpg)
