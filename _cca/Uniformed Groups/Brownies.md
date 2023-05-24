@@ -94,6 +94,7 @@ The girls are empowered through fun, challenging and unique experiences, adventu
 
 ![](/images/brownies%2021.jpg)
 
+**Healthy Sandwich Making Activity**
 ![](/images/brownies%2022.jpg)
 
 ![](/images/brownies%2023.jpg)
