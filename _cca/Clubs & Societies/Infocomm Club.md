@@ -23,7 +23,7 @@ This year, 2020, we are embarking our kids to new area of Information communicat
 | Mr Chang      | Member     | chang_cheng_liang@moe.edu.sg     |
 | Mdm Khadijah     | Member    | khadijah_mohammed_iqbal@moe.edu.sg     |
 
-
+### Student leadership roles
 | Appointment | Name | Class |
 | -------- | -------- | -------- |
 | P6 Captain     | Lim Ding Zhi Zephan    | 6J4     |
