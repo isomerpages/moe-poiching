@@ -60,7 +60,8 @@ third_nav_title: Sports & Games
 |Tuesday|2pm-4pm |P4|
 |Thursday|2pm-4.30pm |P4|
 
-
+**Venue:**
+ ISH Level 1 & Level 2
 
 	
 
