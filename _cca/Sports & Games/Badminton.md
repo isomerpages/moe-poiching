@@ -27,7 +27,17 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 * Tan Kwai Hong
 * Wee Bing Hui
 
+### Training Schedule
 
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.00pm |P3|
+||3.00pm-5.00pm |P4|
+|Thursday|2.00pm-4.00pm |P5|
+||3.00pm-5.00pm |P6|
+
+**Venue:**
+ ISH Level 2 &amp; Field
 
 
 
