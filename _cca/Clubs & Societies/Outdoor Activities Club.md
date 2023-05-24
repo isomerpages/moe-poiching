@@ -23,7 +23,7 @@ third_nav_title: Clubs & Societies
 
 
 **Venue:**
- Science Labs
+ Rockwall &amp; 3M1 Classroom
 ![](/images/Capture.jpg)
 
 ### Introduction
