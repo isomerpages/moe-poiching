@@ -1,14 +1,14 @@
 ---
 title: Infocomm Club
-permalink: /cca/Clubs-and-Societies/infocomm-club
+permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
 ### Introduction
 
-The world is getting increasingly inter-connected.  In merely a few decades since the advent of the first computer, the speed of and reliance on computing has been growing exponentially over the years.  Smartphones, tablets and other gizmos are becoming increasingly ubiquitous.  Information and communication technology (ICT) has become the backbone of modern living.
+The world is getting increasingly inter-connected.&nbsp; In merely a few decades since the advent of the first computer, the speed of and reliance on computing has been growing exponentially over the years.&nbsp; Smartphones, tablets and other gizmos are becoming increasingly ubiquitous.&nbsp; Information and communication technology (ICT) has become the backbone of modern living.
 
-The PCS InfoComm Club endeavors to nurture its members, guided by the school core values, to:
+The PCS InfoComm Club endeavors to nurture its members,&nbsp;guided by the school core values, to:
 
 *   be at the forefront of technology;
 *   to eventually write codes to solve problems in their studies, their lives, and even benefit society at large.
@@ -17,56 +17,57 @@ This year, 2020, we are embarking our kids to new area of Information communicat
 
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Li Jing</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Chang Cheng Liang</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Wong Wan Chin</td>
-    <td class="tg-zr06">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mdm Li Jing     | OIC     | li_jing_b@moe.edu.sg     |
+| Mr Chang      | Member     | chang_cheng_liang@moe.edu.sg     |
+| Mdm Khadijah     | Member    | khadijah_mohammed_iqbal@moe.edu.sg     |
+
+### Student leadership roles
+| Appointment | Name | Class |
+| -------- | -------- | -------- |
+| Chairman     | Wong Yu Xin   | 6J1     |
+| Vice Chairman     | Lee Hui Re    | 6J3     |
+| Vice Chairman     | Louis Chen    | 6J3     |
+
+### Training Schedule
+
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Computer Labs
+ 
+ ![](/images/infocomm%206.jpg)
+ ![](/images/infocomm%202.jpg)
+ ![](/images/infocomm%203.jpg)
+ ![](/images/infocomm%204.jpg)
+ ![](/images/infocomm%205.jpg)
 
 ![](/images/ICT-Club2020.jpg)
 
 Accolades
 ---------
 
-**4th National Coding Competition (2018)**
+**4th&nbsp;National Coding Competition (2018)**
 
-The NCC was held on 28 June 2018 at Springfield Secondary School (for East and South Zone schools) and Montfort Secondary School (for North and West Zone schools). Our school sent in 2 teams to take part in the competition. Their task was to code a Scratch 2.0 game ([https://scratch.mit.edu/](https://scratch.mit.edu/) ) within 2.5 hrs in a computer lab without internet access. The theme was “Living with Robots”.
+The NCC was held on 28 June 2018 at Springfield Secondary School (for East and South Zone schools) and Montfort Secondary School (for North and West Zone schools). Our school sent in 2 teams to take part in the competition. Their task was to code a Scratch 2.0 game ([https://scratch.mit.edu/](https://scratch.mit.edu/)&nbsp;) within 2.5 hrs in a computer lab without internet access. The theme was “Living with Robots”.
 
-The official results for the competition was released on 20 July. One of the teams won **Silver Award**, and the other team won **Bronze Award**.
+The official results for the competition was released on 20 July. One of the teams won&nbsp;**Silver Award**, and the other team won&nbsp;**Bronze Award**.
 
 ![](/images/ICT1.png)
 
-**3rd National Coding Competition 2017**
+**3rd&nbsp;National Coding Competition 2017**
 
-The 2 teams from our school’s InfoComm Club had been awarded the Bronze Award for their participation in the National Coding Competition held on 29 June 2017 at Springfield Secondary School.  In this competition, participants were required to create a game in [Scratch 2.0](https://wiki.scratch.mit.edu/wiki/Scratch_2.0) surrounding the theme of Cloud Computing. Congratulations to the boys!  Special thanks to the pupils’ parents who had rendered their support to the boys during the June school holidays as they went about their preparation for the competition.
+The 2 teams from our school’s InfoComm Club had been awarded the Bronze Award for their participation in the National Coding Competition held on 29 June 2017 at Springfield Secondary School.&nbsp; In this competition, participants were required to create a game in&nbsp;[Scratch 2.0](https://wiki.scratch.mit.edu/wiki/Scratch_2.0)&nbsp;surrounding the theme of Cloud Computing. Congratulations to the boys!&nbsp; Special thanks to the pupils’ parents who had rendered their support to the boys during the June school holidays as they went about their preparation for the competition.
 
 ![](/images/ICT2.png)
 
 **KIDS’s Hackathon (2016)**
 
-Our PCS Team 1 clinched the top prize at **IDA Kids’ Hackathon 2016**!  .  The event was held at Suntec City Convention Centre on Saturday 21 May 2016.  They were the only team who had managed to complete **all** the assigned tasks, and in record time, scoring a perfect score of 150/150.
+Our PCS Team 1 clinched the&nbsp;top prize at&nbsp;**IDA Kids’ Hackathon 2016**!&nbsp; .&nbsp; The event was held at Suntec City Convention Centre on Saturday 21 May 2016.&nbsp; They were the only team who&nbsp;had&nbsp;managed&nbsp;to complete&nbsp;**all**&nbsp;the assigned tasks, and&nbsp;in record time, scoring&nbsp;a perfect score of&nbsp;150/150.
 
 ![](/images/IDA-Kids-Hackathon-2016.jpg)
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 489.899px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 494.899px;"><em style="box-sizing: inherit;">From left to right, they are Zachary Ng (5F), Moses Kong Hao Sheng (5C), Charlotte Ho (5F) and Naomi Ling En Yi (5F)</em></td></tr></tbody></table>
@@ -74,9 +75,9 @@ Our PCS Team 1 clinched the top prize at **IDA Kids’ Hackathon 2016**!  . 
 
 **Code For Fun Competition (2015)**
 
-TAN CHONG YI, RYAN (5C),  TAN DE EN (5D),  TAN WEI HAO (5E) and LIN YIXIN MELISSA (5E) were awarded the Bronze Award for the inaugural Code For Fun Competition organized by Springfield Secondary School.  The competition was held on 10 July 2015 while the award ceremony was held just last Friday, 28 September 2015.
+TAN CHONG YI, RYAN (5C), &nbsp;TAN DE EN (5D), &nbsp;TAN WEI HAO (5E) and LIN YIXIN MELISSA (5E) were awarded the Bronze Award for the inaugural Code For Fun Competition organized by Springfield Secondary School. &nbsp;The competition was held on 10 July 2015 while the award ceremony was held just last Friday, 28 September 2015.
 
-The objectives of the competition are: (1) to provide a platform for Primary School pupils to develop an interest in computer programming through game development and  (2) to provide an opportunity for pupils to showcase their work and hone their presentation and communication skills.
+The objectives of the competition are: (1) to provide a platform for Primary School pupils to develop an interest in computer programming through game development and &nbsp;(2) to provide an opportunity for pupils to showcase their work and hone their presentation and communication skills.
 
 **E1 Cluster ICT Journalism/Photography Competition (2014)**
 

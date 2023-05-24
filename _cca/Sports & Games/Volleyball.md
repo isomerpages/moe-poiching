@@ -8,21 +8,17 @@ third_nav_title: Sports & Games
 
 
 
-| Name |  | Role |
+| Name | Role | Email |
 | -------- | -------- | -------- |
-| Yap Kheng Leng    |      | OIC    |
-| Marwati Bte Kamarudin   |      | 2IC    |
-| Nurul Amirah Binte Amir   |      | Member  |
-| Tan You Chuan Calvin    |      | Member    |
-| Tee Li Ping    |      | Member    |
-| Goh Kwee Seng Alvin   |      | Associate Member    |
-| Neo Soo Ling Jeanette   |      | Associate Member    |
+| Mrs Lee Kheng Leng     | OIC     | yap_kheng_leng@moe.edu.sg     |
+| Mdm Marwati Bte Kamarudin     | 2IC     | marwati_kamarudin@moe.edu.sg     |
+| Ms Nurul Amirah Binte Amir     | Member     | nurul_amirah_amir@moe.edu.sg     |
+| Mr Tan You Chuan Calvin     | Member     | tan_you_chuan_calvin@moe.edu.sg     |
+| Mdm Tee Li Ping     | Member     | tee_li_ping@moe.edu.sg     |
+| Mr Goh Kwee Seng Alvin     | Advisor     | goh_kwee_seng_alvin@moe.edu.sg     |
 
-**Coach**  :     Coach Chua Siew Choo
-
-
-
-
+### Coach
+* Chua Siew Choo
 
 ### Leadership (Boys)
 
@@ -35,11 +31,6 @@ third_nav_title: Sports & Games
 | P5 Captain     | Tan Yan Feng Kelston    | 5L1     |
 | P5 Vice-Captain     | Neo Chen Shuo    | 5L4     |
 | P4 Captain     | Tan Ze Yu, Ray   | 4P3     |
-| P4 Vice-Captain     |   Caerwyn Lee Zhi Lei  | 4P3     |
-
-
-
-	
 
 
 ### Leadership (Girls)
@@ -54,10 +45,39 @@ third_nav_title: Sports & Games
 | P4 Vice-Captain     |  Makayla Peh En Yu  | 4P5     |
 
 
+### Training Schedule
 
-	
+|Date| Time | Primary| 
+|-----|----|------|
+|Tuesday & Thursday|2pm-3.30pm |P2 selected players|
+||2pm-4pm |P3|
+||3pm-5.30pm |P5|
+|Tuesday|2pm-4pm |P4|
+|Thursday|2pm-4.30pm |P4|
 
+**Venue:**
+ ISH Level 1 & Level 2
 
+### Accolades
+
+**2023 Senior Division**	
+Senior Boys:
+Tier 2 - 1st
+
+Senior Girls:
+Tier 1 - 3rd
+
+**2022 Junior Division**	
+Junior Boys:
+Tier 2 - 2nd
+
+Junior Girls:
+Tier 2 - 1st
+
+![](/images/volleyball%201.jpg)
+![](/images/volleyball%202.jpg)
+![](/images/volleyball%203.jpg)
+![](/images/volleyball%204.jpg)
 
 ![](/images/volleyball2021-01.jpg)
 ![](/images/volleyball2021-02-scaled.jpg)

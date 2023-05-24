@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/Clubs-and-Societies/art-club
+permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -12,34 +12,21 @@ Poi Ching School Art Club aims to cultivate the love and appreciation of visual 
 
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Poh- Lim Shir Pei (Fiona)</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Farah Shauna Bte Mohamed</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Nur Aishah Binte Ibrahim Falli</td>
-    <td class="tg-zr06">Member</td>
-  </tr>
-</tbody>
-</table>
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mdm Aishah     | OIC     | nur_aishah@moe.edu.sg     |
+| Mdm Farah      | Member     | farah_shauna_mohamed@moe.edu.sg     |
 
+### Training Schedule
+
+|Date| Time | Primary| 
+|-----|----|------|
+|Thursday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Art Rooms
+ 
 ![](/images/0001-1350x1747.jpg)
 ![](/images/0002-1350x1747.jpg)
 ![](/images/0003-1350x1159.jpg)

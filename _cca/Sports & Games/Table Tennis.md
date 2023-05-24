@@ -6,26 +6,31 @@ third_nav_title: Sports & Games
 ---
 # Teachers-in-charge
 
-| | |
-| -------- |  -------- |
-| Mr Ng |  OIC |
-|Mrs Seetoh | Associate Member |
-|Mrs Pokhrel | Member |
-|Ms Elmizah | Associate Member |
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Ng Theng Hian     | OIC     | ng_theng_hian@moe.edu.sg     |
+| Mrs Pokhel     | Member     | tan_shu_jin@moe.edu.sg     |
+| Mdm Elmizah     | Member     | nur_elmizah_mhd_yassin@moe.edu.sg     |
+
+### Coach
+* Kamarulzaman Ibrahim Thiara
+* Lim Ching Hang
+* Akida Pang Thiara
 
 # Training Schedule
 
-**School Team Training:**
+
 
 |Date| time | Primary| 
 |-----|----|------|
-|Monday|2-3pm |(P3&P4)|
-||3-4pm |(P5&P6)|
-|Thursday:|2-3.30pm |(P3&P4)|
-||3.30-5pm |(P5&P6)|
+|Monday|2-3pm |P3&P4|
+||3-4pm |P5&P6|
+|Thursday|2-3.30pm |P3&P4|
+||3.30-5pm |P5&P6|
 
 **Venue:**
-Level 5 at Blk E
+ Blk E Level 5
 
 
 ### Introduction

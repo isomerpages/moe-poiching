@@ -1,6 +1,6 @@
 ---
 title: Science Club
-permalink: /cca/Clubs-and-Societies/science-club
+permalink: /cca/Clubs-and-Societies/science-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -10,34 +10,22 @@ The Science Club is an innovative and enterprising club. It aims to give our pup
 
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Mdm Dzaariny</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Ms Evelyn Leow</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mrs Yan Lim</td>
-    <td class="tg-zr06">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mdm Dzaariny     | OIC     | dzaariny_koloos@moe.edu.sg     |
+| Ms Nur Amira      | Member     | nur_amira_syahidah_mazlan@moe.edu.sg     |
+| Mdm Tan Ching Ling Rachel     | Member    | tan_ching_ling_rachel@moe.edu.sg     |
 
+### Training Schedule
+
+|Date| Time | Primary| 
+|-----|----|------|
+|Thursday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Science Labs
+ 
 ### Key Programmes
 
 
@@ -45,7 +33,7 @@ The Science Club is an innovative and enterprising club. It aims to give our pup
 
 **DNA Extraction**
 
-The ability to extract DNA is of primary importance to studying the genetic causes of disease and for the development of diagnostics and drugs. It is also essential for carrying out forensic science, sequencing genomes, detecting bacteria and viruses in the environment and for determining paternity.
+The ability to&nbsp;extract DNA&nbsp;is of primary importance to studying the genetic causes of disease and for the development of diagnostics and drugs. It is also essential for carrying out forensic science, sequencing genomes, detecting bacteria and viruses in the environment and for determining paternity.
 
 Workshops were conducted to help students learn about the latest Life Sciences developments and to perform mini-experiments to extract DNA.
 
@@ -69,7 +57,7 @@ Aquaponics
 
 In 2017, the Science Club embarked on an aquaponics enrichment programme where they learnt how fishes and plants can depend on each other to survive happily. Pupils had the opportunity to rear fishes and grow edible vegetables indoors and at the same time, learn about sustainability and ownership. They even harvested Kang Kong which they could bring back to cook!
 
-### Applied & Creative Science
+### Applied &amp; Creative Science
 
 Toy-making and designing
 

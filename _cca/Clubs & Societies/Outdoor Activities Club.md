@@ -1,6 +1,6 @@
 ---
 title: Outdoor Activities Club
-permalink: /cca/Clubs-and-Societies/outdoor-activities-club
+permalink: /cca/Clubs-and-Societies/outdoor-activities-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -8,52 +8,92 @@ third_nav_title: Clubs & Societies
 
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Faezah Binte Abdul Samad</th>
-    <th class="tg-1ppo">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Mohd Jais Bin Ahmad</td>
-    <td class="tg-h5mn">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Noraishah Bte Mhd Ayob</td>
-    <td class="tg-1ppo">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">Erin Tan Ying Ying</td>
-    <td class="tg-h5mn">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Ms Faezah     | OIC     | faezah_abdul_samad@moe.edu.sg     |
+| Mdm Noraishah      | Member     | noraishah_mhd_ayob@moe.edu.sg     |
+| Mr Jais     | Member    | mohd_jais_ahmad@moe.edu.sg     |
 
-### Training Days
+### Training Schedule
 
-Friday 8.30a.m. – 10.30a.m. (Curriculum time)
+|Date| Time | Primary| 
+|-----|----|------|
+|Monday|2.00pm-4.00pm |P3-P6|
+||2.00pm-5.00pm |Learning Journey/ External Training|
+
+
+**Venue:**
+ Rockwall &amp; 3M1 Classroom
 ![](/images/Capture.jpg)
 
 ### Introduction
 
 ODAC (OutDoor Activities Club) was set up to promote awareness and appreciation of the outdoors. Our focus is in 3 main areas: outdoor education, sports climbing and the spirit of adventure.
 
-ODAC has organized overnight camps in school as well as public parks in our outdoor programmes.  Nature walks and treasure hunts in Tampines Eco Green, Pasir Ris Park and Bukit Timah Nature Reserve have been conducted as part of values-in-action education and development of a sense of belonging to our environment .
+ODAC has organized overnight camps in school as well as public parks in our outdoor programmes.&nbsp; Nature walks and treasure hunts in Tampines Eco Green, Pasir Ris Park and Bukit Timah Nature Reserve have been conducted as part of values-in-action education and development of a sense of belonging to our environment .
 
 These outdoor activities aim to increase the pupils’ knowledge and awareness about the outdoor world and develop their skills to address challenges in a changing environment. We encourage pupils to develop attitudes to make informed decisions and take responsible action in the face of these challenges.
 
 Our focus is to use outdoor experience to foster the whole child’s willingness to try out new things and take calculated risks to appreciate the world around them.
+
+![](/images/odac%201.jpg)
+Kite-flying activity at Marina Barrage.
+
+![](/images/odac%202.jpg)
+
+![](/images/odac%203.jpg)
+Junior girls came in 3rd in team competition.
+
+![](/images/odac%204.jpg)
+
+![](/images/odac%205.jpg)
+
+![](/images/odac%205.jpg)
+
+![](/images/odac%206.jpg)
+
+![](/images/odac%207.jpg)
+
+![](/images/odac%208.jpg)
+
+![](/images/odac%209.jpg)
+
+![](/images/odac%2010.jpg)
+
+![](/images/odac%2011.jpg)
+
+![](/images/odac%2012.jpg)
+
+![](/images/odac%2013.jpg)
+
+![](/images/odac%2014.jpg)
+
+![](/images/odac%2015.jpg)
+Training at Rock School at Our Tampines Hub.
+
+![](/images/odac%2016.jpg)
+
+![](/images/odac%2017.jpg)
+
+![](/images/odac%2018.jpg)
+
+![](/images/odac%2019.jpg)
+
+![](/images/odac%2020.jpg)
+Exploring nature at Rifle Range Nature Walk.
+
+![](/images/odac%2021.jpg)
+
+![](/images/odac%2022.jpg)
+
+![](/images/odac%2023.jpg)
+Going through an obstacle course at a playground at East Coast Park.
+
+![](/images/odac%2024.jpg)
+Outdoor cooking at PCS.
+
+![](/images/odac%2025.jpg)
+Designing their own kites for kite-flying activity at Marina Barrage.
 
 **Outdoor Cooking**
 
@@ -74,9 +114,13 @@ Our students also learn a few outdoor skills including navigation, topography, k
 
 ![](/images/Outdoor2020-3.jpg)
 
-### Accolades & Completed Events
+### Accolades &amp; Completed Events
 
 **Accolades**
+
+**NPSSCC 2022 Team Awards**
+
+Junior Girls Division - 3rd
 
 **National Primary Schools Sports Climbing Competition 2019**
 
@@ -390,9 +434,9 @@ Faced with different challenges in bouldering, top rope and speed climbing, the 
 
 Congratulations to the following winners!
 
-WONG YI XUAN, ZELIA (HUANG YIXUAN) 5D – 6th for Speed climbing
+WONG YI XUAN, ZELIA (HUANG YIXUAN) 5D – 6th&nbsp;for Speed climbing
 
-ROCHELLE TEH XINYUE 6D – 7th for Speed climbing
+ROCHELLE TEH XINYUE 6D – 7th&nbsp;for Speed climbing
 
 ![](/images/odac02-2019.jpg)
 
@@ -631,15 +675,15 @@ The climbers at the competition area and back in school during training.
 
 **Individual Winners**
 
-**_Hilary Chan Seok Teng (6E)_**  –  2nd for Bouldering, 2nd for Top Rope
+**_Hilary Chan Seok Teng (6E)_**&nbsp; –&nbsp; 2nd for Bouldering, 2nd for Top Rope
 
-**_Cho Yut Yan Chloe (6E)_**  – 5th for Top Rope and 4th for Speed
+**_Cho Yut Yan Chloe (6E)_**&nbsp; – 5th for Top Rope and 4th for Speed
 
-**_Rochelle Teh Xin Yue (5D)_** – 4th for Top Rope
+**_Rochelle Teh Xin Yue (5D)_**&nbsp;– 4th for Top Rope
 
 **Team Winners**
 
-**_Senior Girls Team_** – 2nd overall
+**_Senior Girls Team_**&nbsp;– 2nd overall
 
 **National Primary Schools Sports Climbing Championships 2017**
 
@@ -652,15 +696,15 @@ The ODAC members participated in the National Primary Schools Sport Climbing Cha
 
 **Individual Winners**
 
-Joshua Woo (6D)  –  4th   for bouldering, 4th    for top rope,  4th   for speed climb
+Joshua Woo (6D)&nbsp; –&nbsp; 4th&nbsp;&nbsp; for bouldering, 4th&nbsp;&nbsp;&nbsp; for top rope, &nbsp;4th&nbsp;&nbsp; for speed climb
 
-Chung Shuang Ying (6D)  –  3rd  for speed climb, 6th   for bouldering
+Chung Shuang Ying (6D)&nbsp; –&nbsp; 3rd&nbsp; for speed climb, 6th&nbsp;&nbsp; for bouldering
 
-Chloe Cho –  9th   for speed climbing
+Chloe Cho – &nbsp;9th&nbsp;&nbsp; for speed climbing
 
 **Team Winners**
 
-Senior Boys Team – 3rd overall
+Senior Boys Team – 3rd&nbsp;overall
 
 ![](/images/ODAC5.png)
 
@@ -684,7 +728,7 @@ Senior Boys Category: Joshua Woo (5D) – 7th
 
 Senior Boys Category: Chung Shuang Ying (5D) – 8th
 
-**Completed Events** 
+**Completed Events**&nbsp;
 
 March 2017 – Participation in National Primary Schools Sport Climbing Championships 2017
 
@@ -752,4 +796,4 @@ Boys Team, at NPSSCC (Nationals) 2014
 Girls Team, at NPSSCC (Nationals 2014) with Coaches from The Rock School
 ![](/images/oca06.jpg)
 
-_Access the ODAC Blog for more pictures : [poichingschoolodac.blogspot.sg](http://poichingschoolodac.blogspot.sg/)_
+_Access the ODAC Blog for more pictures :&nbsp;[poichingschoolodac.blogspot.sg](http://poichingschoolodac.blogspot.sg/)_
