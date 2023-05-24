@@ -55,9 +55,11 @@ third_nav_title: Sports & Games
 |Date| Time | Primary| 
 |-----|----|------|
 |Tuesday & Thursday|2pm-3.30pm |P2 selected players|
-||2.15pm-4.45pm |P4-P6|
-|Friday|2.00pm-4.30pm |Selected P4|
-||2.15pm-3.45pm |P2|
+||2pm-4pm |P3|
+||3pm-5.30pm |P5|
+|Tuesday|2pm-4pm |P4|
+|Thursday|2pm-4.30pm |P4|
+
 
 **Venue:**
  ISH Level 2 & Field
