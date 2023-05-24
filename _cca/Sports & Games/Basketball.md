@@ -39,7 +39,7 @@ A basketball game is a great teacher of life. It gives pupils an opportunity to 
 
 We plan to provide more competitive experiences for our teams and look forward to more friendly games with other schools.
 
-We will be sending both our junior and senior teams to take part in the annual Inter-school East Zone Basketball Championships 2021.&nbsp; We wish our teams the best of luck.
+We will be sending both our junior and senior teams to take part in the annual Inter-school East Zone Basketball Championships 2021-2024. We wish our teams the best of luck.
 
 **What will you learn with us?**
 
