@@ -19,15 +19,6 @@ third_nav_title: Sports & Games
 
 
 
-| Name |  | Role |
-| -------- | -------- | -------- |
-| Yap Kheng Leng    |      | OIC    |
-| Marwati Bte Kamarudin   |      | 2IC    |
-| Nurul Amirah Binte Amir   |      | Member  |
-| Tan You Chuan Calvin    |      | Member    |
-| Tee Li Ping    |      | Member    |
-| Goh Kwee Seng Alvin   |      | Associate Member    |
-| Neo Soo Ling Jeanette   |      | Associate Member    |
 
 **Coach**  :     Coach Chua Siew Choo
 
