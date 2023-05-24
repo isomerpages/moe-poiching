@@ -42,12 +42,12 @@ P2: 2.15pm-3.45pm
 |Date| Time | Primary| 
 |-----|----|------|
 |Monday & Thursday|2.15pm-3.45pm |P3|
-||3-4pm |P5&P6|
-|Thursday|2-3.30pm |P3&P4|
-||3.30-5pm |P5&P6|
+||2.15pm-4.45pm |P4-P6|
+|Friday|2.00pm-4.30pm |Selected P4|
+||2.15pm-3.45pm |P2|
 
 **Venue:**
- Blk E Level 5
+ ISH Level 2 & Field
 
 ### Introduction
 
