@@ -16,7 +16,16 @@ The Science Club is an innovative and enterprising club. It aims to give our pup
 | Ms Nur Amira      | Member     | nur_amira_syahidah_mazlan@moe.edu.sg     |
 | Mdm Tan Ching Ling Rachel     | Member    | tan_ching_ling_rachel@moe.edu.sg     |
 
+### Training Schedule
 
+|Date| Time | Primary| 
+|-----|----|------|
+|Thursday|2.00pm-4.00pm |P3-P6|
+
+
+**Venue:**
+ Science Labs
+ 
 ### Key Programmes
 
 
