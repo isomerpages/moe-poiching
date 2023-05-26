@@ -41,11 +41,10 @@ Venue: Dance Room / PAL Room
 
 [2023 Dance CCA Term 2 Schedule]()
 
-[2023 Dance CCA June and Term 3 Schedule](/files/cca%20june%20holiday%20and%20term%203%20letter%202023_dance.pdf)
+[2023 Dance CCA June and Term 3 Schedule]()
 
 ### Coach
 
-![](/images/dance%20coach.JPG)
 
 
 ### Dance Teachers’ Duty List
