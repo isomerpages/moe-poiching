@@ -10,17 +10,13 @@ third_nav_title: Performing Arts
 
 
 
-
-| Teachers |  | Roles |
+| Teachers | Roles | Email |
 | -------- | -------- | -------- |
-| Mdm Wong Wenna     |  | OIC     |
-| Ms Ivy Wong Ye Shuang   |  | Member    |
-| Ms Janice Chuan Jia En   |  | Member   |
-| Mrs Melissa Gomes   |  | Member    
-| Ms Hsu Tzu Chun  |  | Member    |
-
-
-
+| Mdm Wong Wenna     | OIC    | wong_wenna@moe.edu.sg |
+| Ms Ivy Wong Ye Shuang      | Member    | wong_ye_shuang_ivy@moe.edu.sg |
+|  Ms Janice Chuan Jia En     | Member    | janice_chuan_jia_en@moe.edu.sg |
+|  Mrs Melissa Gomes     | Member    | melissa_hoeden@moe.edu.sg |
+|  Ms Hsu Tzu Chun     | Member    | hsu_tzu_chun@moe.edu.sg |
 
 
 ### Introduction
@@ -31,6 +27,7 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 In Poi Ching Dance, we can be ourselves.
 
+
 ### Training Schedules
 
 
@@ -40,10 +37,15 @@ Venue: Dance Room / PAL Room
 
 
 
-##### **2023 Term 2 Training Schedule**
+##### **2023 Training Schedule**
 
-[2023 Dance CCA Term 2 Scheule]()
+[2023 Dance CCA Term 2 Schedule]()
 
+[2023 Dance CCA June and Term 3 Schedule](/files/cca%20june%20holiday%20and%20term%203%20letter%202023_dance.pdf)
+
+### Coach
+
+![](/images/dance%20coach.JPG)
 
 
 ### Dance Teachers’ Duty List
@@ -54,9 +56,7 @@ P4 Dancers – Ms Janice Chuan <br>
 P5 Dancers – Ms Hsu Tzu Chun<br>
 
 ```
-
 ```
-
 
 | | | Teacher-in-charge |
 | -------- | -------- | -------- |
@@ -68,6 +68,9 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | Cosmetics &amp; Makeup |   | Ms Ivy Wong|
 | Dance Noticeboard |   |Mrs Melissa Gomes|
 | Social Media Platforms  |   | Ms Janice Chuan|
+
+
+### Student Leadership Roles
 
 ![](/images/Dance%20CCA%20Leaders.png)
 
