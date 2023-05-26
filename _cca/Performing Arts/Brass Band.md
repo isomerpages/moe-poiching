@@ -49,7 +49,8 @@ Thursdays: &nbsp;2.00 pm to 5.00 pm
 ### Important Information About Band Attendance
 
 Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. 
-In the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via school’s official email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
+
+In the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via  email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
 
 **Accolades**
