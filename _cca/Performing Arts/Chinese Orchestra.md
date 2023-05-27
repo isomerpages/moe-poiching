@@ -99,7 +99,7 @@ Poi Ching School Chinese Orchestra has been growing and improving over time. We 
 
 2010 – Singapore Youth Festival **( Silver )**
 
-### Photographs
+### Photo Gallery
 
 **2022**
 
