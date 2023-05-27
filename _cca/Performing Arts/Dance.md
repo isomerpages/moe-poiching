@@ -46,8 +46,7 @@ Venue: Dance Room / PAL Room
 
 ### Coach
 
- **Kym Rythemic Pte Ltd** 
-
+##### **Kym Rythemic Pte Ltd** 
 *  Lu Wei
 *  Meng Qun
 * Liu Hui   
@@ -78,7 +77,7 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 
 ### Student Leadership Roles
 
-![](/images/Dance%20CCA%20Leaders.png)
+![](/images/Dance%20CCA%20Leaders.png) 
 
 
 ### Direct School Admission (DSA)
