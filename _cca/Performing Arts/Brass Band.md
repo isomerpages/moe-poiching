@@ -24,7 +24,7 @@ third_nav_title: Performing Arts
 *    Mr Nahli Bin Zakaria
 	
 	
-### Brass Band Committee 2023:
+### Brass Band Committee 2023
 
 ![](/images/band%20leaders.JPG)
 
@@ -43,7 +43,7 @@ As Poi Ching School Brass Band continue to grow in strength and spirit, we look 
 
 
 Mondays: 2.00 pm to 5.00 pm<br>
-Thursdays: &nbsp;2.00 pm to 5.00 pm
+Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
 
 **Venue:**
 Band Room (Level 7, Block E)
@@ -71,21 +71,17 @@ SYF 2014 – Certificate of Accomplishment
 
 ### 2023
 
-* **PCS Brass Band Showcase @ Tampines Learning Festival** 
-
+* **PCS Brass Band Showcase @ Tampines Learning Festival** <br>
 	Photo link: [https://flic.kr/s/aHBqjAEAfn](https://flic.kr/s/aHBqjAEAfn)
 
 ### 2022
 
-* **SYF 2022 @ The Republic Cultural Centre**
-	
-	Photo link: [https://flic.kr/s/aHBqjA4nY1](https://flic.kr/s/aHBqjA4nY1)
+* **SYF 2022 @ The Republic Cultural Centre**<br>
+		Photo link: [https://flic.kr/s/aHBqjA4nY1](https://flic.kr/s/aHBqjA4nY1)
 
 ### 2020
 
-* **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**                       
-
-	Photo link: [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
+* **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**<br>                       Photo link: [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
 
 
 
