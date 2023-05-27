@@ -18,55 +18,56 @@ third_nav_title: Performing Arts
 | Mdm Zhang Shuying   |  Member    | zhang_shuying@moe.edu.sg     |
 
 
-### Student
+### Student Leadership
 **Chinese Orchestra EXCO 2022-2023**
 
-
-
-|Name | Class | Position     |
+|Name | Class | Position     | 
 | -------- | -------- | -------- |
 | Chow Le Xuan, Leshane     | 6J1     | Captain     |
 | Lau Wei Shan, Lynette     | 6J5     | Vice-Captain     |
 | Lim Jia Qi, Candy    | 4P3     | Asst Vice-Captain 1     |
 | Ho Hui Wen    | 4P2    | Asst Vice-Captain 2      |
-| Serin Chua Si Ki   | 6J5     | Sectional Leader (Yang Qin -Semester 1)
-| Tan Xuannyn    | 6J3    |  Asst Sectional Leader (Yang Qin -Semester 1)   |
-|Kayden Lim En Xu  | 5L6     | Sectional Leader (Yang Qin -Semester 2)
-| Liu Yilin, Eeleen    | 4P1    |  Asst Sectional Leader (Yang Qin -Semester 2)   |
-|Lim Zhu Xuan Kaydia    | 5L1    |  Sectional Leader (Er Hu)   |
-| Ang Kai Xuan Jayee   | 4P2   |  Asst Sectional Leader 1 (Er Hu)   |
-| Voon Ya Qi  | 4P3   |  Asst Sectional Leader 2 (Er Hu)   |
-|Emsley Poh Hwan Ki  | 5L5    |  Sectional Leader (Tan Bo Yue)   |
-|Lee Si Ying  | 4P1    |  Asst Sectional Leader (Tan Bo Yue)   |
-|Evelyn Tan Zi Lin  | 5L1   |  Sectional Leader (Cello & Doble Bass)   |
-|Lee Jun Yue Emmanuel  | 5L4   |  Asst Sectional Leader (Cello & Doble Bass)   |
-|Jacob Choo Yu Ming | 6J6    |  Sectional Leader (Percussion)   |
-|Khow You Rui | 4P1  |  Asst Sectional Leader 1 (Percussion)   |
-|Lee Qin Zhen, Alyson | 4P4  |  Asst Sectional Leader 2 (Percussion)   |
-|Lai Siyuan Henry | 5L3   |  Sectional Leader (Guan Yue)   |
-|Neo Zaeden | 5L6    |  Sectional Leader (Di Zi)   |
+
+
+**Chinese Orchestra  Sectional Leaders** 
+
+| Name | Class | Position | Section |
+| -------- | -------- | -------- |-------- |
+| Serin Chua Si Ki   | 6J5     | Sectional Leader  |Yang Qin (Semester 1)
+| Tan Xuannyn    | 6J3    |  Asst Sectional Leader | Yang Qin (Semester 1)   |
+|Kayden Lim En Xu  | 5L6     | Sectional Leader |Yang Qin (Semester 2)
+| Liu Yilin, Eeleen    | 4P1    |  Asst Sectional Leader |Yang Qin (Semester 2)   |
+|Lim Zhu Xuan Kaydia    | 5L1    |  Sectional Leader | Er Hu   |
+| Ang Kai Xuan Jayee   | 4P2   | Asst Sectional Leader 1 | Er Hu   |
+| Voon Ya Qi  | 4P3   |  Asst Sectional Leader 2 | Er Hu   |
+|Emsley Poh Hwan Ki  | 5L5    |  Sectional Leader | Tan Bo Yu   |
+|Lee Si Ying  | 4P1    |  Asst Sectional Leader |Tan Bo Yue   |
+|Evelyn Tan Zi Lin  | 5L1   |  Sectional Leader |Cello & Double Bass   |
+|Lee Jun Yue Emmanuel  | 5L4   |  Asst Sectional Leader |Cello & Double Bass   |
+|Jacob Choo Yu Ming | 6J6    |  Sectional Leader | Percussion   |
+|Khow You Rui | 4P1  |  Asst Sectional Leader 1  |Percussion   |
+|Lee Qin Zhen, Alyson | 4P4  |  Asst Sectional Leader 2 |Percussion   |
+|Lai Siyuan Henry | 5L3   |  Sectional Leader |Guan Yue   |
+|Neo Zaeden | 5L6    |  Sectional Leader |Di Zi   |
 
 
 
 ### Training Schedule 2023
 
-* Mondays : 2 p.m. to 5 p.m.                                                                   
-P4 - P6 (Semsester 1)                                                                
-P3 - P5 (Semester 2) 
 
-``
-``
-* Thursdays : 2 p.m. to 5 p.m.                                                                   
-P3 - P6 (Semsester 1)                                                                
-P2 - P5 (Semester 2)
+|Date| time | Primary| 
+|-----|----|------|
+|Monday|2-5pm |P4 - P6 (Semester 1)|
+|| |P3 - P5 (Semester 2)|
+|Thursday|2-5pm |P3- P6 (Semester 1)|
+|| |P2 - P5 (Semester 2)|
 
-`
-`
-* Venue: CO Room, Art Room 1 & 2
+**Venue:**
+ CO Room, Art Room 1 & 2
 
 
-### Coach
-##### **Xian Yun** 
+### Coach 
+#### **Xian Yun** 
 * Liu Zhiyue
 * Ji Huiming
 * Ong Jie Ying
