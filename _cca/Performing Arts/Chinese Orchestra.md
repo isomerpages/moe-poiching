@@ -67,7 +67,7 @@ third_nav_title: Performing Arts
 
 
 ### Coach 
-#### **Xian Yun** 
+**Xian Yun** 
 * Liu Zhiyue
 * Ji Huiming
 * Ong Jie Ying
@@ -99,7 +99,7 @@ Poi Ching School Chinese Orchestra has been growing and improving over time. We 
 
 2010 – Singapore Youth Festival **( Silver )**
 
-### Our CO Archives
+### Photographs
 
 **2022**
 
@@ -141,4 +141,3 @@ Poi Ching School Chinese Orchestra has been growing and improving over time. We 
 	We were very honoured to be invited to perform at the Esplanade Concourse and be part of the SYF 2019 Celebrations in the City together with many young musicians and talents from other schools. Every performance opportunity is a valuable learning experience and precious memory to us. We seek to improve the quality of our music with every performance and spread the love and appreciation for Chinese music.
 
 ![](/images/CO-2019-04.jpg)
-
