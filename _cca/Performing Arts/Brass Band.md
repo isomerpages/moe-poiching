@@ -39,22 +39,26 @@ Besides the continuous exposure for joy of learning and music-making, our band t
 
 As Poi Ching School Brass Band continue to grow in strength and spirit, we look forward to more good years of exceptional band standards, dedication and discipline in our band music-making and performance.
 
-### Our Band Training Schedule
+### Training Schedule
 
 
-Venue : Band Room (Level 7, Block E) <br>
 Mondays: 2.00 pm to 5.00 pm<br>
 Thursdays: &nbsp;2.00 pm to 5.00 pm
 
-### Important Information About Band Attendance
+**Venue:**
+Band Room (Level 7, Block E)
+ 
+
+
+### Band Attendance
 
 Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. 
 
-In the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via  email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
+In the event of absences, request of early pickup or late arrival from CCA with valid reasons, a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via email. [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
 
-**Accolades**
--------------
+### Accolades
+
 SYF 2022 - Performance (participation without benchmark)
 
 SYF 2018 – Certificate of Distinction
@@ -63,31 +67,32 @@ SYF 2016 – Certificate of Accomplishment
 
 SYF 2014 – Certificate of Accomplishment
 
-### Our Band Archives
+### Band Archives
 
 ### 2023
 
-**PCS Brass Band Showcase @ Tampines Learning Festival** 
+* **PCS Brass Band Showcase @ Tampines Learning Festival** 
 
-https://flic.kr/s/aHBqjAEAfn
-
+	Photo link: [https://flic.kr/s/aHBqjAEAfn](https://flic.kr/s/aHBqjAEAfn)
 
 ### 2022
 
-**SYF 2022 @ The Republic Cultural Centre**
-
-https://flic.kr/s/aHBqjA4nY1
+* **SYF 2022 @ The Republic Cultural Centre**
+	
+	Photo link: [https://flic.kr/s/aHBqjA4nY1](https://flic.kr/s/aHBqjA4nY1)
 
 ### 2020
 
-**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**                       
+* **PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**                       
 
-https://flic.kr/s/aHsmL8RkSG
+	Photo link: [https://flic.kr/s/aHsmL8RkSG](https://flic.kr/s/aHsmL8RkSG)
 
-**PCS Brass Band Showcase @ Tampines Central Lunar New Year Dinner 2020**
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4PIjgfjQyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**PCS Brass Band CNY Showcase 2020**
+`
+`
+* **PCS Brass Band CNY Showcase**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qThpBak6THo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
