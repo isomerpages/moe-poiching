@@ -27,8 +27,7 @@ Music Room 1 &amp; 2
 | ------ | ------ |
 | Chinese Drum:    | Ong Chee Hau     |
 
-`
-`
+
 | The Chinese Opera Institute |  | 
 | -------- | -------- |
 | Chinese Opera:    | Koh Soh Tin     |
