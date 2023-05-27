@@ -14,7 +14,24 @@ third_nav_title: Performing Arts
 | Lin Feng    | Member     | lin_feng@moe.edu.sg  |
 
 
-### Training Schedule
+<h1 style="font-size: 2rem; color: #ecc71">Training Schedule</h1>
+   
+Mondays: 2.00 pm to 4.00 pm<br>
+
+**Venue:**
+Music Room 1 &amp; 2
+
+<h1 style="font-size: 2rem; color: #ecc71"> Coach</h1>
+
+| ZingO Festival Drum Pte. Ltd. |  | 
+| ------ | ------ |
+| Chinese Drum:    | Ong Chee Hau     |
+
+`
+`
+| The Chinese Opera Institute |  | 
+| -------- | -------- |
+| Chinese Opera:    | Koh Soh Tin     |
 
 **Introduction**
 ----------------
@@ -54,42 +71,15 @@ All members will learn various skills of Chinese Drum. P5 &amp;6 leaders act as 
 ![](/images/opera_1.jpg)
 ![](/images/opera_2.jpg)
 
-### Past Photographs
-
-![](/images/opera3.jpg)
-![](/images/2018_opera.jpg)
-![](/images/2018_opera2.jpg)
-![](/images/COP-1.png)
-![](/images/COP-3.png)
-![](/images/COP-2.png)
-![](/images/COP-4.png)
-![](/images/COP-13.png)
-![](/images/COP-14.png)
-![](/images/COP-15-1.png)
-![](/images/COP-16.png)
-![](/images/COP-17.png)
-![](/images/COP-18.png)
-![](/images/COP-19.png)
-![](/images/COP-28.jpg)
-
-[http://padlet.com/wall/pcsopera2013](http://padlet.com/wall/pcsopera2013)
-
-[https://padlet.com/liauml14/rhb2017pcs](https://padlet.com/liauml14/rhb2017pcs)
-
-![](/images/opera2020-11-1350x1793.jpg)
-
-![](/images/opera_sched1.jpg)
-![](/images/opera2020-04.jpg)
-
 
 **Chinese Drum**
 
-**Performance at people’ Park complex on 5th January 2020**
+* **Performance at Peoples’ Park complex on 5th January 2020**
 
 ![](/images/chinesedrum2020-1350x337.jpg)
 ![](/images/IMG-20190413-WA0010.jpg)
 
-**世界书香日**
+* **世界书香日**
 
 ![](/images/IMG-20190412-WA0020.jpg)
 ![](/images/cdrum1.jpg)
@@ -97,10 +87,12 @@ All members will learn various skills of Chinese Drum. P5 &amp;6 leaders act as 
 ![](/images/cdrum3.jpg)
 ![](/images/cdrum4.jpg)
 
-**Performance at Vivo City .”CHEERS”!**
+* **Performance at Vivo City .”CHEERS”!** <br>
+
 ![](/images/drum1.jpg)
 
-**Rehearsal for “OPOM” at the National Stadium**
+* **Rehearsal for “OPOM” at the National Stadium** 
+
 ![](/images/IMG-20140701-WA0000.jpg)
 ![](/images/IMG-20140701-WA0001.jpg)
 ![](/images/IMG-20140701-WA0002.jpg)
