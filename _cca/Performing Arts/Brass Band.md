@@ -28,11 +28,6 @@ third_nav_title: Performing Arts
 
 ![](/images/band%20leaders.JPG)
 
-![](/images/rsz_1band_leaders.jpg)
-
-![](/images/rsz_2band_leaders.png)
-
-
 
 ### Introduction
 
