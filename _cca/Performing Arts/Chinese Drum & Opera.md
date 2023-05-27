@@ -1,51 +1,33 @@
 ---
 title: Chinese Drum & Opera
-permalink: /cca/Performing-Arts/chinese-drum-n-opera
+permalink: /cca/Performing-Arts/chinese-drum-n-opera/
 description: ""
 third_nav_title: Performing Arts
 ---
 ### Teachers-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zr06">Liau Mei Ling</th>
-    <th class="tg-zr06">OIC</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bsu7">Lin Feng</td>
-    <td class="tg-bsu7">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Yue Puay Leng (Agnes Teo)</td>
-    <td class="tg-zr06">Associate Member</td>
-  </tr>
-</tbody>
-</table>
+
+
+| Names |Roles | Email | 
+| -------- | -------- | -------- |
+| Liau Mei Ling    | OIC     | liau_mei_ling@moe.edu.sg  |
+| Lin Feng    | Member     | lin_feng@moe.edu.sg  |
+
+
+### Training Schedule
 
 **Introduction**
 ----------------
 
 中国鼓与戏曲CCA说明
 
-          中国鼓与戏曲都是华族传统艺术的一个项目，有着悠久的历史和丰富的表现形式。体现着数千年深厚的文化积累和底蕴。
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 中国鼓与戏曲都是华族传统艺术的一个项目，有着悠久的历史和丰富的表现形式。体现着数千年深厚的文化积累和底蕴。
 
-          培青学校的中国鼓与戏曲CCA传承了传统艺术的精神，鼓是传统的打击乐器，鼓与舞相结合的乐舞形式，已成为鼓舞、激励人们团结奋进的精神力量。戏曲以“戏”和“曲”为主要因素，唱、做、念、打，形式多样。
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 培青学校的中国鼓与戏曲CCA传承了传统艺术的精神，鼓是传统的打击乐器，鼓与舞相结合的乐舞形式，已成为鼓舞、激励人们团结奋进的精神力量。戏曲以“戏”和“曲”为主要因素，唱、做、念、打，形式多样。
 
 培青学校的中国鼓和戏曲在这之前的十多年里参加了很多表演。中国鼓曾经受邀前往珍珠坊、滨海艺术中心、淡滨尼民众联络所等地表演，也曾经为世界书香日进行表演，受到广泛好评。中国戏曲表演了《水漫金山》、《挥枪弄舞\_袖之韵》、《龙宫贺寿》、《哪吒出世》、《桃子的传说》、《老鼠嫁女》、《刺梁驥》、《盘丝洞》、《夜莺》、《闹花灯》、《打猪草》、《女驸马》、《扮皇帝》等。学生主演的《刺梁驥》于2007年首次在新加坡维多利亚剧院公演，后来戏曲小组也受邀代表新加坡参与大阪的第三届国际文化交流。之后的两年我们也赴莫斯科及中国参与戏曲汇演。新加坡的福清会馆、国泰戏院、国家图书馆、国家博物馆、新传媒等地方都有培青戏曲小组的表演身影。在2010年，培青戏曲的学生组员参加了妆艺大游行，同时也有份参与《戏班小子》这部电影的部分拍摄。
 
-          从今年开始，培青学校的中国鼓与戏曲CCA将给与学生更多接触和学习这两项传统艺术的机会。学校将聘请不同的专业教练分别教导中国鼓和中国戏曲，以便更好地融合这两项传统艺术，保留与传承中华传统文化。
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 从今年开始，培青学校的中国鼓与戏曲CCA将给与学生更多接触和学习这两项传统艺术的机会。学校将聘请不同的专业教练分别教导中国鼓和中国戏曲，以便更好地融合这两项传统艺术，保留与传承中华传统文化。
 
 Chinese Drum and Opera are traditional visual performance art-forms that have rich history and immense cultural performance expressions.
 
@@ -57,9 +39,9 @@ For Chinese Drummers, they have been invited to stage performances at Chinatown 
 
 Commencing this year, our student performers will have more exposure opportunities to be immersed in the two art-forms. The school will engage renowned artists and instructors to coach our student members both Chinese Drum and Opera, infusing these 2 artistic presentations holistically into our progarmme. Ultimately, we strive to preserve this artistic cultural inheritance through driving this programme amongst our student performers.
 
-**Character & Leadership Development**
+**Character &amp; Leadership Development**
 
-All members will learn various skills of Chinese Drum. P5 &6 leaders act as mentors for their P3&4 junior assistant leaders who will learn to manage a team and eventually take over as group leaders at Term 4.  We will also look out for potential leaders in P3&4 and provide opportunities for them to lead when they have mastered basic skills taught with potential leadership attributes. All the leaders and assistant leaders are clear of their responsibilities and roles. They are required to perform their assigned role dutifully. The leaders will work collaboratively with the teachers in showcasing the performance. Leaders are expected to lead by example and continue to mentor their junior leaders. Modesty, Integrity, Loyalty and Excellence are the core values for all to practice during CCA and in their daily life. They are all very passionate in Chinese drum and diligently practicing Chinese drums.
+All members will learn various skills of Chinese Drum. P5 &amp;6 leaders act as mentors for their P3&amp;4 junior assistant leaders who will learn to manage a team and eventually take over as group leaders at Term 4.&nbsp; We will also look out for potential leaders in P3&amp;4 and provide opportunities for them to lead when they have mastered basic skills taught with potential leadership attributes. All the leaders and assistant leaders are clear of their responsibilities and roles. They are required to perform their assigned role dutifully. The leaders will work collaboratively with the teachers in showcasing the performance. Leaders are expected to lead by example and continue to mentor their junior leaders. Modesty, Integrity, Loyalty and Excellence are the core values for all to practice during CCA and in their daily life. They are all very passionate in Chinese drum and diligently practicing Chinese drums.
 
 ### Photographs
 
