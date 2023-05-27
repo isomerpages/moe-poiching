@@ -77,20 +77,6 @@ third_nav_title: Performing Arts
 * Huang Guifang
 * Tan Mo   
 
-### Our CO Archives
-
-**2022**
-
-PCS Chinese Orchestra SYF AP 2022
-[https://flic.kr/s/aHBqjAsFk6](https://flic.kr/s/aHBqjAsFk6)
-
-**2020**
-
-PCS Chinese Orchestra Showcase @ Tampines Central  Lunar New Year Dinner 2020
-
-[https://flic.kr/s/aHsmL7XgSV](https://flic.kr/s/aHsmL7XgSV)
-
-
 ### Introduction
 
 Poi Ching School Chinese Orchestra (PCSCO) is a platform for students who have passion and interest in Chinese instruments to showcase their talents.
@@ -113,15 +99,26 @@ Poi Ching School Chinese Orchestra has been growing and improving over time. We 
 
 2010 – Singapore Youth Festival **( Silver )**
 
-### Photographs
+### Our CO Archives
+
+**2022**
+
+* PCS Chinese Orchestra SYF AP 2022
+[https://flic.kr/s/aHBqjAsFk6](https://flic.kr/s/aHBqjAsFk6)
 
 **2020**
 
-**Chinese New Year Performance at Tampines Central Park on 1st February 2020**
+* PCS Chinese Orchestra Showcase @ Tampines Central  Lunar New Year Dinner 2020
 
 PCS Chinese Orchestra overcame all challenges and performed our lively CNY songs at Tampines Central Park to bring cheer to the residents of Tampines amidst the initial COVID-19 outbreak situation. We were also very honoured to meet and interact with DPM Mr Heng Swee Keat.
 
-![](/images/co2019-01.jpg)
+[https://flic.kr/s/aHsmL7XgSV](https://flic.kr/s/aHsmL7XgSV)
+
+
+
+
+
+
 
 **2019**
 
