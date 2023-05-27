@@ -14,8 +14,19 @@ third_nav_title: Performing Arts
 | Lin Feng    | Member     | lin_feng@moe.edu.sg  |
 
 
-<h1 style="font-size: 2rem; color: #ecc71">Training Schedule</h1>
-   
+<style type="text/css">
+.custom {
+ font-family: Calibri; 
+ color: #4176d3;
+ font-size:35px;
+ font-weight: 550;
+}
+</style> 
+
+<p class="custom">
+Training Schedule  </p> 
+
+ 
 Mondays: 2.00 pm to 4.00 pm<br>
 
 **Venue:**
