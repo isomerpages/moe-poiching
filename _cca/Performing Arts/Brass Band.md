@@ -28,6 +28,7 @@ third_nav_title: Performing Arts
 
 ![](/images/band%20leaders.JPG)
 
+![](/images/Badminton3.jpg)
 
 ### Introduction
 
