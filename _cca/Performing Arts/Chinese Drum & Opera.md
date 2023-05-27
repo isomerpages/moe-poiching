@@ -4,16 +4,6 @@ permalink: /cca/Performing-Arts/chinese-drum-n-opera/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Teachers-in-charge
-
-
-
-| Names |Roles | Email | 
-| -------- | -------- | -------- |
-| Liau Mei Ling    | OIC     | liau_mei_ling@moe.edu.sg  |
-| Lin Feng    | Member     | lin_feng@moe.edu.sg  |
-
-
 <style type="text/css">
 .custom {
  font-family: Calibri; 
@@ -24,15 +14,30 @@ third_nav_title: Performing Arts
 </style> 
 
 <p class="custom">
+Teachers-in-charge </p>  
+
+
+
+| Names |Roles | Email | 
+| -------- | -------- | -------- |
+| Liau Mei Ling    | OIC     | liau_mei_ling@moe.edu.sg  |
+| Lin Feng    | Member     | lin_feng@moe.edu.sg  |
+ <br>
+
+
+
+<p class="custom">
 Training Schedule  </p> 
 
  
-Mondays: 2.00 pm to 4.00 pm<br>
+Mondays: 2.00 pm to 4.00 pm
 
 **Venue:**
 Music Room 1 &amp; 2
+<br><br>
 
-<h1 style="font-size: 2rem; color: #ecc71"> Coach</h1>
+<p class="custom">
+Coach </p>  
 
 | ZingO Festival Drum Pte. Ltd. |  | 
 | ------ | ------ |
@@ -43,7 +48,9 @@ Music Room 1 &amp; 2
 | -------- | -------- |
 | Chinese Opera:    | Koh Soh Tin     |
 
-**Introduction**
+<br>
+<p class="custom">
+Introduction</p>  
 ----------------
 
 中国鼓与戏曲CCA说明
@@ -69,9 +76,10 @@ Commencing this year, our student performers will have more exposure opportuniti
 **Character &amp; Leadership Development**
 
 All members will learn various skills of Chinese Drum. P5 &amp;6 leaders act as mentors for their P3&amp;4 junior assistant leaders who will learn to manage a team and eventually take over as group leaders at Term 4.&nbsp; We will also look out for potential leaders in P3&amp;4 and provide opportunities for them to lead when they have mastered basic skills taught with potential leadership attributes. All the leaders and assistant leaders are clear of their responsibilities and roles. They are required to perform their assigned role dutifully. The leaders will work collaboratively with the teachers in showcasing the performance. Leaders are expected to lead by example and continue to mentor their junior leaders. Modesty, Integrity, Loyalty and Excellence are the core values for all to practice during CCA and in their daily life. They are all very passionate in Chinese drum and diligently practicing Chinese drums.
+<br><br>
 
-### Photographs
-
+<p class="custom">
+Photographs </p>  
 
 **Chinese Opera**
 
