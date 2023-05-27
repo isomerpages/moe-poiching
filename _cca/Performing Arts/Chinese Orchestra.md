@@ -52,7 +52,7 @@ third_nav_title: Performing Arts
 
 
 
-### Training Schedule 2023
+### Training Schedule 
 
 
 |Day| Time | Primary| 
