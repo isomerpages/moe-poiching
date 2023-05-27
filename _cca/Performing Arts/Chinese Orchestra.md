@@ -18,8 +18,8 @@ third_nav_title: Performing Arts
 | Mdm Zhang Shuying   |  Member    | zhang_shuying@moe.edu.sg     |
 
 
-
-**PCS Chinese Orchestra EXCO 2022-2023**
+### Student
+**Chinese Orchestra EXCO 2022-2023**
 
 
 
@@ -67,8 +67,8 @@ P2 - P5 (Semester 2)
 
 ### Coach
 ##### **Xian Yun** 
-*  Liu Zhiyue
-*  Ji Huiming
+* Liu Zhiyue
+* Ji Huiming
 * Ong Jie Ying
 * Chang Le
 * Tan Manman
