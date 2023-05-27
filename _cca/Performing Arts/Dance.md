@@ -43,7 +43,14 @@ Venue: Dance Room / PAL Room
 
 [2023 Dance CCA June and Term 3 Schedule]()
 
+
 ### Coach
+
+ **Kym Rythemic Pte Ltd** 
+
+*  Lu Wei
+*  Meng Qun
+* Liu Hui   
 
 
 
