@@ -55,7 +55,7 @@ third_nav_title: Performing Arts
 ### Training Schedule 2023
 
 
-|Date| time | Primary| 
+|Day| Time | Primary| 
 |-----|----|------|
 |Monday|2-5pm |P4 - P6 (Semester 1)|
 || |P3 - P5 (Semester 2)|
