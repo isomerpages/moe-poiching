@@ -64,6 +64,18 @@ P2 - P5 (Semester 2)
 `
 * Venue: CO Room, Art Room 1 & 2
 
+
+### Coach
+##### **Xian Yun** 
+*  Liu Zhiyue
+*  Ji Huiming
+* Ong Jie Ying
+* Chang Le
+* Tan Manman
+* Zhang Tianyun
+* Huang Guifang
+* Tan Mo   
+
 ### Our CO Archives
 
 **2022**
