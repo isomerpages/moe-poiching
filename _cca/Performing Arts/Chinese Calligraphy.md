@@ -11,6 +11,21 @@ third_nav_title: Performing Arts
 | -------- | -------- | -------- |
 |Mdm Xu Haiying    | OIC     | xu_haiying@moe.edu.sg     |
 Mdm Li Jiele    | Member     | li_jiele@moe.edu.sg     | 
+ 
+
+### Training Schedule
+
+Mondays: 2.00 pm to 4.00 pm
+
+**Venue:**
+CL Modular Room
+<br>
+
+### Coach
+
+| Hua Yi Cultural Pte. Ltd. | 
+| ------ | 
+| Ma Shuanglu   |  
 
 
 
