@@ -4,7 +4,17 @@ permalink: /cca/Performing-Arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Teachers-in-charge
+<style type="text/css">
+.custom {
+ font-family: Calibri; 
+ color: #4176d3;
+ font-size:35px;
+ font-weight: 550;
+}
+</style> 
+
+<p class="custom">
+Teachers-in-charge </p>  
 
 
 
@@ -14,21 +24,24 @@ third_nav_title: Performing Arts
 |Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
 | Mdm K Suseila     | Member     | k_suseila@moe.edu.sg     |
 | Ms Cheong Shi Min     | Member     |cheong_shi_min@moe.edu.sg     |
+<br>
 
-
-
-### Instructors
+<p class="custom">
+Instructors </p>  
  
 *    Mr Pisit Piriyaporn
 *    Mr Sia Chee Hsiang Mickey
 *    Mr Nahli Bin Zakaria
+	<br><br>
 	
-	
-### Brass Band Committee 2023
+<p class="custom">
+Brass Band Committee 2023</p>  
 
 ![](/images/band%20leaders.JPG)
 
-### Introduction
+<br>
+<p class="custom">
+Introduction</p>  
 
 Our band was officially formed in January 2015. Over the years, we have performed in various school functions and other external events outside school, where we were given ample opportunities to perform in the public. 
 
@@ -36,8 +49,9 @@ Besides the continuous exposure for joy of learning and music-making, our band t
 
 
 As Poi Ching School Brass Band continue to grow in strength and spirit, we look forward to more good years of exceptional band standards, dedication and discipline in our band music-making and performance.
-
-### Training Schedule
+<br> <br>
+<p class="custom">
+Training Schedule</p>  
 
 
 Mondays: 2.00 pm to 5.00 pm<br>
@@ -46,9 +60,11 @@ Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
 **Venue:**
 Band Room (Level 7, Block E)
  
+<br> 
+<p class="custom">
+Band Attendance</p>  
 
 
-### Band Attendance
 
 Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. 
 
@@ -57,7 +73,9 @@ In the event of absences, request of early pickup or late arrival from CCA (with
 [Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
 
 
-### Accolades
+<br> 
+<p class="custom">
+Accolades</p>  
 
 SYF 2022 - Performance (participation without benchmark)
 
@@ -67,7 +85,9 @@ SYF 2016 – Certificate of Accomplishment
 
 SYF 2014 – Certificate of Accomplishment
 
-### Photo Gallery
+<br> 
+<p class="custom">
+Photo Gallery</p>  
 
 ### 2023
 
