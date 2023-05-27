@@ -69,7 +69,7 @@ SYF 2016 – Certificate of Accomplishment
 
 SYF 2014 – Certificate of Accomplishment
 
-### Photographs
+### Photo Gallery
 
 ### 2023
 
