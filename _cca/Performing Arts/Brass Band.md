@@ -28,8 +28,6 @@ third_nav_title: Performing Arts
 
 ![](/images/band%20leaders.JPG)
 
-![](/images/Badminton3.jpg)
-
 ### Introduction
 
 Our band was officially formed in January 2015. Over the years, we have performed in various school functions and other external events outside school, where we were given ample opportunities to perform in the public. 
