@@ -10,12 +10,12 @@ third_nav_title: Performing Arts
 
 | Name |  | Email |
 | -------- | -------- | -------- |
-| Miss Khoo Wee Wee    | OIC     | khoo_wee_wee@moe.edu.sg     |
+| Ms Khoo Wee Wee    | OIC     | khoo_wee_wee@moe.edu.sg     |
 | Mr Vincent Zheng    | 2IC     | zheng_xiaodong@moe.edu.sg     |
-| Miss Evelyn Leow    |      | leow_ling_ling@moe.edu.sg     |
-| Miss Lee Suk Fun    |      | lee_suk_fun@moe.edu.sg     |
-| Miss Yu Danning    |      | yu_danning@moe.edu.sg     |
-| Miss Zhang Shuying   |      | zhang_shuying@moe.edu.sg     |
+| Ms Evelyn Leow    | Member     | leow_ling_ling@moe.edu.sg     |
+| Ms Lee Suk Fun    |  Member    | lee_suk_fun@moe.edu.sg     |
+| Mdm Yu Danning    | Member     | yu_danning@moe.edu.sg     |
+| Mdm Zhang Shuying   |  Member    | zhang_shuying@moe.edu.sg     |
 
 
 
@@ -50,10 +50,19 @@ third_nav_title: Performing Arts
 
 ### Training Schedule 2023
 
-* Venue : CO Room (Blk E , level 1)
-* Mondays: 2 p.m. to 5 p.m.  (Combined)
-* Thursdays : 2 p.m. to 5 p.m. (Sectionals)
+* Mondays : 2 p.m. to 5 p.m.                                                                   
+P4 - P6 (Semsester 1)                                                                
+P3 - P5 (Semester 2) 
 
+``
+``
+* Thursdays : 2 p.m. to 5 p.m.                                                                   
+P3 - P6 (Semsester 1)                                                                
+P2 - P5 (Semester 2)
+
+`
+`
+* Venue: CO Room, Art Room 1 & 2
 
 ### Our CO Archives
 
