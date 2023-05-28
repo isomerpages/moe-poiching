@@ -15,9 +15,8 @@ Mdm Li Jiele    | Member     | li_jiele@moe.edu.sg     |
 
 ### Coach
 
-| Hua Yi Cultural Pte. Ltd. | 
-| ------ | 
-| Ma Shuanglu   |  
+**Hua Yi Cultural Pte. Ltd.** 
+* Ma Shuanglu
 
 
 
@@ -51,7 +50,7 @@ CL Modular Room
 
 **2023**
 
-*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
+*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni**
 |  |   |  |
 | -------- | -------- |  -------- | 
 |  **Name**  | **Class**  |**Award**  |
@@ -194,6 +193,3 @@ CL Modular Room
 * **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** <br> 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
 
 ![](/images/WhatsApp-Image-2020-11-13-at-13.jpg)
-
-
-
