@@ -64,7 +64,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 | Liang Shumiao |6J5    | Merit     |
 
-
 <br>
 
 **2021**
@@ -94,7 +93,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 |Quek Ruoqi Kelly  |4D    | Consolation   |
 
-
 <br>
 
 **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
@@ -122,7 +120,6 @@ CL Modular Room
 |Olivia Ler |5E    | Merit    |
 |Lin Tzu-Yu |6F    | Merit    |
 |Chang Zhi Han |6C    | Merit   |
-
 
 <br>
 
