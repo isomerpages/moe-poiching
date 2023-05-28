@@ -4,16 +4,7 @@ permalink: /cca/Performing-Arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<style type="text/css">
-.custom {
- font-family: Calibri; 
- color: #4176d3;
- font-size:35px;
- font-weight: 550;
-}
-</style> 
-
-<p class="custom"> Teachers-in-charge </p> <br> 
+### Teachers-in-charge
 
 | Name | Role | Email |
 | -------- | -------- | -------- |
@@ -23,36 +14,27 @@ third_nav_title: Performing Arts
 | Ms Cheong Shi Min  | Member     | cheong_shi_min@moe.edu.sg    | 
 
 
+### Instructors
 
-<br>
-
-
-<p class="custom">
-Instructors </p>  
  
 *    Mr Pisit Piriyaporn
 *    Mr Sia Chee Hsiang Mickey
 *    Mr Nahli Bin Zakaria
-	<br><br>
+
 	
-<p class="custom">
-Brass Band Committee 2023</p>  
+### CCA Leaders
 
 ![](/images/band%20leaders.JPG) 
 
-<br>
-<p class="custom">
-Introduction</p>  
-
+### Introduction
 Our band was officially formed in January 2015. Over the years, we have performed in various school functions and other external events outside school, where we were given ample opportunities to perform in the public. 
 
 Besides the continuous exposure for joy of learning and music-making, our band teachers have also emphasised on the importance of character development of our band members. We worked towards the importance of nurturing your child’s core values, social and emotional competencies and the emerging 21st&nbsp;Century Competencies. We value every band member’s contributions in his / her participation in the Band CCA, where they will gain invaluable exposure and experience in their route of music-making and musical development. We believe in the strong continuous partnership between the school, our stake-holders and our parents in ensuring our band members to contribute in their best for success in their CCA.
 
 
 As Poi Ching School Brass Band continue to grow in strength and spirit, we look forward to more good years of exceptional band standards, dedication and discipline in our band music-making and performance.
-<br> <br>
-<p class="custom">
-Training Schedule</p>  
+
+### Training Schedule
 
 
 Mondays: 2.00 pm to 5.00 pm<br>
@@ -61,22 +43,7 @@ Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
 **Venue:**
 Band Room (Level 7, Block E)
  
-<br> 
-<p class="custom">
-Band Attendance</p>  
-
-
-
-Please note that band attendance for all scheduled practices / performances is mandatory and important, as we emphasised on the importance of self-discipline and effort in every band member of our school. 
-
-In the event of absences, request of early pickup or late arrival from CCA (with valid reasons), a Parent’s / Guardian’s letter is required for submission to the Band Teacher OIC, Mdm Suryana. Subsequently, you may also notify via email. <br>
-
-[Email:&nbsp;[suryana_buang@moe.edu.sg](mailto:suryana_buang@moe.edu.sg)]
-
-
-<br> 
-<p class="custom">
-Accolades</p>  
+### Accolades
 
 SYF 2022 - Performance (participation without benchmark)
 
@@ -86,9 +53,7 @@ SYF 2016 – Certificate of Accomplishment
 
 SYF 2014 – Certificate of Accomplishment
 
-<br> 
-<p class="custom">
-Photo Gallery</p>  
+### Photo Gallery
 
 **2023**
 
