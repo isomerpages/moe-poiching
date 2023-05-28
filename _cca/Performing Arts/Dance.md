@@ -4,8 +4,6 @@ permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### Teachers-in-charge
 
 |Name | Role | Email |
@@ -28,16 +26,17 @@ Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 
 ### CCA Leaders
 
-
-
-
-| Column 1 | Column 2 | Column 3 |
+|Name | Class | Position     | 
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Ong Si Xuan, Charlotte    | 6J1     | Captain     |
+| Charmaine Ho     | 6J3     | Vice-Captain     |
+| Ong Min Hui    | 5L5     |Vice-Captain     |
+| Kezenn Chow    | 5L5    | Vice-Captain |    
+
+![](/images/dance%20leaders.PNG)
 
 
 
-![](/images/Dance%20CCA%20Leaders.png) 
 
 
 ### Introduction
