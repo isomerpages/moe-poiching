@@ -15,12 +15,17 @@ third_nav_title: Performing Arts
 
 <p class="custom"> Teachers-in-charge </p> <br> 
 
+| Name | Role | Email |
+| -------- | -------- | -------- |
+|Mdm Suryana Bte Buang   | OIC  | suryana_buang@moe.edu.sg      |
+|Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
+
 
 
 | Names| Roles| Email |
 | -------- | -------- | -------- |
 | Mdm Suryana Bte Buang    | OIC     | suryana_buang@moe.edu.sg 
-|Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
+
 | Mdm K Suseila     | Member     | k_suseila@moe.edu.sg     |
 | Ms Cheong Shi Min     | Member     |cheong_shi_min@moe.edu.sg     |
 <br>
