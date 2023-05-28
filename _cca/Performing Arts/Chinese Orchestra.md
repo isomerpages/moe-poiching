@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 
 
-| Name |  | Email |
+| Name | Role | Email |
 | -------- | -------- | -------- |
 | Ms Khoo Wee Wee    | OIC     | khoo_wee_wee@moe.edu.sg     |
 | Mr Vincent Zheng    | 2IC     | zheng_xiaodong@moe.edu.sg     |
@@ -66,8 +66,10 @@ third_nav_title: Performing Arts
  CO Room, Art Room 1 & 2
 
 
-### Coach 
-**Xian Yun** 
+### Coach
+
+|Xian Yun |
+| -------- |
 * Liu Zhiyue
 * Ji Huiming
 * Ong Jie Ying
@@ -75,7 +77,8 @@ third_nav_title: Performing Arts
 * Tan Manman
 * Zhang Tianyun
 * Huang Guifang
-* Tan Mo   
+* Tan Mo      | 
+
 
 ### Introduction
 
