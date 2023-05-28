@@ -17,6 +17,18 @@ third_nav_title: Performing Arts
 | Mdm Yu Danning    | Member     | yu_danning@moe.edu.sg     |
 | Mdm Zhang Shuying   |  Member    | zhang_shuying@moe.edu.sg     |
 
+### Coach
+
+|Xian Yun |
+| -------- |
+* Liu Zhiyue
+* Ji Huiming
+* Ong Jie Ying
+* Chang Le
+* Tan Manman
+* Zhang Tianyun
+* Huang Guifang
+* Tan Mo      
 
 ### Student Leadership
 **Chinese Orchestra EXCO 2022-2023**
@@ -51,6 +63,15 @@ third_nav_title: Performing Arts
 |Neo Zaeden | 5L6    |  Sectional Leader |Di Zi   |
 
 
+### Introduction
+
+Poi Ching School Chinese Orchestra (PCSCO) is a platform for students who have passion and interest in Chinese instruments to showcase their talents.
+
+PCSCO will continue to cultivate the love for Chinese instruments in our members and allow our students to gain experiences and exposure by encouraging participation in performances within and outside school. Modesty, integrity, loyalty and excellence are the core values for all to practise during CCA and in their daily lives. These are encouraged in the group and passed on from the student leaders to the members.
+
+2018 is an exciting year for us. Before the Singapore Youth Festival Arts Presentation (SYF AP), we brought our pupils out to watch Concert-in-Progress by the Singapore Chinese Orchestra and our students get to interact with the esteemed conductor, Mr Quek Ling Kiong. They get to know more about Chinese Orchestra and this motivated the students to pursue for excellence in perfecting their skills. We took part in the SYF AP in April and we obtained Certificate of Distinction. After the SA1, we had a public performance at the Golden Mile Theatre and it was a great success.
+
+Poi Ching School Chinese Orchestra has been growing and improving over time. We hope to have continued support from everyone and let our members have a great time in training and perfecting their art.
 
 ### Training Schedule 
 
@@ -64,31 +85,6 @@ third_nav_title: Performing Arts
 
 **Venue:**
  CO Room, Art Room 1 & 2
-
-
-### Coach
-
-|Xian Yun |
-| -------- |
-* Liu Zhiyue
-* Ji Huiming
-* Ong Jie Ying
-* Chang Le
-* Tan Manman
-* Zhang Tianyun
-* Huang Guifang
-* Tan Mo      | 
-
-
-### Introduction
-
-Poi Ching School Chinese Orchestra (PCSCO) is a platform for students who have passion and interest in Chinese instruments to showcase their talents.
-
-PCSCO will continue to cultivate the love for Chinese instruments in our members and allow our students to gain experiences and exposure by encouraging participation in performances within and outside school. Modesty, integrity, loyalty and excellence are the core values for all to practise during CCA and in their daily lives. These are encouraged in the group and passed on from the student leaders to the members.
-
-2018 is an exciting year for us. Before the Singapore Youth Festival Arts Presentation (SYF AP), we brought our pupils out to watch Concert-in-Progress by the Singapore Chinese Orchestra and our students get to interact with the esteemed conductor, Mr Quek Ling Kiong. They get to know more about Chinese Orchestra and this motivated the students to pursue for excellence in perfecting their skills. We took part in the SYF AP in April and we obtained Certificate of Distinction. After the SA1, we had a public performance at the Golden Mile Theatre and it was a great success.
-
-Poi Ching School Chinese Orchestra has been growing and improving over time. We hope to have continued support from everyone and let our members have a great time in training and perfecting their art.
 
 ### Accolades
 
