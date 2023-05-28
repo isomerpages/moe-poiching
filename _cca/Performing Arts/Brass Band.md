@@ -24,7 +24,30 @@ third_nav_title: Performing Arts
 	
 ### CCA Leaders
 
-![](/images/band%20leaders.JPG) 
+|Name | Class | Position     | 
+| -------- | -------- | -------- |
+|Tan Xin Ling Eunice     | 6J2     | Band Major    |
+| Tan Ee Sin Egin    | 6J3     | Asst Band Major     |
+
+
+
+**Brass Band   Section Leaders** 
+
+| Name | Class | Position | Section |
+| -------- | -------- | -------- |-------- |
+| Yong Siew Lee Hannah  | 6J2     | Section Leader  |Cornet
+| Tay Si Ting   | 6J5    |  Asst Section Leader | Cornet  |
+|Cha Ke  Ying, Katie  | 6J6     | Section Leader |Trombone
+| Seow Ding Ye    | 6J5    |  Asst Section Leader |Trombone
+|He Tian Rui Tyrael    | 6J3  |  Section Leader | Tuba   |
+| Clovis Ngo En Xu   | 6J4   | Asst Section Leader | Tuba   |
+| Chai Hong En Gabriel  | 6J1|  Section Leader  | Horn   |
+|Andre Lee Yan Cheng | 6J2    |  Asst Section Leader | Horn   |
+|Hoo Yu Ling, Eeleen |6J4   | Section Leader |Baritone / Euphonium   |
+|Elijah Seah Kheng Ngee | 6J5  |  Asst Section Leader |Baritone / Euphonium
+|Tan Wei En, Theodore | 6J3  |  Section Leader | Percussion   |
+|Edith Er Si En | 6J2 |  Asst Section Leader   |Percussion   |
+
 
 ### Introduction
 Our band was officially formed in January 2015. Over the years, we have performed in various school functions and other external events outside school, where we were given ample opportunities to perform in the public. 
