@@ -52,19 +52,19 @@ CL Modular Room
 **2023**
 
 *  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Liang Shumiao (6J5)    | 2nd place in A group    |
+|  |   |  |
+| -------- | -------- |  -------- | 
+|  **Name**  | **Class**  |**Award**  |
+|Liang Shumiao |6J5    | 2nd place in A group    |
 
 `
 `
 
 * **Ngee Ann National Students' Calligraphy Competition organised by  Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi**
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Liang Shumiao (6J5)    | Merit    |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Liang Shumiao |6J5    | Merit    |
 
 
 **2021**
@@ -72,47 +72,47 @@ CL Modular Room
 
 * **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Hu Jia Rui Felix (5E)    | Merit    |
-|Yap Xue Ping Lerin (5E)    | Merit    |
-|Li Jingxi Jessie (3E)    | Consolation   |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Hu Jia Rui Felix |5E    | Merit    |
+|Yap Xue Ping Lerin |5E   | Merit    |
+|Li Jingxi Jessie |3E    | Consolation   |
 
 `
 `
 
 * **32th National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Liang Shumiao (4E)    | Merit    |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Liang Shumiao |4E    | Merit    |
 
 `
 `
 
 * **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Quek Ruoqi Kelly(4D)    | Consolation   |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Quek Ruoqi Kelly  |4D    | Consolation   |
 
 
 `
 `
 
 *  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Javier Leow Jun Hao (4C)    | Merit    |
-|Beverly Lim Si Ting (4E)    | Merit    |
-|Liang Shumiao (4E)    | Merit    |
-|Hu Jia Rui Felix (5E)    | Merit    |
-|Li Mingni (5E)    | Merit    |
-|Lo Jing Man Charlotte (2E)    | Consolation    |
-|Seah Jia Xin (4D)    | Consolation    |
-|Tong Wing Shi (6G)    | Consolation    |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Javier Leow Jun Hao |4C    | Merit    |
+|Beverly Lim Si Ting |4E    | Merit    |
+|Liang Shumiao |4E   | Merit    |
+|Hu Jia Rui Felix |5E    | Merit    |
+|Li Mingni |5E    | Merit    |
+|Lo Jing Man Charlotte |2E    | Consolation    |
+|Seah Jia Xin |4D   | Consolation    |
+|Tong Wing Shi |6G    | Consolation    |
 
 
 **2020**
@@ -120,50 +120,67 @@ CL Modular Room
 
 * **9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Olivia Ler (5E)    | Merit    |
-|Lin Tzu-Yu (6F)    | Merit    |
-|Chang Zhi Han (6C)    | Merit   |
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Olivia Ler |5E    | Merit    |
+|Lin Tzu-Yu |6F    | Merit    |
+|Chang Zhi Han |6C    | Merit   |
 
 
 `
 `
 
-* **32th National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Liang Shumiao (4E)    | Merit    |
+* **31st National Schools Chinese Calligraphy Competition**<br>第三十一届全国学生书法比赛
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Lin Tzu-Yu |6F    | Merit    |
+|Claudia Goh Zhe Min |6F    | Merit    |
+|Yong Siew Hwee Esther |6F    | Merit    |
 
 `
 `
 
-* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Quek Ruoqi Kelly(4D)    | Consolation   |
+* **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** <br> 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Claudia Goh Zhe Min|6F    | Merit   |
+|Lin Tzu-Yu |6F    | Merit   |
 
 
 `
 `
 
-*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
-|  |   |
-| -------- | -------- | 
-|  **Name**| **Award**  |
-|Javier Leow Jun Hao (4C)    | Merit    |
-|Beverly Lim Si Ting (4E)    | Merit    |
-|Liang Shumiao (4E)    | Merit    |
-|Hu Jia Rui Felix (5E)    | Merit    |
-|Li Mingni (5E)    | Merit    |
-|Lo Jing Man Charlotte (2E)    | Consolation    |
-|Seah Jia Xin (4D)    | Consolation    |
-|Tong Wing Shi (6G)    | Consolation    |
+**2019**
 
+* **Punggol North Calligraphy Competition (年榜鹅北书法公开比赛)organised by&nbsp;Punggol North Active Ageing Committee** 
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Rainie Ong Shan Shan |6G    | Merit   |
+|Lin Tzu-Yu |5F    | Merit   |
 
+`
+`
+
+* **8th National Chinese&nbsp;Calligraphy&nbsp;Competition&nbsp; ( 第八届全国书法比赛&nbsp;)&nbsp;,&nbsp;organised by&nbsp;Poi Ching School,&nbsp;together with&nbsp;Futsing Association** 
+|  |   ||
+| -------- | -------- |  -------- | 
+|  **Name**| **Class**  |**Award**  |
+|Chua Fei Fei    | 6I   |Merit   |
+|Chang Zhi Han |5C   |Merit   |
+|Olivia Ler |5D   |Merit   |
+Claudia Goh Zhe Min |5F   |Merit   |
+Rainie Ong Shan Shan |6G   |Consolation   |
+Liu Tzu-Yu |5F   |Consolation   |
+Yong Siew Hwee Esther |5F   |Consolation   |
+Tong Wing Shi |4H   |Consolation   |
+`
+`
+
+* **On 7th&nbsp;July 2019 (Sunday),&nbsp;6G Rainie Ong Shan Shan won&nbsp;the&nbsp;Consolation&nbsp;Award in&nbsp;4th Sing Chu National Student Chinese Calligraphy Competition 2019 (&nbsp;2019年第四届“星衢墨艺”全国中小学书法比赛)&nbsp;organised by Chou Sing Chu Foundation.
 
 2021
 ![](/images/10th-National-Chinese-Caligraphy-1024x768.jpg)
@@ -182,55 +199,32 @@ CL Modular Room
 
 **2020**
 
-9h National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School
-
-第九届全国中、小学书法比赛《翰墨逸香迎国庆》
-
-培青学校与福清会馆联办
-
-3 merit award
-
+9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School
 
 ![](/images/WhatsApp-Image-2020-11-13.jpg)
 
-31th National Schools Chinese Calligraphy Competition 第三十一届全国学生书法比赛
+31st National Schools Chinese Calligraphy Competition 第三十一届全国学生书法比赛
 
-3 merit award
-
-林子瑜LIN TZU-YU (6F) 吴哲敏 CLAUDIA GOH ZHE MIN (6F) 杨秀慧 YONG SIEW HWEE ESTHER (6F)
 
 ![](/images/WhatsApp-Image-2020-11-13-.jpg)
 
 2020 Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools 2020 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
-
-2 merit award 吴哲敏 CLAUDIA GOH ZHE MIN (6F) 林子瑜LIN TZU-YU (6F)
 
 ![](/images/WhatsApp-Image-2020-11-13-at-13.jpg)
 
 **2019**
 
 
-On Sunday, 29&nbsp;Sept&nbsp;2019,&nbsp;**Rainie Ong Shan Shan (6G)**&nbsp;and&nbsp;**Lin Tzu-Yu (5F)**&nbsp;won&nbsp;the&nbsp;Merit&nbsp;Award in&nbsp;the Punggol North Calligraphy Competition 2019&nbsp;(&nbsp;**2019**&nbsp;**年榜鹅北书法公开比赛**),&nbsp;organised by&nbsp;Punggol North Active Ageing Committee.
+Punggol North Calligraphy Competition 2019&nbsp;(&nbsp;**2019**&nbsp;**年榜鹅北书法公开比赛**),&nbsp;organised by&nbsp;Punggol North Active Ageing Committee.
 
 ![](/images/winner-1350x1389.jpg)
 
-On Friday, 19 July 2019, 9 of our students have won award in 8th National Chinese&nbsp;Calligraphy&nbsp;Competition&nbsp;2019 ( 第八届全国书法比赛&nbsp;)&nbsp;,&nbsp;organised by&nbsp;Poi Ching School,&nbsp;together with&nbsp;Futsing Association.
+8th National Chinese&nbsp;Calligraphy&nbsp;Competition&nbsp;( 第八届全国书法比赛&nbsp;)&nbsp;,&nbsp;organised by&nbsp;Poi Ching School,&nbsp;together with&nbsp;Futsing Association.
 
-4 merit award
-
-蔡霏霏 CHUA FEI FEI (6I)
-
-张智翰 CHANG ZHI HAN (5C) 吕恩惠 OLIVIA LER (5D) 吴哲敏 CLAUDIA GOH ZHE MIN (5F)
-
-5 consolation&nbsp;award
-
-罗凯熙 LOH HOI HEI DAVID&nbsp; (6F)
-
-王姗姗 RAINIE ONG SHAN SHAN (6G) 林子瑜 LIN TZU-YU (5F) 杨秀慧 YONG SIEW HWEE ESTHER (5F) 唐穎詩 TONG WING SHI (4H)
 
 ![](/images/chinese-award-2019-1350x1188.jpg)
 
-**On 7th&nbsp;July 2019 (Sunday),&nbsp;6G Rainie Ong Shan Shan won&nbsp;the&nbsp;Consolation&nbsp;Award in&nbsp;4th Sing Chu National Student Chinese Calligraphy Competition 2019 (&nbsp;2019年第四届“星衢墨艺”全国中小学书法比赛)&nbsp;organised by Chou Sing Chu Foundation.
+4th Sing Chu National Student Chinese Calligraphy Competition 2019 (&nbsp;2019年第四届“星衢墨艺”全国中小学书法比赛)&nbsp;organised by Chou Sing Chu Foundation.
 
 ![](/images/cal1_july.jpg)
 
