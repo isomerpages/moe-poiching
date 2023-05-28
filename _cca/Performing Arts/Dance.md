@@ -21,8 +21,8 @@ Ms Hsu Tzu Chun  | Member <br>(IC - P5 Dancers)   | hsu_tzu_chun@moe.edu.sg |
 ### Coach
 
 
-| Kym Rythemic Pte. Ltd. | 
-| -------- | 
+** Kym Rythemic Pte. Ltd. **
+
 * Lu Wei
 * Meng Qun
 * Liu Hui
