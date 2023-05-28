@@ -65,6 +65,7 @@ CL Modular Room
 | Liang Shumiao |6J5    | Merit     |
 
 
+<br>
 
 **2021**
 
@@ -115,7 +116,7 @@ CL Modular Room
 **2020**
 
 
-**9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
+**9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
 
 |  Name| Class   |Award |
@@ -163,7 +164,7 @@ CL Modular Room
 ![](/images/cali2021-2-1024x888.jpg)
 <br> 
 
-* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
+* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)** <br> (第一届 N 立方全国书法大赛元墨启行)<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
 ![](/images/cali2021-1-1024x888.jpg)
 <br>
 
