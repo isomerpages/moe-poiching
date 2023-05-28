@@ -19,8 +19,7 @@ third_nav_title: Performing Arts
 
 ### Coach
 
-|Xian Yun |
-| -------- |
+**Xian Yun**
 * Liu Zhiyue
 * Ji Huiming
 * Ong Jie Ying
@@ -30,7 +29,7 @@ third_nav_title: Performing Arts
 * Huang Guifang
 * Tan Mo      
 
-### Student Leadership
+### CCA Leaders
 **Chinese Orchestra EXCO 2022-2023**
 
 |Name | Class | Position     | 
