@@ -13,14 +13,6 @@ third_nav_title: Performing Arts
 Mdm Li Jiele    | Member     | li_jiele@moe.edu.sg     | 
  
 
-### Training Schedule
-
-Mondays: 2.00 pm to 4.00 pm
-
-**Venue:**
-CL Modular Room
-<br>
-
 ### Coach
 
 | Hua Yi Cultural Pte. Ltd. | 
@@ -47,8 +39,35 @@ Each year, we send members to various competitions organized by Chinese Calligra
 
 The club also sent students’ calligraphy works to participate in exhibitions so as to provide students with more avenues to appreciate calligraphy. Students’ achievements are definitely something that the club takes pride in.
 
-### Accolades for 2021
+### Training Schedule
 
+Mondays: 2.00 pm to 4.00 pm
+
+**Venue:**
+CL Modular Room
+<br>
+
+### Accolades 
+
+**2023**
+
+*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Liang Shumiao (6J5)    | 2nd place in A group    |
+
+`
+`
+
+* **Ngee Ann National Students' Calligraphy Competition organised by  Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi**
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Liang Shumiao (6J5)    | Merit    |
+
+
+**2021**
 
 10h National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School
 
@@ -105,7 +124,7 @@ P6G&nbsp;TONG WING SHI&nbsp;唐颖诗
 
 ![](/images/WhatsApp-Image.jpg)
 
-### Accolades for 2020
+**2020**
 
 9h National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School
 
@@ -133,7 +152,7 @@ P6G&nbsp;TONG WING SHI&nbsp;唐颖诗
 
 ![](/images/WhatsApp-Image-2020-11-13-at-13.jpg)
 
-### Accolades for 2019
+**2019**
 
 
 On Sunday, 29&nbsp;Sept&nbsp;2019,&nbsp;**Rainie Ong Shan Shan (6G)**&nbsp;and&nbsp;**Lin Tzu-Yu (5F)**&nbsp;won&nbsp;the&nbsp;Merit&nbsp;Award in&nbsp;the Punggol North Calligraphy Competition 2019&nbsp;(&nbsp;**2019**&nbsp;**年榜鹅北书法公开比赛**),&nbsp;organised by&nbsp;Punggol North Active Ageing Committee.
