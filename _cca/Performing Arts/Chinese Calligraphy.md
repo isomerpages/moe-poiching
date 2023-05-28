@@ -70,8 +70,7 @@ CL Modular Room
 **2021**
 
 
-**10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School**  第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
-培青学校与福清会馆联办
+**10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School**  第十届全国中、小学书法比赛《翰墨逸香迎国庆》  培青学校与福清会馆联办
 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
@@ -116,8 +115,7 @@ CL Modular Room
 **2020**
 
 
-**9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
-培青学校与福清会馆联办
+**9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》培青学校与福清会馆联办
 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
@@ -128,7 +126,7 @@ CL Modular Room
 
 <br>
 
-**31st National Schools Chinese Calligraphy Competition**<br>第三十一届全国学生书法比赛
+**31st National Schools Chinese Calligraphy Competition**第三十一届全国学生书法比赛
 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
@@ -138,7 +136,7 @@ CL Modular Room
 
 <br>
 
-**Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** <br> 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
+**Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools**  年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
@@ -155,7 +153,7 @@ CL Modular Room
 ![](/images/calligraphy%202.PNG)
 
 **2021**
-* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
+* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
 ![](/images/10th-National-Chinese-Caligraphy-1024x768.jpg)
 <br>
@@ -185,6 +183,6 @@ CL Modular Room
 ![](/images/WhatsApp-Image-2020-11-13-.jpg)
 <br>
 
-* **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** <br> 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
+* **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
 
 ![](/images/WhatsApp-Image-2020-11-13-at-13.jpg)
