@@ -43,8 +43,8 @@ In Poi Ching Dance, we can be ourselves.
 ### Training Schedules
 
 
-Mondays: 2pm – 4.30pm <br>
-Thursdays:&nbsp; 2pm – 4.30pm <br>
+Mondays: 2.00 pm to 4.30 pm <br>
+Thursdays:&nbsp; 2.00 pm to 4.30 pm <br>
 
 **Venue:**
 Dance Room / PAL Room
