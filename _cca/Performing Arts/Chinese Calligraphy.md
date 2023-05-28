@@ -69,58 +69,114 @@ CL Modular Room
 
 **2021**
 
-10h National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School
 
-第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
+* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Hu Jia Rui Felix (5E)    | Merit    |
+|Yap Xue Ping Lerin (5E)    | Merit    |
+|Li Jingxi Jessie (3E)    | Consolation   |
 
-Merit Award: 优胜奖：  
-胡佳瑞 HU JIA RUI FELIX (5E)  
-叶雪萍 YAP XUE PING LERIN (5E)
+`
+`
 
-Consolation Award: 安慰奖：  
-李静熙 LI JINGXI JESSIE (3E)
+* **32th National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Liang Shumiao (4E)    | Merit    |
 
+`
+`
+
+* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Quek Ruoqi Kelly(4D)    | Consolation   |
+
+
+`
+`
+
+*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Javier Leow Jun Hao (4C)    | Merit    |
+|Beverly Lim Si Ting (4E)    | Merit    |
+|Liang Shumiao (4E)    | Merit    |
+|Hu Jia Rui Felix (5E)    | Merit    |
+|Li Mingni (5E)    | Merit    |
+|Lo Jing Man Charlotte (2E)    | Consolation    |
+|Seah Jia Xin (4D)    | Consolation    |
+|Tong Wing Shi (6G)    | Consolation    |
+
+
+**2020**
+
+
+* **9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
+培青学校与福清会馆联办
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Olivia Ler (5E)    | Merit    |
+|Lin Tzu-Yu (6F)    | Merit    |
+|Chang Zhi Han (6C)    | Merit   |
+
+
+`
+`
+
+* **32th National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Liang Shumiao (4E)    | Merit    |
+
+`
+`
+
+* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Quek Ruoqi Kelly(4D)    | Consolation   |
+
+
+`
+`
+
+*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
+|  |   |
+| -------- | -------- | 
+|  **Name**| **Award**  |
+|Javier Leow Jun Hao (4C)    | Merit    |
+|Beverly Lim Si Ting (4E)    | Merit    |
+|Liang Shumiao (4E)    | Merit    |
+|Hu Jia Rui Felix (5E)    | Merit    |
+|Li Mingni (5E)    | Merit    |
+|Lo Jing Man Charlotte (2E)    | Consolation    |
+|Seah Jia Xin (4D)    | Consolation    |
+|Tong Wing Shi (6G)    | Consolation    |
+
+
+
+2021
 ![](/images/10th-National-Chinese-Caligraphy-1024x768.jpg)
 
-32th National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;
-
-Merit Award: 优胜奖：  
-P4E LIANG SHUMIAO 梁舒淼
 
 ![](/images/cali2021-2-1024x888.jpg)
 
-N Cube National Chinese Calligraphy Competition 2021 (Inkception)  
-(第一届 N 立方全国书法大赛元墨启行)Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
 
-Consolation Award: 鼓励奖：  
-P4D QUEK RUOQI KELLY 郭若绮
 
 ![](/images/cali2021-1-1024x888.jpg)
 
-Eight of our students have won the National Chinese Calligraphy Competition 2021 (2021年全国小学生挥春比赛）organized by Hong Wen School &amp; Hong Wen Alumni.
 
-Congratulations to the following students:
 
-Merit Prize:
-
-P4C&nbsp;JAVIER LEOW JUN HAO&nbsp;廖俊皓
-
-P4E Beverly Lim Si Ting&nbsp; 林思廷
-
-P4E&nbsp;LIANG SHUMIAO&nbsp;梁舒淼
-
-P5E&nbsp;HU JIA RUI FELIX&nbsp;胡佳瑞
-
-P5E&nbsp;LI MINGNI&nbsp;李铭倪
-
-Consolation Prize：
-
-P2E&nbsp;LO JING MAN CHARLOTTE&nbsp; 盧靖文
-
-P4D&nbsp;SEAH JIA XIN CLAIRE&nbsp;佘佳芯&nbsp;
-
-P6G&nbsp;TONG WING SHI&nbsp;唐颖诗
 
 ![](/images/WhatsApp-Image.jpg)
 
@@ -134,7 +190,6 @@ P6G&nbsp;TONG WING SHI&nbsp;唐颖诗
 
 3 merit award
 
-吕恩惠Olivia Ler (6D) 林子瑜LIN TZU-YU (6F) 张智瀚CHANG ZHI HAN (6C)
 
 ![](/images/WhatsApp-Image-2020-11-13.jpg)
 
