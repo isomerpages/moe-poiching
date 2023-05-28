@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 
 
 
-| Teachers | Role | Email |
+|Name | Role | Email |
 | -------- | -------- | -------- |
 | Mdm Wong Wenna     | OIC |  wong_wenna@moe.edu.sg |
 | Ms Ivy Wong Ye Shuang      | Member <br>(IC -P2 Dancers)    | wong_ye_shuang_ivy@moe.edu.sg |
