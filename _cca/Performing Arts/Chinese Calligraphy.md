@@ -69,7 +69,7 @@ CL Modular Room
 **2021**
 
 
-**10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
+**10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School**  第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
 
 |  Name| Class   |Award |
