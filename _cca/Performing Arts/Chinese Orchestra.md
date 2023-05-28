@@ -40,26 +40,26 @@ third_nav_title: Performing Arts
 | Ho Hui Wen    | 4P2    | Asst Vice-Captain 2      |
 
 
-**Chinese Orchestra  Sectional Leaders** 
+**Chinese Orchestra  Section Leaders** 
 
 | Name | Class | Position | Section |
 | -------- | -------- | -------- |-------- |
-| Serin Chua Si Ki   | 6J5     | Sectional Leader  |Yang Qin (Semester 1)
-| Tan Xuannyn    | 6J3    |  Asst Sectional Leader | Yang Qin (Semester 1)   |
-|Kayden Lim En Xu  | 5L6     | Sectional Leader |Yang Qin (Semester 2)
-| Liu Yilin, Eeleen    | 4P1    |  Asst Sectional Leader |Yang Qin (Semester 2)   |
-|Lim Zhu Xuan Kaydia    | 5L1    |  Sectional Leader | Er Hu   |
-| Ang Kai Xuan Jayee   | 4P2   | Asst Sectional Leader 1 | Er Hu   |
-| Voon Ya Qi  | 4P3   |  Asst Sectional Leader 2 | Er Hu   |
-|Emsley Poh Hwan Ki  | 5L5    |  Sectional Leader | Tan Bo Yu   |
-|Lee Si Ying  | 4P1    |  Asst Sectional Leader |Tan Bo Yue   |
-|Evelyn Tan Zi Lin  | 5L1   |  Sectional Leader |Cello & Double Bass   |
-|Lee Jun Yue Emmanuel  | 5L4   |  Asst Sectional Leader |Cello & Double Bass   |
-|Jacob Choo Yu Ming | 6J6    |  Sectional Leader | Percussion   |
-|Khow You Rui | 4P1  |  Asst Sectional Leader 1  |Percussion   |
-|Lee Qin Zhen, Alyson | 4P4  |  Asst Sectional Leader 2 |Percussion   |
-|Lai Siyuan Henry | 5L3   |  Sectional Leader |Guan Yue   |
-|Neo Zaeden | 5L6    |  Sectional Leader |Di Zi   |
+| Serin Chua Si Ki   | 6J5     | Section Leader  |Yang Qin (Semester 1)
+| Tan Xuannyn    | 6J3    |  Asst Section Leader | Yang Qin (Semester 1)   |
+|Kayden Lim En Xu  | 5L6     | Section Leader |Yang Qin (Semester 2)
+| Liu Yilin, Eeleen    | 4P1    |  Asst Section Leader |Yang Qin (Semester 2)   |
+|Lim Zhu Xuan Kaydia    | 5L1    |  Section Leader | Er Hu   |
+| Ang Kai Xuan Jayee   | 4P2   | Asst Section Leader 1 | Er Hu   |
+| Voon Ya Qi  | 4P3   |  Asst Section Leader 2 | Er Hu   |
+|Emsley Poh Hwan Ki  | 5L5    |  Section Leader | Tan Bo Yu   |
+|Lee Si Ying  | 4P1    |  Asst Section Leader |Tan Bo Yue   |
+|Evelyn Tan Zi Lin  | 5L1   |  Section Leader |Cello & Double Bass   |
+|Lee Jun Yue Emmanuel  | 5L4   |  Asst Section Leader |Cello & Double Bass   |
+|Jacob Choo Yu Ming | 6J6    |  Section Leader | Percussion   |
+|Khow You Rui | 4P1  |  Asst Section Leader 1  |Percussion   |
+|Lee Qin Zhen, Alyson | 4P4  |  Asst Section Leader 2 |Percussion   |
+|Lai Siyuan Henry | 5L3   |  Section Leader |Guan Yue   |
+|Neo Zaeden | 5L6    |  Section Leader |Di Zi   |
 
 
 ### Introduction
