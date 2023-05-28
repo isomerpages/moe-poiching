@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
 * Tan Mo      
 
 ### CCA Leaders
-**Chinese Orchestra EXCO 2022-2023**
+
 
 |Name | Class | Position     | 
 | -------- | -------- | -------- |
