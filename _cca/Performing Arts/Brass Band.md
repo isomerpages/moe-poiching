@@ -14,7 +14,7 @@ third_nav_title: Performing Arts
 </style> 
 
 <p class="custom">
-Teachers-in-charge </p>  
+Teachers-in-charge </p> <br> 
 
 
 
