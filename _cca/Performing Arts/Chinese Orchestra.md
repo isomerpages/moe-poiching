@@ -77,9 +77,9 @@ Poi Ching School Chinese Orchestra has been growing and improving over time. We 
 
 |Day| Time | Primary| 
 |-----|----|------|
-|Monday|2-5pm |P4 - P6 (Semester 1)|
+|Monday|2.00 pm to 5.00 pm |P4 - P6 (Semester 1)|
 || |P3 - P5 (Semester 2)|
-|Thursday|2-5pm |P3- P6 (Semester 1)|
+|Thursday|2.00 pm to 5.00 pm |P3- P6 (Semester 1)|
 || |P2 - P5 (Semester 2)|
 
 **Venue:**
