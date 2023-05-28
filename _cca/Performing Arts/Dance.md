@@ -18,6 +18,19 @@ third_nav_title: Performing Arts
 |  Ms Janice Chuan Jia En     | Member <br>(IC - P4 Dancers)   | janice_chuan_jia_en@moe.edu.sg | 
 Ms Hsu Tzu Chun  | Member <br>(IC - P5 Dancers)   | hsu_tzu_chun@moe.edu.sg |
 
+### Coach
+
+| Kym Rythemic Pte. Ltd. | 
+| ------ |
+| Lu Wei
+Meng Qun
+Liu Hui|
+
+
+### Student Leadership
+
+![](/images/Dance%20CCA%20Leaders.png) 
+
 
 ### Introduction
 
@@ -33,7 +46,8 @@ In Poi Ching Dance, we can be ourselves.
 
 Mondays: 2pm – 4.30pm <br>
 Thursdays:&nbsp; 2pm – 4.30pm <br>
-Venue: 
+
+**Venue:**
 Dance Room / PAL Room
 
 
@@ -45,18 +59,7 @@ Dance Room / PAL Room
 [2023 Dance CCA June and Term 3 Schedule]()
 
 
-### Coach
 
-| Kym Rythemic Pte. Ltd. | 
-| ------ |
-| Lu Wei
-Meng Qun
-Liu Hui|
-
-
-### Student Leadership
-
-![](/images/Dance%20CCA%20Leaders.png) 
 
 ### Direct School Admission (DSA)
 
