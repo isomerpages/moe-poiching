@@ -52,8 +52,6 @@ CL Modular Room
 
 **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** 
 
-
-
 | Name | Class  |Award |
 | -------- | -------- | -------- |
  Liang Shumiao |6J5    | 2nd place in Group A
@@ -61,7 +59,6 @@ CL Modular Room
 <br>
 
 **Ngee Ann National Students' Calligraphy Competition organised by  Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi**<br>
-
 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
@@ -74,6 +71,7 @@ CL Modular Room
 
 **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Hu Jia Rui Felix |5E    | Merit    |
@@ -83,6 +81,7 @@ CL Modular Room
 <br>
 
  **32nd National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
+ 
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Liang Shumiao |4E    | Merit    |
@@ -90,6 +89,7 @@ CL Modular Room
 <br>
 
 **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Quek Ruoqi Kelly  |4D    | Consolation   |
@@ -98,6 +98,7 @@ CL Modular Room
 <br>
 
 **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Javier Leow Jun Hao |4C    | Merit    |
@@ -116,6 +117,7 @@ CL Modular Room
 
 **9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** <br> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
 培青学校与福清会馆联办
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Olivia Ler |5E    | Merit    |
@@ -126,6 +128,7 @@ CL Modular Room
 <br>
 
 **31st National Schools Chinese Calligraphy Competition**<br>第三十一届全国学生书法比赛
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Lin Tzu-Yu |6F    | Merit    |
@@ -135,6 +138,7 @@ CL Modular Room
 <br>
 
 **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** <br> 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
+
 |  Name| Class   |Award |
 | -------- | -------- | -------- |
 |Claudia Goh Zhe Min|6F    | Merit   |
