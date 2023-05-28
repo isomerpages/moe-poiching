@@ -10,13 +10,13 @@ third_nav_title: Performing Arts
 
 
 
-| Teachers | Roles | Email |
+| Teachers | Role | Email |
 | -------- | -------- | -------- |
-| Mdm Wong Wenna     | OIC    | wong_wenna@moe.edu.sg |
-| Ms Ivy Wong Ye Shuang      | Member    | wong_ye_shuang_ivy@moe.edu.sg |
-|  Ms Janice Chuan Jia En     | Member    | janice_chuan_jia_en@moe.edu.sg |
-|  Mrs Melissa Gomes     | Member    | melissa_hoeden@moe.edu.sg |
-|  Ms Hsu Tzu Chun     | Member    | hsu_tzu_chun@moe.edu.sg |
+| Mdm Wong Wenna     | OIC |  wong_wenna@moe.edu.sg |
+| Ms Ivy Wong Ye Shuang      | Member <br>(IC -P2 Dancers)    | wong_ye_shuang_ivy@moe.edu.sg |
+|  Mrs Melissa Gomes     | Member <br>(IC - P3 Dancers) | melissa_hoeden@moe.edu.sg |
+|  Ms Janice Chuan Jia En     | Member <br>(IC - P4 Dancers)   | janice_chuan_jia_en@moe.edu.sg | 
+Ms Hsu Tzu Chun  | Member <br>(IC - P5 Dancers)   | hsu_tzu_chun@moe.edu.sg |
 
 
 ### Introduction
@@ -33,7 +33,8 @@ In Poi Ching Dance, we can be ourselves.
 
 Mondays: 2pm – 4.30pm <br>
 Thursdays:&nbsp; 2pm – 4.30pm <br>
-Venue: Dance Room / PAL Room
+Venue: 
+Dance Room / PAL Room
 
 
 
@@ -51,27 +52,6 @@ Venue: Dance Room / PAL Room
 | Lu Wei
 Meng Qun
 Liu Hui|
-
-
-
-### Dance Teachers’ Duty List
-
-P2 Dancers – Ms Ivy Wong <br>
-P3 Dancers – Mrs Melissa Gomes <br>
-P4 Dancers – Ms Janice Chuan <br>
-P5 Dancers – Ms Hsu Tzu Chun<br>
-
-
-| | | Teacher-in-charge |
-| -------- | -------- | -------- |
-| Dance Trainings  |   | Mdm Wenna Wong|
-| Leadership Matters  |   | Ms Ivy Wong|
-| P6 DSA |   | Mrs Melisa Gomes|
-| Dance Essentials Purchase |   | Ms Janice Chuan|
-| CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
-| Cosmetics &amp; Makeup |   | Ms Ivy Wong|
-| Dance Noticeboard |   |Mrs Melissa Gomes|
-| Social Media Platforms  |   | Ms Janice Chuan|
 
 
 ### Student Leadership
