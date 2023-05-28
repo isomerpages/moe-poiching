@@ -23,17 +23,9 @@ Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 * Meng Qun
 * Liu Hui
 
+<br>
 
-### CCA Leaders
-
-|Name | Class | Position     | 
-| -------- | -------- | -------- |
-| Ong Si Xuan, Charlotte    | 6J1     | Captain     |
-| Charmaine Ho     | 6J3     | Vice-Captain     |
-| Ong Min Hui    | 5L5     |Vice-Captain     |
-| Kezenn Chow    | 5L5    | Vice-Captain |    
-
-![](/images/dance%20leaders.PNG)
+![](/images/Dance%20CCA%20Leaders.png)
 
 
 
