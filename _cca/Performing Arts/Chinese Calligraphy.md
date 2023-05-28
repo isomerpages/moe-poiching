@@ -143,7 +143,6 @@ CL Modular Room
 |Claudia Goh Zhe Min|6F    | Merit   |
 |Lin Tzu-Yu |6F    | Merit   |
 
-<br>
 
 ### Photo Gallery
 
@@ -153,8 +152,7 @@ CL Modular Room
 ![](/images/calligraphy%202.PNG)
 
 **2021**
-* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》  
-培青学校与福清会馆联办
+* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》培青学校与福清会馆联办
 ![](/images/10th-National-Chinese-Caligraphy-1024x768.jpg)
 <br>
 
