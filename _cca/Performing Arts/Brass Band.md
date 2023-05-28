@@ -17,18 +17,14 @@ third_nav_title: Performing Arts
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Names| Roles| Email |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-| Names | Roles | Email |
-| -------- | -------- | -------- |
-| Mdm Suryana Bte Buang     | OIC     | suryana_buang@moe.edu.sg     |
+| Mdm Suryana Bte Buang    | OIC     | suryana_buang@moe.edu.sg 
 |Ms Siti Nurhuda Bte Hamid     | 2IC     | siti_nurhuda_hamid@moe.edu.sg     |
 | Mdm K Suseila     | Member     | k_suseila@moe.edu.sg     |
 | Ms Cheong Shi Min     | Member     |cheong_shi_min@moe.edu.sg     |
 <br>
+
 
 <p class="custom">
 Instructors </p>  
@@ -42,7 +38,6 @@ Instructors </p>
 Brass Band Committee 2023</p>  
 
 ![](/images/band%20leaders.JPG) 
-![](/images/band%20leaders%20resize.JPG)
 
 <br>
 <p class="custom">
