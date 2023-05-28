@@ -53,7 +53,7 @@ CL Modular Room
 *  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br><br>
 | Name | Class  |Award |
 | -------- | -------- | -------- |
-| Liang Shumiao |6J5    | 2nd place in A group   |
+| Liang Shumiao |6J5    | 2nd place in A groupsss   |
 
 
 
