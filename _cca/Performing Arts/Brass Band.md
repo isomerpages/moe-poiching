@@ -41,7 +41,8 @@ Instructors </p>
 <p class="custom">
 Brass Band Committee 2023</p>  
 
-![](/images/band%20leaders.JPG)
+![](/images/band%20leaders.JPG) 
+![](/images/band%20leaders%20resize.JPG)
 
 <br>
 <p class="custom">
