@@ -46,10 +46,11 @@ Venue: Dance Room / PAL Room
 
 ### Coach
 
-##### **Kym Rythemic Pte Ltd** 
-*  Lu Wei
-*  Meng Qun
-* Liu Hui   
+| Kym Rythemic Pte. Ltd. | 
+| ------ |
+| Lu Wei
+Meng Qun
+Liu Hui|
 
 
 
@@ -60,8 +61,6 @@ P3 Dancers – Mrs Melissa Gomes <br>
 P4 Dancers – Ms Janice Chuan <br>
 P5 Dancers – Ms Hsu Tzu Chun<br>
 
-```
-```
 
 | | | Teacher-in-charge |
 | -------- | -------- | -------- |
@@ -75,10 +74,9 @@ P5 Dancers – Ms Hsu Tzu Chun<br>
 | Social Media Platforms  |   | Ms Janice Chuan|
 
 
-### Student Leadership Roles
+### Student Leadership
 
 ![](/images/Dance%20CCA%20Leaders.png) 
-
 
 ### Direct School Admission (DSA)
 
