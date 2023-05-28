@@ -16,8 +16,6 @@ third_nav_title: Performing Arts
 <p class="custom">
 Teachers-in-charge </p> <br> 
 
-
-
 | Names | Roles | Email |
 | -------- | -------- | -------- |
 | Mdm Suryana Bte Buang     | OIC     | suryana_buang@moe.edu.sg     |
