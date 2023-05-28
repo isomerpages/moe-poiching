@@ -4,31 +4,38 @@ permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/2018-Dance-Leaders_FY.jpg)
+
 
 ### Teachers-in-charge
-
-
 
 |Name | Role | Email |
 | -------- | -------- | -------- |
 | Mdm Wong Wenna     | OIC |  wong_wenna@moe.edu.sg |
-| Ms Ivy Wong Ye Shuang      | Member <br>(IC -P2 Dancers)    | wong_ye_shuang_ivy@moe.edu.sg |
-|  Mrs Melissa Gomes     | Member <br>(IC - P3 Dancers) | melissa_hoeden@moe.edu.sg |
-|  Ms Janice Chuan Jia En     | Member <br>(IC - P4 Dancers)   | janice_chuan_jia_en@moe.edu.sg | 
-Ms Hsu Tzu Chun  | Member <br>(IC - P5 Dancers)   | hsu_tzu_chun@moe.edu.sg |
+| Ms Ivy Wong Ye Shuang      | Member     | wong_ye_shuang_ivy@moe.edu.sg |
+|  Mrs Melissa Gomes     | Member  | melissa_hoeden@moe.edu.sg |
+|  Ms Janice Chuan Jia En     | Member| janice_chuan_jia_en@moe.edu.sg | 
+Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 
 ### Coach
 
 
-** Kym Rythemic Pte. Ltd. **
+**Kym Rythemic Pte. Ltd.**
 
 * Lu Wei
 * Meng Qun
 * Liu Hui
 
 
-### Student Leadership
+### CCA Leaders
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 ![](/images/Dance%20CCA%20Leaders.png) 
 
@@ -52,29 +59,9 @@ Thursdays:&nbsp; 2pm – 4.30pm <br>
 Dance Room / PAL Room
 
 
-
-##### **2023 Training Schedule**
-
-[2023 Dance CCA Term 2 Schedule]()
-
-[2023 Dance CCA June and Term 3 Schedule]()
-
-
-
-
-### Direct School Admission (DSA)
-
-On top of all these opportunities given to our Dance leaders, they are also given a chance to become facilitators during CCA time using the MOE CCA toolkit.&nbsp; Through the sessions, the leaders have a chance to hone their leadership skills and cultivate a sense of belonging amongst all members.
-
-Our students are able to seek admission to the following schools via DSA on the basis of talents and achievements that may not be demonstrated at the Primary School Leaving Examination (PSLE).&nbsp; The DSA-Sec enables students to enter suitable academic and non-academic programmes in Secondary Schools that can develop the students in these areas.&nbsp;
-
-### List of Secondary Schools DSA- Performing Arts (Dance):
-
-[https://goo.gl/d4XRVw](https://goo.gl/d4XRVw)
-
 ### Accolades
 
-**2018:**
+**2018**
 
 *   SYF (Chinese Dance) – Certificate of Distinction
 *   SYF (International Dance) – Certificate of Distinction
