@@ -39,14 +39,12 @@ Music Room 1 &amp; 2
 <p class="custom">
 Coach </p>  
 
-| ZingO Festival Drum Pte. Ltd. |  | 
-| ------ | ------ |
-| Chinese Drum:    | Ong Chee Hau     |
+**ZingO Festival Drum Pte. Ltd.**<br>
+Chinese Drum: Ong Chee Hau<br>    
 
 
-| The Chinese Opera Institute |  | 
-| -------- | -------- |
-| Chinese Opera:    |Koh Soh Tin     |
+**The Chinese Opera Institute** <br>
+Chinese Opera: Koh Soh Tin     
 
 <br>
 <p class="custom">
