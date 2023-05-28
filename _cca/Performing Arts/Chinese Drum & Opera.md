@@ -46,7 +46,7 @@ Coach </p>
 
 | The Chinese Opera Institute |  | 
 | -------- | -------- |
-| Chinese Opera:    | Koh Soh Tin     |
+| Chinese Opera:    |Koh Soh Tin     |
 
 <br>
 <p class="custom">
