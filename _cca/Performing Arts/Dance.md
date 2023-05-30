@@ -4,20 +4,28 @@ permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/2018-Dance-Leaders_FY.jpg)
-
 ### Teachers-in-charge
 
-
-
-
-| Teachers |  | Roles |
+|Name | Role | Email |
 | -------- | -------- | -------- |
-| Mdm Wong Wenna     |  | OIC     |
-| Ms Ivy Wong Ye Shuang   |  | Member    |
-| Ms Janice Chuan Jia En   |  | Member   |
-| Mrs Melissa Gomes   |  | Member    
-| Ms Hsu Tzu Chun  |  | Member    |
+| Mdm Wong Wenna     | OIC |  wong_wenna@moe.edu.sg |
+| Ms Ivy Wong Ye Shuang      | Member     | wong_ye_shuang_ivy@moe.edu.sg |
+|  Mrs Melissa Gomes     | Member  | melissa_hoeden@moe.edu.sg |
+|  Ms Janice Chuan Jia En     | Member| janice_chuan_jia_en@moe.edu.sg | 
+Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
+
+### Coach
+
+
+**Kym Rythemic Pte. Ltd.**
+
+* Lu Wei
+* Meng Qun
+* Liu Hui
+
+<br>
+
+![](/images/Dance%20CCA%20Leaders.png)
 
 
 
@@ -31,65 +39,25 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 In Poi Ching Dance, we can be ourselves.
 
+
 ### Training Schedules
 
 
-Mondays: 2pm – 4.30pm <br>
-Thursdays:&nbsp; 2pm – 4.30pm <br>
-Venue: Dance Room / PAL Room
+Mondays: 2.00 pm to 4.30 pm <br>
+Thursdays:&nbsp; 2.00 pm to 4.30 pm <br>
 
+**Venue:**
+Dance Room / PAL Room
 
-
-##### **2023 Term 2 Training Schedule**
-
-[2023 Dance CCA Term 2 Scheule]()
-
-
-
-### Dance Teachers’ Duty List
-
-P2 Dancers – Ms Ivy Wong <br>
-P3 Dancers – Mrs Melissa Gomes <br>
-P4 Dancers – Ms Janice Chuan <br>
-P5 Dancers – Ms Hsu Tzu Chun<br>
-
-```
-
-```
-
-
-| | | Teacher-in-charge |
-| -------- | -------- | -------- |
-| Dance Trainings  |   | Mdm Wenna Wong|
-| Leadership Matters  |   | Ms Ivy Wong|
-| P6 DSA |   | Mrs Melisa Gomes|
-| Dance Essentials Purchase |   | Ms Janice Chuan|
-| CCA Fair/ P2 Selection  |   | Ms Hsu Tzu Chun|
-| Cosmetics &amp; Makeup |   | Ms Ivy Wong|
-| Dance Noticeboard |   |Mrs Melissa Gomes|
-| Social Media Platforms  |   | Ms Janice Chuan|
-
-![](/images/Dance%20CCA%20Leaders.png)
-
-
-### Direct School Admission (DSA)
-
-On top of all these opportunities given to our Dance leaders, they are also given a chance to become facilitators during CCA time using the MOE CCA toolkit.&nbsp; Through the sessions, the leaders have a chance to hone their leadership skills and cultivate a sense of belonging amongst all members.
-
-Our students are able to seek admission to the following schools via DSA on the basis of talents and achievements that may not be demonstrated at the Primary School Leaving Examination (PSLE).&nbsp; The DSA-Sec enables students to enter suitable academic and non-academic programmes in Secondary Schools that can develop the students in these areas.&nbsp;
-
-### List of Secondary Schools DSA- Performing Arts (Dance):
-
-[https://goo.gl/d4XRVw](https://goo.gl/d4XRVw)
 
 ### Accolades
 
-**2018:**
+**2018**
 
 *   SYF (Chinese Dance) – Certificate of Distinction
 *   SYF (International Dance) – Certificate of Distinction
 
-### Photographs
+### Photo Gallery
 **Chinese New Year Concert 2023**
 ![](/images/ch%20dance%20CNY%201.jpg)
 
