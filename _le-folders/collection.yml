@@ -2,7 +2,6 @@ collections:
   le-folders:
     output: true
     order:
-      - CCE 品格与公民教育/.keep
       - Cognitive 智/.keep
       - Cognitive 智/English Language 英文.md
       - Cognitive 智/Chinese Language 华文.md
