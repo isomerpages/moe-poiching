@@ -2,5 +2,6 @@ collections:
   cognitive:
     output: true
     order:
+      - Mathematics 数学.md
       - Chinese Language 华文.md
       - English Language 英文.md
