@@ -2,6 +2,7 @@ collections:
   le-folders:
     output: true
     order:
+      - Cognitive 智/Inforcomm Technology 资讯通讯科技.md
       - Cognitive 智/Science 科学.md
       - Cognitive 智/.keep
       - Cognitive 智/English Language 英文.md
