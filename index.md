@@ -21,6 +21,8 @@ sections:
   - infopic:
       image: /images/pcs talentine 2023.jpg
       alt: Image alt text
+      url: http://go.gov.sg/poichingschool2023karaok
+      subtitle: 《第十三届“会馆杯”庆国庆华语卡拉OK歌唱比赛》
   - infopic:
       image: /images/pcs calligraphy 2023.jpg
       alt: Image alt text
