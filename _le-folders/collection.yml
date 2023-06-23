@@ -1,4 +1,5 @@
 collections:
   le-folders:
     output: true
-    order: []
+    order:
+      - Moral 德/.keep
