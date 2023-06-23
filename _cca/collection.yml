@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA 课程辅助活动/.keep
       - Sports & Games/.keep
       - Sports & Games/Table Tennis.md
       - Sports & Games/Volleyball.md
