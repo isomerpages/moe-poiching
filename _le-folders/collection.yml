@@ -2,6 +2,7 @@ collections:
   le-folders:
     output: true
     order:
+      - Aesthetics 美/.keep
       - Social 群/.keep
       - Physical 体/.keep
       - Moral 德/.keep
