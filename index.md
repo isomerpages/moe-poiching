@@ -26,4 +26,5 @@ sections:
   - infopic:
       image: /images/pcs calligraphy 2023.jpg
       alt: Image alt text
+      subtitle: 第十二届全国中小学书法比赛
 ---
