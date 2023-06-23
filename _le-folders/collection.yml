@@ -2,5 +2,6 @@ collections:
   le-folders:
     output: true
     order:
+      - Cognitive 智/.keep
       - Cognitive 德.md
       - Moral 德/.keep
