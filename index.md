@@ -23,20 +23,9 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      image: /images/pcs calligraphy 2023.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
       image: /images/pcs talentine 2023.jpg
       alt: Image alt text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - resources:
-      title: What's coming up?
+  - infopic:
+      image: /images/pcs calligraphy 2023.jpg
+      alt: Image alt text
 ---
