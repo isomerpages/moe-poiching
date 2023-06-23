@@ -2,6 +2,7 @@ collections:
   le-folders:
     output: true
     order:
+      - Cognitive 智/Chinese Language 华文.md
       - Cognitive 智/English Language 英文.md
       - Cognitive 智/.keep
       - Moral 德/.keep
