@@ -2,9 +2,6 @@ collections:
   le-folders:
     output: true
     order:
-      - Aesthetics 美/.keep
-      - Social 群/.keep
-      - Physical 体/.keep
       - Moral 德/.keep
       - Moral 德/MOE Sexuality Education 教育部性教育.md
       - Moral 德/CCE 品格与公民教育.md
@@ -14,3 +11,6 @@ collections:
       - Cognitive 智/Mathematics 数学.md
       - Cognitive 智/Science 科学.md
       - Cognitive 智/Inforcomm Technology 资讯通讯科技.md
+      - Physical 体/.keep
+      - Social 群/.keep
+      - Aesthetics 美/.keep
