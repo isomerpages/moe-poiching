@@ -1,0 +1,4 @@
+collections:
+  le-folders:
+    output: true
+    order: []
