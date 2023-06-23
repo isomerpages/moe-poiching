@@ -19,10 +19,6 @@ sections:
           url: /100th-anniversary-celebration/
       background: /images/banner9.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
       image: /images/pcs talentine 2023.jpg
       alt: Image alt text
   - infopic:
