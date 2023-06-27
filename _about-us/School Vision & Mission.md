@@ -3,8 +3,10 @@ title: School Vision & Mission
 permalink: /about-us/school-vision-and-mission/
 description: ""
 ---
+![](/images/pcs%20vision.jpg)
+![](/images/pcs%20mission.jpg)
 
-![](/images/pcs%20vision.jpg)![](/images/2016_VMMV_updated.jpg)
+![](/images/2016_VMMV_updated.jpg)
 
 ### VISION STATEMENT
 
