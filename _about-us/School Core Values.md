@@ -1,15 +1,13 @@
 ---
 title: School Core Values
-permalink: /about-us/school-core-values
+permalink: /about-us/school-core-values/
 description: ""
 ---
 ***Reflection – How well have I displayed the school core values?***
 
 ### Loyalty 忠:
+![](/images/pcs%20loyalty.jpg)
 
-**Display faithfulness and devotion to our country. 显示对自己国家的忠诚及献身精神。**
-
-To be proud and have a sense of allegiance to school (through speech and conduct). 要效忠国家与学校，并为之感到自豪。(通过言语和行为）
 
 ### Filial Piety 孝:
 
@@ -52,4 +50,3 @@ To be open and truthful. 要开通和诚实。
 **Display humility and simplicity in conduct and speech. 显示自己谦卑和简朴的行为和言论。**
 
 To be appropriate and simple in dressing. To be humble in conduct and speech. 衣着要适当、简单。行为和言语要谦虚。
-
