@@ -32,7 +32,4 @@ description: ""
 
 
 ### Modesty 朴:
-
-**Display humility and simplicity in conduct and speech. 显示自己谦卑和简朴的行为和言论。**
-
-To be appropriate and simple in dressing. To be humble in conduct and speech. 衣着要适当、简单。行为和言语要谦虚。
+![](/images/pcs%20modesty.jpg)
