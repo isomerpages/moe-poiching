@@ -20,10 +20,8 @@ description: ""
 
 
 ### Diligence 勤:
+![](/images/pcs%20diligence.jpg)
 
-**Display zealousness and commitment in one’s actions and work. 显示关心自己的行为和工作的热忱。**
-
-To be hardworking. To be determined in completion of a task. 要勤奋。要以执着与坚定的态度完成任务。
 
 ### Prudence 慎: 
 
