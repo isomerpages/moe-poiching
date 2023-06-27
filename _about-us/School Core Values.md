@@ -12,10 +12,8 @@ description: ""
 ### Filial Piety 孝:
 ![](/images/pcs%20filial%20piety.jpg)
 ### Integrity 节:
+![](/images/pcs%20integrity.jpg)
 
-**Display a sense of honesty and truthfulness in one’s thoughts and actions. 显示对自己的行为及行事动机的诚实与真诚性。**
-
-To demonstrate the moral courage to do what is right. 要展示道德勇气，做正确的事情。
 
 ### Justice 义: 
 
