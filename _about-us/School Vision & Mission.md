@@ -15,5 +15,5 @@ With an eagerness to learn and grow, they blossom into active contributors for o
 
 ![](/images/pcs%20mission.jpg)
 
-![](/images/2016_VMMV_updated.jpg)
+
 ![](/images/STRATEGIC-DIRECTIONS-2019-2023.jpg)
