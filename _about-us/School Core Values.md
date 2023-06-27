@@ -16,10 +16,8 @@ description: ""
 
 
 ### Justice 义: 
+![](/images/pcs%20justice.jpg)
 
-**Display moral righteousness based on ethics, law and fairness.. 显示自己的道德是基于道德规范、法律、公平性。**
-
-To be fair and just. 要公平、公正。
 
 ### Diligence 勤:
 
