@@ -24,16 +24,12 @@ description: ""
 
 
 ### Prudence 慎: 
+![](/images/pcs%20prudence.jpg)
 
-**Display sound judgment in decision-making and conduct. 显示为自己的决策和行为做出正确的判断。**
-
-To exercise sound judgment. To be cautious. 要具备合理的判断能力。要谨慎。
 
 ### Sincerity 诚: 
+![](/images/pcs%20sincerity.jpg)
 
-**Display genuineness and truthfulness of one’s feelings, thoughts and desires. 显示自己的感情、思想和愿望的真实性。**
-
-To be open and truthful. 要开通和诚实。
 
 ### Modesty 朴:
 
