@@ -1,10 +1,10 @@
-logo: /images/rsz_pcs_logo_and_name (1).png
+logo: /images/rsz_pcs_logo_and_name 50pct.png
 links:
   - title: About Us 培青简介
     collection: about-us
   - title: Our Family 培青家庭
     collection: our-family
-  - title: PCS Experience 培青校园动态
-    collection: departments
+  - title: PCS Experience 培青课程
+    collection: le-folders
   - title: CCA
     collection: cca

@@ -1,0 +1,25 @@
+collections:
+  le-folders:
+    output: true
+    order:
+      - Moral 德/.keep
+      - Moral 德/MOE Sexuality Education 教育部性教育.md
+      - Moral 德/CCE 品格与公民教育.md
+      - Cognitive 智/.keep
+      - Cognitive 智/English Language 英文.md
+      - Cognitive 智/Chinese Language 华文.md
+      - Cognitive 智/Mathematics 数学.md
+      - Cognitive 智/Science 科学.md
+      - Cognitive 智/Inforcomm Technology 资讯通讯科技.md
+      - Physical 体/.keep
+      - Physical 体/Physical Education.md
+      - Social 群/.keep
+      - Social 群/CCA 课程辅助活动.md
+      - Social 群/Programme for Active Learning (PAL) 活跃学习计划.md
+      - Social 群/Performing Arts.md
+      - Social 群/Uniform Groups.md
+      - Social 群/Sports & Games.md
+      - Social 群/Clubs and Societies.md
+      - Aesthetics 美/.keep
+      - Aesthetics 美/Aesthetics 美术 音乐.md
+      - PCS SAP.md

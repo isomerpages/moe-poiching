@@ -1,14 +1,10 @@
 ---
 title: School Song
-permalink: /about-us/school-song
+permalink: /about-us/school-song/
 description: ""
 ---
-English:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmNlkX6DEm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Chinese:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEggNKkfPX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![](/images/song.gif)
 
