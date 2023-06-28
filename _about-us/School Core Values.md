@@ -3,7 +3,7 @@ title: School Core Values
 permalink: /about-us/school-core-values/
 description: ""
 ---
-***Reflection – How well have I displayed the school core values?***
+![](/images/school%20values.jpg)
 
 ### Loyalty 忠:
 ![](/images/pcs%20loyalty.jpg)
