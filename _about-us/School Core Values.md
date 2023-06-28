@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/school%20values.jpg)
 
-![](/images/school%20values_2.jpg)
+![](/images/school%20values_2_new.jpg)
