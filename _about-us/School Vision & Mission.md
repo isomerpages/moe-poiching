@@ -4,7 +4,8 @@ permalink: /about-us/school-vision-and-mission/
 description: ""
 ---
 ### Mission Statement
-![](/images/pcs%20mission.jpg)
+![](/images/mission(new).jpg)
+
 ### Vision Statement![](/images/pcs%20vision.jpg)
    Our Poi Ching SAPlings to be rooted in values and equipped with 21st Century Competencies and are confident to thrive in the future.
 
