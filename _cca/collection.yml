@@ -4,11 +4,11 @@ collections:
     order:
       - CCA 课程辅助活动/.keep
       - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
       - Sports & Games/Table Tennis.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Wushu.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Basketball.md
       - Performing Arts/.keep
       - Performing Arts/Brass Band.md
       - Performing Arts/Chinese Orchestra.md
