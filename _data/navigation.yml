@@ -1,4 +1,4 @@
-logo: /images/rsz_pcs_logo_and_name 50pct.png
+logo: /images/isomer-logo.svg
 links:
   - title: About Us 培青简介
     collection: about-us
@@ -6,5 +6,5 @@ links:
     collection: our-family
   - title: PCS Experience 培青课程
     collection: le-folders
-  - title: CCA
-    collection: cca
+  - title: Info Hub 信息专区
+    collection: quick-links
