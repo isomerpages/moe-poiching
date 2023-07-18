@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Club n society/.keep
-      - example-page.md
