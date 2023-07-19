@@ -1,6 +1,0 @@
-collections:
-  cca-2:
-    output: true
-    order:
-      - Club n society/example-page.md
-      - Club n society/.keep
