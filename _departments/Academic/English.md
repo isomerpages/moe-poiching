@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /departments/Academic/english
+permalink: /le-folders/cognitive/permalink/
 description: ""
 third_nav_title: Academic
 ---
