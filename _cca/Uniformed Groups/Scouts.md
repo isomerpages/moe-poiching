@@ -15,6 +15,8 @@ All Cub Scouts undergo training to build up individual and groups skills. There 
 
 _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 
+![](/images/scouts%202.jpg)
+
 ### Training Schedule
 
 |Date| Time | Primary| 
@@ -30,13 +32,10 @@ _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 | Name | Role | Email |
 | -------- | -------- | -------- |
 | Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
-| Mdm Khairin      | Member     |      |
+| Mdm Khairin      | Member     |     |
 
 
 
 ### Accolades
 
 *   Akela Award Recipient – 2021
-
-
-![](/images/Scouts2-2019-1350x1817.jpg)
