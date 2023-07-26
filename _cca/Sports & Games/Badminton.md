@@ -11,22 +11,6 @@ third_nav_title: Sports & Games
 
 Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 pupils from P3 to P6. &nbsp;We encourage the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. Debrief sessions after the games further enforce the school values such as modesty,&nbsp;integrity ,loyalty and&nbsp;excellence taught during CCA.
 
-### Teachers-in-charge
-
-
-
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mr Victor Ho      | OIC     | ho_see_hoong_victor@moe.edu.sg     |
-| Mdm Radiah Binte Mohamed      | 2IC     | radiah_mohamed@moe.edu.sg     |
-| Mr Muhammad Redzuan Bin Omar     | Member    | muhammad_redzuan_omar@moe.edu.sg     |
-| Mr Jason Lim     | Member     | lim_teck_heen_jason@moe.edu.sg     |
-| Mr Marcus Choy     | Member     | marcus_choy_zheng_hoe@moe.edu.sg     |
-
-### Coach
-* Tan Kwai Hong
-* Wee Bing Hui
-
 ### Training Schedule
 
 |Date| Time | Primary| 
@@ -38,6 +22,24 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 
 **Venue:**
  School Hall
+
+### Teachers-in-charge
+
+
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Victor Ho      | OIC     | ho_see_hoong_victor@moe.edu.sg     |
+| Mdm Radiah Binte Mohamed      | 2IC     |      |
+| Mr Muhammad Redzuan Bin Omar     | Member    |      |
+| Mr Jason Lim     | Member     |      |
+| Mr Marcus Choy     | Member     |      |
+
+### Coach
+* Tan Kwai Hong
+* Wee Bing Hui
+
+
 
 
 
