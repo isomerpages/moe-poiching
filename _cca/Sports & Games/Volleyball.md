@@ -4,6 +4,12 @@ permalink: /cca/Sports-and-Games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
+### Mission
+
+![](/images/volleyball%201.jpg)
+![](/images/volleyball%202.jpg)
+
+
 ### Training Schedule
 
 |Date| Time | Primary| 
@@ -80,8 +86,4 @@ Tier 2 - 2nd
 Junior Girls:
 Tier 2 - 1st
 
-![](/images/volleyball%201.jpg)
-![](/images/volleyball%202.jpg)
-![](/images/volleyball%203.jpg)
-![](/images/volleyball%204.jpg)
 
