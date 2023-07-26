@@ -4,10 +4,10 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# PCS Scouts
 
 
-### Introduction
+
+### Mission
 
 
 The Scout Association is a voluntary uniform organisation that provides leadership and citizenship training through a combination of challenge, fun, adventure and skills training. It provides a healthy wholesome environment for nurturing the creative energies of youth.
@@ -18,14 +18,6 @@ All Cub Scouts undergo training to build up individual and groups skills. There 
 
 _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 
-
-### Teachers-in-charge
-
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
-| Mdm Khairin      | Member     | nur_khairin_abdul_jafar@moe.edu.sg     |
-
 ### Training Schedule
 
 |Date| Time | Primary| 
@@ -35,20 +27,19 @@ _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 
 **Venue:**
  Field & Hall Of Wellness
+ 
+### Teachers-in-charge
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
+| Mdm Khairin      | Member     | nur_khairin_abdul_jafar@moe.edu.sg     |
+
+
 
 ### Accolades
 
-*   Frank Cooper Sands Awards 2014 (Bronze)
-*   Frank Cooper Sands Awards 2015 (Silver)
-*   Frank Cooper Sands Awards 2016 (Gold)
-*   Frank Cooper Sands Awards 2017 (Gold)
-*   Frank Cooper Sands Awards 2018 (Silver)
-*   Frank Cooper Sands Awards 2019 (Gold)
 *   Akela Award Recipient – 2021
 
-### Programmes
-
-
-**Our Scouts in Action**
 
 ![](/images/Scouts2-2019-1350x1817.jpg)
