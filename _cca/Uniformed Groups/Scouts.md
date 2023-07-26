@@ -4,9 +4,6 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
 ### Mission
 
 
@@ -33,7 +30,7 @@ _**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
 | Name | Role | Email |
 | -------- | -------- | -------- |
 | Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
-| Mdm Khairin      | Member     | nur_khairin_abdul_jafar@moe.edu.sg     |
+| Mdm Khairin      | Member     |      |
 
 
 
