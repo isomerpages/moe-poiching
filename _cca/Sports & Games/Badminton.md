@@ -4,12 +4,13 @@ permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/badminton_pcs.png" style="width:25%">
-		 
-### Introduction
+ 
+### Mission
 
 
 Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 pupils from P3 to P6. &nbsp;We encourage the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. Debrief sessions after the games further enforce the school values such as modesty,&nbsp;integrity ,loyalty and&nbsp;excellence taught during CCA.
+
+![](/images/Badminton%20Pic%203.jpeg)
 
 ### Training Schedule
 
@@ -35,9 +36,7 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 | Mr Jason Lim     | Member     |      |
 | Mr Marcus Choy     | Member     |      |
 
-### Coach
-* Tan Kwai Hong
-* Wee Bing Hui
+
 
 
 
@@ -51,8 +50,6 @@ Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 
 ![](/images/Badminton%20Pic%201.jpeg)
 
 ![](/images/Badminton%20Pic%202.jpeg)
-
-![](/images/Badminton%20Pic%203.jpeg)
 
 ![](/images/Badminton%20Pic%204.jpeg)
 
