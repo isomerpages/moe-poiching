@@ -24,10 +24,10 @@ Band Room (Level 7, Block E)
 |  |  |  |
 | -------- | -------- | -------- |
 | Overall Teacher-in-charge  |  | Mdm Suryana Bte Buang suryana_buang@moe.edu.sg      |
-|Ms Siti Nurhuda Bte Hamid     |    |    | 
-|Mdm K Susiela   |      |    
-| Ms Cheong Shi Min  |      |  | 
-|Mrs Cassandra Tan  |     |  | 
+|Teachers-in-charge   |    |  Ms Siti Nurhuda Bte Hamid    | 
+|   |      |    Mdm K Susiela
+|   |      |  Ms Cheong Shi Min| 
+| |     | Mrs Cassandra Tan  | 
 
 	
 ### CCA Leaders
