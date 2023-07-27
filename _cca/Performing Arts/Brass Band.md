@@ -21,13 +21,13 @@ Band Room (Level 7, Block E)
 
 ### CCA Teachers
 
-| Name | Role | Email |
+|  |  |  |
 | -------- | -------- | -------- |
-|Mdm Suryana Bte Buang   | OIC  | suryana_buang@moe.edu.sg      |
-|Ms Siti Nurhuda Bte Hamid     | Member     |    | 
-|Mdm K Susiela   | Member     |    
-| Ms Cheong Shi Min  | Member     |  | 
-|Mrs Cassandra Tan  | Member     |  | 
+| Overall Teacher-in-charge  |  | Mdm Suryana Bte Buang suryana_buang@moe.edu.sg      |
+|Ms Siti Nurhuda Bte Hamid     |    |    | 
+|Mdm K Susiela   |      |    
+| Ms Cheong Shi Min  |      |  | 
+|Mrs Cassandra Tan  |     |  | 
 
 	
 ### CCA Leaders
@@ -48,4 +48,3 @@ SYF 2018 – Certificate of Distinction
 SYF 2016 – Certificate of Accomplishment
 
 SYF 2014 – Certificate of Accomplishment
-
