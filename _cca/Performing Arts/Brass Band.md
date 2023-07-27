@@ -8,12 +8,14 @@ The Brass Band CCA aims to increase student's interest and develop their appreci
 
 ### Training Schedule
 
-
-Mondays: 2.00 pm to 5.00 pm<br>
-Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
+|Day| Time | Primary| 
+|-----|----|------|
+|Monday|2.00 pm to 5.00 pm |P2 - P5 |
+|Thursday|2.00 pm to 5.00 pm |P3- P5|
 
 **Venue:**
 Band Room (Level 7, Block E)
+
 ### Teachers-in-charge
 
 | Name | Role | Email |
