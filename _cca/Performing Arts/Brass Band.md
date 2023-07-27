@@ -4,6 +4,16 @@ permalink: /cca/Performing-Arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+The Brass Band CCA aims to increase student's interest and develop their appreciation of music. Students will be provided with opportunities to work together in a team and have continuous exposure in music-making.
+
+### Training Schedule
+
+
+Mondays: 2.00 pm to 5.00 pm<br>
+Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
+
+**Venue:**
+Band Room (Level 7, Block E)
 ### Teachers-in-charge
 
 | Name | Role | Email |
@@ -57,14 +67,7 @@ Besides the continuous exposure for joy of learning and music-making, our band t
 
 As Poi Ching School Brass Band continue to grow in strength and spirit, we look forward to more good years of exceptional band standards, dedication and discipline in our band music-making and performance.
 
-### Training Schedule
 
-
-Mondays: 2.00 pm to 5.00 pm<br>
-Thursdays: &nbsp;2.00 pm to 5.00 pm<br>
-
-**Venue:**
-Band Room (Level 7, Block E)
  
 ### Accolades
 
