@@ -15,7 +15,7 @@ Through the CCA, student performers will learn various skills and have more oppo
 
 |Day| Time | Level| 
 |-----|----|------|
-|Monday|2.00 pm to 4.00 pm | |
+|Monday|2.00 pm to 4.00 pm | P3 - P5|
 
 
 **Venue:**
@@ -27,9 +27,4 @@ Music Room 1 & 2
 | -------- | -------- | -------- |
 | Overall Teacher-in-charge  |  | Liau Mei Ling
 || | liau_mei_ling@moe.edu.sg    |
-|Teacher-in-charge   |    |  Lin Feng     | 
-
-	
-
-
-
+|Teacher-in-charge   |    |  Lin Feng     |
