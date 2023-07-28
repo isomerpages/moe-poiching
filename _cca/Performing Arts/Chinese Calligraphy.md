@@ -51,7 +51,7 @@ CL Modular Room
 | -------- | -------- | -------- |
  Liang Shumiao |6J5    | 2nd place in Group A
 
-<br>
+
 
 **Ngee Ann National Students' Calligraphy Competition organised by  Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi**<br>
 
@@ -72,7 +72,6 @@ CL Modular Room
 |Yap Xue Ping Lerin |5E   | Merit    |
 |Li Jingxi Jessie |3E    | Consolation   |
 
-<br>
 
  **32nd National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
  
@@ -80,7 +79,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 |Liang Shumiao |4E    | Merit    |
 
-<br>
 
 **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
 
@@ -88,7 +86,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 |Quek Ruoqi Kelly  |4D    | Consolation   |
 
-<br>
 
 **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
 
@@ -104,4 +101,3 @@ CL Modular Room
 |Tong Wing Shi |6G    | Consolation    |
 
 <br>
-
