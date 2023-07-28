@@ -27,7 +27,7 @@ Band Room (Level 7, Block E)
 |Teachers-in-charge   |    |  Ms Siti Nurhuda Bte Hamid    | 
 |   |      |    Mdm K Susiela
 |   |      |  Ms Cheong Shi Min| 
-| |     | Mrs Cassandra Tan  | 
+| |     | Ms Cassandra Tan  | 
 
 	
 ### CCA Leaders
