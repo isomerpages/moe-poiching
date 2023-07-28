@@ -17,7 +17,7 @@ The Brass Band CCA aims to develop and enhance student's interest and appreciati
 |Thursday|2.00 pm to 5.00 pm |P3- P5|
 
 **Venue:**
-Band Room (Level 7, Block E)
+Band Room 
 
 ### CCA Teachers
 
