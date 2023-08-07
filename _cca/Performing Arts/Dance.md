@@ -8,6 +8,7 @@ At Poi Ching Dance, we explore a variety of dance genres – from contemporary t
 
 Through dance, we look into ourselves and explore ways to express our thoughts and beliefs.
 
+![](/images/ch%20dance%20CNY%203.jpg)
 
 ### Training Schedules
 
@@ -30,15 +31,6 @@ Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 
 
 
-
-
-
-
-
-
-
-
-
 ### Accolades
 
 **2018**
@@ -46,43 +38,3 @@ Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 *   SYF (Chinese Dance) – Certificate of Distinction
 *   SYF (International Dance) – Certificate of Distinction
 
-### Photo Gallery
-**Chinese New Year Concert 2023**
-![](/images/ch%20dance%20CNY%201.jpg)
-
-![](/images/ch%20dance%20CNY2.jpg)
-
-![](/images/ch%20dance%20CNY%203.jpg)
-
-![](/images/ch%20dance%20cny%204.jpg)
-
-
-**SYF 2022**
-
-![](/images/SYF-2022-Chinese-Dance-A-768x432.jpg)
-![](/images/SYF-2022-Chinese-Dance-B-768x432.jpg)
-![](/images/SYF-2022-International-Dance-768x576.jpg)
-
-**Chinese New Year Concert**
-
-![](/images/CD2021.png)
-
-
-
-![](/images/dance1.jpg)
-
-**SYF Chinese Dancers on 9 April 2018**
-
-![](/images/dance2.jpg)
-
-**SYF International Dancers on 17 April 2018**
-![](/images/ch_2.jpg)
-
-**2018 CNY Performance in Poi Ching School**
-![](/images/ch_3.jpg)
-
-**2018&nbsp;Warming up during Dance Practice**
-
-![](/images/ch4.jpg)
-![](/images/ch5.jpg)
-![](/images/ch6.jpg)
