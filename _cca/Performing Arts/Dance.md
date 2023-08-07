@@ -41,6 +41,8 @@ Dance Room / PAL Room
 | -------- | -------- | -------- |
 | Ong Si Yuan, Charlotte    | 6J1     | Captain     |
 | Charmaine Ho    | 6J3     | Vice-Captain     |
+| Ong Min Hui   | 5L5    | Vice-Captain     |
+| Kezenn Chow    | 5L5     | Vice-Captain     |
 
 
 ### Accolades
