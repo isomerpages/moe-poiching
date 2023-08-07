@@ -19,16 +19,27 @@ Thursdays:&nbsp; 2.00 pm to 4.30 pm <br>
 **Venue:**
 Dance Room / PAL Room
 
-### CCA teachers
 
-|Name | Role | Email |
+### CCA Teachers
+
+|  |  |  |
 | -------- | -------- | -------- |
-| Mdm Wong Wenna     | OIC |  wong_wenna@moe.edu.sg |
-| Ms Ivy Wong Ye Shuang      | Member     | wong_ye_shuang_ivy@moe.edu.sg |
-|  Mrs Melissa Gomes     | Member  | melissa_hoeden@moe.edu.sg |
-|  Ms Janice Chuan Jia En     | Member| janice_chuan_jia_en@moe.edu.sg | 
-Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
+| Overall Teacher-in-charge  |  | Mdm Wong Wenna
+|| |  wong_wenna@moe.edu.sg    |
+|Teachers-in-charge   |    |   Mrs Melissa Gomes     |
+|   |    |  Ms Janice Chuan Jia En   |
+|   |    |  Ms Hsu Tzu Chun   |
 
+
+
+
+### CCA Leaders
+
+
+|Name | Class | Position     | 
+| -------- | -------- | -------- |
+| Ong Si Yuan, Charlotte    | 6J1     | Captain     |
+| Charmaine Ho    | 6J3     | Vice-Captain     |
 
 
 ### Accolades
@@ -37,4 +48,3 @@ Ms Hsu Tzu Chun  | Member   | hsu_tzu_chun@moe.edu.sg |
 
 *   SYF (Chinese Dance) – Certificate of Distinction
 *   SYF (International Dance) – Certificate of Distinction
-
