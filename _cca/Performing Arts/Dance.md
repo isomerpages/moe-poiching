@@ -12,9 +12,10 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 ### Training Schedules
 
-
-Mondays: 2.00 pm to 4.30 pm <br>
-Thursdays:&nbsp; 2.00 pm to 4.30 pm <br>
+|Day| Time | Level| 
+|-----|----|------|
+|Monday|2.00 pm to 4.30 pm |P2 - P5 
+|Thursday|2.00 pm to 4.30 pm |P2 - P5 |
 
 **Venue:**
 Dance Room / PAL Room
