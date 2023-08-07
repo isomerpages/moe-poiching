@@ -4,9 +4,9 @@ permalink: /cca/Performing-Arts/chinese-drum-n-opera/
 description: ""
 third_nav_title: Performing Arts
 ---
-Our Chinese Drum and Opera CCA aims to promote and enhance the development of the unique traditional art-forms.
+培青学校的节令鼓与戏曲将给与学生更多接触和学习这两项传统艺术的机会。学校将聘请不同的专业教练分别教导节令鼓和中国戏曲，保留与传承中华传统文化。
 
-Through the CCA, student performers will learn various skills and have more opportunities to be immersed in these two art-forms. Ultimately, we strive to preserve this artistic cultural inheritance through driving this programme amongst our student performers.
+Festive Drum and Chinese Opera are traditional visual performance art-forms that have rich history and immense cultural performance expressions.
 
 ![](/images/IMG-20190412-WA0020.jpg)
 
