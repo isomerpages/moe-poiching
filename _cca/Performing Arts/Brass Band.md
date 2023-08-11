@@ -42,28 +42,28 @@ Band Room
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="border: 1px solid black;">Overall Teacher-in-charge</td>
-      <td style="border: 1px solid black;">Mdm Suryana Bte Buang</td>
+      <td style="border: none;">Overall Teacher-in-charge</td>
+      <td style="border: none;">Mdm Suryana Bte Buang</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;"></td>
-      <td style="border: 1px solid black;">suryana_buang@moe.edu.sg</td>
+      <td style="border: none;"></td>
+      <td style="border: none;">suryana_buang@moe.edu.sg</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;">Teachers-in-charge</td>
-      <td style="border: 1px solid black;">Ms Siti Nurhuda Bte Hamid</td>
+      <td style="border: none;">Teachers-in-charge</td>
+      <td style="border: none;">Ms Siti Nurhuda Bte Hamid</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;"></td>
-      <td style="border: 1px solid black;">Mdm K Susiela</td>
+      <td style="border: none;"></td>
+      <td style="border: none;">Mdm K Susiela</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;"></td>
-      <td style="border: 1px solid black;">Ms Cheong Shi Min</td>
+      <td style="border: none;"></td>
+      <td style="border: none;">Ms Cheong Shi Min</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;"></td>
-      <td style="border: 1px solid black;">Ms Cassandra Tan</td>
+      <td style="border: none;"></td>
+      <td style="border: none;">Ms Cassandra Tan</td>
     </tr>
   </tbody>
 </table>
