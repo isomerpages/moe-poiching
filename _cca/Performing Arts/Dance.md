@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-At Poi Ching Dance, we explore a variety of dance genres – from contemporary to street dance, to the foundation of our CCA, Chinese Dance.
+In Poi Ching Dance CCA, we explore a variety of dance genres – from contemporary to street dance, to the foundation of our CCA, Chinese Dance.
 
 Through dance, we look into ourselves and explore ways to express our thoughts and beliefs.
 
