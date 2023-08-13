@@ -21,13 +21,6 @@ Festive Drum and Chinese Opera are traditional visual performance art-forms that
 **Venue:**
 Music Room 1 &amp; 2
 
-### CCA Teachers
-
-|  |  |  |
-| -------- | -------- | -------- |
-| Overall Teacher-in-charge  |  | Liau Mei Ling
-|| |   |
-|Teacher-in-charge   |    |      |
 
 ### CCA Teachers
 
