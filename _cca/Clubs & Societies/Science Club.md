@@ -4,9 +4,11 @@ permalink: /cca/Clubs-and-Societies/science-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-### Introduction
+The Science Club aims to give our pupils learning experiences and exposure to the Life Sciences, Environmental Sciences and the Creative and Applied Sciences. 
 
-The Science Club is an innovative and enterprising club. It aims to give our pupils learning experiences and exposure to the Life Sciences, Environmental Sciences and the Creative and Applied Sciences. Through an array of interesting activities, such as DNA extraction, toy-making and their designs, terrarium-making gardening and scientific experiments, we hope to cultivate a spirit of scientific inquiry and innovation in pupils.
+Through an array of interesting activities, such as DNA extraction, toy-making and their designs, terrarium-making gardening and scientific experiments, we hope to cultivate a spirit of scientific inquiry and innovation in pupils.
+
+![](/images/sciclub1.jpg)
 
 ### Teachers-in-charge
 
@@ -20,7 +22,7 @@ The Science Club is an innovative and enterprising club. It aims to give our pup
 
 |Date| Time | Primary| 
 |-----|----|------|
-|Thursday|2.00pm-4.00pm |P3-P6|
+|Thursday|2.00pm to 4.00pm |P3-P6|
 
 
 **Venue:**
@@ -37,7 +39,7 @@ The ability to&nbsp;extract DNA&nbsp;is of primary importance to studying the ge
 
 Workshops were conducted to help students learn about the latest Life Sciences developments and to perform mini-experiments to extract DNA.
 
-![](/images/sciclub1.jpg)
+
 
 **DNA Extraction Experiment**
 
@@ -49,7 +51,7 @@ Terrarium-making
 
 Through making their own terrariums, students learn about the processes in the water cycle, such as evaporation and condensation. Through designing and building their terrariums, they are also able to express their creativity.
 
-![](/images/sciclub2-1024x538.jpg)
+
 
 **Making terrarium (Environmental Science)**
 
