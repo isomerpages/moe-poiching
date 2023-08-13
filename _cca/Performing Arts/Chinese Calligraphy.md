@@ -23,12 +23,23 @@ CL Modular Room
 
 ### CCA Teachers
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Overall Teacher-in-charge  |  | Mdm Xu Haiying
-|| |  xu_haiying@moe.edu.sg     |
-|Teacher-in-charge   |    |  Mdm Li Jiele    | 
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mdm Xu Haiying</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">xu_haiying@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;">Mdm Li Jiele</td>
+    </tr>
+    <tr>
+</tr></tbody>
+</table>
 
 	
 ### CCA Leaders
