@@ -22,19 +22,6 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 
 ### CCA Teachers
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Overall Teacher-in-charge  |  | 
-|| |       |
-|Teachers-in-charge   |    |      |
-|   |    |  Ms Evelyn Leow   |
-|   |    |  Ms Lee Suk Fun   |
-|   |    |  Mdm Yu Danning |
-|   |    |  Mdm Zhang Shuying |
-
-
-### CCA Teachers
-
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
@@ -46,12 +33,27 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
       <td style="border-bottom: 1px solid black;">khoo_wee_wee@moe.edu.sg </td>
     </tr>
     <tr>
-      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
-      </th><td style="border: none;">Mr Vincent Zheng  </td>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+           </th><td style="border: none;">Mr Vincent Zheng</td>
     </tr>
     <tr>
-</tr></tbody>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Evelyn Leow</td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Lee Suk Fun</td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mdm Yu Danning</td>
+    </tr>   
+		<tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mdm Zhang Shuying</td>
+  </tr></tbody>
 </table>
+ 
 
 ### CCA Leaders
 
