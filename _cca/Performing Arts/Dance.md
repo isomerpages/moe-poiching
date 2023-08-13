@@ -23,16 +23,6 @@ Dance Room / PAL Room
 
 ### CCA Teachers
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Overall Teacher-in-charge  |  | Mdm Wong Wenna
-|| |  wong_wenna@moe.edu.sg    |
-|Teachers-in-charge   |    |   Mrs Melissa Gomes     |
-|   |    |  Ms Janice Chuan Jia En   |
-|   |    |  Ms Hsu Tzu Chun   |
-
-### CCA Teachers
-
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
