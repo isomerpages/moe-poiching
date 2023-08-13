@@ -17,23 +17,41 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 |Thursday|2.00 pm to 5.00 pm |P2 - P5 |
 
 **Venue:**
- CO Room, Art Room 1 & 2
+ CO Room, Art Room 1 &amp; 2
 
 
 ### CCA Teachers
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Overall Teacher-in-charge  |  | Ms Khoo Wee Wee
-|| |  khoo_wee_wee@moe.edu.sg      |
-|Teachers-in-charge   |    |  Mr Vincent Zheng     |
+| Overall Teacher-in-charge  |  | 
+|| |       |
+|Teachers-in-charge   |    |      |
 |   |    |  Ms Evelyn Leow   |
 |   |    |  Ms Lee Suk Fun   |
 |   |    |  Mdm Yu Danning |
 |   |    |  Mdm Zhang Shuying |
 
 
+### CCA Teachers
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Ms Khoo Wee Wee</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">khoo_wee_wee@moe.edu.sg </td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
+      </th><td style="border: none;">Mr Vincent Zheng  </td>
+    </tr>
+    <tr>
+</tr></tbody>
+</table>
 
 ### CCA Leaders
 
@@ -48,13 +66,12 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 
 ### Accolades
 
-2018 – Singapore Youth Festival **( Gold )**
+2018 – Singapore Youth Festival&nbsp;**( Gold )**
 
-2016 – Singapore Youth Festival **( Gold )**
+2016 – Singapore Youth Festival&nbsp;**( Gold )**
 
-2014 – Singapore Youth Festival **(  Silver )**
+2014 – Singapore Youth Festival&nbsp;**(  Silver )**
 
-2012- Singapore Youth Festival **( Bronze )**
+2012- Singapore Youth Festival&nbsp;**( Bronze )**
 
-2010 – Singapore Youth Festival **( Silver )**
-
+2010 – Singapore Youth Festival&nbsp;**( Silver )**
