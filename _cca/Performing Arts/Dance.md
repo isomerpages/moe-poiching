@@ -31,7 +31,33 @@ Dance Room / PAL Room
 |   |    |  Ms Janice Chuan Jia En   |
 |   |    |  Ms Hsu Tzu Chun   |
 
+### CCA Teachers
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mdm Wong Wenna</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">wong_wenna@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+  </th>
+			<td style="border: none;">Mrs Melissa Gomes  </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Janice Chuan Jia En </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Hsu Tzu Chun </td>
+   
+  </tr></tbody>
+</table>
 
 
 ### CCA Leaders
