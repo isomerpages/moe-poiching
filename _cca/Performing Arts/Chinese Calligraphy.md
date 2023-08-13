@@ -34,7 +34,7 @@ CL Modular Room
       <td style="border-bottom: 1px solid black;">xu_haiying@moe.edu.sg</td>
     </tr>
     <tr>
-      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
       </th><td style="border: none;">Mdm Li Jiele</td>
     </tr>
     <tr>
