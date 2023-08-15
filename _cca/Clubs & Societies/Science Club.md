@@ -58,5 +58,3 @@ Science Labs
       <td style="border: none;">Mdm Tan Ching Ling Rachel </td>  
   </tr></tbody>
 </table>
-
-
