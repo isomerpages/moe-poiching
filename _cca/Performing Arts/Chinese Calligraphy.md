@@ -11,12 +11,26 @@ third_nav_title: Performing Arts
 
 ![](/images/calligraphy%20cover.jpg)
 
+
+
 ### Training Schedule
 
-|Day| Time | Level| 
-|-----|----|------|
-|Monday|2.00 pm to 4.00 pm |P3 - P6 |
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+    </tr>
+  </tbody>
+</table>
 
 **Venue:**
 CL Modular Room
@@ -42,13 +56,30 @@ CL Modular Room
 </table>
 
 	
-### CCA Leaders
 
-|Name | Class | Position     | 
-| -------- | -------- | -------- |
-|Zhang Junxin Louis    | 4P5    | Main Leader    |
-| Aik Yong Ni Jolies    | 5L6     | Vice Leader    |
+### Training Schedule
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Zhang Junxin Louis</td>
+      <td style="border: 1px solid black;">4P5</td>
+      <td style="border: 1px solid black;">Main Leader</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Aik Yong Ni Jolies</td>
+      <td style="border: 1px solid black;">5L6</td>
+      <td style="border: 1px solid black;">Vice Leader</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Accolades 
 
