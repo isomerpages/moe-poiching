@@ -13,9 +13,25 @@ Festive Drum and Chinese Opera are traditional visual performance art-forms that
 
 ### Training Schedule
 
-|Day| Time | Level| 
-|-----|----|------|
-|Monday|2.00 pm to 4.00 pm | P3 - P5|
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P5</td>
+    </tr>
+    </tbody>
+</table>
+
+
 
 
 **Venue:**
