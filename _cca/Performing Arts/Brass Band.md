@@ -6,8 +6,8 @@ third_nav_title: Performing Arts
 ---
 The Brass Band CCA aims to develop and enhance student's interest and appreciation of music. In our band, students will be provided with opportunities to work together in a team and have continuous exposure in music-making.
 
+![](/images/bandcover2.jpg)
 
-![](/images/brass%20band%20cover.jpg)
 
 ### Training Schedule
 
