@@ -11,10 +11,26 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 
 ### Training Schedule
 
-|Day| Time | Level| 
-|-----|----|------|
-|Monday|2.00 pm to 5.00 pm |P3 - P5 
-|Thursday|2.00 pm to 5.00 pm |P2 - P5 |
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P5</td>
+			    </tr><tr>
+      <td style="border: 1px solid black;">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P2 - P5</td>
+    </tr>
+    </tbody>
+</table>
 
 **Venue:**
  CO Room, Art Room 1 &amp; 2
@@ -57,13 +73,26 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 
 ### CCA Leaders
 
-
-|Name | Class | Position     | 
-| -------- | -------- | -------- |
-| Chow Le Xuan, Leshane     | 6J1     | Captain     |
-| Lau Wei Shan, Lynette     | 6J5     | Vice-Captain     |
-
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Chow Le Xuan, Leshane</td>
+      <td style="border: 1px solid black;">6J1</td>
+      <td style="border: 1px solid black;">Captain</td>
+			    </tr><tr>
+      <td style="border: 1px solid black;">Lau Wei Shan, Lynette</td>
+      <td style="border: 1px solid black;">6J5</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+    </tr>
+    </tbody>
+</table>
 
 
 ### Accolades
