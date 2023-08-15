@@ -10,77 +10,84 @@ Through an array of interesting activities, such as DNA extraction, toy-making a
 
 ![](/images/sciclub1.jpg)
 
-### Teachers-in-charge
+ ### Training Schedule
 
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mdm Dzaariny     | OIC     | dzaariny_koloos@moe.edu.sg     |
-| Ms Nur Amira      | Member     | nur_amira_syahidah_mazlan@moe.edu.sg     |
-| Mdm Tan Ching Ling Rachel     | Member    | tan_ching_ling_rachel@moe.edu.sg     |
 
-### Training Schedule
-
-|Date| Time | Primary| 
-|-----|----|------|
-|Thursday|2.00pm to 4.00pm |P3-P6|
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr><tr>
+      <td style="border: 1px solid black;">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+    </tr>
+    </tbody>
+</table>
 
 
 **Venue:**
- Science Labs
- 
-### Key Programmes
+Science Labs
 
 
-**Life Science**
+### CCA Teachers
 
-**DNA Extraction**
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mdm Dzaariny</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">dzaariny_koloos@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+  </th>
+			<td style="border: none;">Ms Nur Amira  </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mdm Tan Ching Ling Rachel </td>  
+  </tr></tbody>
+</table>
 
-The ability to&nbsp;extract DNA&nbsp;is of primary importance to studying the genetic causes of disease and for the development of diagnostics and drugs. It is also essential for carrying out forensic science, sequencing genomes, detecting bacteria and viruses in the environment and for determining paternity.
 
-Workshops were conducted to help students learn about the latest Life Sciences developments and to perform mini-experiments to extract DNA.
+### CCA Leaders
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Ong SI Yuan, Charlotte</td>
+      <td style="border: 1px solid black;">6J1</td>
+      <td style="border: 1px solid black;">Captain</td>
+			    </tr><tr>
+      <td style="border: 1px solid black;">Charmaine Ho</td>
+      <td style="border: 1px solid black;">6J3</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+						 </tr><tr>
+      <td style="border: 1px solid black;">Ong Min Hui</td>
+      <td style="border: 1px solid black;">5L5</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+							  </tr><tr>
+      <td style="border: 1px solid black;">Kezenn Chow</td>
+      <td style="border: 1px solid black;">5L5</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+    </tr>
+    </tbody>
+</table>
 
-
-**DNA Extraction Experiment**
-
-Community In Bloom
-
-The Community in Bloom (CIB) programme by National Parks aims to foster a community spirit and bring together residents, both young and old, to make Singapore our garden. Through this programme, we hope to instil a love for horticulture in students with their engaging gardening activities and watch them become more involved in the school garden. This programme also encourages self-directed learning among students, helping them develop science process skills, project management skills, and teamwork and entrepreneurial skills.
-
-Terrarium-making
-
-Through making their own terrariums, students learn about the processes in the water cycle, such as evaporation and condensation. Through designing and building their terrariums, they are also able to express their creativity.
-
-
-
-**Making terrarium (Environmental Science)**
-
-Aquaponics
-
-In 2017, the Science Club embarked on an aquaponics enrichment programme where they learnt how fishes and plants can depend on each other to survive happily. Pupils had the opportunity to rear fishes and grow edible vegetables indoors and at the same time, learn about sustainability and ownership. They even harvested Kang Kong which they could bring back to cook!
-
-### Applied &amp; Creative Science
-
-Toy-making and designing
-
-Workshops were conducted to help students dream up fantastic toy ideas, unleash their creativity and build their very own toys. Members go through the process of self-discovery whilst inventing a unique toy in a supportive environment, helping them develop lateral thinking skills and confidence through their inventions.
-
-![](/images/sciclub3.jpg)
-
-**Toy Design Workshops – Magnetic Dancing Doll**
-
-Science Learning Cards
-
-The Science Club members also carry out the projects in the Science Learning Cards. Through the Learning Cards, they are given the opportunity to extend their learning of Science and exercise their creativity.
-
-![](/images/sciclub4.jpg)
-
-**Science Learning Cards – the making of simple electromagnet**
-
-![](/images/sciclub6-768x549.jpg)
-
-**Science Learning Cards – Making of toy boats using recyclables**
-
-### Photo Gallery
-
-![](/images/eco.jpg)
