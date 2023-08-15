@@ -60,34 +60,3 @@ Science Labs
 </table>
 
 
-### CCA Leaders
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Name</th>
-      <th style="border: 1px solid black;">Class</th>
-      <th style="border: 1px solid black;">Position</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid black;">Ong SI Yuan, Charlotte</td>
-      <td style="border: 1px solid black;">6J1</td>
-      <td style="border: 1px solid black;">Captain</td>
-			    </tr><tr>
-      <td style="border: 1px solid black;">Charmaine Ho</td>
-      <td style="border: 1px solid black;">6J3</td>
-      <td style="border: 1px solid black;">Vice-Captain</td>
-						 </tr><tr>
-      <td style="border: 1px solid black;">Ong Min Hui</td>
-      <td style="border: 1px solid black;">5L5</td>
-      <td style="border: 1px solid black;">Vice-Captain</td>
-							  </tr><tr>
-      <td style="border: 1px solid black;">Kezenn Chow</td>
-      <td style="border: 1px solid black;">5L5</td>
-      <td style="border: 1px solid black;">Vice-Captain</td>
-    </tr>
-    </tbody>
-</table>
-
