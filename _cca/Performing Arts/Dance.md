@@ -12,10 +12,28 @@ Through dance, we look into ourselves and explore ways to express our thoughts a
 
 ### Training Schedules
 
-|Day| Time | Level| 
-|-----|----|------|
-|Monday|2.00 pm to 4.30 pm |P2 - P5 
-|Thursday|2.00 pm to 4.30 pm |P2 - P5 |
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.30 pm</td>
+      <td style="border: 1px solid black;">P3 - P5</td>
+			    </tr><tr>
+      <td style="border: 1px solid black;">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.30 pm</td>
+      <td style="border: 1px solid black;">P2 - P5</td>
+    </tr>
+    </tbody>
+</table>
+
 
 **Venue:**
 Dance Room / PAL Room
@@ -52,14 +70,34 @@ Dance Room / PAL Room
 
 ### CCA Leaders
 
-
-|Name | Class | Position     | 
-| -------- | -------- | -------- |
-| Ong Si Yuan, Charlotte    | 6J1     | Captain     |
-| Charmaine Ho    | 6J3     | Vice-Captain     |
-| Ong Min Hui   | 5L5    | Vice-Captain     |
-| Kezenn Chow    | 5L5     | Vice-Captain     |
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Ong SI Yuan, Charlotte</td>
+      <td style="border: 1px solid black;">6J1</td>
+      <td style="border: 1px solid black;">Captain</td>
+			    </tr><tr>
+      <td style="border: 1px solid black;">Charmaine Ho</td>
+      <td style="border: 1px solid black;">6J3</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+						 </tr><tr>
+      <td style="border: 1px solid black;">Ong Min Hui</td>
+      <td style="border: 1px solid black;">5L5</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+							  </tr><tr>
+      <td style="border: 1px solid black;">Kezenn Chow</td>
+      <td style="border: 1px solid black;">5L5</td>
+      <td style="border: 1px solid black;">Vice-Captain</td>
+    </tr>
+    </tbody>
+</table>
 
 ### Accolades
 
