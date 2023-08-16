@@ -4,11 +4,14 @@ permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/art1.jpg)
+
 
 ### Introduction
 
-Poi Ching School Art Club aims to cultivate the love and appreciation of visual arts in our members by fostering individual creative expression and honing their artistic skills through fun and engaging art making processes. They will be equipped with art-making techniques and knowledge through the exposure and experimentation of a wide array of art experiences with a variety of art making tools and art mediums.
+Poi Ching School Art Club aims to cultivate the love and appreciation of visual arts in our members by fostering individual creative expression and honing their artistic skills through fun and engaging art making processes. 
+
+
+![](/images/art1.jpg)
 
 ### Teachers-in-charge
 
