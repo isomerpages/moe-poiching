@@ -57,4 +57,26 @@ Art Rooms
      </tbody>
 </table>
 
+### CCA Leaders
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Sophia Tan Shi Han</td>
+      <td style="border: 1px solid black;">6J4</td>
+      <td style="border: 1px solid black;">Chairman</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Tyanni Loy Jui Diam</td>
+      <td style="border: 1px solid black;">5L6</td>
+      <td style="border: 1px solid black;">Vice-Chairman</td>
+    </tr>
+  </tbody>
+</table>
