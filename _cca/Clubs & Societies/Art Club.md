@@ -78,3 +78,13 @@ Art Rooms
     </tr>
   </tbody>
 </table>
+
+### Accolades
+
+**SYF 2023** <br> 
+*  Certificate of Recognition (Category A)<br>
+*  Certificate of Participation (Category C)
+
+**SYF 2021** <br> 
+* Certificate of Recognition (Category B &amp; C)<br>
+* Certificate of Participation (Category A)
