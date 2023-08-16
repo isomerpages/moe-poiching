@@ -79,17 +79,17 @@ Rockwall &amp; 3M1 Classroom
   <tbody>
     <tr>
       <td style="border: 1px solid black;">Jade Lee Zhi Xuan</td>
-      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;">5L4</td>
       <td style="border: 1px solid black;">Captain</td>
     </tr>
     <tr>
       <td style="border: 1px solid black;">Chen Minrui Joelle</td>
-      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;">5L2</td>
       <td style="border: 1px solid black;">Vice-Captain</td>
     </tr>
 		  <tr>
       <td style="border: 1px solid black;">Cheah Wei Kai Lucas</td>
-      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;">5L6</td>
       <td style="border: 1px solid black;">Vice-Captain</td>
     </tr>
   </tbody>
