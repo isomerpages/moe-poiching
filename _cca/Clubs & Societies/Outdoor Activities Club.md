@@ -96,12 +96,9 @@ Rockwall &amp; 3M1 Classroom
 </table>
 
 
-### Accolades &amp; Completed Events
+### Accolades 
 
-**Accolades**
 
-**NPSSCC 2022 Team Awards**
-
+**NPSSCC 2022 Team Awards**  <br>
 Junior Girls Division - 3rd
-
 
