@@ -96,8 +96,6 @@ Band Room
 </table>
 
 
-
-
 ### Accolades
 
 SYF 2022 - Performance (participation without benchmark)
