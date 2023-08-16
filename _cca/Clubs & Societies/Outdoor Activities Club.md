@@ -4,115 +4,69 @@ permalink: /cca/Clubs-and-Societies/outdoor-activities-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+ODAC (OutDoor Activities Club) was set up to promote awareness and appreciation of the outdoors. 
+
+Through engaging in outdoor activities, we aim to increase the pupils’ knowledge and awareness about the outdoor world and develop their skills to address challenges in a changing environment. 
+<br><br>
 ![](/images/ODAC_website_logo_with_color.jpg)
 
-### Teachers-in-charge
 
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Ms Faezah     | OIC     | faezah_abdul_samad@moe.edu.sg     |
-| Mdm Noraishah      | Member     | noraishah_mhd_ayob@moe.edu.sg     |
-| Mr Jais     | Member    | mohd_jais_ahmad@moe.edu.sg     |
+
 
 ### Training Schedule
 
-|Date| Time | Primary| 
-|-----|----|------|
-|Monday|2.00pm-4.00pm |P3-P6|
-||2.00pm-5.00pm |Learning Journey/ External Training|
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: none;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+			</tr>
+		    <tr>
+      <td style="border: none; border-right: 1px solid black">
+      </td><td style="border: none;">2.00 pm to 5.00 pm </td>
+		 <td style="borderborder: 1px solid black;">Learning Journey / External Training</td>
+			</tr>
+		
+
+  </tbody>
+</table>
 
 
 **Venue:**
- Rockwall &amp; 3M1 Classroom
-![](/images/Capture.jpg)
+Rockwall &amp; 3M1 Classroom
 
-### Introduction
+### CCA Teachers
 
-ODAC (OutDoor Activities Club) was set up to promote awareness and appreciation of the outdoors. Our focus is in 3 main areas: outdoor education, sports climbing and the spirit of adventure.
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Ms Faezah</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">faezah_abdul_samad@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;">Mdm Noraishah</td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mr Jais</td>
+        </tr>
+  </tbody>
+</table>
 
-ODAC has organized overnight camps in school as well as public parks in our outdoor programmes.&nbsp; Nature walks and treasure hunts in Tampines Eco Green, Pasir Ris Park and Bukit Timah Nature Reserve have been conducted as part of values-in-action education and development of a sense of belonging to our environment .
 
-These outdoor activities aim to increase the pupils’ knowledge and awareness about the outdoor world and develop their skills to address challenges in a changing environment. We encourage pupils to develop attitudes to make informed decisions and take responsible action in the face of these challenges.
-
-Our focus is to use outdoor experience to foster the whole child’s willingness to try out new things and take calculated risks to appreciate the world around them.
-
-![](/images/odac%201.jpg)
-Kite-flying activity at Marina Barrage.
-
-![](/images/odac%202.jpg)
-
-![](/images/odac%203.jpg)
-Junior girls came in 3rd in team competition.
-
-![](/images/odac%204.jpg)
-
-![](/images/odac%205.jpg)
-
-![](/images/odac%205.jpg)
-
-![](/images/odac%206.jpg)
-
-![](/images/odac%207.jpg)
-
-![](/images/odac%208.jpg)
-
-![](/images/odac%209.jpg)
-
-![](/images/odac%2010.jpg)
-
-![](/images/odac%2011.jpg)
-
-![](/images/odac%2012.jpg)
-
-![](/images/odac%2013.jpg)
-
-![](/images/odac%2014.jpg)
-
-![](/images/odac%2015.jpg)
-Training at Rock School at Our Tampines Hub.
-
-![](/images/odac%2016.jpg)
-
-![](/images/odac%2017.jpg)
-
-![](/images/odac%2018.jpg)
-
-![](/images/odac%2019.jpg)
-
-![](/images/odac%2020.jpg)
-Exploring nature at Rifle Range Nature Walk.
-
-![](/images/odac%2021.jpg)
-
-![](/images/odac%2022.jpg)
-
-![](/images/odac%2023.jpg)
-Going through an obstacle course at a playground at East Coast Park.
-
-![](/images/odac%2024.jpg)
-Outdoor cooking at PCS.
-
-![](/images/odac%2025.jpg)
-Designing their own kites for kite-flying activity at Marina Barrage.
-
-**Outdoor Cooking**
-
-Our students were immersed in outdoor cooking and learnt lifeskills. Not only do they get to cook, they also made the realisation that they can always be creative with their menu even in the outdoors. Our students went through a week of planning their menu before creating their masterpiece and enjoying the fruits of their labour.
-
-![](/images/Outdoor2020-5.jpg)
-
-**Rock Climbing**
-
-With our very own rock wall, ODAC CCA also heavily participate in rock climbing and bouldering. Our students take part in the yearly National School Sports Climbing Competition. Apart from competitions, our students also climb in various rock climbing gyms such as Climb Central, The Rock School and Hougang Primary School rock wall.
-
-![](/images/Outdoor2020.jpg)
-![](/images/Outdoor2020-2.jpg)
-
-**Outdoor Education**
-
-Our students also learn a few outdoor skills including navigation, topography, knot tying and map reading.
-
-![](/images/Outdoor2020-3.jpg)
 
 ### Accolades &amp; Completed Events
 
