@@ -32,10 +32,8 @@ Poi Ching School Art Club aims to cultivate the love and appreciation of visual 
     </tbody>
 </table>
 
-
 **Venue:**
 Art Rooms
-
 
 ### CCA Teachers
 
