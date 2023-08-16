@@ -98,7 +98,8 @@ Rockwall &amp; 3M1 Classroom
 
 ### Accolades 
 
+**NPSSCC 2023 Team Awards**  <br>
+Senior Boys Division - 3rd
 
 **NPSSCC 2022 Team Awards**  <br>
 Junior Girls Division - 3rd
-
