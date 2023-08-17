@@ -11,7 +11,7 @@ third_nav_title: Staff Directory
 |Ms Law Mei Fun		|law_mei_fun@moe.edu.sg|
 |Ms Vanessa Tan		|vanessa_tan_suan_yen@moe.edu.sg|
 |Mdm Rozidah		|rozidah_jaffar@moe.edu.sg|
-|Ms Cheong Shi Min		|Cheong_shi_min@moe.edu.sg|
+|Ms Cheong Shi Min		|cheong_shi_min@moe.edu.sg|
 |Ms Lau Ee Shan		|rozidah_jaffar@moe.edu.sg|
 |Mr Marcus Choy	|rozidah_jaffar@moe.edu.sg|
 |Mdm Nurain	|rozidah_jaffar@moe.edu.sg|
