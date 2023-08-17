@@ -4,47 +4,82 @@ permalink: /cca/Performing-Arts/chinese-calligraphy/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Teachers-in-charge
+通过学习书法，了解中华文化。
+
+练习书写毛笔字，锻炼坚韧意志
 
 
-| Names | Roles | Email |
-| -------- | -------- | -------- |
-|Mdm Xu Haiying    | OIC     | xu_haiying@moe.edu.sg     |
-Mdm Li Jiele    | Member     | li_jiele@moe.edu.sg     | 
- 
-
-### Coach
-
-**Hua Yi Cultural Pte. Ltd.** 
-* Ma Shuanglu
+![](/images/calligraphy%20cover.jpg)
 
 
-
-### Introduction
-
-Chinese Calligraphy Club is established to promote Chinese Calligraphy in Poi Ching School. Weekly calligraphy classes are conducted for students to increase their Chinese Calligraphy proficiency.
-
-**Learning Chinese Calligraphy can shape students’ character.**
-
-***Diligence and Perseverance:***
-
-Calligraphy is a fine art. Students need to focus, observe and analyze the characters’ structure carefully, then control their brushes to write the words. Calligraphy is the result of hard work. Students are required to persevere, overcome the difficulties and practise writing conscientiously.
-
-***Modesty and Excellence:***
-
-During competition, students have the opportunity to appreciate outstanding writings, as the Chinese saying goes “天外有天”, thus training the students to be &nbsp;humble and to strive for excellence.
-
-Each year, we send members to various competitions organized by Chinese Calligraphy Society, Cluster Centre of Excellence (Chinese Cultural Arts), community clubs and schools.
-
-The club also sent students’ calligraphy works to participate in exhibitions so as to provide students with more avenues to appreciate calligraphy. Students’ achievements are definitely something that the club takes pride in.
 
 ### Training Schedule
 
-Mondays: 2.00 pm to 4.00 pm
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+    </tr>
+  </tbody>
+</table>
 
 **Venue:**
 CL Modular Room
-<br>
+
+### CCA Teachers
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mdm Xu Haiying</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">xu_haiying@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
+      </th><td style="border: none;">Mdm Li Jiele</td>
+    </tr>
+    <tr>
+</tr></tbody>
+</table>
+
+	
+
+### Training Schedule
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Zhang Junxin Louis</td>
+      <td style="border: 1px solid black;">4P5</td>
+      <td style="border: 1px solid black;">Main Leader</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Aik Yong Ni Jolies</td>
+      <td style="border: 1px solid black;">5L6</td>
+      <td style="border: 1px solid black;">Vice Leader</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Accolades 
 
@@ -56,7 +91,7 @@ CL Modular Room
 | -------- | -------- | -------- |
  Liang Shumiao |6J5    | 2nd place in Group A
 
-<br>
+
 
 **Ngee Ann National Students' Calligraphy Competition organised by  Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi**<br>
 
@@ -77,7 +112,6 @@ CL Modular Room
 |Yap Xue Ping Lerin |5E   | Merit    |
 |Li Jingxi Jessie |3E    | Consolation   |
 
-<br>
 
  **32nd National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
  
@@ -85,7 +119,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 |Liang Shumiao |4E    | Merit    |
 
-<br>
 
 **N Cube National Chinese Calligraphy Competition 2021 (Inkception)  (第一届 N 立方全国书法大赛元墨启行)**<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
 
@@ -93,7 +126,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 |Quek Ruoqi Kelly  |4D    | Consolation   |
 
-<br>
 
 **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni** <br>
 
@@ -109,75 +141,3 @@ CL Modular Room
 |Tong Wing Shi |6G    | Consolation    |
 
 <br>
-
-**2020**
-
-
-**9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》培青学校与福清会馆联办
-
-|  Name| Class   |Award |
-| -------- | -------- | -------- |
-|Olivia Ler |5E    | Merit    |
-|Lin Tzu-Yu |6F    | Merit    |
-|Chang Zhi Han |6C    | Merit   |
-
-<br>
-
-**31st National Schools Chinese Calligraphy Competition**第三十一届全国学生书法比赛
-
-|  Name| Class   |Award |
-| -------- | -------- | -------- |
-|Lin Tzu-Yu |6F    | Merit    |
-|Claudia Goh Zhe Min |6F    | Merit    |
-|Yong Siew Hwee Esther |6F    | Merit    |
-
-<br>
-
-**Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools**  年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
-
-|  Name| Class   |Award |
-| -------- | -------- | -------- |
-|Claudia Goh Zhe Min|6F    | Merit   |
-|Lin Tzu-Yu |6F    | Merit   |
-
-
-### Photo Gallery
-
-**2023**
-*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni**
-![](/images/calligraphy%201.PNG)
-![](/images/calligraphy%202.PNG)
-
-**2021**
-* **10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School** 第十届全国中、小学书法比赛《翰墨逸香迎国庆》培青学校与福清会馆联办
-![](/images/10th-National-Chinese-Caligraphy-1024x768.jpg)
-<br>
-
-* **32nd National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;**
-![](/images/cali2021-2-1024x888.jpg)
-<br> 
-
-* **N Cube National Chinese Calligraphy Competition 2021 (Inkception)** <br> (第一届 N 立方全国书法大赛元墨启行)<br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee
-![](/images/cali2021-1-1024x888.jpg)
-<br>
-
-*  **National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni**
-
-
-![](/images/WhatsApp-Image.jpg)
-
-**2020**
-
-* **9th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School**
-
-![](/images/WhatsApp-Image-2020-11-13.jpg)
-<br>
-* **31st National Schools Chinese Calligraphy Competition 第三十一届全国学生书法比赛**
-
-
-![](/images/WhatsApp-Image-2020-11-13-.jpg)
-<br>
-
-* **Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition for Primary and Secondary Schools** 年度张瘦石全国中小学书画展 《神思涌现 墨彩飞扬》
-
-![](/images/WhatsApp-Image-2020-11-13-at-13.jpg)

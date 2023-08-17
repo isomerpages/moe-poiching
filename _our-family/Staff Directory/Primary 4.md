@@ -53,8 +53,8 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:khairul_annuar_ibrahim_alsagoff@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">khairul_annuar_ibrahim_alsagoff@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Ji Xiaoyi (4P4)</td>
-    <td class="tg-y5j8"><a href="mailto:ji_xiao_yi@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ji_xiao_yi@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Ms Woo Ying Teng (4P4)</td>
+    <td class="tg-y5j8"><a href="mailto:woo_ying_teng@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">woo_ying_teng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn">Ms Nur Amira (4P5)</td>
@@ -67,7 +67,7 @@ third_nav_title: Staff Directory
   <tr>
     <td class="tg-1ppo">Mdm Suseila (4P6)</td>
     <td class="tg-y5j8"><a href="mailto:k_suseila@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">k_suseila@moe.edu.sg</span></a></td>
-		<tr>
+		</tr><tr>
     <td class="tg-h5mn">Mr Ng Theng Hian (4P6)</td>
     <td class="tg-al0j"><a href="mailto:ng_theng_hian@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ng_theng_hian@moe.edu.sg</span></a></td>
   </tr>

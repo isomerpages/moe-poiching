@@ -4,87 +4,116 @@ permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-### Introduction
-
-The world is getting increasingly inter-connected.&nbsp; In merely a few decades since the advent of the first computer, the speed of and reliance on computing has been growing exponentially over the years.&nbsp; Smartphones, tablets and other gizmos are becoming increasingly ubiquitous.&nbsp; Information and communication technology (ICT) has become the backbone of modern living.
-
 The PCS InfoComm Club endeavors to nurture its members,&nbsp;guided by the school core values, to:
 
 *   be at the forefront of technology;
 *   to eventually write codes to solve problems in their studies, their lives, and even benefit society at large.
 
-This year, 2020, we are embarking our kids to new area of Information communication Technology, which are Scratch Coding, Web Development skills and for the elder kids like P6 students, we are introducing them some AI knowledge and skills for kids.
-
-### Teachers-in-charge
-
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mdm Li Jing     | OIC     | li_jing_b@moe.edu.sg     |
-| Mr Chang      | Member     | chang_cheng_liang@moe.edu.sg     |
-| Mdm Khadijah     | Member    | khadijah_mohammed_iqbal@moe.edu.sg     |
-
-### Student leadership roles
-| Appointment | Name | Class |
-| -------- | -------- | -------- |
-| Chairman     | Wong Yu Xin   | 6J1     |
-| Vice Chairman     | Lee Hui Re    | 6J3     |
-| Vice Chairman     | Louis Chen    | 6J3     |
+ ![](/images/infocomm%202.jpg)
 
 ### Training Schedule
 
-|Date| Time | Primary| 
-|-----|----|------|
-|Monday|2.00pm-4.00pm |P3-P6|
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+    </tr>
+      </tbody>
+</table>
 
 
 **Venue:**
- Computer Labs
- 
- ![](/images/infocomm%206.jpg)
- ![](/images/infocomm%202.jpg)
- ![](/images/infocomm%203.jpg)
- ![](/images/infocomm%204.jpg)
- ![](/images/infocomm%205.jpg)
+Computer Labs
 
-![](/images/ICT-Club2020.jpg)
+### CCA Teachers
 
-Accolades
----------
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mdm Li Jing</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">li_jing_b@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;">Mr Chang</td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mdm Khadijah</td>
+    </tr>
+      </tbody>
+</table>
+
+
+
+	
+### CCA Leaders
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Wong Yu Xin</td>
+      <td style="border: 1px solid black;">6J1</td>
+      <td style="border: 1px solid black;">Chairman</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Lee Hui Re</td>
+      <td style="border: 1px solid black;">6J3</td>
+      <td style="border: 1px solid black;">Vice-Chairman</td>
+    </tr>
+		 <tr>
+      <td style="border: 1px solid black;">Louis Chen /td&gt;
+      </td><td style="border: 1px solid black;">6J3</td>
+      <td style="border: 1px solid black;">Vice-Chairman</td></tr>
+  </tbody>
+</table>
+
+
+### Accolades
+
 
 **4th&nbsp;National Coding Competition (2018)**
+* Team 1 : Bronze Award
+* Team 2: Silver Award
 
-The NCC was held on 28 June 2018 at Springfield Secondary School (for East and South Zone schools) and Montfort Secondary School (for North and West Zone schools). Our school sent in 2 teams to take part in the competition. Their task was to code a Scratch 2.0 game ([https://scratch.mit.edu/](https://scratch.mit.edu/)&nbsp;) within 2.5 hrs in a computer lab without internet access. The theme was “Living with Robots”.
 
-The official results for the competition was released on 20 July. One of the teams won&nbsp;**Silver Award**, and the other team won&nbsp;**Bronze Award**.
+**3rd&nbsp;National Coding Competition (2017)**
 
-![](/images/ICT1.png)
+* Team 1 : Bronze Award
+* Team 2: Bronze Award
 
-**3rd&nbsp;National Coding Competition 2017**
-
-The 2 teams from our school’s InfoComm Club had been awarded the Bronze Award for their participation in the National Coding Competition held on 29 June 2017 at Springfield Secondary School.&nbsp; In this competition, participants were required to create a game in&nbsp;[Scratch 2.0](https://wiki.scratch.mit.edu/wiki/Scratch_2.0)&nbsp;surrounding the theme of Cloud Computing. Congratulations to the boys!&nbsp; Special thanks to the pupils’ parents who had rendered their support to the boys during the June school holidays as they went about their preparation for the competition.
-
-![](/images/ICT2.png)
 
 **KIDS’s Hackathon (2016)**
 
-Our PCS Team 1 clinched the&nbsp;top prize at&nbsp;**IDA Kids’ Hackathon 2016**!&nbsp; .&nbsp; The event was held at Suntec City Convention Centre on Saturday 21 May 2016.&nbsp; They were the only team who&nbsp;had&nbsp;managed&nbsp;to complete&nbsp;**all**&nbsp;the assigned tasks, and&nbsp;in record time, scoring&nbsp;a perfect score of&nbsp;150/150.
-
-![](/images/IDA-Kids-Hackathon-2016.jpg)
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 489.899px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 494.899px;"><em style="box-sizing: inherit;">From left to right, they are Zachary Ng (5F), Moses Kong Hao Sheng (5C), Charlotte Ho (5F) and Naomi Ling En Yi (5F)</em></td></tr></tbody></table>
+* Team 1: Top Prize 
 
 
 **Code For Fun Competition (2015)**
 
-TAN CHONG YI, RYAN (5C), &nbsp;TAN DE EN (5D), &nbsp;TAN WEI HAO (5E) and LIN YIXIN MELISSA (5E) were awarded the Bronze Award for the inaugural Code For Fun Competition organized by Springfield Secondary School. &nbsp;The competition was held on 10 July 2015 while the award ceremony was held just last Friday, 28 September 2015.
+* Bronze Award
 
-The objectives of the competition are: (1) to provide a platform for Primary School pupils to develop an interest in computer programming through game development and &nbsp;(2) to provide an opportunity for pupils to showcase their work and hone their presentation and communication skills.
 
 **E1 Cluster ICT Journalism/Photography Competition (2014)**
 
-Our InfoComm Club pupils had won the Best Creativity award from the E1 Cluster ICT Journalism/Photography Competition which was held for P4 to secondary school students on 9 and 10 September 2014.
+* Best Creativity award 
 
-Congratulations to these pupils:
-
-1.  Ryan Tan
-2.  Keith Tan
-3.  He Qixin
