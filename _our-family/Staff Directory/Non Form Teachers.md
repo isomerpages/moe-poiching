@@ -12,7 +12,7 @@ third_nav_title: Staff Directory
 |Ms Vanessa Tan		|vanessa_tan_suan_yen@moe.edu.sg|
 |Mdm Rozidah		|rozidah_jaffar@moe.edu.sg|
 |Ms Cheong Shi Min		|cheong_shi_min@moe.edu.sg|
-|Ms Lau Ee Shan		|rozidah_jaffar@moe.edu.sg|
+|Ms Lau Ee Shan		|lau_ee_shan@moe.edu.sg|
 |Mr Marcus Choy	|marcus_choy_zheng_hoe@moe.edu.sg|
 |Mdm Nurain	|nurul_amirah_amir@moe.edu.sg|
 |Ms Ong Yi Ting		|ong_yi_ting@moe.edu.sg|
