@@ -17,3 +17,4 @@ third_nav_title: Staff Directory
 |Mdm Nurain	|nurul_amirah_amir@moe.edu.sg|
 |Ms Ong Yi Ting		|ong_yi_ting@moe.edu.sg|
 |Mrs Junie Seetor		|wong_xing_min_junie@moe.edu.sg|
+|Mrs Joyce Goh		|joyce_teh_kiam_peng@moe.edu.sg|
