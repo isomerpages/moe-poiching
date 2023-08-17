@@ -15,5 +15,5 @@ third_nav_title: Staff Directory
 |Ms Lau Ee Shan		|rozidah_jaffar@moe.edu.sg|
 |Mr Marcus Choy	|rozidah_jaffar@moe.edu.sg|
 |Mdm Nurain	|nurul_amirah_amir@moe.edu.sg|
-|Ms Ong Yi Ting		|rozidah_jaffar@moe.edu.sg|
+|Ms Ong Yi Ting		|ong_yi_ting@moe.edu.sg|
 |Mrs Junie Seetor		|rozidah_jaffar@moe.edu.sg|
