@@ -41,7 +41,11 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-xyrl">Ms Lin Haijiao</td>
-    <td class="tg-xyrl">Administration Manager</td>
+    <td class="tg-xyrl">Administration Manager 1</td>
+  </tr>
+  <tr>
+		    <td class="tg-xyrl">Ms Lim Hui Fong</td>
+    <td class="tg-xyrl">Administration Manager 2</td>
   </tr>
   <tr>
     <td class="tg-tsok">Mdm Elsie Yeong</td>
