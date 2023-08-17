@@ -47,8 +47,8 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:un_yih_miin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">melissa_hoeden@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Junie Seetor (3M3)</td>
-    <td class="tg-y5j8"><a href="mailto:wong_xing_min_junie@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">wong_xing_min_junie@moe.edu.sg</span></a></td>
+    <td class="tg-1ppo">Mdm Ra'idah (3M3)</td>
+    <td class="tg-y5j8"><a href="mailto:raidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">raidah_rahmat@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn">Mdm Amalina (3M4)</td>
