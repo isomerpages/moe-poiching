@@ -60,11 +60,11 @@ third_nav_title: Staff Directory
     <td class="tg-xyrl">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Wilson Li</td>
-    <td class="tg-tsok">ICT Manager</td>
+    <td class="tg-tsok">Mr Wong Chee Wee</td>
+    <td class="tg-tsok">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mr Wong Chee Wee</td>
+    <td class="tg-xyrl">Mr Mohamed Alif Bin Abdul Hamid</td>
     <td class="tg-xyrl">Desktop Engineer</td>
   </tr>
   <tr>
@@ -111,4 +111,4 @@ third_nav_title: Staff Directory
 </table>
 
 
-**School Contact:** [contact@poiching.moe.edu.sg](mailto:contact@poiching.moe.edu.sg)
+**School Contact:**&nbsp;[contact@poiching.moe.edu.sg](mailto:contact@poiching.moe.edu.sg)
