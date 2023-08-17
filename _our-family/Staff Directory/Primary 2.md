@@ -82,8 +82,8 @@ third_nav_title: Staff Directory
 			</span>lin_feng@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mdm Nurain Amirah (2S8)</td>
-    <td class="tg-al0j"><a href="mailto:nurain_amirah_abdul_rahim@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>nurain_amirah_abdul_rahim@moe.edu.sg</a></td>
+    <td class="tg-h5mn">Mrs Lim Cassandra (2S8)</td>
+    <td class="tg-al0j"><a href="mailto:tan_jingyi@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>tan_jingyi@moe.edu.sg</a></td>
   </tr>
 	  <tr>
     <td class="tg-1ppo">Mdm Liang Hong Bing (2S8)</td>
