@@ -4,10 +4,9 @@ permalink: /cca/Performing-Arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-Poi Ching School Chinese Orchestra serves as a platform for students who have passion and interest in Chinese instruments to showcase their talents. Students will be given opportunities to develop core values such as modesty, integrity, loyalty and excellence during the CCA. 
+The Chinese Orchestra (CO) aims to inculcate the importance, appreciation and interest in Chinese Orchestra music in our Poi Ching pupils. Through CO, our pupils learn the values of mutual respect, team work and character development in their quest for music-making and joy for learning.
 
-
-![](/images/co%20cover.jpg)
+![](/images/co%20main.jpg)
 
 ### Training Schedule
 
@@ -33,7 +32,7 @@ Poi Ching School Chinese Orchestra serves as a platform for students who have pa
 </table>
 
 **Venue:**
- CO Room, Art Room 1 &amp; 2
+ Chinese Orchestra Room
 
 
 ### CCA Teachers
