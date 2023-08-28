@@ -21,9 +21,7 @@ Through engaging in outdoor activities, we aim to increase the pupils’ knowled
       <th style="border: 1px solid black;">Day</th>
       <th style="border: 1px solid black;">Time</th>
       <th style="border: none" width="200">Level</th>
-	
-    </tr>
-    
+	    </tr>
   </thead>
   <tbody>
     <tr>
@@ -37,9 +35,7 @@ Through engaging in outdoor activities, we aim to increase the pupils’ knowled
 			<td style="border:1px solid black;">2.00 pm to 5.00 pm </td>
 		 <td style="border:1px solid black;">Learning Journey / External Training</td>
 			</tr>
-		
-
-  </tbody>
+		  </tbody>
 </table>
 
 
