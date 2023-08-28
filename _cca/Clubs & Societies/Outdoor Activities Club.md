@@ -30,11 +30,11 @@ Through engaging in outdoor activities, we aim to increase the pupils’ knowled
       <td style="border: 1px solid black"> P3 - P6</td>
 				</tr>
 		    <tr>
-      <td style="border: none; border-right: 1px solid black">
+      <td style="border-right: 1px solid black">
       </td>
-			<td style="border:1px solid black;">2.00 pm to 5.00 pm </td>
-		 <td style="border:1px solid black;">Learning Journey / External Training</td>
-			</tr>
+		<td style="border none;">2.00 pm to 5.00 pm</td>
+      <td style="border none;"> Learning Journey / External Training</td>
+								</tr>
 		  </tbody>
 </table>
 
