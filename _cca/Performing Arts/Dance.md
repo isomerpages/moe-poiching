@@ -63,8 +63,16 @@ Dance Room / PAL Room
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">Ms Hsu Tzu Chun </td>
-   
-  </tr></tbody>
+     </tr>
+	    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Ivy Wong </td>
+     </tr>
+		    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Vanessa Tan </td>
+     </tr>
+		</tbody>
 </table>
 
 
