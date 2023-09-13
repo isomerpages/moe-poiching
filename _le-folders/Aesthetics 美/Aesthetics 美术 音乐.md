@@ -6,7 +6,7 @@ third_nav_title: Aesthetics 美
 ---
 ### Main Pedagogy/Teaching Strategies
 
-![](/images/main-pedagogy_teaching.png)
+
 
 The Arts is integral to the holistic development of our children. It contributes to their development of an understanding of the physical, emotional, intellectual, aesthetic, social, moral and spiritual dimensions of human experience. The role of arts education is central in developing in our children a lively curiosity and an inquisitive mind. This is essential as it promotes inventive thinking and an innovative orientation in what they do. According to Bloom’s Revised Taxonomy, creativity is the highest rung of the cognitive ladder. Arts practitioners form original thoughts, create original works, and share the knowledge of their own creativity on a daily basis.
 
