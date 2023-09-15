@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Announcements
-          description: No announcements for now .
+          description: ""
           url: ""
         - title: Info Hub
           description: ""
