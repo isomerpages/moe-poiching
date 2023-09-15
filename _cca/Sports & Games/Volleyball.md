@@ -93,50 +93,108 @@ The Volleyball CCA nurtures students to be good team players through effective c
 </table>
 
 
-### Leadership (Boys)
+	
+### CCA Leaders (Boys)
 
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Lim Ding Zhi Zephane</td>
+      <td style="border: 1px solid black;">6J4</td>
+      <td style="border: 1px solid black;">P6 Captain</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Ong Feng Xiang Lucas</td>
+      <td style="border: 1px solid black;">6J2</td>
+      <td style="border: 1px solid black;">P6 Vice-Captain</td>
+    </tr>
+		<tr>
+      <td style="border: 1px solid black;">Tan Yan Feng Kelston</td>
+      <td style="border: 1px solid black;">5L1</td>
+      <td style="border: 1px solid black;">P5 Captain</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Neo Chen Shuo</td>
+      <td style="border: 1px solid black;">5L4</td>
+      <td style="border: 1px solid black;">P5 Vice-Captain</td>
+    </tr>
+			<tr>
+      <td style="border: 1px solid black;">Tan Ze Yu, Ray</td>
+      <td style="border: 1px solid black;">4P3</td>
+      <td style="border: 1px solid black;">P4 Captain</td>
+    </tr>
+  </tbody>
+</table>
 
+### CCA Leaders (Girls)
 
-| Appointment | Name | Class |
-| -------- | -------- | -------- |
-| P6 Captain     | Lim Ding Zhi Zephan    | 6J4     |
-| P6 Vice-Captain     | Ong Feng Xiang Lucas    | 6J2     |
-| P5 Captain     | Tan Yan Feng Kelston    | 5L1     |
-| P5 Vice-Captain     | Neo Chen Shuo    | 5L4     |
-| P4 Captain     | Tan Ze Yu, Ray   | 4P3     |
-
-
-### Leadership (Girls)
-
-| Appointment | Name | Class |
-| -------- | -------- | -------- |
-| P6 Captain     | Kwek Hiu Ching    | 6J2     |
-| P6 Vice-Captain     | Quek Zhiyun, Jerlyn    | 6J3     |
-| P5 Captain     | Weng Le Ya, Chloe    | 5L3     |
-| P5 Vice-Captain     | Pan Zhilin, Cassandra    | 5L3     |
-| P4 Captain     | Lo Jing Man, Charlotte   | 4P6     |
-| P4 Vice-Captain     |  Makayla Peh En Yu  | 4P5     |
-
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Name</th>
+      <th style="border: 1px solid black;">Class</th>
+      <th style="border: 1px solid black;">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Kwek Hiu Ching</td>
+      <td style="border: 1px solid black;">6J2</td>
+      <td style="border: 1px solid black;">P6 Captain</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Quek Zhiyun, Jerlyn</td>
+      <td style="border: 1px solid black;">6J3</td>
+      <td style="border: 1px solid black;">P6 Vice-Captain</td>
+    </tr>
+		<tr>
+      <td style="border: 1px solid black;">Weng Le Ya, Chloe</td>
+      <td style="border: 1px solid black;">5L3</td>
+      <td style="border: 1px solid black;">P5 Captain</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Pan Zhilin, Cassandra</td>
+      <td style="border: 1px solid black;">5L3</td>
+      <td style="border: 1px solid black;">P5 Vice-Captain</td>
+    </tr>
+			<tr>
+      <td style="border: 1px solid black;">Lo Jing Man, Charlotte</td>
+      <td style="border: 1px solid black;">4P6</td>
+      <td style="border: 1px solid black;">P4 Captain</td>
+    </tr>
+		<tr>
+      <td style="border: 1px solid black;">Makayla Peh En Yu</td>
+      <td style="border: 1px solid black;">4P5</td>
+      <td style="border: 1px solid black;">P4 Vice-Captain</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Accolades
-**2023 Senior Division**	
+**2023 Senior Division**
+<br><br>
 Senior Boys:
-Tier 2 - 1st
-
+Tier 2 - 1st <br>
 Senior Girls:
 Tier 1 - 3rd
 
 **2023 Junior Division**	
+<br><br>
 Junior Boys:
-Tier 1 - 5th
-
+Tier 1 - 5th<br>
 Junior Girls:
 Tier 1 - 4th
 
-**2022 Junior Division**	
+**2022 Junior Division**	<br><br>
 Junior Boys:
 Tier 2 - 2nd
-
+<br>
 Junior Girls:
 Tier 2 - 1st
