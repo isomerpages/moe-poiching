@@ -12,30 +12,85 @@ The Volleyball CCA nurtures students to be good team players through effective c
 
 ### Training Schedule
 
-|Date| Time | Primary| 
-|-----|----|------|
-|Tuesday & Thursday|2pm-3.30pm |P2 selected players|
-||2pm-4pm |P3|
-||3pm-5.30pm |P5|
-|Tuesday|2pm-4pm |P4|
-|Thursday|2pm-4.30pm |P4|
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: none;border-right: 1px solid black">Tuesday</td>
+      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
+      			<td style="border: 1px solid black;">P2 (selected players)</td>
+    </tr>
+    <tr> 
+<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P4</td>
+    </tr>
+    <tr>
+			<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.30 pm</td>
+      <td style="border: 1px solid black;">P5</td>
+			</tr>
+    <tr>
+      <td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
+      			<td style="border: 1px solid black;">P2 (selected players)</td>
+    </tr>
+    <tr> 
+<td style="border: none"></td> 
+			<td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3</td>
+    </tr>
+    <tr><td style="border:none"></td> <td style="border: 1px solid black;">2.00 pm to 4.30 pm</td>
+      <td style="border: 1px solid black;">P4</td>
+    </tr>
+    <tr>
+			<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.30 pm</td>
+      <td style="border: 1px solid black;">P5</td>
+    </tr>
+    <tr>
+			 </tr></tbody>
+</table>
 
 **Venue:**
- ISH Level 1 & Level 2
-
-
-### Teachers-in-charge
+ ISH Level 1 &amp; Level 2
 
 
 
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mrs Lee Kheng Leng     | OIC     | yap_kheng_leng@moe.edu.sg     |
-| Mdm Marwati Bte Kamarudin     | 2IC     |     |
-| Ms Nurul Amirah Binte Amir     | Member     |      |
-| Mr Tan You Chuan Calvin     | Member     |      |
-| Mdm Tee Li Ping     | Member     |      |
-| Mr Goh Kwee Seng Alvin     | Advisor     |      |
+### CCA Teachers
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;"> Mrs Lee Kheng Leng </td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">yap_kheng_leng@moe.edu.sg  </td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;"> Mdm Marwati Bte Kamarudin  </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Ms Nurul Amirah Binte Amir   </td>
+    </tr>
+    <tr> <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;"> Mr Tan You Chuan Calvin  </td>
+    </tr>
+		<tr> <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">  Mdm Tee Li Ping </td>
+    </tr>
+			<tr> <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">  Mr Goh Kwee Seng Alvin</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Leadership (Boys)
