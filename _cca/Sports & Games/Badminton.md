@@ -60,11 +60,11 @@ The Badminton CCA encourages the players to take part in a variety of competitio
     </tr>
     <tr>
       <th style="border: none; border-right: 1px solid black">Teachers-in-charge
-      </th><td style="border: none;">Mdm Radiah Binte Mohamed</td>
+      </th><td style="border: none;">Mdm Radiah </td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Mr Muhammad Redzuan Bin Omar </td>
+      <td style="border: none;">Mr Redzuan </td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>

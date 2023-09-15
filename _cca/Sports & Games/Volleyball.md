@@ -74,14 +74,14 @@ The Volleyball CCA nurtures students to be good team players through effective c
     </tr>
     <tr>
       <th style="border: none; border-right: 1px solid black">Teachers-in-charge
-      </th><td style="border: none;"> Mdm Marwati Bte Kamarudin  </td>
+      </th><td style="border: none;"> Mdm Marwati </td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Ms Nurul Amirah Binte Amir   </td>
+      <td style="border: none;">Ms Nurul Amirah   </td>
     </tr>
     <tr> <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;"> Mr Tan You Chuan Calvin  </td>
+      <td style="border: none;"> Mr Calvin Tan  </td>
     </tr>
 		<tr> <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">  Mdm Tee Li Ping </td>
