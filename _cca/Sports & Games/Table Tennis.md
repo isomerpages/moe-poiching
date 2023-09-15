@@ -40,7 +40,7 @@ Students are able to put the school values into practice during their training a
     </tr>
     <tr> 
 <td style="border-right: 1px solid black"></td> 
-			<td style="border: 1px solid black;">3.30 pm to 4.00 pm</td>
+			<td style="border: 1px solid black;">3.30 pm to 5.00 pm</td>
       <td style="border: 1px solid black;">P5 - P6</td>
      </tr></tbody>
 </table>
@@ -74,5 +74,3 @@ Students are able to put the school values into practice during their training a
     </tr>
   </tbody>
 </table>
-
- 
