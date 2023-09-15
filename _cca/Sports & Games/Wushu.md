@@ -76,13 +76,6 @@ In Poi Ching School Wushu CCA, we believe in developing students’ character du
 </table>
 
 
-
-
-
-### Student leadership roles
-![](/images/wushu%20leadership%20roles.png)
-
-
 ### CCA Leaders (Boys)
 
 <table style="border-collapse: collapse; border: 1px solid black;">
@@ -133,3 +126,4 @@ In Poi Ching School Wushu CCA, we believe in developing students’ character du
 </table>
 
 ### Accolades
+
