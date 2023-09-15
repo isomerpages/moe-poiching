@@ -12,7 +12,6 @@ Students are able to put the school values into practice during their training a
 
 ### Training Schedule
 
-
 <table style="border-collapse: collapse; border: 1px solid black;">
   <thead>
     <tr>
@@ -25,24 +24,24 @@ Students are able to put the school values into practice during their training a
     <tr>
       <td style="border: none;border-right: 1px solid black">Monday</td>
       <td style="border: 1px solid black;">2.00 pm to 3.00 pm</td>
-      			<td style="border: 1px solid black;">P3- P4</td>
+      			<td style="border: 1px solid black;">P3 - P4</td>
     </tr>
     <tr> 
-			<td style="border-right: 1px solid black"></td> 
-			<td style="border: 1px solid black;">3.00 pm to 4.00 pm</td>
+<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 4.00 pm</td>
       <td style="border: 1px solid black;">P5 - P6</td>
-     </tr>
-	   <tr>        
-			 <td style="border: none; border-right: 1px solid black">Thursday
-			 </td>
+    </tr>
+    <tr>
+      <td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Thursday</td>
       <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
       			<td style="border: 1px solid black;">P3 - P4</td>
     </tr>
     <tr> 
 <td style="border-right: 1px solid black"></td> 
-			<td style="border: 1px solid black;">3.30 pm to 5.00 pm</td>
+			<td style="border: 1px solid black;">3.00 pm to 5.00 pm</td>
       <td style="border: 1px solid black;">P5 - P6</td>
-     </tr></tbody>
+    </tr>
+    <tr>
+  </tr></tbody>
 </table>
 
 **Venue:**
