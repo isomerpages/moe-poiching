@@ -4,7 +4,7 @@ permalink: /cca/Sports-and-Games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
-### Mission
+The Volleyball CCA nurtures students to be good team players through effective communication and teamwork.
 
 ![](/images/volleyball%201.jpg)
 ![](/images/volleyball%202.jpg)
@@ -85,5 +85,3 @@ Tier 2 - 2nd
 
 Junior Girls:
 Tier 2 - 1st
-
-
