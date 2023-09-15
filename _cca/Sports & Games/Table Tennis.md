@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 The Table Tennis CCA aims to develop student's ability to outscore the opponent through the use of skills, mental and physical strength, speed, stamina and strategies.
 
-Students are able to put the school values into practice during their training as well as during competitions.
+Students are also given opportunities to put the school values into practice during their training as well as during competitions.
 
 ![](/images/etennis02.jpg)
 
