@@ -4,8 +4,8 @@ permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### Mission
-All girls are valued and take action to change the world. To enable girls and young women to develop their fullest potential as responsible citizens of the world.
+All girls are valued and take action to change the world. <br>
+In PCS, the Brownies CCA aims to enable girls and young women to develop their fullest potential as responsible citizens of the world.
 
 ![](/images/brownies%207.jpg)
 
@@ -31,4 +31,3 @@ All girls are valued and take action to change the world. To enable girls and yo
 ![](/images/brownies%201.jpg)
 
 ![](/images/brownies%202.jpg)
-
