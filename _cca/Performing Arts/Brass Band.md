@@ -43,7 +43,7 @@ Band Room
   <tbody>
     <tr>
       <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th><td style="border: none;">Mdm Suryana Bte Buang</td>
+      </th><td style="border: none;">Mdm Suryana</td>
 		 </tr>
     <tr>
       <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
@@ -51,11 +51,11 @@ Band Room
     </tr>
     <tr>
       <th style="border: none; border-right: 1px solid black">Teachers-in-charge
-      </th><td style="border: none;">Ms Siti Nurhuda Bte Hamid</td>
+      </th><td style="border: none;">Ms Huda </td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Mdm K Susiela</td>
+      <td style="border: none;">Mdm Susiela</td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
