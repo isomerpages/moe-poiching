@@ -67,5 +67,3 @@ As basketball is a team sport, teamwork is also promoted amongst pupils who come
     </tr>
   </tbody>
 </table>
-
-
