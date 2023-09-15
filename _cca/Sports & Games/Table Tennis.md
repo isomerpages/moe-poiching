@@ -67,7 +67,7 @@ Students are also given opportunities to put the school values into practice dur
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Mdm Elmizah Mhd Yassin  </td>
+      <td style="border: none;">Mdm Elmizah </td>
     </tr>
     <tr>
     </tr>
