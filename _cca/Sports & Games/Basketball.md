@@ -63,7 +63,5 @@ As basketball is a team sport, teamwork is also promoted amongst pupils who come
       <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">Mr Khairul Annuar </td>
     </tr>
-    <tr>
-    </tr>
-  </tbody>
+	</tbody>
 </table>
