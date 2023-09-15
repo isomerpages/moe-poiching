@@ -126,4 +126,3 @@ In Poi Ching School Wushu CCA, we believe in developing students’ character du
 </table>
 
 ### Accolades
-
