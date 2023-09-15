@@ -1,5 +1,5 @@
 collections:
-  le-folders:
+  pcs-experience:
     output: true
     order:
       - Cognitive depts/.keep
