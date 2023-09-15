@@ -37,7 +37,7 @@ Hall of Wellness
   <tbody>
     <tr>
       <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th><td style="border: none;">Mdm Suhaini Bte Tohid</td>
+      </th><td style="border: none;">Mdm Suhaini</td>
 		 </tr>
     <tr>
       <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
@@ -45,7 +45,7 @@ Hall of Wellness
     </tr>
     <tr>
       <th style="border: none; border-right: 1px solid black">Teacher-in-charge
-      </th><td style="border: none;">Mdm Dian Yuhana</td>
+      </th><td style="border: none;">Mdm Yuhana</td>
     </tr>
     </tbody>
 </table>
@@ -56,6 +56,3 @@ Hall of Wellness
 
 * Comic Strip Competition - Gold
 * Patch Design Competition - Silver
-
-
-
