@@ -4,38 +4,57 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### Mission
+The Scouts equip students with leadership and organisational skills they acquire through running their own activities and setting their own goals equip them for the challenge of the future, and a life of service.
 
-
-The Scout Association is a voluntary uniform organisation that provides leadership and citizenship training through a combination of challenge, fun, adventure and skills training. It provides a healthy wholesome environment for nurturing the creative energies of youth.
-
-Scouting emphasizes learning by doing, and working in small groups with leaders chosen from among the scouts themselves. This early introduction to group work and self-government is seldom found elsewhere. Scouting prepares the students, through its myriad activities for a fruitful, productive and meaningful life. The leadership and organisational skills they acquire through running their own activities and setting their own goals equip them for the challenge of the future, and a life of service.
-
-All Cub Scouts undergo training to build up individual and groups skills. There is a common module for progress badges and a choice of individual proficiency and skill badges. Scouts have many avenues for outdoor activities and adventure. They also have opportunities for many overseas events like Jamborees and Camporees where they get to meet fellow Cub Scouts from all over the world. Through the Scouts, they can build life-long friendships with people of different races and creeds, both at home and abroad.
-
-_**Links:**_&nbsp;[**_http://www.scout.sg_**](http://www.scout.sg/)
+Through the Scouts, students can build life-long friendships with people of different races and creeds, both at home and abroad.
 
 ![](/images/scouts%202.jpg)
 
+
 ### Training Schedule
 
-|Date| Time | Primary| 
-|-----|----|------|
-|Monday|2.00pm-4.00pm |P3-P6|
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td style="border: 1px solid black;">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P3 - P6</td>
+    </tr>
+  </tbody>
+</table>
 
 **Venue:**
- Field & Hall Of Wellness
+ Field &amp; Hall Of Wellness
  
-### Teachers-in-charge
+ ### CCA Teachers
 
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mr Firdaus     | OIC     | mohammed_firdaus_salim@moe.edu.sg     |
-| Mdm Khairin      | Member     |     |
-
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th>
+			<td style="border: none;">Mr Firdaus </td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">mohammed_firdaus_salim@moe.edu.sg </td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
+      </th><td style="border: none;">Mdm Khairin </td>
+    </tr>
+    </tbody>
+</table>
 
 
 ### Accolades
 
 *   Akela Award Recipient – 2021
+
