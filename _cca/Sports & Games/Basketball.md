@@ -57,7 +57,7 @@ As basketball is a team sport, teamwork is also promoted amongst pupils who come
     </tr>
     <tr>
       <th style="border: none; border-right: 1px solid black">Teachers-in-charge
-      </th><td style="border: none;">Ms Nurulbahiah Ishak</td>
+      </th><td style="border: none;">Ms Bahiah</td>
     </tr>
     <tr>
       <td style="border: none;border-right: 1px solid black"></td>
