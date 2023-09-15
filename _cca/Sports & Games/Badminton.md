@@ -4,50 +4,75 @@ permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-### Mission
-
-
-Badminton CCA is one of the famous sports CCA in Poi Ching. There are about 100 pupils from P3 to P6. &nbsp;We encourage the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. Debrief sessions after the games further enforce the school values such as modesty,&nbsp;integrity ,loyalty and&nbsp;excellence taught during CCA.
+The Badminton CCA encourages the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. 
 
 ![](/images/Badminton%20Pic%203.jpeg)
 
 ### Training Schedule
 
-|Date| Time | Primary| 
-|-----|----|------|
-|Monday|2.00pm-4.00pm |P3|
-||3.00pm-5.00pm |P4|
-|Thursday|2.00pm-4.00pm |P5|
-||3.00pm-5.00pm |P6|
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: none;border-right: 1px solid black">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      			<td style="border: 1px solid black;">P3</td>
+    </tr>
+    <tr> 
+<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P4</td>
+    </tr>
+    <tr>
+      <td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      			<td style="border: 1px solid black;">P5</td>
+    </tr>
+    <tr> 
+<td style="border-right: 1px solid black"></td> 
+			<td style="border: 1px solid black;">3.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P6</td>
+    </tr>
+    <tr>
+  </tr></tbody>
+</table>
 
 **Venue:**
  School Hall
 
-### Teachers-in-charge
+### CCA Teachers
 
-
-
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mr Victor Ho      | OIC     | ho_see_hoong_victor@moe.edu.sg     |
-| Mdm Radiah Binte Mohamed      | 2IC     |      |
-| Mr Muhammad Redzuan Bin Omar     | Member    |      |
-| Mr Jason Lim     | Member     |      |
-| Mr Marcus Choy     | Member     |      |
-
-
-
-
-
-
-
-
-![](/images/Badminton%20Pic%205.jpeg)
-
-
-**2023**
-![](/images/Badminton%20Pic%201.jpeg)
-
-![](/images/Badminton%20Pic%202.jpeg)
-
-![](/images/Badminton%20Pic%204.jpeg)
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mr Victor Ho</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">ho_see_hoong_victor@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;">Mdm Radiah Binte Mohamed</td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mr Muhammad Redzuan Bin Omar </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mr Jason Lim </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;"> Mr Marcus Choy</td>
+    </tr>
+  </tbody>
+</table>

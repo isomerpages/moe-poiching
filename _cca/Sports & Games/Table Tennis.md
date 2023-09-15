@@ -4,35 +4,72 @@ permalink: /cca/Sports-and-Games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-### Mission
+The Table Tennis CCA aims to develop student's ability to outscore the opponent through the use of skills, mental and physical strength, speed, stamina and strategies.
 
-In recent years, the local sports scene in Table Tennis has received a great amount of mass media positive coverage both in SEA games and the Olympics. In Poi Ching School, our pupils have also done relatively well in the Primary School zone and National levels. Both our senior teams have progressed into National level to compete with top schools in Singapore. All thanks to the dedication of our coach of more than 10 years and many other committed teachers who are involved in developing our players.
-
-Many of our school players have gained access into good secondary schools through DSA. Table Tennis is an enjoyable sport that requires fast reflexes. Each player tries to outscore the opponent through the use of skills, mental and physical strength, speed, stamina and strategies.
-
-During each weekly CCA, the players are split into three smaller groups each taken by respective teachers-in-charge and engage in a lively discussion of our school values in CCE.  The aim is to help pupils put these values into practice during their training as well as during competitions.
+Students are also given opportunities to put the school values into practice during their training as well as during competitions.
 
 ![](/images/etennis02.jpg)
 
 ### Training Schedule
 
-
-
-|Date| time | Primary| 
-|-----|----|------|
-|Monday|2-3pm |P3&P4|
-||3-4pm |P5&P6|
-|Thursday|2-3.30pm |P3&P4|
-||3.30-5pm |P5&P6|
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;">Day</th>
+      <th style="border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: none;border-right: 1px solid black">Monday</td>
+      <td style="border: 1px solid black;">2.00 pm to 3.00 pm</td>
+      			<td style="border: 1px solid black;">P3 - P4</td>
+    </tr>
+    <tr> 
+<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 4.00 pm</td>
+      <td style="border: 1px solid black;">P5 - P6</td>
+    </tr>
+    <tr>
+      <td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Thursday</td>
+      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
+      			<td style="border: 1px solid black;">P3 - P4</td>
+    </tr>
+    <tr> 
+<td style="border-right: 1px solid black"></td> 
+			<td style="border: 1px solid black;">3.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P5 - P6</td>
+    </tr>
+    <tr>
+  </tr></tbody>
+</table>
 
 **Venue:**
  Blk E Level 5
 
-### Teachers-in-charge
 
 
-| Name | Role | Email |
-| -------- | -------- | -------- |
-| Mr Ng Theng Hian     | OIC     | ng_theng_hian@moe.edu.sg     |
-| Mrs Pokhel     | Member     |      |
-| Mdm Elmizah     | Member     |      |
+### CCA Teachers
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
+      </th><td style="border: none;">Mr Ng Theng Hian</td>
+		 </tr>
+    <tr>
+      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
+      <td style="border-bottom: 1px solid black;">ng_theng_hian@moe.edu.sg</td>
+    </tr>
+    <tr>
+      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
+      </th><td style="border: none;">Mrs Pokhel </td>
+    </tr>
+    <tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mdm Elmizah Mhd Yassin  </td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
