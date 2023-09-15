@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/11th-national-primary-and-secondary-schools-chinese-calligraphy-competition/
+          url: ""
         - title: Info Hub
           description: ""
           url: /quick-links/for-students
