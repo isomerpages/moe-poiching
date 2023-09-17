@@ -8,7 +8,7 @@ The Table Tennis CCA aims to develop student's ability to outscore the opponent 
 
 Students are also given opportunities to put the school values into practice during their training as well as during competitions.
 
-![](/images/etennis02.jpg)
+![](/images/table%20tennis.jpg)
 
 ### Training Schedule
 
