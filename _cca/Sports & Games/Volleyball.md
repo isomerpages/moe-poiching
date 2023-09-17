@@ -6,9 +6,7 @@ third_nav_title: Sports & Games
 ---
 The Volleyball CCA nurtures students to be good team players through effective communication and teamwork.
 
-![](/images/volleyball%201.jpg)
-![](/images/volleyball%202.jpg)
-
+![](/images/volley.jpg)
 
 ### Training Schedule
 
