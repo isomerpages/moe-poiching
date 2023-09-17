@@ -8,7 +8,7 @@ third_nav_title: Social 群
 
 
 
-## Co-Curricular Activities (CCA)
+# Co-Curricular Activities (CCA)
 
 * [Sports &amp; Games](https://poiching.moe.edu.sg/cca/Sports-and-Games/badminton/)
 * [Performing Arts](https://poiching.moe.edu.sg/cca/Performing-Arts/brass-band/)
