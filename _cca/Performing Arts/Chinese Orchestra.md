@@ -96,12 +96,9 @@ The Chinese Orchestra (CO) aims to inculcate the importance, appreciation and in
 
 ### Accolades
 
-2018 – Singapore Youth Festival - Gold
+SYF 2018 – Gold
 
-2016 – Singapore Youth Festival - Gold
+SYF 2016 – Gold
 
-2014 – Singapore Youth Festival - Silver
+SYF 2014 – Silver
 
-2012- Singapore Youth Festival - Bronze 
-
-2010 – Singapore Youth Festival - Silver
