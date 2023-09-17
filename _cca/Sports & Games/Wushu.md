@@ -6,8 +6,8 @@ third_nav_title: Sports & Games
 ---
 In Poi Ching School Wushu CCA, we believe in developing students’ character during the training, focusing on values like resilience, loyalty, respect and excellence. We aim to develop our students to be disciplined, humble and always striving for the best they can do.
 
-![](/images/wushu5.jpg)
-![](/images/wushu6.jpg)
+![](/images/wushu%20cover.jpg)
+
 
 ### Training Schedule
 
@@ -126,3 +126,10 @@ In Poi Ching School Wushu CCA, we believe in developing students’ character du
 </table>
 
 ### Accolades
+
+![](/images/wushu%20nsg%201.jpg)
+![](/images/wushu%20nsg%202.jpg)
+![](/images/wushu%20nsg%203.jpg)
+![](/images/wushu%20nsg%204.jpg)
+![](/images/wushu%20nsg%205.jpg)
+![](/images/wushu%20nsg%206.jpg)
