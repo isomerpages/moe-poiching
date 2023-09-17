@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 At PCS Basketball CCA, we do not just focus on coaching basketball skills but we also aim to install values and character.
 As basketball is a team sport, teamwork is also promoted amongst pupils who come from different classes and levels. 
 
-![](/images/basketball05.jpg)
+![](/images/basketball.jpg)
 
 ### Training Schedule
 
@@ -42,6 +42,7 @@ As basketball is a team sport, teamwork is also promoted amongst pupils who come
 
 **Venue:**
  Indoor Sports Hall Level 1
+ 
  
  ### CCA Teachers
 

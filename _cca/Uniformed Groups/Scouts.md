@@ -33,7 +33,7 @@ Through the Scouts, students can build life-long friendships with people of diff
 **Venue:**
  Field &amp; Hall Of Wellness
  
- ### CCA Teachers
+### CCA Teachers
 
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
@@ -56,5 +56,4 @@ Through the Scouts, students can build life-long friendships with people of diff
 
 ### Accolades
 
-*   Akela Award Recipient – 2021
-
+2021 –  Akela Award Recipient 
