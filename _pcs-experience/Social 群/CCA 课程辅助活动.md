@@ -4,13 +4,12 @@ permalink: /le-folders/social/cca/
 description: ""
 third_nav_title: Social 群
 ---
-
 ![](/images/cca%20banner.jpg)
 
 
 
 ### Co-Curricular Activities (CCA)
-<br>
+
 
 * [Sports &amp; Games](https://poiching.moe.edu.sg/cca/Sports-and-Games/badminton/)
 * [Performing Arts](https://poiching.moe.edu.sg/cca/Performing-Arts/brass-band/)
