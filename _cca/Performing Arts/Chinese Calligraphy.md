@@ -99,8 +99,6 @@ CL Modular Room
 | -------- | -------- | -------- |
 | Liang Shumiao |6J5    | Merit     |
 
-<br>
-
 **2021**
 
 
