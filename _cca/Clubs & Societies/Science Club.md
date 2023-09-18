@@ -10,7 +10,7 @@ Through an array of interesting activities, such as DNA extraction, toy-making a
 
 ![](/images/sciclub1.jpg)
 
- ### Training Schedule
+### Training Schedule
 
 
 <table style="border-collapse: collapse; border: 1px solid black;">
