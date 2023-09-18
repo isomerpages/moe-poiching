@@ -24,21 +24,10 @@ We pursuit excellence through competitions and performances. We will provide pla
 
 我们通过比赛、表演，更高的专业技能和能力以追求卓越。 比如：武术、演艺、中国鼓、舞狮、戏曲、象棋、书法、中英互译
 
-### Main Pedagogy/Teaching Strategies (教学策略)
-
-
-*   Developing Talents in Chinese Language Learners 培育华文卓越的学生
-    *   The programme is designed using the ‘4 E’ Approach – Exploration &amp; &nbsp;Experience, &nbsp;Excellence and Engagement 这个项目以四个途径进行：深入探讨、亲身体验、追求卓越、积极互动
-    *   ‘Exploration and Experience’ – provision of opportunities for all &nbsp;students to acquire basic knowledge and fundamental skills; implementation by level 深入探讨与亲身体验 – 依不同级别进行，给予学生机会吸取基本知识与语言技巧。
-    *   ‘Excellence’ – talent identification for select group of students with outstanding performance or abilities to further enrich their knowledge and develop their skills; implementation is for select group of students 追求卓越 – 识别有出色表演能力的优秀学生人才，深入强化他们的知识与发展他们的强项。
-
-    *   ‘Engagement’ – the intended outcome of the SAP programme, to engage students in &nbsp;meaningful learning in the affective, behavioural and cognitive domains 积极互动 – SAP项目的目的旨在情感、行为和知识领域里与学生们积极进行互动，使学习更具意义。
 
 ### Key Programmes (主要活动)
 
 ![](/images/sap2021prg.jpg)
-
-### Activities &amp; Achievements (活动与成就）
 
 **线上中秋园游会2021**
 
@@ -890,3 +879,13 @@ P5 students participated hands-on dumpling making session on 22 May 2015
 *   **Hanzhou, China Immersion Programme杭州浸濡之旅**
 
 ![](/images/SAP-35.jpg)
+
+### Main Pedagogy/Teaching Strategies (教学策略)
+
+
+*   Developing Talents in Chinese Language Learners 培育华文卓越的学生
+    *   The programme is designed using the ‘4 E’ Approach – Exploration &amp; &nbsp;Experience, &nbsp;Excellence and Engagement 这个项目以四个途径进行：深入探讨、亲身体验、追求卓越、积极互动
+    *   ‘Exploration and Experience’ – provision of opportunities for all &nbsp;students to acquire basic knowledge and fundamental skills; implementation by level 深入探讨与亲身体验 – 依不同级别进行，给予学生机会吸取基本知识与语言技巧。
+    *   ‘Excellence’ – talent identification for select group of students with outstanding performance or abilities to further enrich their knowledge and develop their skills; implementation is for select group of students 追求卓越 – 识别有出色表演能力的优秀学生人才，深入强化他们的知识与发展他们的强项。
+
+    *   ‘Engagement’ – the intended outcome of the SAP programme, to engage students in &nbsp;meaningful learning in the affective, behavioural and cognitive domains 积极互动 – SAP项目的目的旨在情感、行为和知识领域里与学生们积极进行互动，使学习更具意义。
