@@ -13,27 +13,9 @@ A united and harmonious Singapore
 To nurture open-mindedness and belonging
 
 
-### National Education / Social Studies
+### Key Programmes
 
-**Staff**
 
-One of the three main pillars to support our NE goals. <br>
-Stakeholders to help our pupils achieve the NE goals. <br>
-Learning Journey for Staff <br>
-Staff NE Quiz – individual, group, online <br>
-Training – during commemoration, attending relevant courses, Staff LJ
-
-**Partnership**
-
-The SAP nature of PCS makes it necessary and pertinent to engage partners so that our staff and pupils have the opportunities to interact with races other than Chinese.
-
-**Physical Structures**
-
-Open concept Heritage Gallery and NE Corridor – 2 lessons per level scheduled per year
-
-Level 2 dedicated to NE messages, culture, customs, history, tradition, our present, our future to create an environment rich in NE resources for our staff and pupils.
-
-![](/images/goal.jpg)
 
 **Total Defence Day 2018 – Together We Keep Singapore Strong**
 
@@ -66,8 +48,6 @@ On 15 February, our Prefects and NE Ambassadors, accompanied by Mrs Rachel Neo a
 ![](/images/20180215_100735.jpg)
 ![](/images/20180215_101343.jpg)
 
-Programmes
-----------
 
 1. Commemoration of 4 core NE events:
 
@@ -100,3 +80,24 @@ Click on the link to&nbsp;[www.medialiteracycouncil.sg/Lists/Resources/Attachmen
 4. P4 Integrated Project Work (IPW) using Wiki
 
 5. SAF Day 2014
+
+
+**Staff**
+
+One of the three main pillars to support our NE goals. <br>
+Stakeholders to help our pupils achieve the NE goals. <br>
+Learning Journey for Staff <br>
+Staff NE Quiz – individual, group, online <br>
+Training – during commemoration, attending relevant courses, Staff LJ
+
+**Partnership**
+
+The SAP nature of PCS makes it necessary and pertinent to engage partners so that our staff and pupils have the opportunities to interact with races other than Chinese.
+
+**Physical Structures**
+
+Open concept Heritage Gallery and NE Corridor – 2 lessons per level scheduled per year
+
+Level 2 dedicated to NE messages, culture, customs, history, tradition, our present, our future to create an environment rich in NE resources for our staff and pupils.
+
+![](/images/goal.jpg)
