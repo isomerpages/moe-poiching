@@ -51,7 +51,7 @@ Hall of Wellness
 
 ### Accolades
 
-**Girl Guides Singapore East Division day 2021** <br>
+**Girl Guides Singapore East Division Day 2021** <br>
 
 * Comic Strip Competition - Gold
 * Patch Design Competition - Silver
