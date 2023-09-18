@@ -11,7 +11,7 @@ Students will be equipped with art-making techniques and knowledge through the e
 
 ![](/images/art1.jpg)
 
- ### Training Schedule
+### Training Schedule
 
 
 <table style="border-collapse: collapse; border: 1px solid black;">

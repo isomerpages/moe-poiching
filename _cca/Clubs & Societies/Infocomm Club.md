@@ -4,10 +4,7 @@ permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-The PCS InfoComm Club endeavors to nurture its members,&nbsp;guided by the school core values, to:
-
-*   be at the forefront of technology;
-*   to eventually write codes to solve problems in their studies, their lives, and even benefit society at large.
+The PCS InfoComm Club endeavors to nurture its members,&nbsp;guided by the school core values, to be at the forefront of technology and to eventually write codes to solve problems in their studies, their lives, and even benefit society at large.
 
  ![](/images/infocomm%202.jpg)
 
@@ -82,7 +79,7 @@ Computer Labs
       <td style="border: 1px solid black;">Vice-Chairman</td>
     </tr>
 		 <tr>
-      <td style="border: 1px solid black;">Louis Chen /td&gt;
+      <td style="border: 1px solid black;">Louis Chen 
       </td><td style="border: 1px solid black;">6J3</td>
       <td style="border: 1px solid black;">Vice-Chairman</td></tr>
   </tbody>
@@ -115,5 +112,4 @@ Computer Labs
 
 **E1 Cluster ICT Journalism/Photography Competition (2014)**
 
-* Best Creativity award 
-
+* Best Creativity award

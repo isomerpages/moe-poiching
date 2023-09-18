@@ -84,10 +84,7 @@ The Volleyball CCA nurtures students to be good team players through effective c
 		<tr> <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">  Mdm Tee Li Ping </td>
     </tr>
-			<tr> <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">  Mr Goh Kwee Seng Alvin</td>
-    </tr>
-  </tbody>
+			  </tbody>
 </table>
 
 
