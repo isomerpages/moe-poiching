@@ -4,8 +4,10 @@ permalink: /departments/Non-Academic/non-ip/character-and-citizenship-education/
 description: ""
 third_nav_title: Non Academic
 ---
+### Vision
 Poi Ching School embarked on the Cyber Wellness (CW) journey with a goal in mind – to ensure all students are equipped with the relevant skills to navigate the cyber space responsibly and safely by the end of their primary school years. Our CW ambassadors are from Primary 4 and Primary 5 cohort. They undergo a 4-week training programme and learnt more about cyber wellness and ways to be a responsible advocate.
 
+### Mission
 We continue to work on this goal by developing the curriculum and programmes in alignment with the MOE’s CW framework (Sense-Think-Act). The CW framework aims to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace.
 
 ### About the CW Framework (Sense-Think-Act)
@@ -29,7 +31,7 @@ The three principles, ‘**Respect for Self and Others**’, ‘**Safe and Respo
     *   be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)
     *   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
 
-_Source:_  [_https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101_](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
+_Source:_&nbsp;&nbsp;[_https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101_](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
 
 ### Curriculum
 
@@ -55,7 +57,7 @@ We work closely with the school counsellor to render assistance to students in n
 
 ### Cyber Wellness events in Poi Ching School
 
-*   Cyber Wellness Ambassadors at Work during P1 Orientation –  Teddy Bear Workshop
+*   Cyber Wellness Ambassadors at Work during P1 Orientation –&nbsp; Teddy Bear Workshop
 
 ![](/images/cyber03.jpg)
 
