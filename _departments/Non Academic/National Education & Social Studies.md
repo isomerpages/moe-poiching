@@ -12,14 +12,6 @@ A united and harmonious Singapore
 
 To nurture open-mindedness and belonging
 
-### Objective:
-
-
-* National cohesion
-
-* Instincts for survival
-
-* Confidence in our future
 
 ### National Education / Social Studies
 
@@ -62,9 +54,9 @@ Posted by: Ms Aisyah
 ![](/images/20180214_111217.jpg)
 ![](/images/20180208_130145.jpg)
 
-**51st War Memorial Service & Total Defence Day Commemoration Event**
+**51st&nbsp;War Memorial Service &amp; Total Defence Day Commemoration Event**
 
-On 15 February, our Prefects and NE Ambassadors, accompanied by Mrs Rachel Neo and Mr Khairul, attended the 51st War Memorial Service at War Memorial Park. This annual function reaffirms the importance of Total Defence and educates young Singaporeans to cherish peace and freedom.
+On 15 February, our Prefects and NE Ambassadors, accompanied by Mrs Rachel Neo and Mr Khairul, attended the 51st&nbsp;War Memorial Service at War Memorial Park. This annual function reaffirms the importance of Total Defence and educates young Singaporeans to cherish peace and freedom.
 
 ![](/images/20180215_101447.jpg)
 ![](/images/20180215_080005.jpg)
@@ -85,9 +77,9 @@ Programmes
 
 Think before you share – a resource containing tips on be a responsible digital citizen.
 
-Click on the link to [www.medialiteracycouncil.sg/Lists/Resources/Attachments/205/MLC%20FB%20MediaSmart-%20Think%20Before%20You%20Share.pdf](http://www.medialiteracycouncil.sg/Lists/Resources/Attachments/205/MLC%20FB%20MediaSmart-%20Think%20Before%20You%20Share.pdf).
+Click on the link to&nbsp;[www.medialiteracycouncil.sg/Lists/Resources/Attachments/205/MLC%20FB%20MediaSmart-%20Think%20Before%20You%20Share.pdf](http://www.medialiteracycouncil.sg/Lists/Resources/Attachments/205/MLC%20FB%20MediaSmart-%20Think%20Before%20You%20Share.pdf).
 
-*   International Friendship Day (2014) (2013)
+*   International Friendship Day&nbsp;(2014)&nbsp;(2013)
 
 ### Year 2015
 
@@ -101,10 +93,10 @@ Click on the link to [www.medialiteracycouncil.sg/Lists/Resources/Attachments/2
 ![](/images/df03.png)
 [Instructor’s Lesson Plan](/files/OnlineSafetyandSecurity-Class2-TeachingGuide-1.pdf)
 
-2. Learning Journey: Kampung Glam P3, Little India P4 and Chinatown P6
+2. Learning Journey:&nbsp;Kampung Glam P3,&nbsp;Little India P4 and Chinatown P6
 
 3. NE Ambassador Training
 
 4. P4 Integrated Project Work (IPW) using Wiki
 
-5. SAF Day 2014 
+5. SAF Day 2014
