@@ -14,7 +14,7 @@ _To equip students with baseline ICT skills and competencies in order to be effe
 
 _To cultivate a culture of innovation amongst staff to design quality ICT learning experiences_
 
-### Overview of ICT Education in Poi Ching School
+### Key Programmes
 
 
 The school takes an integrated approach to the use of ICT for teaching and learning.&nbsp; Beyond the lessons specifically designed to teach digital literacy skills, IP and Non-IP departments strive to integrate the use of ICT into their curriculum.
@@ -48,15 +48,6 @@ During the Code for Fun programme, P6 students learnt the following:
 
 
 
-### Student Learning Space (SLS)
-![](/images/infocom5.jpg)
-
-[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
-
-1.  1.  As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools.
-    2.  With the SLS, students will be able to learn better through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience.
-    3.  Our teachers will guide your child in activating the SLS account and using the learning platform.
-    4.  We look forward to your support as we help our students strengthen their learning through the SLS.
 
 ### PCS100 Coding Games
 
