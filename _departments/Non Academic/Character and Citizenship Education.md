@@ -8,7 +8,7 @@ third_nav_title: Non Academic
 
 To nurture morally upright and concerned citizens
 
-### CCE Outcomes
+### Mission
 
 
 Persons of good character and are concerned citizens
