@@ -17,7 +17,7 @@ _To cultivate a culture of innovation amongst staff to design quality ICT learni
 ### Overview of ICT Education in Poi Ching School
 
 
-The school takes an integrated approach to the use of ICT for teaching and learning.  Beyond the lessons specifically designed to teach digital literacy skills, IP and Non-IP departments strive to integrate the use of ICT into their curriculum.
+The school takes an integrated approach to the use of ICT for teaching and learning.&nbsp; Beyond the lessons specifically designed to teach digital literacy skills, IP and Non-IP departments strive to integrate the use of ICT into their curriculum.
 
 The table below lists the ICT baseline skills and competencies to be acquired at each level (2021):
 
@@ -46,13 +46,7 @@ During the Code for Fun programme, P6 students learnt the following:
 *   Promote collaboration through small group peer-learning. They also got a chance to work together to program a dance using their Sphero robotic kits!
 *   Students ended off the 10-hour session with an introduction to Artificial intelligence
 
-### ICT Mentors
 
-Our ICT Mentors lead in the use of ICT tools in their lessons and conduct professional sharing with other staff to cultivate the use of ICT in teaching and learning. During Circuit Breaker in 2020, our ICT Mentors played a pivotal role in upskilling all teachers to facilitate the implementation of Full Home-Based Learning.
-
-In 2021, our ICT Mentors continue to provide professional development for all staff via SLS.
-
-![](/images/ICTM2021.jpg)
 
 ### Student Learning Space (SLS)
 ![](/images/infocom5.jpg)
@@ -68,7 +62,7 @@ In 2021, our ICT Mentors continue to provide professional development for all st
 
 As part of our school’s centennial celebrations, the Infocomm Technology Department proudly presents PCS100 Coding Games.
 
-Our P4 and P5 students developed their Digital Literacy by learning basic programming techniques and understanding of computational thinking through creation of animated games. 
+Our P4 and P5 students developed their Digital Literacy by learning basic programming techniques and understanding of computational thinking through creation of animated games.&nbsp;
 
 **Click the games below to play!**
 
