@@ -44,7 +44,7 @@ As basketball is a team sport, teamwork is also promoted amongst pupils who come
  Indoor Sports Hall Level 1
  
  
- ### CCA Teachers
+### CCA Teachers
 
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
