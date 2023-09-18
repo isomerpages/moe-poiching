@@ -50,31 +50,6 @@ CCE-CL group members (Ms. Woo Ying Teng, Mdm Irene Siew, Mdm Li Jing ) had succe
 
 ![](/images/cl4.png)
 
-### Department Blog&nbsp;部博客
-
-* [https://poichingchinese.blogspot.com/](https://poichingchinese.blogspot.com/)
-
-* [Centennial Seeker slides.pdf](/files/Centennial-Seeker-slides-Final.pdf)
-
-* [https://clgamesteam.itch.io/the-virtual-centennial-seeker](https://clgamesteam.itch.io/the-virtual-centennial-seeker)
-
-<a href="https://clgamesteam.itch.io/the-virtual-centennial-seeker">
-<img src="/images/chinesedept2020-1024x687.jpg" width="100" height="132">
-</a>
-
-### Resources
-
-
-Download 下载：
-
-* [Approved dictionaries by SEAB 2021](/files/docs.pdf)
-
-![](/images/Slide4-2.jpg)
-![](/images/Slide1-1.jpg)
-![](/images/Slide2-1.jpg)
-
-* [小学华文课外读物参考书目 2021](/files/Primary-School-Chinese-Extracurricular-Readings-2020_revised.pdf)
-* [中学华文课外读物参考书目 2021](/files/Secondary-School-Content-2021.pdf)
 
 ### Accolades
 
@@ -880,6 +855,31 @@ Reading Comprehension and Writing Skills are the main teaching points, moreover,
 
 小三至小六着重于听说读写四个技能，阅读理解与作文教学是小三至小六的教学重点，此外听力与口试也加强训练，以应付考试需求。通过思维导图、阅读微技与写作训练让学生对文本有深层的理解，掌握华文华语的能力。
 
+### Department Blog&nbsp;部博客
+
+* [https://poichingchinese.blogspot.com/](https://poichingchinese.blogspot.com/)
+
+* [Centennial Seeker slides.pdf](/files/Centennial-Seeker-slides-Final.pdf)
+
+* [https://clgamesteam.itch.io/the-virtual-centennial-seeker](https://clgamesteam.itch.io/the-virtual-centennial-seeker)
+
+<a href="https://clgamesteam.itch.io/the-virtual-centennial-seeker">
+<img src="/images/chinesedept2020-1024x687.jpg" width="100" height="132">
+</a>
+
+### Resources
+
+
+Download 下载：
+
+* [Approved dictionaries by SEAB 2021](/files/docs.pdf)
+
+![](/images/Slide4-2.jpg)
+![](/images/Slide1-1.jpg)
+![](/images/Slide2-1.jpg)
+
+* [小学华文课外读物参考书目 2021](/files/Primary-School-Chinese-Extracurricular-Readings-2020_revised.pdf)
+* [中学华文课外读物参考书目 2021](/files/Secondary-School-Content-2021.pdf)
 
 **Department Blog :**
 
