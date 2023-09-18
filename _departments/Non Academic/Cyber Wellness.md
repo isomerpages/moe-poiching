@@ -10,6 +10,43 @@ Poi Ching School embarked on the Cyber Wellness (CW) journey with a goal in mind
 ### Mission
 We continue to work on this goal by developing the curriculum and programmes in alignment with the MOE’s CW framework (Sense-Think-Act). The CW framework aims to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace.
 
+### Key Programmes
+
+*   Cyber Wellness Ambassadors at Work during P1 Orientation –&nbsp; Teddy Bear Workshop
+
+![](/images/cyber03.jpg)
+
+*   Cyber Wellness Leadership Programme
+
+![](/images/cyber04.jpg)
+
+*   Celebrating Safer Internet Day
+
+Our Cyber Wellness Ambassadors went to different classes in all the different levels to lead in the activities.
+
+![](/images/cyber4.jpg)
+![](/images/cyber5.jpg)
+
+*   Cyber Wellness Trainings
+
+![](/images/2017-training1-768x576.jpg)
+
+*   School Assembly Talks
+
+![](/images/programme1-768x576.jpg)
+
+*   National Cyber Wellness Advocacy Challenge (NCAC)
+
+![](/images/crescent2-768x576.jpg)
+
+*   Racial Harmony cum Cyber Wellness Day
+
+![](/images/games-begin1-768x576.jpg)
+
+*   Recess Duties
+
+![](/images/cyberwellness_pic2-768x576.jpg)
+
 ### About the CW Framework (Sense-Think-Act)
 
 ![](/images/cyber01.jpg)
@@ -55,42 +92,7 @@ We continue our outreach to parents/guardians of our students through the cyber 
 
 We work closely with the school counsellor to render assistance to students in need. Together, we go navigate the problems at hand and guide them to make better choices.
 
-### Cyber Wellness events in Poi Ching School
 
-*   Cyber Wellness Ambassadors at Work during P1 Orientation –&nbsp; Teddy Bear Workshop
-
-![](/images/cyber03.jpg)
-
-*   Cyber Wellness Leadership Programme
-
-![](/images/cyber04.jpg)
-
-*   Celebrating Safer Internet Day
-
-Our Cyber Wellness Ambassadors went to different classes in all the different levels to lead in the activities.
-
-![](/images/cyber4.jpg)
-![](/images/cyber5.jpg)
-
-*   Cyber Wellness Trainings
-
-![](/images/2017-training1-768x576.jpg)
-
-*   School Assembly Talks
-
-![](/images/programme1-768x576.jpg)
-
-*   National Cyber Wellness Advocacy Challenge (NCAC)
-
-![](/images/crescent2-768x576.jpg)
-
-*   Racial Harmony cum Cyber Wellness Day
-
-![](/images/games-begin1-768x576.jpg)
-
-*   Recess Duties
-
-![](/images/cyberwellness_pic2-768x576.jpg)
 
 ### Resources
 
