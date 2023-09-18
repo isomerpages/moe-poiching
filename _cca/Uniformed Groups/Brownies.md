@@ -4,8 +4,7 @@ permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-All girls are valued and take action to change the world. <br>
-In PCS, the Brownies CCA aims to enable girls and young women to develop their fullest potential as responsible citizens of the world.
+In Brownies CCA, all girls are valued and take action to change the world. Through this CCA, we aim to enable girls and young women to develop their fullest potential as responsible citizens of the world.
 
 ![](/images/brownies%207.jpg)
 
@@ -52,7 +51,7 @@ Hall of Wellness
 
 ### Accolades
 
-**Girl Guides Singapore East Division Day 2021** <br>
+**Girl Guides Singapore East Division day 2021** <br>
 
 * Comic Strip Competition - Gold
 * Patch Design Competition - Silver
