@@ -60,8 +60,7 @@ The Volleyball CCA nurtures students to be good team players through effective c
 
 ### CCA Teachers
 
-
-one;"&gt;  Mr Goh Kwee Seng Alvin<table style="border-collapse: collapse; border: 1px solid black;">
+<table style="border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
       <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
@@ -85,8 +84,7 @@ one;"&gt;  Mr Goh Kwee Seng Alvin<table style="border-collapse: collapse; border
 		<tr> <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">  Mdm Tee Li Ping </td>
     </tr>
-    
-  </tbody>
+			  </tbody>
 </table>
 
 
