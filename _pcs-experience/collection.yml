@@ -2,9 +2,6 @@ collections:
   pcs-experience:
     output: true
     order:
-      - Signature Programme/Bicep Programme.md
-      - Signature Programme/Special Assistance Plan (SAP) Programme.md
-      - Signature Programme/.keep
       - Moral 德/.keep
       - Moral 德/MOE Sexuality Education 教育部性教育.md
       - Moral 德/CCE 品格与公民教育.md
@@ -22,3 +19,6 @@ collections:
       - Social 群/Corporate Social Responsibility & Partnership.md
       - Aesthetics 美/.keep
       - Aesthetics 美/Aesthetics 美术 音乐.md
+      - Signature Programme/.keep
+      - Signature Programme/Bicep Programme.md
+      - Signature Programme/Special Assistance Plan (SAP) Programme.md
