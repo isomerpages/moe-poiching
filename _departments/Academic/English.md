@@ -12,7 +12,7 @@ Thinking Pupils, Confident Communicators
 
 To nurture students who read extensively, listen attentively, speak confidently, write effectively
 
-### Our Programmes
+### Key Programmes
 
 The English Department aims to nurture students who read extensively, listen attentively, speak confidently and write effectively. Through experiential learning and shared experiences, STELLAR lessons are carried out for all students with the aim of helping students to develop a passion for reading and a strong foundation in the English Language.
 

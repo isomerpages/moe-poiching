@@ -4,13 +4,15 @@ permalink: /departments/non-academic/non-ip/physical-education/
 description: ""
 third_nav_title: Non Academic
 ---
+### Vision
+
+To Develop Our Pupils Towards Total Wellness Through Holistic Physical Education Imbue With Morality and Passion for Sports.
+
+
 ### Mission
 
 Active Lifestyles Through Quality Physical Education
 
-### Vision
-
-To Develop Our Pupils Towards Total Wellness Through Holistic Physical Education Imbue With Morality and Passion for Sports.
 
 ### MOTTO
 
@@ -18,11 +20,11 @@ Fit for Work, Fit for Play, Fit for Life
 
 ### Introduction
 
-In Poi Ching, Physical & Health Education (PHE) is regarded as an integral part of our education system and forms part of our curriculum. As such, the department plans and implement an effective and meaningful PHE programmes, activities and events consistent with our school mission and vision. We strive to provide a holistic PHE education for our students with the necessary 21st CC knowledge, skills and values to help them in life. The Physical Education and Sports Development Framework guides the delivery of physical education and sports within the school system. It envisions a nation of active and physically competent individuals. Everyone values, participates and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement or for national honours.
+In Poi Ching, Physical &amp; Health Education (PHE) is regarded as an integral part of our education system and forms part of our curriculum. As such, the department plans and implement an effective and meaningful PHE programmes, activities and events consistent with our school mission and vision. We strive to provide a holistic PHE education for our students with the necessary 21st&nbsp;CC knowledge, skills and values to help them in life. The Physical Education and Sports Development Framework guides the delivery of physical education and sports within the school system. It envisions a nation of active and physically competent individuals. Everyone values, participates and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement or for national honours.
 
 ![](/images/pic1.jpg)
 
-<center>(Physical Education & Sports Development Framework)</center>
+<center>(Physical Education &amp; Sports Development Framework)</center>
 
 ### Purpose and Goals of Physical Education
 
@@ -43,12 +45,12 @@ The PE syllabus is organised to achieve the goals of physical education based on
 ### Department Members
 
 
-*   Mr Alvin Goh (HOD/PE & CCA)
-*   Ms Law Mei Fun (SH/PE & Aesthetics)
+*   Mr Alvin Goh (HOD/PE &amp; CCA)
+*   Ms Law Mei Fun&nbsp;(SH/PE &amp; Aesthetics)
 *   Mr Victor Ho (P4-6 Level Rep)
 *   Ms Qian Yan (P1-3 Level Rep)
 *   Mr Ng Theng Hian (HE Coordinator)
 *   Mrs Lee Kheng Leng (PAL Coordinator)
-*   Ms Faezah Binte Abdul Samad  (SEP Coordinator)
+*   Ms Faezah Binte Abdul Samad&nbsp; (SEP Coordinator)
 
 ![](/images/PE_key_2022.jpg)

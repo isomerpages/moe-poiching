@@ -10,37 +10,24 @@ Students are steeped in Chinese culture and values
 
 深受中华文化与价值观熏陶的学生。
 
-### Mission / 使命
+### Mission /&nbsp;使命
 
 To provide a vibrant learning environment that stimulates the students’ appreciation in Chinese Culture and Arts, focuses on their character development and cultivates their language skills.
 
 为学生们提供一个充满生气的学习环境，促进他们对中华文化与艺术的赏析，培养正直品格以及提升语文能力。
 
-### Objectives
-
 A student who spends 6 years of primary school education in PCS would thus has opportunities to be exposed to, and experience various Chinese Art and Cultural programmes. If he/she is a student with outstanding performance and abilities, he/she would also have the opportunity to further enrich his/her learning and develop his/her skills. Overall, the student would have been actively engaged in various stages of his/her primary school journey, learning various aspects about the Chinese language and culture.
 
-We pursuit excellence through competitions and performances. We will provide platforms for students to showcase their talents on Wushu, Chinese Speech & Drama, Chinese Drum, Chinese Opera,  Chinese Chess, Chinese Calligraphy & English / Chinese Translation.
+We pursuit excellence through competitions and performances. We will provide platforms for students to showcase their talents on Wushu, Chinese Speech &amp; Drama, Chinese Drum, Chinese Opera,&nbsp; Chinese Chess, Chinese Calligraphy &amp; English / Chinese Translation.
 
 在培青接受六年小学教育的学生有机会接触并体验各种中华艺术和文化。如果他/她是一位表現和能力卓著的学生，他/她还有机会进一步丰富他/她的学习并发展他/她的技能。总体而言，学生将积极参与学习有关中华语言与文化。
 
 我们通过比赛、表演，更高的专业技能和能力以追求卓越。 比如：武术、演艺、中国鼓、舞狮、戏曲、象棋、书法、中英互译
 
-### Main Pedagogy/Teaching Strategies (教学策略)
-
-
-*   Developing Talents in Chinese Language Learners 培育华文卓越的学生
-    *   The programme is designed using the ‘4 E’ Approach – Exploration &  Experience,  Excellence and Engagement 这个项目以四个途径进行：深入探讨、亲身体验、追求卓越、积极互动
-    *   ‘Exploration and Experience’ – provision of opportunities for all  students to acquire basic knowledge and fundamental skills; implementation by level 深入探讨与亲身体验 – 依不同级别进行，给予学生机会吸取基本知识与语言技巧。
-    *   ‘Excellence’ – talent identification for select group of students with outstanding performance or abilities to further enrich their knowledge and develop their skills; implementation is for select group of students 追求卓越 – 识别有出色表演能力的优秀学生人才，深入强化他们的知识与发展他们的强项。
-
-    *   ‘Engagement’ – the intended outcome of the SAP programme, to engage students in  meaningful learning in the affective, behavioural and cognitive domains 积极互动 – SAP项目的目的旨在情感、行为和知识领域里与学生们积极进行互动，使学习更具意义。
 
 ### Key Programmes (主要活动)
 
 ![](/images/sap2021prg.jpg)
-
-### Activities & Achievements (活动与成就）
 
 **线上中秋园游会2021**
 
@@ -50,13 +37,13 @@ We pursuit excellence through competitions and performances. We will provide pla
 
 完成所有线上活动的学生还可获得神秘礼物！学生也可以根据指示来上传手工作品或自制月饼的照片和视频，这些照片与视频将有机会在校园里展示。
 
-花好月圆人安康    <br>
-春花秋月家吉祥    <br>
+花好月圆人安康 &nbsp;  <br>
+春花秋月家吉祥 &nbsp;  <br>
 9月21日（星期二）是中秋节，祝阖家团圆、幸福安康！
 
 Due to the current Covid-19 situation, in place of our usual large-scale Mid-Autumn celebration, we will be holding an online Mid-Autumn celebration via SLS this year. The online Mid-Autumn celebration includes informative videos on the origin and legends of Mid-Autumn festival, interesting family bonding activities and lantern riddles. Students can log in to SLS from 11th September 2021 to 19th September 2021 together with their family to participate in the online Mid-Autumn celebration activities.
 
-Students who complete all the activities in SLS will stand a chance to receive a mystery gift. Students can follow the instructions in SLS to upload photos or videos of their handmade lanterns and mooncakes.  Selected photos or videos will be displayed in school.
+Students who complete all the activities in SLS will stand a chance to receive a mystery gift. Students can follow the instructions in SLS to upload photos or videos of their handmade lanterns and mooncakes.&nbsp; Selected photos or videos will be displayed in school.
 
 We hope students will participate actively in this year’s online Mid-Autumn celebration and we wish everyone a blessed season of happiness and family reunion.
 
@@ -68,9 +55,9 @@ Happy Mid-Autumn Festival!
 
 **2021 National Primary School Chinese Storytelling Competition**
 
- 新加坡福建会馆与新加坡中学华文教师会联办、道南学校协办、UFM100.3支持的“2021年全国小学华语讲故事比赛”，来自62所小学的124名学生参加了比赛，7月2日15名学生进入大决赛，5E 的庄乐恩获得优胜奖。
+&nbsp;新加坡福建会馆与新加坡中学华文教师会联办、道南学校协办、UFM100.3支持的“2021年全国小学华语讲故事比赛”，来自62所小学的124名学生参加了比赛，7月2日15名学生进入大决赛，5E 的庄乐恩获得优胜奖。
 
-The 2021 National Primary School Chinese Storytelling Competition was organized by the Singapore Hokkien Huay Kuan, together with the Singapore Middle School Chinese Teachers’ Association and Tao Nan School, with Support from UFM100.3.  Attracted total 124 students from 62 Primary Schools to participate in the competition.
+The 2021 National Primary School Chinese Storytelling Competition was organized by the Singapore Hokkien Huay Kuan, together with the Singapore Middle School Chinese Teachers’ Association and Tao Nan School, with Support from UFM100.3.&nbsp; Attracted total 124 students from 62 Primary Schools to participate in the competition.
 
 5E Joy Chong Le’en completed the online preliminary round on 4 June and competed the online final on 2nd July with 15 students and won the Merit Prize.
 
@@ -78,9 +65,9 @@ The 2021 National Primary School Chinese Storytelling Competition was organized 
 
 **第四届中小学课文朗诵线上比赛**
 
-**Online 4th Text Recital Competition for Primary and Secondary Schools**
+**Online 4th&nbsp;Text Recital Competition for Primary and Secondary Schools**
 
-15 of our P2 to P5 students participated in the online 4th Text Recital Competition for Primary and Secondary Schools, jointly organised by Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School and Singapore Chinese Teachers Literary Recital Society.
+15 of our P2 to P5 students participated in the online 4th&nbsp;Text Recital Competition for Primary and Secondary Schools, jointly organised by Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School and Singapore Chinese Teachers Literary Recital Society.
 
 All 15 of our students won an award for the competition and the winning students are as follows:
 
@@ -162,13 +149,13 @@ All 15 of our students won an award for the competition and the winning students
 
 ![](/images/sap2021-03_.jpg)
 
-**2020年全国中小学创意阅读比赛**  **National Chinese Creative Reading Competition 2020**
+**2020年全国中小学创意阅读比赛**&nbsp;&nbsp;**National Chinese Creative Reading Competition 2020**
 
 疫情无法阻挡学生的参赛热情。我校2年级的陳柏宇和杨子辰参加了由国家图书馆、新加坡华文教师总会和大众书局在2020年11月25日举办的线上2020年全国中小学创意阅读比赛。他们进入了12月15日举行的
 
 总决赛，荣获第三名。
 
-Two of our Primary 2 students Chen Bo Yu and Gregory Yang Zichen participated in the online National Chinese Creative Competition 2020 organized by National Library Board, Singapore Chinese Teachers’ Union and Popular on 25 November 2020. They entered the finals and won the 3rd prize.
+Two of our Primary 2 students Chen Bo Yu and Gregory Yang Zichen participated in the online National Chinese Creative Competition 2020 organized by National Library Board, Singapore Chinese Teachers’ Union and Popular on 25 November 2020. They entered the finals and won the 3rd&nbsp;prize.
 
 ![](/images/sap2021award01.jpg)
 
@@ -205,7 +192,7 @@ Two of our Primary 2 students Chen Bo Yu and Gregory Yang Zichen participated in
 
 **第三届中小学课文朗诵比赛 Text Recital Competition for Primary and Secondary Schools**
 
-jointly organised by Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School & Singapore Chinese Teachers Literary Recital Society
+jointly organised by Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School &amp; Singapore Chinese Teachers Literary Recital Society
 
 ![](/images/sap2020-02.jpg)
 
@@ -219,7 +206,7 @@ jointly organised by Committee to Promote Chinese Language Learning (CPCLL), And
 
 **National Chinese Creative Reading Competition 2019**
 
-2 group of our P1 to P5 students participated in the National Chinese Creative Competition 2019 organized by National Library Board, Singapore Chinese Teachers’ Union and Popular on 10 December 2019. For lower primary group we won 1st prize and upper primary group won Consolation prize.
+2 group of our P1 to P5 students participated in the National Chinese Creative Competition 2019 organized by National Library Board, Singapore Chinese Teachers’ Union and Popular on 10 December 2019. For lower primary group we won 1st&nbsp;prize and upper primary group won Consolation prize.
 
 ![](/images/sap2020-01.jpg)
 
@@ -255,31 +242,31 @@ jointly organised by Committee to Promote Chinese Language Learning (CPCLL), And
 
 **Reading Recitation Competition**
 
-12 of our P1 to P6 students participated in the Reading Recitation Competition organized by MOE CPCLL in the preliminary round. All participants won awards. We received 2 sliver, 2 Bronze for individual and 1 Gold, 2 Silver and I Bronze for group.
+12 of our P1 to P6 students participated in the Reading Recitation Competition organized by MOE CPCLL in the preliminary round. All participants won awards. We received&nbsp;2&nbsp;sliver, 2 Bronze for individual and 1 Gold,&nbsp;2&nbsp;Silver and I Bronze for group.
 
-The group of 2 students who won the Gold award participated in the Final which was held on 3 August at Anderson Primary School. I am pleased to announce that our two students did our school proud and received 2nd in the Gold Award category.
+The group of 2 students who won the Gold award participated in the Final which was held on 3 August at Anderson Primary&nbsp;School. I am pleased to announce that our two students did our school proud and received 2nd in the Gold Award category.
 
 ![](/images/Reading-Recitation_1-768x432.jpg)
 ![](/images/Reading-Recitation_2-768x576.jpg)
 
 **2nd Chinese Karaoke Singing Competition**
 
-Cadence Sng Wei Mei (P3C)  and Goh Mu Xun (P5C) beat 36 other participants during the preliminary round on 20 July 2019 (Sat). Finally Cadence Sng Wei Mei (P3C)  emerged 1st prize and  Goh Mu Xun (P5C) emerged Merit prize in the 2nd National Chinese Karaoke Singing Competition on 4 August 2019 ( Sunday)
+Cadence Sng Wei Mei&nbsp;(P3C)&nbsp;&nbsp;and Goh Mu Xun (P5C)&nbsp;beat 36 other participants during the preliminary round on&nbsp;20&nbsp;July&nbsp;2019&nbsp;(Sat). Finally&nbsp;Cadence Sng Wei Mei&nbsp;(P3C)&nbsp; emerged 1st&nbsp;prize&nbsp;and&nbsp; Goh Mu Xun (P5C)&nbsp;emerged Merit&nbsp;prize in&nbsp;the&nbsp;2nd&nbsp;National Chinese&nbsp;Karaoke Singing Competition on&nbsp;4&nbsp;August&nbsp;2019&nbsp;( Sunday)
 
 ![](/images/2nd-Chinese-Karaoke-Singing-Competition-768x576.jpg)
 
-**11th Inter-school(Pri & Sec)Chinese Language and Cultural Quiz Competition**
+**11th Inter-school(Pri &amp; Sec)Chinese Language and Cultural Quiz Competition**
 
-11th Inter-school(Pri & Sec)Chinese Language and Cultural Quiz Competition, organised by**Temasek Junior College** and **Confucius Institute, Nanyang Technological University (CI-NTU)**  This event is held on 6th April 2018, venue is at Temasek Junior College. Accompanying teacher is Mr Chua Yong Tee.
+11th Inter-school(Pri &amp; Sec)Chinese Language and Cultural Quiz Competition,&nbsp;organised by**Temasek Junior College**&nbsp;and **Confucius Institute, Nanyang Technological University (CI-NTU)**&nbsp;&nbsp;This event is held on 6th April 2018, venue is at Temasek Junior College.&nbsp;Accompanying teacher is Mr Chua Yong Tee.
 
 Team Advisor is Mdm Lian Hwee Eng (SAP HOD), Mother Tongue Teachers that provide trainings are: Mdm Liew Yann Shan, Ms Louise Peh and Mr Chua Yong Tee.
 
 Out of the 40 over teams taking part nation-wide, our Team A received Merit Award. They are：
 
-6C Xu Sijia <br>
-6C Koh Jie Feng Galles <br>
-6C Low Jie Chun <br>
-6E Gerold Tay Yi
+6C&nbsp;Xu Sijia <br>
+6C&nbsp;Koh Jie Feng Galles <br>
+6C&nbsp;Low Jie Chun <br>
+6E&nbsp;Gerold Tay Yi
 
 第十一届全国中小学生华文文化常识比赛
 
@@ -292,7 +279,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 在全国各校四十多支劲旅中，我们培青学校A组的学生脱颖而出，获得了优胜奖的殊荣。他们是：
 
 6勇　徐思佳 <br>
-6勇　許榤沣 <br>
+6勇　許榤沣&nbsp;<br>
 6勇　刘劼隽 <br>
 6卓　郑毅
 
@@ -300,7 +287,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 
 **2017**
 
-**10th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017 co-organised by  Temasek JC and NTU Confucius Institute on 7 April / 淡马锡初级学院和南大孔子学院联合主办“第十届全国中小学生华文文化常识比赛”**
+**10th Inter-school (Pri &amp; Sec) Chinese Language and Cultural Quiz Competition 2017 co-organised by&nbsp; Temasek JC and NTU Confucius Institute on 7 April / 淡马锡初级学院和南大孔子学院联合主办“第十届全国中小学生华文文化常识比赛”**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -332,7 +319,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 
 **2016**
 
-**9th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017** **co-organised by  Temasek JC and NTU Confucius Institute on 15 April /** **淡马锡初级学院和南大孔子学院联合主办“第九届全国中小学生华文文化常识比赛”**
+**9th Inter-school (Pri &amp; Sec) Chinese Language and Cultural Quiz Competition 2017**&nbsp;**co-organised by&nbsp; Temasek JC and NTU Confucius Institute on 15 April /**&nbsp;**淡马锡初级学院和南大孔子学院联合主办“第九届全国中小学生华文文化常识比赛”**
 
 ![](/images/sap2.png)
 ![](/images/sap3.png)
@@ -500,7 +487,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 
 **2015**
 
-**8th Inter-school (Pri & Sec) Chinese Language and Cultural Quiz Competition 2017** **co-organised by  Temasek JC and NTU Confucius Institute on 15 April /** **淡马锡初级学院和南大孔子学院联合主办“第八届全国中小学生华文文化常识比赛”**
+**8th Inter-school (Pri &amp; Sec) Chinese Language and Cultural Quiz Competition 2017**&nbsp;**co-organised by&nbsp; Temasek JC and NTU Confucius Institute on 15 April /**&nbsp;**淡马锡初级学院和南大孔子学院联合主办“第八届全国中小学生华文文化常识比赛”**
 
 ![](/images/sap4.png)
 ![](/images/sap5.png)
@@ -822,7 +809,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 
 **Chinese Comic Writing Programme**
 
-  **2016**
+&nbsp;&nbsp;**2016**
 
 *   为了鼓励学生学习华文，提高华文写作水平，推广华文学习委员会写作组、联合早报属下学生报《大拇指》、《逗号》和本地漫画导师将联办了“2016年全国中小学华文漫画写作计划”，而培青是参与的学校之一。本地漫写导师通过漫画，指导学生使用华文写作，一方面可让学生获取画漫画的宝贵知识；另一方面可激发他们的创意思考，增强学生对华文写作的信心，同时也培养学生通过漫画写作的兴趣，提高他们使用华文写作的能力。此写漫画写作班于7月20日开始了第一堂课。
 
@@ -844,7 +831,7 @@ Out of the 40 over teams taking part nation-wide, our Team A received Merit Awar
 *   **Chinese New Year 农历新年庆祝会**
 ![](/images/sap16.png)
 
-*   **Dumpling Festival** **端午节**
+*   **Dumpling Festival**&nbsp;**端午节**
 
 P5 students participated hands-on dumpling making session on 23 May 2016
 
@@ -857,11 +844,11 @@ P5 students participated hands-on dumpling making session on 23 May 2016
 
 *   **River Hongbao Singapore 2015**
 
-Members of Chinese Speech & Drama perform at River Hongbao Singapore 2015
+Members of Chinese Speech &amp; Drama perform at River Hongbao Singapore 2015
 
 ![](/images/sap19.png)
 
-*   **Dumpling Festival** **端午节**
+*   **Dumpling Festival**&nbsp;**端午节**
 
 P5 students participated hands-on dumpling making session on 22 May 2015
 
@@ -871,24 +858,34 @@ P5 students participated hands-on dumpling making session on 22 May 2015
 
 **2016**
 
-*   Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅
+*   Xiamen/Fuqing, China Immersion Programme &nbsp;厦门/福清寻根之旅
 *   Shanghai Experimental Primary School 上海市实验小学访问培青学校的文化浸濡
 
 ![](/images/sap22.png)
 
 **2015**
 
-*   **Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅**
+*   **Xiamen/Fuqing, China Immersion Programme &nbsp;厦门/福清寻根之旅**
 
 今年5月29日至6月4日，6名小四、小五的学生生在马校长和4位老师的带领下，前往中国厦门福清进行浸濡学习。7天的行程中，学生们到了一都培青学校以及东张华石中心小学进行交流。一都培青这所乡村学校是由新加坡福清会馆的董事资助而建。新中两校的学生们进行了文化交流、才艺观摩、一起学习、一起互动。学生们也参观了鼓浪屿（又称音乐之岛）以及南靖土楼等。他们也学习陶艺和剪纸艺术，此趟可谓满载而归。
 ![](/images/SAP-33.jpg)
 
 **2014**
 
-*   **Xiamen/Fuqing, China Immersion Programme  厦门/福清寻根之旅**
+*   **Xiamen/Fuqing, China Immersion Programme &nbsp;厦门/福清寻根之旅**
 
 ![](/images/SAP-34.jpg)
 
 *   **Hanzhou, China Immersion Programme杭州浸濡之旅**
 
 ![](/images/SAP-35.jpg)
+
+### Main Pedagogy/Teaching Strategies (教学策略)
+
+
+*   Developing Talents in Chinese Language Learners 培育华文卓越的学生
+    *   The programme is designed using the ‘4 E’ Approach – Exploration &amp; &nbsp;Experience, &nbsp;Excellence and Engagement 这个项目以四个途径进行：深入探讨、亲身体验、追求卓越、积极互动
+    *   ‘Exploration and Experience’ – provision of opportunities for all &nbsp;students to acquire basic knowledge and fundamental skills; implementation by level 深入探讨与亲身体验 – 依不同级别进行，给予学生机会吸取基本知识与语言技巧。
+    *   ‘Excellence’ – talent identification for select group of students with outstanding performance or abilities to further enrich their knowledge and develop their skills; implementation is for select group of students 追求卓越 – 识别有出色表演能力的优秀学生人才，深入强化他们的知识与发展他们的强项。
+
+    *   ‘Engagement’ – the intended outcome of the SAP programme, to engage students in &nbsp;meaningful learning in the affective, behavioural and cognitive domains 积极互动 – SAP项目的目的旨在情感、行为和知识领域里与学生们积极进行互动，使学习更具意义。
