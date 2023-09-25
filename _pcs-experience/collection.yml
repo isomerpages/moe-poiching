@@ -2,6 +2,7 @@ collections:
   pcs-experience:
     output: true
     order:
+      - Signature Programme/Special Assistance Plan (SAP) Programme.md
       - Signature Programme/.keep
       - Moral 德/.keep
       - Moral 德/MOE Sexuality Education 教育部性教育.md
