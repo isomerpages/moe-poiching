@@ -16,6 +16,7 @@ description: ""
 | Mdm Leow Angeline    | | HOD/EL|
 | Mr Seow Chee How   | | HOD/CL|
 | Ms Scarlett | | HOD/MA|
+| Mrs Yan Lim | | HOD/SCI|
 | Mrs Cheng Wan Chin | | HOD/ICT|
 | Mr Alvin Goh | | HOD/PE & CCA|
 | Mrs Junie Seetoh | | SH/ Student Well-Being & AYH/P5(internal)|
