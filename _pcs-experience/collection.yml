@@ -2,6 +2,7 @@ collections:
   pcs-experience:
     output: true
     order:
+      - Signature Programme/Bicep Programme.md
       - Signature Programme/Special Assistance Plan (SAP) Programme.md
       - Signature Programme/.keep
       - Moral 德/.keep
