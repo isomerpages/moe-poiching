@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /quick-links/for-teachers
+permalink: /quick-links/for-teachers/
 description: ""
 ---
 **RESOURCES FOR TEACHERS**
@@ -29,4 +29,3 @@ description: ""
 
 [CYBERWELLNESS](https://www.moe.gov.sg/programmes/cyber-wellness)
 
-[MC ONLINE](https://www.lead.com.sg/LEAD/login/lms_login.aspx)
