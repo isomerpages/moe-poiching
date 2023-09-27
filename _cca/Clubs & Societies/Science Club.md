@@ -6,9 +6,9 @@ third_nav_title: Clubs & Societies
 ---
 The Science Club aims to give our pupils learning experiences and exposure to the Life Sciences, Environmental Sciences and the Creative and Applied Sciences. 
 
-Through an array of interesting activities, such as DNA extraction, toy-making and their designs, terrarium-making gardening and scientific experiments, we hope to cultivate a spirit of scientific inquiry and innovation in pupils.
+Through hands-on activities and interaction, students are provided the platform to enhance their creativity and gain a deeper understanding of Science concepts.
 
-![](/images/sciclub1.jpg)
+![](/images/science%20cover.PNG)
 
 ### Training Schedule
 
