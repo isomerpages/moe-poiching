@@ -19,7 +19,15 @@ _To cultivate a culture of innovation amongst staff to design quality ICT learni
 
 The school takes an integrated approach to the use of ICT for teaching and learning.&nbsp; Beyond the lessons specifically designed to teach digital literacy skills, IP and Non-IP departments strive to integrate the use of ICT into their curriculum.
 
-The table below lists the ICT baseline skills and competencies to be acquired at each level (2021):
+The table below lists the ICT baseline skills and competencies to be acquired at each level (2023):
+
+
+
+|Level | ICT Application/ Tool | Subject |
+| -------- | -------- | -------- |
+| P1    |      |     |
+| P1    |      |     |
+
 
 ![](/images/ICT-Skills-2021.jpg)
 
