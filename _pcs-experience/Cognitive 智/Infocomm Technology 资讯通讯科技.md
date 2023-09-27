@@ -35,7 +35,7 @@ The table below lists the ICT baseline skills and competencies to be acquired at
 | P6    |  Code For Fun    |   -  |
 
 
-![](/images/ICT-Skills-2021.jpg)
+
 
 
 ### Code for Fun Programme
