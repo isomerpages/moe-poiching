@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /quick-links/for-students
+permalink: /quick-links/for-students/
 description: ""
 ---
 **RESOURCES FOR STUDENTS**
@@ -8,8 +8,6 @@ description: ""
 [SLS](https://vle.learning.moe.edu.sg/login)
 
 [MC ONLINE](https://www.lead.com.sg/LEAD/login/lms_login.aspx)
-
-[KOOBITS](https://problemsums.koobits.com/)
 
 [OPAC](https://schoolibrary.moe.edu.sg/poiching)
 
