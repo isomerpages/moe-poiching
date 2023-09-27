@@ -50,8 +50,12 @@ Art Rooms
     <tr>
       <th style="border: none; border-right: 1px solid black">Teacher-in-charge
   </th>
-			<td style="border: none;">Mrs Joyce Goh  </td>
-    </tr>
+			<td style="border: none;">Mrs Jazreel Quah</td>
+    </tr>  
+		<tr>
+      <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">Mrs Joyce Goh</td>
+        </tr>
      </tbody>
 </table>
 
