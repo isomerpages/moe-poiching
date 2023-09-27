@@ -4,9 +4,11 @@ permalink: /cca/Sports-and-Games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
-The Volleyball CCA nurtures students to be good team players through effective communication and teamwork.
+The Volleyball CCA promotes and develops the sport of volleyball by providing a nurturing environment that fosters skill development, fair play, and sportsmanship. We aim to create opportunities for players of all ages and abilities to participate, compete, and grow while upholding the values of respect, inclusivity, and passion for the game.
 
-![](/images/volley.jpg)
+We envision our students to empower teamwork, athleticism, and camaraderie through volleyball, inspiring a world where every individual finds joy and fulfillment in the sport.
+
+![](/images/volley%20cover.PNG)
 
 ### Training Schedule
 
@@ -21,36 +23,32 @@ The Volleyball CCA nurtures students to be good team players through effective c
   <tbody>
     <tr>
       <td style="border: none;border-right: 1px solid black">Tuesday</td>
-      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
-      			<td style="border: 1px solid black;">P2 (selected players)</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00pm pm</td>
+      			<td style="border: 1px solid black;">P3 - P4</td>
     </tr>
     <tr> 
-<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black;">P3 - P4</td>
+<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.00 pm</td>
+      <td style="border: 1px solid black;">P5</td>
     </tr>
     <tr>
-			<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.30 pm</td>
-      <td style="border: 1px solid black;">P5</td>
-			</tr>
-    <tr>
       <td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Thursday</td>
-      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
-      			<td style="border: 1px solid black;">P2 (selected players)</td>
+      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
+      			<td style="border: 1px solid black;">P3</td>
     </tr>
     <tr> 
 <td style="border: none"></td> 
-			<td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black;">P3</td>
-    </tr>
-    <tr><td style="border:none"></td> <td style="border: 1px solid black;">2.00 pm to 4.30 pm</td>
+			<td style="border: 1px solid black;">2.00 pm to 4.30 pm</td>
       <td style="border: 1px solid black;">P4</td>
     </tr>
-    <tr>
-			<td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.30 pm</td>
+  			<tr><td style="border: none;border-right: 1px solid black"></td> <td style="border: 1px solid black;">3.00 pm to 5.30 pm</td>
       <td style="border: 1px solid black;">P5</td>
     </tr>
     <tr>
-			 </tr></tbody>
+			 </tr>
+			      <tr><td style="border: none; border-top: 1px solid black; border-right: 1px solid black">Friday</td>
+      <td style="border: 1px solid black;">2.00 pm to 3.30 pm</td>
+      			<td style="border: 1px solid black;">P2 (selected players)</td>
+    </tr></tbody>
 </table>
 
 **Venue:**
@@ -84,6 +82,12 @@ The Volleyball CCA nurtures students to be good team players through effective c
 		<tr> <td style="border: none;border-right: 1px solid black"></td>
       <td style="border: none;">  Mdm Tee Li Ping </td>
     </tr>
+				<tr> <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">  Ms Lau Ee Shan</td>
+    </tr>
+		<tr> <td style="border: none;border-right: 1px solid black"></td>
+      <td style="border: none;">  Mr Alvin Goh </td>
+    </tr>
 			  </tbody>
 </table>
 
@@ -101,7 +105,7 @@ The Volleyball CCA nurtures students to be good team players through effective c
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid black;">Lim Ding Zhi Zephane</td>
+      <td style="border: 1px solid black;">Lim Ding Zhi Zephan</td>
       <td style="border: 1px solid black;">6J4</td>
       <td style="border: 1px solid black;">P6 Captain</td>
     </tr>
@@ -121,7 +125,7 @@ The Volleyball CCA nurtures students to be good team players through effective c
       <td style="border: 1px solid black;">P5 Vice-Captain</td>
     </tr>
 			<tr>
-      <td style="border: 1px solid black;">Tan Ze Yu, Ray</td>
+      <td style="border: 1px solid black;">Fong Yu Ze Elijah Mark</td>
       <td style="border: 1px solid black;">4P3</td>
       <td style="border: 1px solid black;">P4 Captain</td>
     </tr>
