@@ -27,8 +27,8 @@ The table below lists the ICT baseline skills and competencies to be acquired at
 | -------- | -------- | -------- |
 | P1    |      |     |
 | P2    |      |     |
-| P3    |      |     |
-|   |      |     |
+| P3    |  SLS    | Social Studies    |
+|   |   SLS   | Math   |
 | P4   |  SLS    |  Social Studies   |
 |    |   FLIP   | English    |
 | P5    | Stop Motion Programme     | Art    |
