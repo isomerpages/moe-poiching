@@ -26,7 +26,13 @@ The table below lists the ICT baseline skills and competencies to be acquired at
 |Level | ICT Application/ Tool | Subject |
 | -------- | -------- | -------- |
 | P1    |      |     |
-| P1    |      |     |
+| P2    |      |     |
+| P3    |      |     |
+|   |      |     |
+| P4   |      |     |
+|    |      |     |
+| P5    |      |     |
+| P6    |      |     |
 
 
 ![](/images/ICT-Skills-2021.jpg)
