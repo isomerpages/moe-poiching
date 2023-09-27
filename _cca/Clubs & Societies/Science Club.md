@@ -4,7 +4,7 @@ permalink: /cca/Clubs-and-Societies/science-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-The Science Club aims to give our pupils learning experiences and exposure to the Life Sciences, Environmental Sciences and the Creative and Applied Sciences. 
+The Science Club aims to promote an appreciation for Science beyond the textbooks and for students to see the relevance in their daily lives.
 
 Through hands-on activities and interaction, students are provided the platform to enhance their creativity and gain a deeper understanding of Science concepts.
 
@@ -33,7 +33,7 @@ Through hands-on activities and interaction, students are provided the platform 
 
 
 **Venue:**
-Science Labs
+Science Labs 1 &amp; 2
 
 
 ### CCA Teachers
