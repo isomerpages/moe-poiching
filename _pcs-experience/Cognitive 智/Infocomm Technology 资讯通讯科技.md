@@ -25,8 +25,8 @@ The table below lists the ICT baseline skills and competencies to be acquired at
 
 |Level | ICT Application/ Tool | Subject |
 | -------- | -------- | -------- |
-| P1    |      |     |
-| P2    |      |     |
+| P1    |  FLIP    | English    |
+| P2    |   FLIP   |  English   |
 | P3    |  SLS    | Social Studies    |
 |   |   SLS   | Math   |
 | P4   |  SLS    |  Social Studies   |
