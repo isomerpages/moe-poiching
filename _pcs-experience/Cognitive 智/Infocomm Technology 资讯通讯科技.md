@@ -31,8 +31,8 @@ The table below lists the ICT baseline skills and competencies to be acquired at
 |   |      |     |
 | P4   |      |     |
 |    |      |     |
-| P5    |      |     |
-| P6    |      |     |
+| P5    | Stop Motion Programme     | Art    |
+| P6    |  Code For Fun    |   -  |
 
 
 ![](/images/ICT-Skills-2021.jpg)
