@@ -4,12 +4,12 @@ permalink: /cca/Clubs-and-Societies/outdoor-activities-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-ODAC (OutDoor Activities Club) was set up to promote awareness and appreciation of the outdoors. 
+ODAC (OutDoor Activities Club) aims to inspire and empower our students to connect with nature, challenge their limits, and foster a sense of community through outdoor adventure.
 
-Through engaging in outdoor activities, we aim to increase the pupils’ knowledge and awareness about the outdoor world and develop their skills to address challenges in a changing environment. 
+Through this CCA, we want our students to be adventurous and nature-loving with a passion for the great outdoors.
 <br><br>
-![](/images/ODAC_website_logo_with_color.jpg)
 
+![](/images/odac%201.jpg)
 
 
 
