@@ -29,29 +29,9 @@ We pursuit excellence through competitions and performances. We will provide pla
 
 ![](/images/sap2021prg.jpg)
 
-**线上中秋园游会2021**
+### Accolades
 
-在疫情的影响下，我们已经两年无法在培青校园举行中秋园游会。大家齐聚一起欢庆佳节成了我们美好的回忆，培青今年以【线上中秋园游会2021】活动让同学们在新常态下依然能够感受这个节日的欢愉及认识中秋节的由来与意义。
-
-线上庆祝活动老少咸宜，活动内容包括中秋节起源与传说的视频观赏、有趣的亲子活动、猜灯谜等。学生们可以和家人从9月11日开始，一直到9月19日参与线上中秋活动。
-
-完成所有线上活动的学生还可获得神秘礼物！学生也可以根据指示来上传手工作品或自制月饼的照片和视频，这些照片与视频将有机会在校园里展示。
-
-花好月圆人安康 &nbsp;  <br>
-春花秋月家吉祥 &nbsp;  <br>
-9月21日（星期二）是中秋节，祝阖家团圆、幸福安康！
-
-Due to the current Covid-19 situation, in place of our usual large-scale Mid-Autumn celebration, we will be holding an online Mid-Autumn celebration via SLS this year. The online Mid-Autumn celebration includes informative videos on the origin and legends of Mid-Autumn festival, interesting family bonding activities and lantern riddles. Students can log in to SLS from 11th September 2021 to 19th September 2021 together with their family to participate in the online Mid-Autumn celebration activities.
-
-Students who complete all the activities in SLS will stand a chance to receive a mystery gift. Students can follow the instructions in SLS to upload photos or videos of their handmade lanterns and mooncakes.&nbsp; Selected photos or videos will be displayed in school.
-
-We hope students will participate actively in this year’s online Mid-Autumn celebration and we wish everyone a blessed season of happiness and family reunion.
-
-Happy Mid-Autumn Festival!
-
-![](/images/sap2021-01.jpg)
-
-**2021****年全国小学华语讲故事比赛**
+**2021年全国小学华语讲故事比赛**
 
 **2021 National Primary School Chinese Storytelling Competition**
 
