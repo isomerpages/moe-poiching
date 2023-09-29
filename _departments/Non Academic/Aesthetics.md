@@ -162,13 +162,7 @@ We also require these high achievers to do service learning, integrating meaning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rwW0ytHUHko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-### Our Dept Events (2020)
 
-**Student Leadership Training For Art and Music Monitors @ Poi Ching School (6th&nbsp;January 2020, [Monday])**
-
-**Student&nbsp;Leadership Training 2020 [A Video Montage for all our PCS Art and Music Monitors]**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBHtYqJ_u8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Our Dept Events (2019)
 
