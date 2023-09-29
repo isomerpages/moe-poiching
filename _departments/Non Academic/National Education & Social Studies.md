@@ -6,7 +6,7 @@ third_nav_title: Non Academic
 ---
 ### Vision
 
-A united and harmonious Singapore
+Students with a sense of belonging to the family, school, nation and world
 
 ### Mission
 
