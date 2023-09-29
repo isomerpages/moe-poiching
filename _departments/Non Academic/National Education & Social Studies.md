@@ -23,4 +23,13 @@ Apart from the structured Character and Citizenship Education classes, the four 
 
 ![](/images/total%20defence%20day.jpg)
 
+**International Friendship Day**
+
+![](/images/international%20friendship%20day.jpg)
+
+**Racial Harmony Day**
+
+![](/images/racial%20harmony%20day.jpg)
+
+**National Day**
 
