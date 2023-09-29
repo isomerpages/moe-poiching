@@ -79,7 +79,6 @@ In the final tier of D’ARTS@PCS, we cater to the needs of high achievers in th
 
 We also require these high achievers to do service learning, integrating meaningful community service with instruction and reflection to enrich the learning experience, teach civic responsibility, and strengthen communities. Given their talent, these students should not stop at product, but to use their talent to bless the community. Their annual projects will be focused on service to community, through charity showcases/ productions/ exhibitions to bring joy to the young, old or less fortunate.
 
-### Our Dept Events (2021)
 
 **Art Aesthetics Week@PCS Advertisement Trailer (Term 3) 2021**
 
