@@ -27,7 +27,8 @@ We pursuit excellence through competitions and performances. We will provide pla
 
 ### Key Programmes (主要活动)
 
-![](/images/sap2021prg.jpg)
+![](/images/sap%20key%20programmes%202023-09-29.png)
+![](/images/sap%20key%20programmes%202023-09-29_part%202.png)
 
 ### Accolades
 
