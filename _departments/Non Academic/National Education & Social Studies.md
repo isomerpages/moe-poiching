@@ -33,3 +33,4 @@ Apart from the structured Character and Citizenship Education classes, the four 
 
 **National Day**
 
+![](/images/national%20day.jpg)
