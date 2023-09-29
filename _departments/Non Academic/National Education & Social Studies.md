@@ -10,14 +10,14 @@ Students with a sense of belonging to the family, school, nation and world
 
 ### Mission
 
-To nurture open-mindedness and belonging
+Inculcate in students the knowledge, skills and values to develop into concerned and engaged citizens
 
 
 ### Key Programmes
 
+**Total Defenc**
 
-
-**Total Defence Day 2018 – Together We Keep Singapore Strong**
+**Total Defence Day**
 
 This year, Total Defence Day falls on the eve of Chinese New Year. It serves as a poignant reminder to us not to take our peace for granted and let apathy and complacency lull us into a false sense of security.
 
