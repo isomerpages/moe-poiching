@@ -8,6 +8,9 @@ third_nav_title: Non Academic
 
 To be a vibrant and influential hub of creativity, where visual and performing arts converge to ignite imagination, foster cultural understanding, and inspire societal change. We envision a future where our department sets the standard for artistic expression, promoting self-confidence and well-being through the transformative power of aesthetics. With unwavering dedication to artistic excelllence, inclusivity, and collaboration, we aim to enrich lives, challenge perceptions, and cultivate a world where the arts are at the heart of human expression and connection.
 
+### Mission
+
+To cultivate a
 
 In Poi Ching, we also hope to provide an enriching broad-based experience for our students and have planned these authetic art experiences to compliment our curriculum:
 
