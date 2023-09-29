@@ -157,7 +157,3 @@ We also require these high achievers to do service learning, integrating meaning
 **Aesthetics Week 2021 Advertisement Trainer @ PCS**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VcIni7cEqcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-**Art Camp 2.0: Evolution Teaser Video For 2020**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rwW0ytHUHko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
