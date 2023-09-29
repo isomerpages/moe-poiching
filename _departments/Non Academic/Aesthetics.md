@@ -6,6 +6,8 @@ third_nav_title: Non Academic
 ---
 ### Vision
 
+To be a vibrant and influential hub of creativity
+
 
 ### Main Pedagogy/Teaching Strategies
 
