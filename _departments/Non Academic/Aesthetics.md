@@ -164,50 +164,7 @@ We also require these high achievers to do service learning, integrating meaning
 
 
 
-Our pupils had an interesting hands-on session during the rhythmic improvisation workshop at the Rooftop Studio conducted by the MEP students from Anglo-Chinese School (Independent). Subsequently, they had watched a number of solo and ensemble live performances on classical music from various MEP secondary schools and junior colleges at the Padang Atrium and the Singapore Courtyard. The pupil participants were also given a brief guided tour of the art exhibition featuring&nbsp;_Art in Singapore since the 19th&nbsp;century_&nbsp;at National Gallery Singapore. In conclusion, our pupils gained insightful fulfilment from their participation in this outreach event.
 
-<img src="/images/aesthetic1-1.jpg" style="width:50%">
-
-**A curator from National Gallery Singapore explaining the historical significance behind the local painting of learning mother tongue languages**
-
-<img src="/images/aesthetic1-1.jpg" style="width:50%">
-
-**A curator from National Gallery Singapore explaining the symbolic abstracts behind the local display wall piece**
-
-<img src="/images/aesthetic2-1.jpg" style="width:50%">
-
-**A group picture before the local painting**
-		 
-<img src="/images/aesthetic3-1.jpg" style="width:50%">
-	
-**The student emcee introducing the string ensemble group from CHIJ St. Nicholas**
-		 
-<img src="/images/aesthetic4-1.jpg" style="width:50%">
-
-**An informal group picture before the solo and ensemble performances**
-		 
-<img src="/images/aesthetic5-1.jpg" style="width:50%">
-
-**A solo violin performance from Tanjong Katong Girls’ School**
-		 
-<img src="/images/aesthetic6-1.jpg" style="width:50%">
-		 
-**The hands-on session of the rhythmic improvisation workshop conducted by the MEP students from ACS(I)**
-		 
-<img src="/images/aesthetic7-1.jpg" style="width:50%">
-
-**Group work and discussion during the rhythmic improvisation workshop**
-		 
-<img src="/images/aesthetic8-1-1.jpg" style="width:50%">
-
-**Group work and discussion during the rhythmic improvisation workshop**
-		 
-<img src="/images/aesthetic9-1.jpg" style="width:50%">
-**Sharing of ideas and feedback during the rhythmic improvisation workshop**
-
-<img src="/images/aesthetic10-1.jpg" style="width:50%">
-		 
-		 
 ### Our Dept Archives [Via Flickr]
 
 **2020**
