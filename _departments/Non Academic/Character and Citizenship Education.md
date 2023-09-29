@@ -15,7 +15,7 @@ Persons of good character and are concerned citizens
 
 
 
-### Key Programmes / Focus
+### Key Programmes
 
 
 *   Bamboo Programme (incorporating FTGP, Core Values)
