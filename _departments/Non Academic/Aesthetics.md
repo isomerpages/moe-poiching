@@ -4,6 +4,9 @@ permalink: /departments/non-academic/non-ip/aesthetics/
 description: ""
 third_nav_title: Non Academic
 ---
+### Vision
+
+
 ### Main Pedagogy/Teaching Strategies
 
 ![](/images/main-pedagogy_teaching.png)
@@ -747,7 +750,7 @@ The Aesthetics Week hopes to help students discover strengths and interests by g
 
 **Tampines Kindness Movement Art Competition 2016**
 
-Poi Ching School pupils took part in the Tampines Kindness Movement Art Competition 2016. It was a meaningful competition where pupils got to share their perspectives on what kindness meant to them. We would like to extend our heartiest congratulations to Andric Lim of 4 Filial Piety and Kaelyn Sum of 3 Courage for winning 1st and 3rd respectively in the Primary School Category. Andric and Kaelyn received their prizes from Tampines MP, Mr Baey Yam Keng at One Community Fiesta on 4th August 2016.
+Poi Ching School pupils took part in the Tampines Kindness Movement Art Competition 2016. It was a meaningful competition where pupils got to share their perspectives on what kindness meant to them. We would like to extend our heartiest congratulations to Andric Lim of 4 Filial Piety and Kaelyn Sum of 3 Courage for winning 1st&nbsp;and 3rd&nbsp;respectively in the Primary School Category. Andric and Kaelyn received their prizes from Tampines MP, Mr Baey Yam Keng at One Community Fiesta on 4th&nbsp;August 2016.
 
 ![](/images/accolades.png)
 
@@ -765,36 +768,36 @@ The artworks by Chloe Low from 4F and Hayley Yew and Angel Tan from 4H are selec
 
 Students artworks will be featured in the SYF 2015 exhibition publication and via an online showcase.
 
-**Category:** A (Pri 1 & 2) <br>
-**Title:** Our Singapore Wheel <br>
-**Artists:** Ho Wen Xuan, Joyce Khu Le Xuan, Janessa Yeo Jing Wen, Tan Yu Jun Kyla, Lim Hui Ping Elaiin <br>
-**Class:** 1H <br>
-**Medium:** Mixed Media <br>
-**Award:** Certificate of Participation <br>
-**Artist’s statement:** Our teachers shared with us on Singapore’s past and present. Through this project, we learnt about Singapore’s past landscapes and transportations. We decided to think of the future and hang our ideas on the Singapore Flyer. We realised how lucky we are as Singaporeans and appreciate the comfortable life we are living in. We love our country.
+**Category:**&nbsp;A (Pri 1 &amp; 2) <br>
+**Title:**&nbsp;Our Singapore Wheel <br>
+**Artists:**&nbsp;Ho Wen Xuan, Joyce Khu Le Xuan, Janessa Yeo Jing Wen, Tan Yu Jun Kyla, Lim Hui Ping Elaiin <br>
+**Class:**&nbsp;1H <br>
+**Medium:**&nbsp;Mixed Media <br>
+**Award:**&nbsp;Certificate of Participation <br>
+**Artist’s statement:**&nbsp;Our teachers shared with us on Singapore’s past and present. Through this project, we learnt about Singapore’s past landscapes and transportations. We decided to think of the future and hang our ideas on the Singapore Flyer. We realised how lucky we are as Singaporeans and appreciate the comfortable life we are living in. We love our country.
 
 ![](/images/aesthetics06.png)
 
-**Category:** B (Pri 3 & 4) <br>
-**Title:** Our Shared Space <br>
-**Artists:** Chung Shuang Ying, Ray Chow Kai Rui, Tai Hao Qing Bryan, Chung Xin Ying <br>
-**Class:** 4D, 4E <br>
-**Medium:** Lego Blocks <br>
-**Award:** Certificate of Recognition <br>
+**Category:**&nbsp;B (Pri 3 &amp; 4) <br>
+**Title:**&nbsp;Our Shared Space <br>
+**Artists:**&nbsp;Chung Shuang Ying, Ray Chow Kai Rui, Tai Hao Qing Bryan, Chung Xin Ying <br>
+**Class:**&nbsp;4D, 4E <br>
+**Medium:**&nbsp;Lego Blocks <br>
+**Award:**&nbsp;Certificate of Recognition <br>
 \*Artwork has been selected for SYF exhibition at Raffles City Shopping Centre, City Square Level 3 <br>
-**Artist statement:** Through the building of the houses that our grandparents and our parents lived in, we realized the shared space that they had as a community had shrunk a lot over the years. Everyone had more personal space but we lost something precious, the kampong spirit. We hope that with the limited land we have, our generation can forgo a little of our personal space and find ways to create more shared and accessible open spaces to live like members of a big family who cares for one another.
+**Artist statement:**&nbsp;Through the building of the houses that our grandparents and our parents lived in, we realized the shared space that they had as a community had shrunk a lot over the years. Everyone had more personal space but we lost something precious, the kampong spirit. We hope that with the limited land we have, our generation can forgo a little of our personal space and find ways to create more shared and accessible open spaces to live like members of a big family who cares for one another.
 
 ![](/images/aesthetics07.png)
 
-**Category:** C (Pri 5 & 6) <br>
-**Title:** What Can Our Shoes Tell Us
+**Category:**&nbsp;C (Pri 5 &amp; 6) <br>
+**Title:**&nbsp;What Can Our Shoes Tell Us
 
-**Artists:** Aracelia Tjandrakirana, Nicholas Tan, Lee Jing Yi, Michelle Tan Min Shuen, Choy Wen Xuan,Jernelle Louis Haryono, Kelly Mak Rae Lynn, Tan Hui Xuan Serene
+**Artists:**&nbsp;Aracelia Tjandrakirana, Nicholas Tan, Lee Jing Yi, Michelle Tan Min Shuen, Choy Wen Xuan,Jernelle Louis Haryono, Kelly Mak Rae Lynn, Tan Hui Xuan Serene
 
-**Class:** 6C, 6D, 6E <br>
-**Medium:** Mixed Media <br>
-**Award:** Certificate of Participation <br>
-**Artist statement:** School shoes serve a practical purpose but also provide cues on how our nation has progressed. In the past, students wore similar all white canvas shoes, used with bottled white starch. Now we have more choices and our shoes reveal our personalities. We were excited when we did our research for future shoes. There are already shoes that track our fitness and send the data to smartphone app etc.
+**Class:**&nbsp;6C, 6D, 6E <br>
+**Medium:**&nbsp;Mixed Media <br>
+**Award:**&nbsp;Certificate of Participation <br>
+**Artist statement:**&nbsp;School shoes serve a practical purpose but also provide cues on how our nation has progressed. In the past, students wore similar all white canvas shoes, used with bottled white starch. Now we have more choices and our shoes reveal our personalities. We were excited when we did our research for future shoes. There are already shoes that track our fitness and send the data to smartphone app etc.
 
 ![](/images/aesthetics08.png)
 
@@ -804,7 +807,7 @@ Ng Shin Rei, Variel from Class 2G won a Merit Prize in SBS Transit Art Competiti
 
 ![](/images/aesthetics09.png)
 
-**2015 National Dancesport Competition for Primary Schools** 
+**2015 National Dancesport Competition for Primary Schools**&nbsp;
 
 Shayne Lai from 5 Honesty and Edric Gan from 2 Filial Piety
 
