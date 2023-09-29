@@ -51,49 +51,6 @@ Persons of good character and are concerned citizens
 *   Cyber-Wellness
     
 *   Student Discipline
-   
-	 
- ### Introduction
-
-In Poi Ching, CCE is integrated with academic, co-curricular programmes, CCA. VIA, Student Leadership Development, Bamboo Programme, SAP Flagship and other school programmes as shown in the CCE Framework. &nbsp;In this way, CCE is lived authentically as part of the school experience of our students. Through CCE, Poi Ching aims to nurture morally upright and concerned citizens by inculcating values and build SE competencies in our students. This in turn will develop them into persons of good character and concerned citizens in this fast changing and globalised world, as reflected in our school’s CCE Vision and Outcomes.
-
-![](/images/CCE_framework_values_updated.jpg)
-
-### Pedagogy/Approach  
-
-**Head, Heart and Hands**
-
-
-To support this framework, the school has adopted the Head, Heart and Hands framework (from NE), to give our students a greater focus in engaging and empowering them to make a positive impact from themselves and their family, the school and to community (nation). In engaging the HEAD, we want our students to think through and arrive at a deeper understanding of what it means to be a Poi Ching student and Singaporean. In engaging the HEART, we want our students to connect emotionally with Singapore and have a deeper sense of belonging to the school, community and nation. Finally in engaging the HANDS, we want our students to give back to the school, community and nation.
-
-A customised approach in meeting STG3 (Pupils have a sense of identity: from school to community to nation to the world) is to leverage on the existing platforms which we already have and the 3 BIG domains of self and family, school and community. Our teachers take ownership of their own professional growth to nurture in students the competencies required for the 21st Century and through the immersion and participation of these programmes, teachers can bring out the “STAR” within them. To achieve the desired CCE outcome and vision, the school promotes the social, emotional and mental well-being of all students through a culture of care that permeates the whole school, guidance curriculum for all students, and additional intervention for students at risk.
-
-### Our Character &amp; Citizenship Education/Citizenship Dispositions
-
-![](/images/Our-Character.jpg)
-
-### Education and Career Guidance – MySkillsFuture
-
-**Career Quest – Games for Primary Students**
-
-_Career Quest, MySkillsFuture (Primary Portal)_
-
-Career Quest allows students to learn more about different industries, job roles and work values by using a customised avatar to explore a virtual world. By interacting with virtual characters and completing quests, students can discover the world of work in a fun and interactive way. Career Quest also features six mini games where students can find out more about&nbsp;their strengths and skills.
-
-
-<img src="/images/pic_quest.jpg" style="width:50%">
-		 
-[https://www.myskillsfuture.sg/content/student/en/primary/career-quest.html](https://www.myskillsfuture.sg/content/student/en/primary/career-quest.html)
-
-**Character Badges Term 4**
-
-
-### Photographs
-
-Click on the brochure for more details.
-<a href="https://drive.google.com/file/d/1P2a6kWSzFGzMbEISuMyzBtKpgp9OU-7q/view">
-<img src="/images/road-safety-768x1088.jpeg" width="100" height="132">
-</a>
 
 **Commemorating World Mental Health Day**
 
@@ -135,7 +92,7 @@ FTGP Interactive Activity Camera Action Freeze (4)
 
 ![](/images/1-1-stud-teacher-conf.jpg)
 
-**Leadership Training 2017**
+**Leadership Training**
 ![](/images/Leadership-Trg.jpg)
 
 **NE Ambassadors Training**
