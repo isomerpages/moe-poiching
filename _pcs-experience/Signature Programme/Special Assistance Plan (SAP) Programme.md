@@ -34,6 +34,18 @@ We pursuit excellence through competitions and performances. We will provide pla
 ![](/images/whatsapp%20image%202023-09-10%20cmm%201.jpeg)
 ![](/images/whatsapp%20image%202023-09-07%20cmm%202.jpeg)
 
+**Cultural Performance Exposure Scheme**
+![](/images/whatsapp%20image%202023-07-05%20cpes.jpeg)
+
+**Mid-Autumn Festival 2023**
+![](/images/mid-autumn%202023%201.jpeg)
+![](/images/mid-autumn%202023%202.jpeg)
+![](/images/mid-autumn%202023%207.jpeg)
+
+**Rice-dumpling Festival 2023**
+![](/images/whatsapp%20image%202023-05-25%20rice%201.jpeg)
+![](/images/whatsapp%20image%202023-05-25%20rice%202.jpeg)
+
 ### Accolades
 **12th National Chinese Calligraphy 2023**
 ![](/images/12th%20national%20chinese%20calligraphy%202023.JPG)
