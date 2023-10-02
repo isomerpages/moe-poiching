@@ -30,7 +30,13 @@ We pursuit excellence through competitions and performances. We will provide pla
 ![](/images/sap%20key%20programmes%202023-09-29.png)
 ![](/images/sap%20key%20programmes%202023-09-29_part%202.png)
 
+**Conversational Malay Programmes**
+![](/images/whatsapp%20image%202023-09-10%20cmm%201.jpeg)
+![](/images/whatsapp%20image%202023-09-07%20cmm%202.jpeg)
+
 ### Accolades
+**12th National Chinese Calligraphy 2023**
+![](/images/12th%20national%20chinese%20calligraphy%202023.JPG)
 
 **2021年全国小学华语讲故事比赛**
 
