@@ -10,3 +10,8 @@ The programme includes the following three modules:
 1. Children's Literature Appreciation and Creative Writing (儿童文学赏析与创作)
 2. Chinese Culture and History (中华文化与通史)
 3. Chinese Oratorical Skill and Broadcasting Training camp by Singapore Hokkien Huay Kuan Arts and Cultural Troupe (福建会馆文化艺术团口语训练)
+
+![](/images/whatsapp%20image%202023-05-22.jpeg)
+![](/images/whatsapp%20image%202023-05-29.jpeg)
+![](/images/whatsapp%20image%202023-05-29%20bicep%202.jpeg)
+![](/images/whatsapp%20image%202023-05-29%20bicep%203.jpeg)
