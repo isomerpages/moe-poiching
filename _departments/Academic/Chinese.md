@@ -21,36 +21,6 @@ Provide an environment where students find Chinese learning fun and interesting.
 ![](/images/Note-to-add-below-the-textbook.jpg)
 It is compulsory for all P1 students to take Chinese Language upon admission to school.
 
-**SHARING SESSION**
-
-Date: 8 July 2016, Friday <br>
-Venue  : Academy of Singapore Teachers <br>
-Title of Sharing: Self-Directed Learning Task for Lower Primary Students
-
-The sharing was conducted by Mdm Toh Chiew Hoon when she went to Overseas Immersion Trip to Shanghai in 2015. She had an enriching learning experience and shared at the Academy of Singapore Teachers after her trip. Research and surveys have shown positive results on Self-Directed Learning Task for Lower Primary Students.
-
-![](/images/clsharing.png)
-
-Sharing was conducted by two Chinese Teachers, Ms Wong Mei Chu and Ms Fiona Yoong Huei Lian&nbsp;on the teaching of Character and Citizenship Education (CCE) in Primary 3 classes. Creative strategies&nbsp;and activities were conducted and shared to 250 teachers in Singapore at Academy of Singapore Teachers&nbsp;(AST) on 12 August 2015.
-
-**由新加坡教师学院主办的品德与公民教育研讨会吸引了250名老师前来参加。我校两名华文老师**
-
-
-黄美珠老师和熊慧莲老师在2015年8月12日进行分享，把她们在上三年级品德与公民教育课
-
-的教学心得、创意教学与活动和大家分享。
-
-![](/images/cce001.jpg)
-
-**CCE-CL Lesson study conducted in PCS by Ying Teng with 1F class 16 Aug 2017**&nbsp;
-
-Successful Lesson Study conducted with CCE-CL Committee North-East Networked Learning Communities.
-
-CCE-CL group members (Ms. Woo Ying Teng, Mdm Irene Siew, Mdm Li Jing ) had successfully conducted the Lesson study with 1F students.CCE-CL NE4 group leader, Teacher Isabella Lai from Tampines Pri School and Wong&nbsp;Chin Yin From MOE CCE-CL Branch had joined us in the lesson study.
-
-![](/images/cl4.png)
-
-
 ### Accolades
 
 
@@ -823,64 +793,3 @@ Congratulations to the students below who achieved the Good Progress Award in Ch
   </tr>
 </tbody>
 </table>
-
-### Innergy (Schools) Awards
-
-[Synopsis-Key-Benefits-Inforgrahics](/files/Synopsis-Key-Benefits-Inforgrahics.pdf)
-
-
-### Curriculum (课程)
-
-Lower Primary (P1-P2) 低年级（小一和小二）：
-
-MOE-approved school-based curriculum (Chinese Yunyu Teaching Approach)
-
-校本教材，采用韵语课本和活动本
-
-Middle &amp; Upper Primary (P3-P6) 中、高年级学生（小三至小六）：
-
-MOE curriculum (Higher Chinese Language)
-
-采用教育部课本（小三至小六高级华文课本和活动本）
-
-### Main Pedagogy (教学策略)
-
-P1 and P2: emphasis on word recognition.
-
-P3 to P6: emphasis on language skills (listening, oral, reading and writing).
-
-Reading Comprehension and Writing Skills are the main teaching points, moreover, comprehension and essay-writing skills are enhanced. With hthe infusion of mindmaps and reading techniques, students are able to have an in-depth understanding of the text and comprehension passages, master the ability to learn Chinese.
-
-小一和小二着重于大量认字、朗读、拼写、背诵和听力。
-
-小三至小六着重于听说读写四个技能，阅读理解与作文教学是小三至小六的教学重点，此外听力与口试也加强训练，以应付考试需求。通过思维导图、阅读微技与写作训练让学生对文本有深层的理解，掌握华文华语的能力。
-
-### Department Blog&nbsp;部博客
-
-* [https://poichingchinese.blogspot.com/](https://poichingchinese.blogspot.com/)
-
-* [Centennial Seeker slides.pdf](/files/Centennial-Seeker-slides-Final.pdf)
-
-* [https://clgamesteam.itch.io/the-virtual-centennial-seeker](https://clgamesteam.itch.io/the-virtual-centennial-seeker)
-
-<a href="https://clgamesteam.itch.io/the-virtual-centennial-seeker">
-<img src="/images/chinesedept2020-1024x687.jpg" width="100" height="132">
-</a>
-
-### Resources
-
-
-Download 下载：
-
-* [Approved dictionaries by SEAB 2021](/files/docs.pdf)
-
-![](/images/Slide4-2.jpg)
-![](/images/Slide1-1.jpg)
-![](/images/Slide2-1.jpg)
-
-* [小学华文课外读物参考书目 2021](/files/Primary-School-Chinese-Extracurricular-Readings-2020_revised.pdf)
-* [中学华文课外读物参考书目 2021](/files/Secondary-School-Content-2021.pdf)
-
-**Department Blog :**
-
-[https://poichingchinese.blogspot.sg/](https://poichingchinese.blogspot.sg/)
