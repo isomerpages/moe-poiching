@@ -12,4 +12,3 @@ third_nav_title: Moral 德
 
 [NESS](https://poiching.moe.edu.sg/cce-folder/ness)
 
-[Sex Ed](https://poiching.moe.edu.sg/cce-folder/sexed)
