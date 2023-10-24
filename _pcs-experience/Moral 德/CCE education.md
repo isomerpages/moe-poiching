@@ -8,6 +8,8 @@ third_nav_title: Moral 德
 
 [Sex Ed](https://poiching.moe.edu.sg/cce-folder/sexed)
 
-[CCE Curriculum](https://poiching.moe.edu.sg/cce-folder/page1)
+[Character Education](https://poiching.moe.edu.sg/cce-folder/page1)
+
+[NESS](https://poiching.moe.edu.sg/cce-folder/page1)
 
 [Sex Ed](https://poiching.moe.edu.sg/cce-folder/sexed)
