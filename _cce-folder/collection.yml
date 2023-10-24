@@ -2,5 +2,6 @@ collections:
   cce-folder:
     output: true
     order:
+      - NESS.md
       - SEX Ed.md
       - Character Education.md
