@@ -6,15 +6,24 @@ third_nav_title: Cognitive 智
 ---
 ### Vision
 
-Thinking Pupils, Confident Communicators
+Critical Thinkers, Effective Communicators
 
 ### Mission
 
-To nurture students who read extensively, listen attentively, speak confidently, write effectively
+To nurture students who are discerning readers, active listeners and effective communicators
 
-### Our Programmes
+### Our Key Programmes
 
-The English Department aims to nurture students who read extensively, listen attentively, speak confidently and write effectively. Through experiential learning and shared experiences, STELLAR lessons are carried out for all students with the aim of helping students to develop a passion for reading and a strong foundation in the English Language.
+       
+
+
+
+1.    STELLAR Programmes
+
+2.    Star Programmes: Debating. Reading Circle
+
+3.    Active Learning Programme (ALP) P4 Speech & Drama, P5 Public Speaking
+
 
 ![](/images/el2.jpg)
 
