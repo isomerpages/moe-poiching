@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education 教育部性教育
-permalink: /le-folders/moral/permalink/
+permalink: /le-folders/moral/sexed/
 description: ""
 third_nav_title: Moral 德
 ---

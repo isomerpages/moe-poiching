@@ -4,10 +4,10 @@ permalink: /le-folders/moral/permalink/
 description: ""
 third_nav_title: Moral 德
 ---
-[CCE Curriculum](https://poiching.moe.edu.sg/cce-folder/page1)
+[CCE Curriculum](https://poiching.moe.edu.sg/cce-folder/ccecurri/)
 
-[Sex Ed](https://poiching.moe.edu.sg/cce-folder/sexed)
+[Sexuality Education](https://poiching.moe.edu.sg/le-folders/moral/permalink/)
 
-[CCE Curriculum](https://poiching.moe.edu.sg/cce-folder/page1)
+[Character Education](https://poiching.moe.edu.sg/cce-folder/charactereducation/)
 
-[Sex Ed](https://poiching.moe.edu.sg/cce-folder/sexed)
+[NESS](https://poiching.moe.edu.sg/cce-folder/ness/)

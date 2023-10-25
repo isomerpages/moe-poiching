@@ -2,5 +2,7 @@ collections:
   cce-folder:
     output: true
     order:
-      - SEX Ed.md
-      - page 1.md
+      - CCE Curriculum.md
+      - NESS.md
+      - Sexuality Education.md
+      - Character Education.md

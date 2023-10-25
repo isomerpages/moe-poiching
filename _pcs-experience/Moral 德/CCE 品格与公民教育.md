@@ -1,6 +1,6 @@
 ---
 title: CCE 品格与公民教育
-permalink: /le-folders/moral/permalink/
+permalink: /le-folders/moral/cceeducation/
 description: ""
 third_nav_title: Moral 德
 ---
