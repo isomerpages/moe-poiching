@@ -4,7 +4,7 @@ permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-The Badminton CCA encourages the players to take part in a variety of competition and friendly&nbsp;games.&nbsp;These&nbsp;exposure&nbsp;help the pupils to be more perseverant to face life’s challenges. 
+Our vision "Badminton for Life" guides us through our trainings and deepens our passion for the sport. In Badminton CCA, we focus on developing resilient, disciplined and passionate players.
 
 ![](/images/Badminton%20Pic%203.jpeg)
 
