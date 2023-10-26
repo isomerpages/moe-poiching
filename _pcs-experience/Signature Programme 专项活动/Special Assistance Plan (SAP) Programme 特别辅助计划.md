@@ -1,8 +1,8 @@
 ---
-title: Special Assistance Plan (SAP) Programme
+title: Special Assistance Plan (SAP) Programme 特别辅助计划
 permalink: /le-folders/signature-programme/sap/
 description: ""
-third_nav_title: Signature Programme 专项编程
+third_nav_title: Signature Programme 专项活动
 ---
 ### Vision /愿景
 
