@@ -12,7 +12,7 @@ To be a vibrant and influential hub of creativity, where visual and performing a
 
 To cultivate a dynamic and inclusive environment where creativity, innovation, and artistic exploration flourish. Our department strives to enrich the cultural landscape by producing exceptional visual and performing arts, encouraging critical discourse, and inspiring positive change in our community and beyond. We aim to empower individuals to embrace and express their unique aesthetic sensibilities while contributing to the enrichment of culture and society through the transformative power of aesthetics.
 
-In Poi Ching, we also hope to provide an enriching broad-based experience for our students and have planned these authetic art experiences to compliment our curriculum:
+In Poi Ching, we also hope to provide an enriching broad-based experience for our students and have planned these authentic art experiences to compliment our curriculum:
 
 ![](/images/aesthetics02.png)
 
