@@ -9,7 +9,7 @@ description: ""
 
 * [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/poiching)
 
-* [Student iCON email](https://icon.moe.edu.sg/)
+* [Student iCON](https://workspace.google.com/dashboard)
 
 * [My SkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
