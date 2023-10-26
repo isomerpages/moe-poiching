@@ -5,27 +5,16 @@ description: ""
 ---
 **RESOURCES FOR TEACHERS**
 
-[ICON MAIL](https://icon.moe.edu.sg/saas/usercenter/index.do)
+* [iCON 2.0](https://workspace.google.com/dashboard)
 
-[SLS](https://vle.learning.moe.edu.sg/login)
+* [SC Mobile](https://scmobile.moe.edu.sg/login)
 
-[GAME-IFLASHBOOK](https://game.iflashbook.com/) [(语文游戏乐翻天 \[适合一至三年级学生\])](https://game.iflashbook.com/)
+* [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 
-[LEARN CHINESE (学乐 \[适合一至六年级学生\])](https://www.mtl.moe.edu.sg/)
+* [Human Resource Portal (HRP)](https://www.hrp.gov.sg/)
 
-[EZHISHI.NET](https://www.ezhishi.net/Contents/) [](https://www.ezhishi.net/Contents/)[**(**](https://www.ezhishi.net/Contents/)[知识网)](https://www.ezhishi.net/Contents/)
+* [OPAL 2.0](https://opal2.moe.edu.sg/)
 
-[PCS CHINESE BLOG(培青学校华文部博客)](https://poichingchinese.blogspot.sg/)
+* [All EARS Form Builder](https://forms.moe.edu.sg/)
 
-[POICHING.NET](https://www.poiching.net/login.asp) [(培青作文\[适合四年级学生\])](https://www.poiching.net/login.asp)
-
-[ORACY ELAND (听说 E 乐园 \[适合一至三年级学生\])](https://oracyeland.moe.edu.sg/eland/slot/u212/index.html)
-
-[COMMITTEE TO PROMOTE CHINESE LANGUAGE LEARNING (CPCLL)  推广华文学习委员会](https://www.cpcll.sg/resources/reading-group)
-
-[KIDS NATIONAL GEOGRAPHIC](https://kids.nationalgeographic.com/kids/)
-
-[KIDSZONE](https://kidszone.schoolwebsite.co.uk/)
-
-[CYBERWELLNESS](https://www.moe.gov.sg/programmes/cyber-wellness)
-
+* [iExam 2.0 Portal](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)

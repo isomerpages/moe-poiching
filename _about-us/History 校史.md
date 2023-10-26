@@ -1,5 +1,5 @@
 ---
-title: History
+title: History 校史
 permalink: /about-us/history/
 description: ""
 ---

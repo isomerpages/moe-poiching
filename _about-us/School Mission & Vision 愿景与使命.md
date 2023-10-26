@@ -1,5 +1,5 @@
 ---
-title: School Mission & Vision
+title: School Mission & Vision 愿景与使命
 permalink: /about-us/school-vision-and-mission/
 description: ""
 ---

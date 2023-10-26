@@ -1,6 +1,6 @@
 ---
-title: School Rules & Attire
-permalink: /about-us/school-rules-and-attire
+title: School Rules 校规
+permalink: /about-us/school-rules-and-attire/
 description: ""
 ---
 **Please refer to Student Handbook pages 10 to 18 for the complete set of Our Code of Conduct**

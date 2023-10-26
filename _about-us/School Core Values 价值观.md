@@ -1,5 +1,5 @@
 ---
-title: School Core Values
+title: School Core Values 价值观
 permalink: /about-us/school-core-values/
 description: ""
 ---

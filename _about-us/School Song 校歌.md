@@ -1,5 +1,5 @@
 ---
-title: School Song
+title: School Song 校歌
 permalink: /about-us/school-song/
 description: ""
 ---

@@ -1,5 +1,5 @@
 ---
-title: Principal's Message
+title: Principal's Message 校长献词
 permalink: /about-us/pricipals-message/
 description: ""
 ---
