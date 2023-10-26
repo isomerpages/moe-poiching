@@ -11,7 +11,7 @@ description: ""
 
 * [Student iCON](https://workspace.google.com/dashboard)
 
-* [My SkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+* [My SkillsFuture (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 * [eZhishi.Net](https://www.ezhishi.net/Contents/) [](https://www.ezhishi.net/Contents/)[**(**](https://www.ezhishi.net/Contents/)[知识网)](https://www.ezhishi.net/Contents/)
 
