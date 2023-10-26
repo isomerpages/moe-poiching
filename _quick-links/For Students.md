@@ -9,6 +9,8 @@ description: ""
 
 * [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/poiching)
 
+* [Student iCON email](https://icon.moe.edu.sg/)
+
 * [My SkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 * [eZhishi.Net](https://www.ezhishi.net/Contents/) [](https://www.ezhishi.net/Contents/)[**(**](https://www.ezhishi.net/Contents/)[知识网)](https://www.ezhishi.net/Contents/)
