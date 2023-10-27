@@ -26,7 +26,7 @@ To join and apply for PCS’ Alumni, please contact Mr. Abdul Mohamed Ziawul, SH
 
 The Primary One Registration Exercise is generally conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
 
-For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 **Does PCS have a waitlist?**
 
