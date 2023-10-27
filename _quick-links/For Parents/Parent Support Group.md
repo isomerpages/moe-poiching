@@ -16,7 +16,7 @@ third_nav_title: For Parents
 
 All parents / guardians of current Poi Ching School students are welcome to join PSG.  Membership is free.
 
-Parents who are interested in joining the Parent Support Group, please register through the link: [Membership Registration Form](https://goo.gl/rNurFo)” . Alternatively, you may download a hard copy form ([Hard copy membership registration form](https://goo.gl/9NXZuh)), and hand in the completed form to the school general office.
+Parents who are interested in joining the Parent Support Group, please register through the link: [Membership Registration Form](https://goo.gl/rNurFo). Alternatively, you may download a hard copy form ([Hard copy membership registration form](https://goo.gl/9NXZuh)), and hand in the completed form to the school general office.
 
 [Frequently Asked Questions](https://drive.google.com/file/d/0BwUYQqJ5nKu0Mk0xWnhpUC02Tlk/view?usp=sharing)
 
