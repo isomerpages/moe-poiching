@@ -15,8 +15,6 @@ description: ""
 
 * [My SkillsFuture (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
-* [eZhishi.Net](https://www.ezhishi.net/Contents/) [](https://www.ezhishi.net/Contents/)[**(**](https://www.ezhishi.net/Contents/)[知识网)](https://www.ezhishi.net/Contents/)
-
-* [PCS CHINESE BLOG(培青学校华文部博客)](https://poichingchinese.blogspot.sg/)
+* [eZhishi.Net (知识网)](https://www.ezhishi.net/Contents/) [](https://www.ezhishi.net/Contents/)
 
 * [Kids National Geographic](https://kids.nationalgeographic.com/kids/)
