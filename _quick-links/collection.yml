@@ -2,10 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents/Frequently Asked Questions (FAQ).md
-      - For Parents/General Information and Resources.md
-      - For Parents/Parent Support Group.md
-      - For Parents/Useful links.md
       - For Parents/.keep
+      - For Parents/Parent Support Group.md
+      - For Parents/General Information and Resources.md
+      - For Parents/Frequently Asked Questions (FAQ).md
+      - For Parents/Useful links.md
       - For Students.md
       - For Teachers.md
