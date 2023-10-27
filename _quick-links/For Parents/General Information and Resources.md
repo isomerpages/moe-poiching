@@ -6,9 +6,9 @@ third_nav_title: For Parents
 ---
 **PRIMARY 1 ADMISSION**
 
-*   [GENERAL INFORMATION](https://www.moe.gov.sg/education/admissions/primary-one-registration/)
-*   [FINANCIAL ASSISTANCE](https://www.moe.gov.sg/education/financial-assistance)
-*   [EDUSAVE SCHEME](https://www.moe.gov.sg/education/edusave)
+*   [GENERAL INFORMATION](https://www.moe.gov.sg/primary/p1-registration)
+*   [FINANCIAL ASSISTANCE](https://www.moe.gov.sg/financial-matters/financial-assistance)
+*   [EDUSAVE SCHEME](https://www.moe.gov.sg/financial-matters/edusave-account)
 
 ### VENDOR CONTACTS
 
@@ -57,4 +57,3 @@ Replacement –&nbsp;[tlpa@transitlink.com.sg](mailto:tlpa@transitlink.com.sg)
 **PSLE INFORMATION**
 
 * [2019 Dictionary List for PSLE (updated 7 Jan 2020)](/files/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
-
