@@ -61,15 +61,15 @@ third_nav_title: Staff Directory
     <td class="tg-al0j"><a href="mailto:nur_amira_syahidah_mazlan@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">nur_amira_syahidah_mazlan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Mr Eugene Chin (4P5)</td>
-    <td class="tg-al0j"><a href="mailto:eugene_chin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">eugene_chin@moe.edu.sgg</span></a></td>
+		 <td class="tg-1ppo">Mr Eugene Chin (4P5)</td>
+    <td class="tg-y5j8"><a href="mailto:eugene_chin@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">eugene_chin@moe.edu.sg</span></a></td>
+		</tr><tr>
+    <td class="tg-h5mn">Mdm Suseila (4P6)</td>
+    <td class="tg-al0j"><a href="mailto:k_suseila@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">k_suseila@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Suseila (4P6)</td>
-    <td class="tg-y5j8"><a href="mailto:k_suseila@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">k_suseila@moe.edu.sg</span></a></td>
-		</tr><tr>
-    <td class="tg-h5mn">Mr Ng Theng Hian (4P6)</td>
-    <td class="tg-al0j"><a href="mailto:ng_theng_hian@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ng_theng_hian@moe.edu.sg</span></a></td>
-  </tr>
+    <td class="tg-1ppo">Mr Ng Theng Hian (4P6)</td>
+    <td class="tg-y5j8"><a href="mailto:ng_theng_hian@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">ng_theng_hian@moe.edu.sg</span></a></td>
+		</tr>
 </tbody>
 </table>
