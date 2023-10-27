@@ -6,7 +6,7 @@ third_nav_title: For Parents
 ---
 **RESOURCES FOR PARENTS**
 
-* Parent Support Group
+
 * [Parents' Gateway (PG)](https://pg.moe.edu.sg/faq)
 * [Families for Life](https://familiesforlife.sg/Parenting/Pages/Home.aspx?utm_source=SEM&gclid=CjwKCAjw-eKpBhAbEiwAqFL0mvxGyrBe60wD6YPdfD5hHBQkv302vu5TMgiLqGpJmdN--x0kUT1lWxoCDL0QAvD_BwE)
 
