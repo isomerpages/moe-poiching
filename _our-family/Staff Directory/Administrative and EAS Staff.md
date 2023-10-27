@@ -44,72 +44,72 @@ third_nav_title: Staff Directory
     <td class="tg-xyrl">Administration Manager 1</td>
   </tr>
   <tr>
-		    <td class="tg-xyrl">Ms Lim Hui Fong</td>
-    <td class="tg-xyrl">Administration Manager 2</td>
+		    <td class="tg-tsok">Ms Lim Hui Fong</td>
+    <td class="tg-tsok">Administration Manager 2</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Elsie Yeong</td>
-    <td class="tg-tsok">Administrative Executive</td>
+    <td class="tg-xyrl">Mdm Elsie Yeong</td>
+    <td class="tg-xyrl">Administrative Executive</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mdm Saudah Bte Kazim</td>
-    <td class="tg-xyrl">Corporate Support Officer</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Mr Raymond Thong</td>
+    <td class="tg-tsok">Mdm Saudah Bte Kazim</td>
     <td class="tg-tsok">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Ms Siti Nur Hafizah</td>
+    <td class="tg-xyrl">Mr Raymond Thong</td>
     <td class="tg-xyrl">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Wong Chee Wee</td>
-    <td class="tg-tsok">Desktop Engineer</td>
+    <td class="tg-tsok">Ms Siti Nur Hafizah</td>
+    <td class="tg-tsok">Corporate Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mr Mohamed Alif Bin Abdul Hamid</td>
+    <td class="tg-xyrl">Mr Wong Chee Wee</td>
     <td class="tg-xyrl">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Chang Chuan Ping</td>
-    <td class="tg-tsok">Librarian</td>
+    <td class="tg-tsok">Mr Mohamed Alif Bin Abdul Hamid</td>
+    <td class="tg-tsok">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mdm Ling Swee Lian</td>
-    <td class="tg-xyrl">Dental Therapist</td>
+    <td class="tg-xyrl">Chang Chuan Ping</td>
+    <td class="tg-xyrl">Librarian</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Chua Soo Mian</td>
-    <td class="tg-tsok">Science Lab Assistant</td>
+    <td class="tg-tsok">Mdm Ling Swee Lian</td>
+    <td class="tg-tsok">Dental Therapist</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mdm Lek Ah Hong</td>
-    <td class="tg-xyrl">Operations Support Officer</td>
+    <td class="tg-xyrl">Mdm Chua Soo Mian</td>
+    <td class="tg-xyrl">Science Lab Assistant</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Tieng Cheng Yee</td>
+    <td class="tg-tsok">Mdm Lek Ah Hong</td>
     <td class="tg-tsok">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mdm Fauziah Binte Othman</td>
+    <td class="tg-xyrl">Mdm Tieng Cheng Yee</td>
     <td class="tg-xyrl">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Ong Ah Ee</td>
+    <td class="tg-tsok">Mdm Fauziah Binte Othman</td>
     <td class="tg-tsok">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mr Jufri</td>
+    <td class="tg-xyrl">Mdm Ong Ah Ee</td>
     <td class="tg-xyrl">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mohd Sallim</td>
-    <td class="tg-tsok">Senior Security Officer</td>
+    <td class="tg-tsok">Mr Jufri</td>
+    <td class="tg-tsok">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-xyrl">Mr Nahari Bin Pausi</td>
-    <td class="tg-xyrl">Security Officer</td>
+    <td class="tg-xyrl">Mohd Sallim</td>
+    <td class="tg-xyrl">Senior Security Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Mr Nahari Bin Pausi</td>
+    <td class="tg-tsok">Security Officer</td>
   </tr>
 </tbody>
 </table>
