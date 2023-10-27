@@ -4,7 +4,7 @@ permalink: /our-family/general-information-and-resources/
 description: ""
 third_nav_title: For Parents
 ---
-### VENDOR CONTACTS
+### SCHOOL SERVICE PROVIDERS
 
 **School-Based Student Care Centre**
 
@@ -47,7 +47,3 @@ Tel: 89407158
 **EZ Link Card Matters**&nbsp; <br>Please call TransitLink at the following numbers in accordance with the specific subject matter of concern: <br> 
 Application – 1800 2255 663 (TransitLink)  <br>
 Replacement –&nbsp;[tlpa@transitlink.com.sg](mailto:tlpa@transitlink.com.sg)
-
-**PSLE INFORMATION**
-
-* [2019 Dictionary List for PSLE (updated 7 Jan 2020)](/files/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
