@@ -10,9 +10,11 @@ third_nav_title: Staff Directory
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg\-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg\-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg\-y5j8{background-color:#FFF;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg\-al0j{background-color:#E6E6E6;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg\-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -23,7 +25,7 @@ third_nav_title: Staff Directory
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-h5mn">Mdm Nur Khairin (2S1)</td>
+		<td class="tg-h5mn">Mdm Nur Khairin (2S1)</td>
     <td class="tg-al0j"><a href="mailto:nur_khairin_abdul_jafar@moe.edu.sg"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent"></span>nur_khairin_abdul_jafar@moe.edu.sg</a></td>
   </tr>
   <tr>
