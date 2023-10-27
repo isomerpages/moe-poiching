@@ -13,7 +13,7 @@ sections:
           url: ""
         - title: Info Hub
           description: ""
-          url: /quick-links/
+          url: /quick-links
         - title: 100th Anniversary Celebration
           description: ""
           url: /100th-anniversary-celebration/
