@@ -4,12 +4,6 @@ permalink: /our-family/general-information-and-resources/
 description: ""
 third_nav_title: For Parents
 ---
-**PRIMARY 1 ADMISSION**
-
-*   [GENERAL INFORMATION](https://www.moe.gov.sg/primary/p1-registration)
-*   [FINANCIAL ASSISTANCE](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   [EDUSAVE SCHEME](https://www.moe.gov.sg/financial-matters/edusave-account)
-
 ### VENDOR CONTACTS
 
 **School-Based Student Care Centre**
