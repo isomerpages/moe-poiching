@@ -1,12 +1,11 @@
 ---
 title: Alumni
-permalink: /our-family/alumni
+permalink: /our-family/alumni/
 description: ""
 ---
-### About Us**
+### About Us
 
-<img src="/images/friends1.gif" 
-     style="width:50%">
+<img src="/images/friends1.gif" style="width:50%">
 		 
 The Poi Ching School Alumni Association was formed on 16th June 1998 with the following objectives:
 
@@ -24,40 +23,40 @@ The Poi Ching School Alumni Association was formed on 16th June 1998.
 
 ### Chronological Order of Events
 
-**1999:** Fundraising Dinner Cum Concert  <br>
+**1999:**&nbsp;Fundraising Dinner Cum Concert  <br>
 – Raised and donated $25000 to School Building Fund for the building of the New Tampines Campus
 
-**2000:** Food & Game Carnival in conjunction of the opening of the new Tampines campus  
+**2000:**&nbsp;Food &amp; Game Carnival in conjunction of the opening of the new Tampines campus  
 – Raised and donated $10000 for the needy pupils of PCS <br>
 – Chinese New Year Gathering
 
-**2001:** Cruise to Nowhere – Alumni Gathering on Board a Chinese Junk
+**2001:**&nbsp;Cruise to Nowhere – Alumni Gathering on Board a Chinese Junk
 
-**2001:** Christmas Cum New Year Celebration @ Kheng Chiu Tin Kee Home
+**2001:**&nbsp;Christmas Cum New Year Celebration @ Kheng Chiu Tin Kee Home
 
-**2002:** Mooncake Festival @ Poi Ching Tampines
+**2002:**&nbsp;Mooncake Festival @ Poi Ching Tampines
 
-**2003:** Official Closure of Poi Ching Toa Payoh
+**2003:**&nbsp;Official Closure of Poi Ching Toa Payoh
 
-**2004:** Mooncake Festival @ Poi Ching Tampines
+**2004:**&nbsp;Mooncake Festival @ Poi Ching Tampines
 
-**2005:** Double Anniversary Celebration of  <br>
+**2005:**&nbsp;Double Anniversary Celebration of  <br>
 – Poi Ching School 85th Anniversary  <br>
 – Futsing Association 90th Anniversary
 
-**2006:** Rekindle Passion @ Tampines
+**2006:**&nbsp;Rekindle Passion @ Tampines
 
 ![](/images/Chinese-New-Year-Gathering-.gif)
 ![](/images/Christmas-cum-New-Year-Cele.gif)
 
-### Past & present Chairperson
+### Past &amp; present Chairperson
 
-1998 – 2008   : Tan Lee Cheng <br>
-1998 – 2000   : Tan Lee Cheng <br>
-2001 – 2002   : Winston Chow <br>
-2003 – 2004   : Richard Yeo <br>
-2005 – 2006   : Guee Su Ink <br>
-2007 – 2009   : Tan Lee Cheng <br>
+1998 – 2008 &nbsp; : Tan Lee Cheng <br>
+1998 – 2000 &nbsp; : Tan Lee Cheng <br>
+2001 – 2002 &nbsp; : Winston Chow <br>
+2003 – 2004 &nbsp; : Richard Yeo <br>
+2005 – 2006 &nbsp; : Guee Su Ink <br>
+2007 – 2009 &nbsp; : Tan Lee Cheng <br>
 2009 : Joyce Tham <br>
 2010 to current: Yong Ming Fung
 
@@ -77,4 +76,4 @@ Ordinary Members:
 *   Catherine Teo Soo Ling
 *   Goh June Ping Jerlyn
 
-Facebook : [http://www.facebook.com/groups/PCSAlum/](http://www.facebook.com/groups/PCSAlum/)
+Facebook&nbsp;:&nbsp;[http://www.facebook.com/groups/PCSAlum/](http://www.facebook.com/groups/PCSAlum/)
