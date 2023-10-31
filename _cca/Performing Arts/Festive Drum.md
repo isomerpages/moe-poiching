@@ -1,12 +1,14 @@
 ---
-title: Chinese Drum & Opera
-permalink: /cca/Performing-Arts/chinese-drum-n-opera/
+title: Festive Drum
+permalink: /cca/performing-arts/festive-drum/
 description: ""
 third_nav_title: Performing Arts
 ---
-培青学校的节令鼓与戏曲将给与学生更多接触和学习这两项传统艺术的机会。学校将聘请不同的专业教练分别教导节令鼓和中国戏曲，保留与传承中华传统文化。
+节令鼓是其中一种华族的传统艺术。为了保留与传承中华传统文化我们让学生有更多机会接触和学习。
 
-Festive Drum and Chinese Opera are traditional visual performance art-forms that have rich history and immense cultural performance expressions.
+
+
+Festive Drum is traditional visual performance art-forms that have rich history and immense cultural performance expressions.
 
 ![](/images/IMG-20190412-WA0020.jpg)
 
