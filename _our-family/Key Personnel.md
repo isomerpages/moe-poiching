@@ -21,10 +21,10 @@ description: ""
 | Mr Seow Chee How   | | Chinese Language|
 | Ms Scarlett Un | | Mathematics|
 | Mrs Yan Lim | | Science|
-| Mrs Cheng Wan Chin | | ICT|
-| Mr Alvin Goh | | PE & CCA|
+| Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
+| Mr Alvin Goh | | Physical Education (PE) & CCA|
 | Mdm Saadah   | |School Staff Developer|
-| Mr Abdul  | | Student Management |
+| Mr Abdul  | | Discipline & Student Leadership|
 
 
 ### Subject Heads /Level Heads
@@ -36,9 +36,9 @@ description: ""
 | Mrs Junie Seetoh | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Programme (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
-| Mrs Ginger Oh | | ICT|
+| Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
-| Ms Law Mei Fun | | PE & CCA|
+| Ms Law Mei Fun | | Physical Education (PE) & CCA|
 
 
 
