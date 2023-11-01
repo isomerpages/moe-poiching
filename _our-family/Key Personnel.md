@@ -48,7 +48,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mdm Panny Ong | | Assistant Year Head (P1)|
 | Mrs Jeanette Tan | | Year Head (P2)|
-| Mrs Gomez| | Assistant Year Head (P3) (Internal)|
+| Mrs Melisa Gomez| | Assistant Year Head (P3) (Internal)|
 | Ms Ong Yi Ting | | Assistant Year Head (P4)|
 | Mrs Junie Seetoh | |  Assistant Year Head (P5) (Internal)|
 | Ms Joanna Tan | | Year Head (P6)|
