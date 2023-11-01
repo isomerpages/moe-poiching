@@ -34,7 +34,7 @@ description: ""
 | Mdm Julianna Pushpam | | English Language|
 | Mr Toh Wee Kwang | | Mathematics|
 | Mrs Junie Seetoh | | Student Well-Being|
-| Mrs Agnes Teo | | Special Assistance Programme (SAP)|
+| Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
@@ -62,8 +62,3 @@ description: ""
 | Mdm Xu Haiying  | | Chinese Language    |
 | Mdm Dzaariny  | | Science    |
 | Mrs Rachel Neo  | | Special Education (SEN)   |
-
-
-| Ms Lin Haijiao    | | Adminstration Manager (1)  |
-| Ms Lim Hui Fong   | | Adminstration Manager (2)  |
-| Mr Adi    | | Operations Manager |
