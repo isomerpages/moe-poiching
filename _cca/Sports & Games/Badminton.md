@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 Our vision "Badminton for Life" guides us through our trainings and deepens our passion for the sport. In Badminton CCA, we focus on developing resilient, disciplined and passionate players.
 
-![](/images/Badminton%20Pic%203.jpeg)
+![](/images/badminton%20cover.PNG)
 
 ### Training Schedule
 
