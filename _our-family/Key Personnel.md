@@ -3,45 +3,67 @@ title: Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 ---
-| Names| | Designation |
+### School Leaders
+
+| | |  |
 | -------- | -------- | -------- |
 | Mrs Cheong Ye Ling    | | Principal    |
 | Mdm Peh Tan Wee   | | Vice Principal  (1)   |
 | Mrs Cheak Seok Kuan    | | Vice Principal (2)  |
-| Ms Lin Haijiao    | | Adminstration Manager (1)  |
-| Ms Lim Hui Fong   | | Adminstration Manager (2)  |
-| Mr Adi    | | Operations Manager |
-| Mdm Saadah   | |School Developer|
-| Mr Abdul  | | DM |
-| Mdm Leow Angeline    | | HOD/EL|
-| Mr Seow Chee How   | | HOD/CL|
-| Ms Scarlett | | HOD/MA|
-| Mrs Yan Lim | | HOD/SCI|
-| Mrs Cheng Wan Chin | | HOD/ICT|
-| Mr Alvin Goh | | HOD/PE & CCA|
-| Mrs Junie Seetoh | | SH/ Student Well-Being & AYH/P5(internal)|
-| Mrs Agnes Teo | | SH/ SAP|
-| Ms Wendy Goh | | SH/ CCE|
-| Mrs Ginger Oh | | SH/ ICT|
-| Mrs Erin Ong | | SH/ NESS|
-| Ms Law Mei Fun | | SH/ PE & CCA|
-| Mdm Julianna Pushpam | | LH/EL|
-| Mr Toh Wee Kwang | | LH/ MA|
-| Mdm Panny Ong | | AYH/P1|
-| Mrs Jeanette Tan | | YH/P2|
-| Mrs Gomez| | AYH/P3(internal)|
-| Ms Ong Yi Ting | | AYH/P4|
-| Ms Joanna Tan | | YH/P6|
+
+
+
+### Heads of Department
+
+| | |  |
+| -------- | -------- | -------- |
+| Mdm Leow Angeline    | | English|
+| Mr Seow Chee How   | | Chinese Language|
+| Ms Scarlett Un | | Mathematics|
+| Mrs Yan Lim | | Science|
+| Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
+| Mr Alvin Goh | | Physical Education (PE) & CCA|
+| Mdm Saadah   | |School Staff Developer|
+| Mr Abdul  | | Discipline & Student Leadership|
+
+
+### Subject Heads /Level Heads
+
+| | |  |
+| -------- | -------- | -------- |
+| Mdm Julianna Pushpam | | English Language|
+| Mr Toh Wee Kwang | | Mathematics|
+| Mrs Junie Seetoh | | Student Well-Being|
+| Mrs Agnes Teo | | Special Assistance Programme (SAP)|
+| Ms Wendy Goh | | Character & Citizenship Education (CCE)|
+| Mrs Ginger Oh | | Information & Communication Technology (ICT)|
+| Mrs Erin Ong | | National Education & Social Studies (NESS)|
+| Ms Law Mei Fun | | Physical Education (PE) & CCA|
+
+
+
+### Year Heads / Assistant Year Heads
+| | |  |
+| -------- | -------- | -------- |
+| Mdm Panny Ong | | Assistant Year Head (P1)|
+| Mrs Jeanette Tan | | Year Head (P2)|
+| Mrs Gomez| | Assistant Year Head (P3) (Internal)|
+| Ms Ong Yi Ting | | Assistant Year Head (P4)|
+| Mrs Junie Seetoh | |  Assistant Year Head (P5) (Internal)|
+| Ms Joanna Tan | | Year Head (P6)|
 
 
 
 ### Senior Teacher
 
-
-
-| Names| | Designation |
+|| | |
 | -------- | -------- | -------- |
-| Mdm Xu Haiying  | | ST/CL    |
-| Mdm Dzaariny  | | ST/SCI    |
-| Mdm Tee Li Ping  | | ST/EL    |
-| Mrs Rachel Neo  | | ST/SEN   |
+| Mdm Tee Li Ping  | | English Language    |
+| Mdm Xu Haiying  | | Chinese Language    |
+| Mdm Dzaariny  | | Science    |
+| Mrs Rachel Neo  | | Special Education (SEN)   |
+
+
+| Ms Lin Haijiao    | | Adminstration Manager (1)  |
+| Ms Lim Hui Fong   | | Adminstration Manager (2)  |
+| Mr Adi    | | Operations Manager |
