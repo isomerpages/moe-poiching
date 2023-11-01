@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Executive & Administrative Staff.md
       - School Management Board.md
       - Key Personnel.md
       - Staff Directory/.keep
@@ -15,4 +14,5 @@ collections:
       - Staff Directory/Non Form Teachers.md
       - Staff Directory/Allied Educator.md
       - Staff Directory/Administrative and EAS Staff.md
+      - Executive & Administrative Staff.md
       - Alumni.md
