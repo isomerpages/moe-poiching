@@ -35,7 +35,7 @@ description: ""
 | Mr Toh Wee Kwang | | Mathematics|
 | Mrs Junie Seetoh | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Programme (SAP)|
-| Ms Wendy Goh | | CCE|
+| Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | ICT|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
 | Ms Law Mei Fun | | PE & CCA|
