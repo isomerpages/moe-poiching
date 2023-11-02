@@ -2,7 +2,7 @@
 title: Useful links
 permalink: /quick-links/permalink/
 description: ""
-third_nav_title: For Parents
+third_nav_title: For Parents 家长专区
 ---
 **RESOURCES FOR PARENTS**
 

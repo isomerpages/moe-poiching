@@ -1,5 +1,5 @@
 ---
-title: Alumni
+title: Alumni 校友
 permalink: /our-family/alumni/
 description: ""
 ---

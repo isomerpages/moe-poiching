@@ -2,7 +2,7 @@
 title: Frequently Asked Questions (FAQ)
 permalink: /our-family/frequently-asked-questions-faq/
 description: ""
-third_nav_title: For Parents
+third_nav_title: For Parents 家长专区
 ---
 This FAQs page has the answers to some of the commonly asked questions. If you would like to find out any other information regarding the school-related matter or enrolling your child at PCS, please contact our friendly Admissions Team via phone (65) 6785 6420 or drop us an email at [contact@poiching.moe.edu.sg](mailto:contact@poiching.moe.edu.sg)
 

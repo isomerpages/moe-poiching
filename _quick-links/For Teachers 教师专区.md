@@ -1,5 +1,5 @@
 ---
-title: For Teachers
+title: For Teachers 教师专区
 permalink: /quick-links/for-teachers/
 description: ""
 ---

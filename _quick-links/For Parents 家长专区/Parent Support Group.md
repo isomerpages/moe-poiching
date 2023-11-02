@@ -2,7 +2,7 @@
 title: Parent Support Group
 permalink: /our-family/Parent-Support-Group/
 description: ""
-third_nav_title: For Parents
+third_nav_title: For Parents 家长专区
 ---
 ![](/images/PSG-Mission-Goals-Revision_2017.jpg)
 

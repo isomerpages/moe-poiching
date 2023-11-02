@@ -1,5 +1,5 @@
 ---
-title: School Management Board
+title: School Management Committee 属校董事会
 permalink: /our-family/school-management-board/
 description: ""
 ---

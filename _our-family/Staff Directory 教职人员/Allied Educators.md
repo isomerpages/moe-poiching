@@ -2,7 +2,7 @@
 title: Allied Educators
 permalink: /our-family/staff-directory/allied-educator/
 description: ""
-third_nav_title: Staff Directory
+third_nav_title: Staff Directory 教职人员
 ---
 <table>
 <thead>
