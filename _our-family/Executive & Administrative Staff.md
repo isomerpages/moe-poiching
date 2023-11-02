@@ -3,6 +3,9 @@ title: Executive & Administrative Staff
 permalink: /our-family/permalink/
 description: ""
 ---
+### School Administration Team
+
+
 |**Name** | |**Designation**  |
 | -------- | -------- | -------- |
 | Mr K. Adiyapatham  | | Operations Manager 1|
@@ -13,15 +16,22 @@ description: ""
 | Mdm Saudah Bte Kazim | | Corporate Support Officer|
 | Mr Raymond Thong | | Corporate Support Officer|
 | Ms Siti Nur Hafizah | | Corporate Support Officer|
-| Mr Wong Chee Wee | | Desktop Engineer|
-| Mr Mohamed Alif | | Desktop Engineer|
-| Ms Chang Chuan Ping | | Librarian|
-| Mdm Ling Swee Lian | | Dental Therapist|
-| Mdm Chua Soo Mian | | Science Lab Assistant|
 | Mdm Lek Ah Hong | | Operations Support Officer|
 | Mdm Tieng Cheng Yee | | Operations Support Officer|
 | Mdm Fauziah Bte Othman | | Operations Support Officer|
 | Mdm Ong Ah Ee | | Operations Support Officer|
 | Mr Jufri | | Operations Support Officer|
+
+
+### School Support Staff
+
+
+|**Name** | |**Designation**  |
+| -------- | -------- | -------- |
+| Mr Wong Chee Wee | | Desktop Engineer|
+| Mr Mohamed Alif | | Desktop Engineer|
+| Ms Chang Chuan Ping | | Librarian|
+| Mdm Ling Swee Lian | | Dental Therapist|
+| Mdm Chua Soo Mian | | Science Lab Assistant|
 | Mr Mohd Sallim | | Senior Security Officer|
 | Mr Nahari | | Security Officer|
