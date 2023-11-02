@@ -4,14 +4,14 @@ collections:
     order:
       - School Management Committee 属校董事会.md
       - Key Personnel 关键管理人员.md
-      - Staff Directory/.keep
-      - Staff Directory/Primary 1.md
-      - Staff Directory/Primary 2.md
-      - Staff Directory/Primary 3.md
-      - Staff Directory/Primary 4.md
-      - Staff Directory/Primary 5.md
-      - Staff Directory/Primary 6.md
-      - Staff Directory/Non Form Teachers.md
-      - Staff Directory/Allied Educators.md
+      - Staff Directory 教职人员/.keep
+      - Staff Directory 教职人员/Primary 1.md
+      - Staff Directory 教职人员/Primary 2.md
+      - Staff Directory 教职人员/Primary 3.md
+      - Staff Directory 教职人员/Primary 4.md
+      - Staff Directory 教职人员/Primary 5.md
+      - Staff Directory 教职人员/Primary 6.md
+      - Staff Directory 教职人员/Non Form Teachers.md
+      - Staff Directory 教职人员/Allied Educators.md
       - Executive & Administrative Staff.md
       - Alumni.md
