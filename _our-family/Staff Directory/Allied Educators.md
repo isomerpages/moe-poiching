@@ -6,5 +6,44 @@ third_nav_title: Staff Directory
 ---
 | Designation | Name | Email|
 | -------- | -------- | -------- |
-| School Counsellor   | Ms Jolyn Tng     | tng_zhi_ling_jolyn@moe.edu.sg   |
-| Special Educational Needs (SEN) Officer | Ms Irene Li <br>Mr Clarence Cheong <br> Mdm Lim Chin Ying <br> Mr Abdul Hamid| li_oi_ying_irene@moe.edu.sg <br>cheong_ye_meng_clarence@moe.edu.sg <br>lim_chin_yin_a@moe.edu.sg <br> abdul_hamid_so_mohamed@schools.gov.sg |
+|   |     |    |
+| Special Educational Needs (SEN) Officer | <br> <br>  <br>| <br><br> <br>  |
+
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="1">School Counsellor </td>
+    <td>Ms Jolyn Tng </td>
+    <td>tng_zhi_ling_jolyn@moe.edu.sg</td>
+  </tr>
+  <tr>
+  <td rowspan="4">Special Educational Needs (SEN) Officer</td>
+    <td>Ms Irene Li </td>
+    <td>li_oi_ying_irene@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td>Mdm Lim Chin Ying</td>
+    <td>lim_chin_yin_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+      <td>Mr Clarence Cheong </td>
+    <td>cheong_ye_meng_clarence@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td> Mr Abdul Hamid</td>
+    <td>abdul_hamid_so_mohamed@schools.gov.sg</td>
+  </tr>
+  <tr>
+    </tr><tr><td rowspan="1"></td>   
+  </tr>
+  
+</tbody>
+</table>
