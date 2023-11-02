@@ -2,7 +2,7 @@ collections:
   our-family:
     output: true
     order:
-      - School Management Board.md
+      - School Management Committee 属校董事会.md
       - Key Personnel.md
       - Staff Directory/.keep
       - Staff Directory/Primary 1.md
