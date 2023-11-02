@@ -34,7 +34,7 @@ description: ""
 | Mdm Julianna Pushpam | | English Language|
 | Mr Toh Wee Kwang | | Mathematics|
 | Mrs Junie Seetoh | | Student Well-Being|
-| Mrs Agnes Teo | | Special Assistance Programme (SAP)|
+| Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
@@ -43,11 +43,12 @@ description: ""
 
 
 ### Year Heads / Assistant Year Heads
+
 | | |  |
 | -------- | -------- | -------- |
 | Mdm Panny Ong | | Assistant Year Head (P1)|
 | Mrs Jeanette Tan | | Year Head (P2)|
-| Mrs Gomez| | Assistant Year Head (P3) (Internal)|
+| Mrs Melisa Gomez| | Assistant Year Head (P3) (Internal)|
 | Ms Ong Yi Ting | | Assistant Year Head (P4)|
 | Mrs Junie Seetoh | |  Assistant Year Head (P5) (Internal)|
 | Ms Joanna Tan | | Year Head (P6)|
@@ -62,8 +63,3 @@ description: ""
 | Mdm Xu Haiying  | | Chinese Language    |
 | Mdm Dzaariny  | | Science    |
 | Mrs Rachel Neo  | | Special Education (SEN)   |
-
-
-| Ms Lin Haijiao    | | Adminstration Manager (1)  |
-| Ms Lim Hui Fong   | | Adminstration Manager (2)  |
-| Mr Adi    | | Operations Manager |
