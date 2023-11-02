@@ -8,8 +8,7 @@ third_nav_title: Staff Directory
 
 | Class | Form Teachers |Email |
 | -------- | -------- | -------- |
-| 5L1 | Ms Evelyn Leow <br> Mdm Julianna Pushpam  | leow_ling_ling@moe.edu.sg  <br> julianna_dyalashree_pushpam@moe.edu.sg   |
-| 5L2 | Mdm Radiah <br> Mr Toh Wee Kwang   | radiah_mohamed@moe.edu.sg  <br> toh_wee_kwang@moe.edu.sg  |
+| 5L1  Mr Toh Wee Kwang   | radiah_mohamed@moe.edu.sg  <br> toh_wee_kwang@moe.edu.sg  |
 |5L3 | Mrs Ginger Oh <br> Ms Huda  | ginger_tay@moe.edu.sg <br>siti_nurhuda_hamid@moe.edu.sg  |
 |5L4 | Mr Abdul <br> Mrs Jazreel Quah   | abdul_mohamed_ziawul_haq@moe.edu.sg  <br> jazreel_lim_seh_kai@moe.edu.sg  |
 | 5L5  | Ms Liana <br> Mr Vincent Zheng   | liana_aziz@moe.edu.sg <br> zheng_xiaodong@moe.edu.sg|
