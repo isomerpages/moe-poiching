@@ -6,7 +6,7 @@ description: ""
 ### School Administration Team
 
 
-|**Name** | |**Designation**  |
+|Name | |Designation |
 | -------- | -------- | -------- |
 | Mr K. Adiyapatham  | | Operations Manager 1|
 | Mr Alex Mahendran | | Operations Manager 2|
