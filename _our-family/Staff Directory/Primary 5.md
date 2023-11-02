@@ -68,7 +68,9 @@ third_nav_title: Staff Directory
   <tr>
     <td> Mr Alvin Goh </td>
     <td> goh_kwee_seng_alvin@moe.edu.sg</td>
+		</tr>
+    <tr><td rowspan="2"></td>   
   </tr>
+  
 </tbody>
 </table>
-     
