@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents 家长专区/Waiting List.md
       - For Parents 家长专区/.keep
       - For Parents 家长专区/Parent Support Group.md
       - For Parents 家长专区/School Service Providers.md
