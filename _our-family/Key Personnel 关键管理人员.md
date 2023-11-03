@@ -2,6 +2,7 @@
 title: Key Personnel 关键管理人员
 permalink: /our-family/key-personnel/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 
@@ -17,7 +18,7 @@ description: ""
 
 | | |  |
 | -------- | -------- | -------- |
-| Mdm Leow Angeline    | | English|
+| Mdm Angeline Leow   | | English|
 | Mr Seow Chee How   | | Chinese Language|
 | Ms Scarlett Un | | Mathematics|
 | Mrs Yan Lim | | Science|
@@ -44,14 +45,14 @@ description: ""
 
 ### Year Heads / Assistant Year Heads
 
-| | |  |
-| -------- | -------- | -------- |
-| Mdm Panny Ong | | Assistant Year Head (P1)|
-| Mrs Jeanette Tan | | Year Head (P2)|
-| Mrs Melisa Gomez| | Assistant Year Head (P3) (Internal)|
-| Ms Ong Yi Ting | | Assistant Year Head (P4)|
-| Mrs Junie Seetoh | |  Assistant Year Head (P5) (Internal)|
-| Ms Joanna Tan | | Year Head (P6)|
+| | |  ||
+| -------- | -------- | -------- |-------- |
+| Mdm Panny Ong | | Assistant Year Head| P1|
+| Mrs Jeanette Tan | | Year Head |P2|
+| Mrs Melissa Gomes| | Assistant Year Head (Internal)| P3|
+| Ms Ong Yi Ting | | Assistant Year Head |P4|
+| Mrs Junie Seetoh | |  Assistant Year Head (Internal)| P5|
+| Ms Joanna Tan | | Year Head |P6|
 
 
 
