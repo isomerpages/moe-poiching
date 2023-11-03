@@ -4,7 +4,7 @@ permalink: /our-family/key-personnel/
 description: ""
 variant: markdown
 ---
-### **School Leaders**
+### School Leaders
 
 | | |  |
 | -------- | -------- | -------- |
