@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: https://form.gov.sg/5d43ad992779fc00128970a1
         - title: Info Hub
           description: ""
           url: /our-family/Parent-Support-Group/
