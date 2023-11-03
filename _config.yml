@@ -3,7 +3,7 @@ url: https://poiching.moe.edu.sg
 favicon: /images/bigpcs logo and name.png
 colors:
   primary-color: "#335a07"
-  secondary-color: "#ec0d0d"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
