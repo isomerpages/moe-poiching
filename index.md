@@ -17,5 +17,5 @@ sections:
         - title: 100th Anniversary Celebration
           description: ""
           url: /100th-anniversary-celebration/
-      background: /images/image banner.PNG
+      background: /images/front banner.PNG
 ---
