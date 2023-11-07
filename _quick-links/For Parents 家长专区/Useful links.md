@@ -11,10 +11,15 @@ variant: markdown
 * [Parents' Gateway (PG)](https://pg.moe.edu.sg/faq)
 * [Families for Life](https://familiesforlife.sg/Parenting/Pages/Home.aspx?utm_source=SEM&gclid=CjwKCAjw-eKpBhAbEiwAqFL0mvxGyrBe60wD6YPdfD5hHBQkv302vu5TMgiLqGpJmdN--x0kUT1lWxoCDL0QAvD_BwE)
 * [Schoolbag.sg](https://www.schoolbag.edu.sg/)
+
+
+**SCHOOL FORMS**
+
 * [Waiting List](https://form.gov.sg/5d43ad992779fc00128970a1)
 *  [Leave of Absence application form](https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/)
 
-**MOE Websites**
+
+**MOE WEBSITES**
 
 * [MOE Cyber Wellness Portal](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
