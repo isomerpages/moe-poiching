@@ -6,7 +6,7 @@ description: ""
 ---
 ## Useful Links
 
-* [For Parents](/quick-links)
+* [For Parents](/quick-links/permalink/)
 
 * [For Students](/quick-links/)
 
