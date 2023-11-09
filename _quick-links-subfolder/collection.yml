@@ -1,5 +1,4 @@
 collections:
   quick-links-subfolder:
     output: true
-    order:
-      - Useful links.md
+    order: []
