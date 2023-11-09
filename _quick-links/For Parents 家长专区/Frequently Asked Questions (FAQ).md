@@ -3,6 +3,7 @@ title: Frequently Asked Questions (FAQ)
 permalink: /our-family/frequently-asked-questions-faq/
 description: ""
 third_nav_title: For Parents 家长专区
+variant: markdown
 ---
 This FAQs page has the answers to some of the commonly asked questions. If you would like to find out any other information regarding the school-related matter or enrolling your child at PCS, please contact our friendly Admissions Team via phone (65) 6785 6420 or drop us an email at [contact@poiching.moe.edu.sg](mailto:contact@poiching.moe.edu.sg)
 
@@ -35,5 +36,5 @@ There is high demand for places at Poi Ching School and waitlists do exist. For 
 ### OTHER INFORMATION
 
 
-*   [FINANCIAL ASSISTANCE](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   [EDUSAVE SCHEME](https://www.moe.gov.sg/financial-matters/edusave-account)
+*   [Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+*   [Edusave Scheme](https://www.moe.gov.sg/financial-matters/edusave-account)
