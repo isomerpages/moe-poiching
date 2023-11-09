@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Links and Resources/For Teachers 教师专区.md
       - Links and Resources/For Students 学生专区.md
       - Links and Resources/.keep
       - For Parents 家长专区/.keep
