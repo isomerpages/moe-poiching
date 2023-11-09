@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Example Title.md
       - For Parents 家长专区/.keep
       - For Parents 家长专区/Forms and Links.md
       - For Parents 家长专区/Parent Support Group.md
