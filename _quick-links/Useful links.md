@@ -6,7 +6,7 @@ description: ""
 ---
 ## Useful Links
 
-* [For Parents](https://poiching.moe.edu.sg/quick-links/forms-and-link/)
+* [For Parents](https://poiching.moe.edu.sg/quick-links/permalink/)
 
 * [For Students](https://poiching.moe.edu.sg/quick-links/for-students/)
 
