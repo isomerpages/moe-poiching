@@ -8,6 +8,6 @@ description: ""
 
 * [For Parents](https://poiching.moe.edu.sg/quick-links/forms-and-link)
 
-* [For Students](/quick-links/)
+* [For Students](https://poiching.moe.edu.sg/quick-links/for-students/)
 
 * [For Teachers](/quick-links/
