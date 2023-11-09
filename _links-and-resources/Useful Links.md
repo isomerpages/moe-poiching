@@ -7,8 +7,8 @@ description: ""
 ## Useful Links
 
 
-* [For Parents](https://poiching.moe.edu.sg/quick-links/permalink/)
+* [For Parents 家长专区](https://poiching.moe.edu.sg/quick-links/permalink/)
 
-* [For Students](https://poiching.moe.edu.sg/quick-links/for-students/)
+* [For Students 学生专区](https://poiching.moe.edu.sg/quick-links/for-students/)
 
-* [For Teachers](https://poiching.moe.edu.sg/quick-links/for-teachers/)
+* [For Teachers 教师专区](https://poiching.moe.edu.sg/quick-links/for-teachers/)
