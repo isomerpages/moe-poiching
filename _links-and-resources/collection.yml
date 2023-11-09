@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Useful Links.md
+      - For Parents/Frequently Asked Questions (FAQ).md
       - For Parents/School Service Providers.md
       - For Parents/Parent Support Group.md
       - For Parents/Forms and Links.md
