@@ -10,4 +10,4 @@ description: ""
 
 * [For Students](https://poiching.moe.edu.sg/quick-links/for-students/)
 
-* [For Teachers](/quick-links/
+* [For Teachers](https://poiching.moe.edu.sg/quick-links/for-teachers/)
