@@ -4,8 +4,7 @@ permalink: /quick-links/usefullink/
 variant: markdown
 description: ""
 ---
-Useful Links
-============
+## Useful Links
 
 * [For Parents](/quick-links)
 
