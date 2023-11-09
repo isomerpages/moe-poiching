@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Quick Links subfolder/Useful links.md
-      - Quick Links subfolder/.keep
+      - Useful links/Useful links.md
+      - Useful links/.keep
       - For Parents 家长专区/.keep
       - For Parents 家长专区/Forms and Links.md
       - For Parents 家长专区/Parent Support Group.md
