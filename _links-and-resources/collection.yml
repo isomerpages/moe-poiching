@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Useful Links.md
-      - For Parents/Frequently Asked Questions (FAQ).md
-      - For Parents/School Service Providers.md
-      - For Parents/Parent Support Group.md
-      - For Parents/Forms and Links.md
       - For Parents/.keep
+      - For Parents/Forms and Links.md
+      - For Parents/Parent Support Group.md
+      - For Parents/School Service Providers.md
+      - For Parents/Frequently Asked Questions (FAQ).md
       - For Students 学生专区.md
       - For Teachers 教师专区.md
