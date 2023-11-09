@@ -1,0 +1,4 @@
+collections:
+  quick-link-subfolder:
+    output: true
+    order: []
