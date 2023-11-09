@@ -2,7 +2,7 @@ collections:
   links-and-resources:
     output: true
     order:
+      - Useful Links.md
       - For Parents/.keep
       - For Students 学生专区.md
-      - Useful Links.md
       - For Teachers 教师专区.md
