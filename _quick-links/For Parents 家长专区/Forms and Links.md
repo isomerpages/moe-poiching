@@ -22,6 +22,7 @@ variant: markdown
 **MOE WEBSITES**
 
 * [MOE Cyber Wellness Portal](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-
-* [Subject Based Banding (SBB)](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parenting with MOE](https://www.instagram.com/parentingwith.moesg/?utm_medium=copy_link)
+* [Subject Based Banding (SBB)](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
+* [Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+*   [Edusave Scheme](https://www.moe.gov.sg/financial-matters/edusave-account)

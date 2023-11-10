@@ -1,8 +1,9 @@
 ---
 title: Parent Support Group
-permalink: /our-family/Parent-Support-Group/
+permalink: /our-family/parent-support-group/
 description: ""
 third_nav_title: For Parents 家长专区
+variant: tiptap
 ---
 ![](/images/PSG-Mission-Goals-Revision_2017.jpg)
 
