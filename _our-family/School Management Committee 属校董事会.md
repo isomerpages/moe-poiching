@@ -36,7 +36,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-1ppo">Member 成员</td>
-    <td class="tg-tsok">Mr Yu Chu Siong 俞书祥先生<br>Mr Ko Tjie Ming 高居明先生<br>Mr Adam Jauw Tong Hau 姚堂皓先生<br>Mr Lim Swee Thye 林瑞泰先生<br>Mr Chia How Ming 谢孝铭先生<br>Mr Lin Si He 林思和先生<br>Mr Huang Cheng Gui 黄成贵先生<br>Mr Wang De Qing 王德清先生<br>Mr Ee Poh Thye 俞堡钛先生</td>
+    <td class="tg-tsok">Mr Ko Tjie Ming 高居明先生<br>Mr Adam Jauw Tong Hau 姚堂皓先生<br>Mr Lim Hui Choon 林惠春先生<br>Mr Teo Siong Kok 张祥国先生<br>Mr Chia How Ming 谢孝铭先生<br>Mr Chen Ronggui 陈荣贵先生<br>Mr Xue Xipan 薛希潘先生<br>Mr Lim Peng Huat 林炳发先生<br>Mr Lee Chek Khoon 李积康先生<br>Mr Zhang Qinjie 张勤杰先生</td>
   </tr>
 </tbody>
 </table>
