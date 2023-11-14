@@ -1,5 +1,5 @@
 ---
-title: Key Personnel 关键管理人员
+title: Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
 variant: markdown

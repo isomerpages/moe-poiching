@@ -1,8 +1,9 @@
 ---
-title: MOE Sexuality Education 教育部性教育
+title: MOE Sexuality Education
 permalink: /le-folders/moral/sexed/
 description: ""
 third_nav_title: Moral 德
+variant: tiptap
 ---
 **MOE Sexuality Education in Schools**
 

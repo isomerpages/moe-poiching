@@ -1,8 +1,9 @@
 ---
-title: NESS 国民教育暨社会知识
+title: NESS
 permalink: /pcs-experience/moral/ness/
 description: ""
 third_nav_title: Moral 德
+variant: tiptap
 ---
 ### Vision
 
