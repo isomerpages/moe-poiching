@@ -27,8 +27,8 @@ variant: markdown
     <td class="tg-h5mn">Mr Lim Swee Thye 林瑞泰先生</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Honorary Secretary 秘书长</td>
-    <td class="tg-1ppo">Mrs Cheong Ye Ling 蔡颐龄女士</td>
+    <td class="tg-1ppo">Honorary Treasurer 财政</td>
+    <td class="tg-1ppo">Ms Zhang Meilan 张美兰女士</td>
   </tr>
   <tr>
     <td class="tg-h5mn">Honorary Treasurer 财政</td>
