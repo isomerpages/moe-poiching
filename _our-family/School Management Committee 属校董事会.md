@@ -2,6 +2,7 @@
 title: School Management Committee 属校董事会
 permalink: /our-family/school-management-board/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -16,7 +17,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo">Chairman 主席</th>
+    <th class="tg-1ppo">Chairman (Supervisor of School) 主席</th>
     <th class="tg-1ppo">Mr Lim Fang Hua 林方华先生</th>
   </tr>
 </thead>
