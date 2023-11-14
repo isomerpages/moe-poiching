@@ -24,7 +24,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-h5mn">Vice Chairman 副主席</td>
-    <td class="tg-h5mn">Dr. Lim Wie Ming 林伟民博士</td>
+    <td class="tg-h5mn">Mr Lim Swee Thye 林瑞泰先生</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Honorary Secretary 秘书长</td>
