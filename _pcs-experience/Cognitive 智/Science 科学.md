@@ -3,6 +3,7 @@ title: Science 科学
 permalink: /le-folders/cognitive/science/
 description: ""
 third_nav_title: Cognitive 智
+variant: markdown
 ---
 ### Mission
 
@@ -24,6 +25,4 @@ Provide pupils with the opportunities to develop skills, habits of mind and atti
 **Science Olympiad Lesson 2021**
 
 ![](/images/sci2021-5.jpg)
-
-**E2K Science**
 
