@@ -4,8 +4,8 @@ collections:
     order:
       - Moral 德/.keep
       - Moral 德/CCE 品格与公民教育.md
-      - Moral 德/NESS.md
-      - Moral 德/MOE Sexuality Education.md
+      - Moral 德/NESS 国民教育与社会科.md
+      - Moral 德/MOE Sexuality Education 性教育课程.md
       - Cognitive 智/.keep
       - Cognitive 智/English Language 英文.md
       - Cognitive 智/Chinese Language 华文.md
@@ -13,10 +13,10 @@ collections:
       - Cognitive 智/Science 科学.md
       - Cognitive 智/Infocomm Technology 资讯通讯科技.md
       - Physical 体/.keep
-      - Physical 体/Physical Education.md
+      - Physical 体/Physical Education 体育.md
       - Social 群/.keep
       - Social 群/CCA 课程辅助活动.md
-      - Social 群/Programme for Active Learning (PAL).md
+      - Social 群/Programme for Active Learning (PAL) 艺体陶冶计划.md
       - Aesthetics 美/.keep
       - Aesthetics 美/Aesthetics 美术 音乐.md
       - Signature Programme 专项活动/.keep
@@ -24,4 +24,4 @@ collections:
         双文化华文优选课程.md
       - Signature Programme 专项活动/Special Assistance Plan (SAP) Programme
         特别辅助计划.md
-      - Signature Programme 专项活动/Learning for Life Programme (LLP).md
+      - Signature Programme 专项活动/Learning for Life Programme (LLP) 终身学习计划.md

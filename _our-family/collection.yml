@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee 属校董事会.md
-      - Key Personnel.md
+      - School Steering Committee 学校管理层.md
       - Staff Directory 教职人员/.keep
       - Staff Directory 教职人员/Primary 1.md
       - Staff Directory 教职人员/Primary 2.md

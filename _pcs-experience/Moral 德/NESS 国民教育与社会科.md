@@ -1,5 +1,5 @@
 ---
-title: NESS
+title: NESS 国民教育与社会科
 permalink: /pcs-experience/moral/ness/
 description: ""
 third_nav_title: Moral 德

@@ -1,5 +1,5 @@
 ---
-title: MOE Sexuality Education
+title: MOE Sexuality Education 性教育课程
 permalink: /le-folders/moral/sexed/
 description: ""
 third_nav_title: Moral 德
