@@ -34,12 +34,12 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
 | Mr Toh Wee Kwang | | Mathematics|
-| Mrs Junie Seetoh | | Student Well-Being|
+| Mrs Junie Seetor | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
-| Ms Law Mei Fun | | Physical Education (PE) & CCA|
+
 
 
 
@@ -51,7 +51,7 @@ variant: markdown
 | Mrs Jeanette Tan | | Year Head |P2|
 | Mrs Melissa Gomes| | Assistant Year Head (Internal)| P3|
 | Ms Ong Yi Ting | | Assistant Year Head |P4|
-| Mrs Junie Seetoh | |  Assistant Year Head (Internal)| P5|
+| Mrs Junie Seetor | |  Assistant Year Head (Internal)| P5|
 | Ms Joanna Tan | | Year Head |P6|
 
 
