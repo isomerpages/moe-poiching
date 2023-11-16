@@ -2,7 +2,6 @@ collections:
   pcs-family:
     output: true
     order:
-      - Parent Support Group.md
       - School Management Committee 属校董事会.md
       - School Steering Committee 学校管理层.md
       - Staff Directory 教职人员/.keep
@@ -15,4 +14,5 @@ collections:
       - Staff Directory 教职人员/Non Form Teachers.md
       - Staff Directory 教职人员/Allied Educators.md
       - Executive & Administrative Staff 执行与行政人员.md
+      - Parent Support Group.md
       - Alumni 校友.md
