@@ -1,5 +1,5 @@
 collections:
-  our-family:
+  pcs-family:
     output: true
     order:
       - School Management Committee 属校董事会.md
@@ -14,4 +14,5 @@ collections:
       - Staff Directory 教职人员/Non Form Teachers.md
       - Staff Directory 教职人员/Allied Educators.md
       - Executive & Administrative Staff 执行与行政人员.md
+      - Parent Support Group 家长会.md
       - Alumni 校友.md
