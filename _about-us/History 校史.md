@@ -42,7 +42,9 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 .tg .tg-rt4x{background-color:#E6E6E6;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+
+&gt;
+  <table class="tg">
 <thead>
   <tr>
     <th class="tg-ktyi">Year</th>
@@ -74,10 +76,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
     <td class="tg-ktyi">2000</td>
     <td class="tg-ktyi">Celebration of 90th Anniversary</td>
   </tr>
-  <tr>
-    <td class="tg-rt4x">2008</td>
-    <td class="tg-rt4x">Developed school-based Primary 1&amp;2 Chinese Language Text/Work Books</td>
-  </tr>
+  <tr></tr>
   <tr>
     <td class="tg-ktyi">2014</td>
     <td class="tg-ktyi">Completed on-site PERI Upgrading</td>
