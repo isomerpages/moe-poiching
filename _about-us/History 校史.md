@@ -46,23 +46,10 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 | 1939   | <img style="width:100%" src="/images/history2.png">|
 | 1958  |   Became Government-aided school  |
 | 1992  |   Accorded Special Assistance Plan (SAP) status|
-| 2000  |   Relocation of school to its present premises <br> Celebrated 90th Anniversary <br><img style="width:100%" src="/images/history3.png">  |
+| 2000  |   Relocation of school to its present premises <br><br> Celebrated 90th Anniversary <br><img style="width:100%" src="/images/history3.png">  |
 | 2014  |   Completed on-site PERI upgrading |
-| 2015  |   <img style="width:100%" src="/images/history5.png"><br> Celebrated 95th Anniversary<br><img style="width:100%" src="/images/history6.png"> <br>Achieved 2 Singapore Book of Records <br><img style="width:100%" src="/images/history7.png"> |
-            
-						- Largest Logo made of Postage Stamps
-						- Most number of people tying chinese knots
-						![](/images/history5.png)
-![](/images/history6.png)
-![](/images/history7.png)
-
+| 2015  |   Went single-session<img style="width:100%" src="/images/history5.png"><br> Celebrated 95th Anniversary<br><img style="width:100%" src="/images/history6.png"> <br>Achieved 2 Singapore Book of Records <br><img style="width:100%" src="/images/history7.png"> |
 | 2016  |   Accorded Learning for Life Programme in D'ARTS@PCS |
+| 2020  |   Celebrated 100th Anniversary |
+| 2023  |   Celebrated 103rd Anniversary|
 
-| 2020  |   Celebrated 100th Anniversary ||
-
-| 2023  |   Celebrated 103rd Anniversary||
-
-
-      1920
-      
-  
