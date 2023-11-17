@@ -37,13 +37,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
 
 ### Milestones
-
-
-
-
-
-| 1924  |   Futsing Association took over the management of the school  |
-| 1939   | <img style="width:100%" src="/images/history2.png"><br><br><br><img style="width:100%" src="/images/history3.png"><img style="width:100%" src="/images/history5.png"><br><br><img style="width:100%" src="/images/history6.png"><br><br><img style="width:100%" src="/images/history7.png"><table>
+<table>
 <thead>
   <tr>
     <th>Year</th>
@@ -59,16 +53,51 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
     <td>1920</td>
     <td><img style="width:100%" src="/images/history1.png"></td>
   </tr>
-  <tr> <td rowspan="2">1D1</td>
-     <td>Mdm Suryana </td>
-     </tr></tbody></table>|
-| 1958  |   Became Government-aided school  |
-| 1992  |   Accorded Special Assistance Plan (SAP) status|
-| 2000  |   Relocation of school to its present premises  Celebrated 90th Anniversary   |
-| 2014  |   Completed on-site PERI upgrading |
-| 2015  |   Went single-session Celebrated 95th AnniversaryAchieved 2 Singapore Book of Records  |
-| 2016  |   Accorded Learning for Life Programme in D'ARTS@PCS |
-| 2020  |   Celebrated 100th Anniversary |
-| 2023  |   Celebrated 103rd Anniversary|
-		
-		   
+	<tr>
+ <td>1924</td>
+    <td>Futsing Association took over the management of the school</td>
+  </tr>
+<tr>
+ <td>1939</td>
+    <td><img style="width:100%" src="/images/history2.png"></td>
+  </tr>
+<tr>
+ <td>1958</td>
+    <td>Became Government-aided school</td>
+  </tr>
+	<tr>
+	 <td>1992</td>
+    <td>Accorded Special Assistance Plan (SAP) status</td>
+  </tr>
+<tr> <td rowspan="2">2000</td>
+     <td>Relocation of school to its present premises<br> <img style="width:100%" src="/images/history3.png"> </td>
+     </tr>
+	<tr>
+	 <td>Celebrated 90th Anniversary</td>
+    </tr>
+	<tr>
+	 <td>2014</td>
+    <td>Completed on-site PERI upgrading</td>
+  </tr>
+	<tr> <td rowspan="3">2015</td>
+     <td>Became single-session<br> <img style="width:100%" src="/images/history5.png"> </td>
+     </tr>
+	<tr>
+	 <td>Celebrated 95th Anniversary<br>  <img style="width:100%" src="/images/history6.png"></td>
+    </tr>
+	<tr>
+		<td>Achieved 2 Singapore Book of Records<br>  <img style="width:100%" src="/images/history7.png"></td>
+	</tr>
+<tr>
+ <td>2016</td>
+    <td>Accorded Learning for Life Programme in D'ARTS@PCS</td>
+  </tr>
+<tr>
+ <td>2020</td>
+    <td>Celebrated 100th Anniversary</td>
+  </tr>
+	<tr>
+ <td>2023</td>
+    <td>Celebrated 103rd Anniversary</td>
+  </tr>
+  </tbody></table>
