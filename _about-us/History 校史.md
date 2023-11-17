@@ -43,22 +43,13 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 | 1919   | Establishment of Poi Ching School     |
 | 1920   | <img style="width:100%" src="/images/history1.png">|
 | 1924  |   Futsing Association took over the management of the school  |
-
-![](/images/history2.png)
-
+| 1939   | <img style="width:100%" src="/images/history2.png">|
 | 1958  |   Became Government-aided school  |
-
 | 1992  |   Accorded Special Assistance Plan (SAP) status|
-
-
-| 2000  |   Relocation of school to its present premises  |
-                 Celebrated 90th Anniversary
-
-![](/images/history3.png)
+| 2000  |   Relocation of school to its present premises <br> Celebrated 90th Anniversary <br><img style="width:100%" src="/images/history3.png">  |
 | 2014  |   Completed on-site PERI upgrading |
-
-| 2015  |   Celebrated 95th Anniversary  |
-            Achieved 2 Singapore Book of Records
+| 2015  |   <img style="width:100%" src="/images/history5.png"><br> Celebrated 95th Anniversary<br><img style="width:100%" src="/images/history6.png"> <br>Achieved 2 Singapore Book of Records <br><img style="width:100%" src="/images/history7.png"> |
+            
 						- Largest Logo made of Postage Stamps
 						- Most number of people tying chinese knots
 						![](/images/history5.png)
