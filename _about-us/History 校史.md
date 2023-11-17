@@ -58,7 +58,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 ![](/images/history3.png)
 | 2014  |   Completed on-site PERI upgrading |
 
-| 2015  |   Celebrated 95th Annivesary  |
+| 2015  |   Celebrated 95th Anniversary  |
             Achieved 2 Singapore Book of Records
 						- Largest Logo made of Postage Stamps
 						- Most number of people tying chinese knots
@@ -68,4 +68,8 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
 | 2016  |   Accorded Learning for Life Programme in D'ARTS@PCS |
 
-| 2020  |   Celebrated 100th Annivesary |
+| 2020  |   Celebrated 100th Anniversary ||
+
+| 2023  |   Celebrated 103rd Anniversary||
+
+
