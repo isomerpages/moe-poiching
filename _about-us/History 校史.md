@@ -33,72 +33,39 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
 ### Milestones
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rt4x{background-color:#E6E6E6;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
 
-&gt;
-  <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Year</th>
-    <th class="tg-ktyi">Key Event</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rt4x">1919</td>
-    <td class="tg-rt4x">Establishment of school</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">1924</td>
-    <td class="tg-ktyi">Futsing Association took over the management of the school</td>
-  </tr>
-  <tr>
-    <td class="tg-rt4x">1958</td>
-    <td class="tg-rt4x">Became Government-aided school</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">1992</td>
-    <td class="tg-ktyi">Accorded Special Assistance Plan (SAP) status</td>
-  </tr>
-  <tr>
-    <td class="tg-rt4x">2000</td>
-    <td class="tg-rt4x">Relocation of school to its present premises</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2000</td>
-    <td class="tg-ktyi">Celebration of 90th Anniversary</td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td class="tg-ktyi">2014</td>
-    <td class="tg-ktyi">Completed on-site PERI Upgrading</td>
-  </tr>
-  <tr>
-    <td class="tg-rt4x">2015</td>
-    <td class="tg-rt4x">Celebration of 95th Anniversary</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2015</td>
-    <td class="tg-ktyi">Achieved two Singapore Book of Records:<br>–          Largest Logo made of Postage Stamps<br>–          Most Number of People Tying Chinese Knots</td>
-  </tr>
-  <tr>
-    <td class="tg-rt4x">2016</td>
-    <td class="tg-rt4x">Accorded Learning for Life Programme in D’ARTS@PCS</td>
-  </tr>
-</tbody>
-</table>
+
+
+| Year |  | Key Events|
+| -------- | -------- | -------- |
+| 1919  || Establishment of Poi ching School   |
 
 ![](/images/history1.png)
+
+
+| 1924  |   Futsing Association took over the management of the school  |
+
 ![](/images/history2.png)
+
+| 1958  |   Became Government-aided school  |
+
+| 1992  |   Accorded Special Assistance Plan (SAP) status|
+
+
+| 2000  |   Relocation of school to its present premises  |
+                 Celebrated 90th Anniversary
+
 ![](/images/history3.png)
-![](/images/history5.png)
+| 2014  |   Completed on-site PERI upgrading |
+
+| 2015  |   Celebrated 95th Annivesary  |
+            Achieved 2 Singapore Book of Records
+						- Largest Logo made of Postage Stamps
+						- Most number of people tying chinese knots
+						![](/images/history5.png)
 ![](/images/history6.png)
 ![](/images/history7.png)
+
+| 2016  |   Accorded Learning for Life Programme in D'ARTS@PCS |
+
+| 2020  |   Celebrated 100th Annivesary |
