@@ -38,18 +38,37 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
 ### Milestones
 
-| Year | Key Events |  |
-| -------- | -------- | -------- |
-| 1919   | Establishment of Poi Ching School     |
-| 1920   | <img style="width:100%" src="/images/history1.png">|
+
+
+
+
 | 1924  |   Futsing Association took over the management of the school  |
-| 1939   | <img style="width:100%" src="/images/history2.png">|
+| 1939   | <img style="width:100%" src="/images/history2.png"><br><br><br><img style="width:100%" src="/images/history3.png"><img style="width:100%" src="/images/history5.png"><br><br><img style="width:100%" src="/images/history6.png"><br><br><img style="width:100%" src="/images/history7.png"><table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Key Events</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		  <td>1919</td>
+    <td>Establishment of Poi Ching School  </td>
+  </tr>
+   <tr>
+    <td>1920</td>
+    <td><img style="width:100%" src="/images/history1.png"></td>
+  </tr>
+  <tr> <td rowspan="2">1D1</td>
+     <td>Mdm Suryana </td>
+     </tr></tbody></table>|
 | 1958  |   Became Government-aided school  |
 | 1992  |   Accorded Special Assistance Plan (SAP) status|
-| 2000  |   Relocation of school to its present premises <br><br> Celebrated 90th Anniversary <br><img style="width:100%" src="/images/history3.png">  |
+| 2000  |   Relocation of school to its present premises  Celebrated 90th Anniversary   |
 | 2014  |   Completed on-site PERI upgrading |
-| 2015  |   Went single-session<img style="width:100%" src="/images/history5.png"><br> Celebrated 95th Anniversary<br><img style="width:100%" src="/images/history6.png"> <br>Achieved 2 Singapore Book of Records <br><img style="width:100%" src="/images/history7.png"> |
+| 2015  |   Went single-session Celebrated 95th AnniversaryAchieved 2 Singapore Book of Records  |
 | 2016  |   Accorded Learning for Life Programme in D'ARTS@PCS |
 | 2020  |   Celebrated 100th Anniversary |
 | 2023  |   Celebrated 103rd Anniversary|
-
+		
+		   
