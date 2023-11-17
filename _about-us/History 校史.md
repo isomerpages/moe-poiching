@@ -39,14 +39,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 ### Milestones
 
 
-		
-		
-| Year |  | Key Events|
-| -------- | -------- | -------- |
-| 1919  || Establishment of Poi ching School   
-
-![](/images/history1.png)
-
+  
 
 | 1924  |   Futsing Association took over the management of the school  |
 
@@ -89,6 +82,5 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
     </tr>
   <tr>
       <td rowspan="1">1920</td>
-     <td>Establishment of Poi Ching School</td>
-  </tr>
-  <tr></tr></tbody></table>
+     <td><img width="100" height="100" src="/images/history1.png"> </td>
+  </tr></tbody></table>
