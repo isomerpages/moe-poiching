@@ -12,33 +12,36 @@ In 2000, Poi Ching School moved from Toa Payoh to its present premises at Tampin
 
 Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
-### Principals:
+### **Principals (Past and Present)**
 
-*   郭可模 (1919 to Unknown)
-*   吴在涛 (1930 to 1936)
-*   陈学成 (1937 to 1938)
-*   施世豪 (1938 to 1940)
-*   朱茂祥 (Unknown)
-*   杨奇源 (1946 to 1947)
-*   柳遹昭 (1947 to 1948)
-*   柳佑文 (1948 to 1949)
-*   陈昌学 (1949 to 1968)
-*   陈平福 (1968 to 1984)
-*   Mr Yu Chu Siong (1984 to 1995)
-*   Mr Lim Chin Sam (1995 to 1999)
-*   Mdm Foo Mui Chuw (2000 to 2006)
-*   Mr Chong Kwai Kuen (2007 to 2014)
-*   Mr Andrew Mah (2015 to 2020)
-*   Mrs Cheong Ye Ling (2021 to present)
+
+| **TENURE**      | **PRINCIPAL**        |
+|-----------------|----------------------|
+|  1919 - Unknown    |  郭可模  |
+|  1930 - 1936   |  吴在涛       |
+|  1937 - 1938    |  陈学成  |
+|  1938 - 1940    |  施世豪     |
+|  Unknown    |  朱茂祥     |
+|  1946 - 1947    |  杨奇源    |
+|  1947 - 1948    |  柳遹昭  |
+|  1948 - 1949    |  柳佑文   |
+|  1949 - 1968    | 陈昌学   |
+|  1968 - 1984    |  陈平福    |
+|  1984 - 1995    |  Mr Yu Chu Siong   |
+|  1995 - 1999    | Mr Lim Chin Sam    |
+|  2000 - 2006    | Mdm Foo Mui Chuw  |
+|  2007 - 2014    | Mr Chong Kwai Kuen    |
+|  2015 - 2020    | Mr Andrew Mah   |
+|  2021 - Present |  Mrs Cheong Ye Ling |
+
+
 
 ### Milestones
 
 
-
-
 | Year |  | Key Events|
 | -------- | -------- | -------- |
-| 1919  || Establishment of Poi ching School   |
+| 1919  || Establishment of Poi ching School   
 
 ![](/images/history1.png)
 
@@ -71,5 +74,3 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 | 2020  |   Celebrated 100th Anniversary ||
 
 | 2023  |   Celebrated 103rd Anniversary||
-
-
