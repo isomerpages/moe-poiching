@@ -41,7 +41,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 | Year | Key Events |  |
 | -------- | -------- | -------- |
 | 1919   | Establishment of Poi Ching School     |
-| 1920   | <img style="width:800px; height: 250px" src="/images/history1.png">|
+| 1920   | <img style="width:100%" src="/images/history1.png">|
 | 1924  |   Futsing Association took over the management of the school  |
 
 ![](/images/history2.png)
