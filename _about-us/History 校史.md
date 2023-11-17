@@ -41,7 +41,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 | Year | Key Events |  |
 | -------- | -------- | -------- |
 | 1919   | Establishment of Poi Ching School     |
-| 1920   | <img style="width:450px; height: 150px" src="/images/history1.png">    |
+| 1920   | <img style="width:750px; height: 200px" src="/images/history1.png">    |
 
   
 
