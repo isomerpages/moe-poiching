@@ -12,93 +12,92 @@ In 2000, Poi Ching School moved from Toa Payoh to its present premises at Tampin
 
 Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 
-### Principals:
+### **Principals (Past and Present)**
 
-*   郭可模 (1919 to Unknown)
-*   吴在涛 (1930 to 1936)
-*   陈学成 (1937 to 1938)
-*   施世豪 (1938 to 1940)
-*   朱茂祥 (Unknown)
-*   杨奇源 (1946 to 1947)
-*   柳遹昭 (1947 to 1948)
-*   柳佑文 (1948 to 1949)
-*   陈昌学 (1949 to 1968)
-*   陈平福 (1968 to 1984)
-*   Mr Yu Chu Siong (1984 to 1995)
-*   Mr Lim Chin Sam (1995 to 1999)
-*   Mdm Foo Mui Chuw (2000 to 2006)
-*   Mr Chong Kwai Kuen (2007 to 2014)
-*   Mr Andrew Mah (2015 to 2020)
-*   Mrs Cheong Ye Ling (2021 to present)
+
+| **TENURE**      | **PRINCIPAL**        |
+|-----------------|----------------------|
+|  1919 - Unknown    |  郭可模  |
+|  1930 - 1936   |  吴在涛       |
+|  1937 - 1938    |  陈学成  |
+|  1938 - 1940    |  施世豪     |
+|  Unknown    |  朱茂祥     |
+|  1946 - 1947    |  杨奇源    |
+|  1947 - 1948    |  柳遹昭  |
+|  1948 - 1949    |  柳佑文   |
+|  1949 - 1968    | 陈昌学   |
+|  1968 - 1984    |  陈平福    |
+|  1984 - 1995    |  Mr Yu Chu Siong   |
+|  1995 - 1999    | Mr Lim Chin Sam    |
+|  2000 - 2006    | Mdm Foo Mui Chuw  |
+|  2007 - 2014    | Mr Chong Kwai Kuen    |
+|  2015 - 2020    | Mr Andrew Mah   |
+|  2021 - Present |  Mrs Cheong Ye Ling |
+
+
 
 ### Milestones
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rt4x{background-color:#E6E6E6;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-
-&gt;
-  <table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-ktyi">Year</th>
-    <th class="tg-ktyi">Key Event</th>
+    <th>Year</th>
+    <th>Key Events</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rt4x">1919</td>
-    <td class="tg-rt4x">Establishment of school</td>
+		  <td>1919</td>
+    <td>Establishment of Poi Ching School  </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">1924</td>
-    <td class="tg-ktyi">Futsing Association took over the management of the school</td>
+   <tr>
+    <td>1920</td>
+    <td><img style="width:100%" src="/images/history1.png"></td>
   </tr>
-  <tr>
-    <td class="tg-rt4x">1958</td>
-    <td class="tg-rt4x">Became Government-aided school</td>
+	<tr>
+ <td>1924</td>
+    <td>Futsing Association took over the management of the school</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">1992</td>
-    <td class="tg-ktyi">Accorded Special Assistance Plan (SAP) status</td>
+<tr>
+ <td>1939</td>
+    <td><img style="width:100%" src="/images/history2.png"></td>
   </tr>
-  <tr>
-    <td class="tg-rt4x">2000</td>
-    <td class="tg-rt4x">Relocation of school to its present premises</td>
+<tr>
+ <td>1958</td>
+    <td>Became Government-aided school</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">2000</td>
-    <td class="tg-ktyi">Celebration of 90th Anniversary</td>
+	<tr>
+	 <td>1992</td>
+    <td>Accorded Special Assistance Plan (SAP) status</td>
   </tr>
-  <tr></tr>
-  <tr>
-    <td class="tg-ktyi">2014</td>
-    <td class="tg-ktyi">Completed on-site PERI Upgrading</td>
+<tr> <td rowspan="2">2000</td>
+     <td>Relocation of school to its present premises<br> <img style="width:100%" src="/images/history3.png"> </td>
+     </tr>
+	<tr>
+	 <td>Celebrated 90th Anniversary</td>
+    </tr>
+	<tr>
+	 <td>2014</td>
+    <td>Completed on-site PERI upgrading</td>
   </tr>
-  <tr>
-    <td class="tg-rt4x">2015</td>
-    <td class="tg-rt4x">Celebration of 95th Anniversary</td>
+	<tr> <td rowspan="3">2015</td>
+     <td>Became single-session<br> <img style="width:100%" src="/images/history5.png"> </td>
+     </tr>
+	<tr>
+	 <td>Celebrated 95th Anniversary<br>  <img style="width:100%" src="/images/history6.png"></td>
+    </tr>
+	<tr>
+		<td>Achieved 2 Singapore Book of Records<br>  <img style="width:100%" src="/images/history7.png"></td>
+	</tr>
+<tr>
+ <td>2016</td>
+    <td>Accorded Learning for Life Programme in D'ARTS@PCS</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">2015</td>
-    <td class="tg-ktyi">Achieved two Singapore Book of Records:<br>–          Largest Logo made of Postage Stamps<br>–          Most Number of People Tying Chinese Knots</td>
+<tr>
+ <td>2020</td>
+    <td>Celebrated 100th Anniversary</td>
   </tr>
-  <tr>
-    <td class="tg-rt4x">2016</td>
-    <td class="tg-rt4x">Accorded Learning for Life Programme in D’ARTS@PCS</td>
+	<tr>
+ <td>2023</td>
+    <td>Celebrated 103rd Anniversary</td>
   </tr>
-</tbody>
-</table>
-
-![](/images/history1.png)
-![](/images/history2.png)
-![](/images/history3.png)
-![](/images/history5.png)
-![](/images/history6.png)
-![](/images/history7.png)
+  </tbody></table>
