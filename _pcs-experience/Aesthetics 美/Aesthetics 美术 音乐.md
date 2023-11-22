@@ -32,12 +32,6 @@ The Music Curriculum is structured to provide our students with the opportunity 
 
 ![](/images/Aesthetic_Music_2023.png)
 
-**Dance**
-
-![](/images/aesthetics05.png)
-
-
-
 ### Exposure: Broad-Based Curriculum for All
 
 Under the broad-based curriculum, all students go through an enhanced Music and Performing Arts modules. These modules are carefully selected in a deliberate attempt to promote social cohesion through the appreciation of our multi-cultural society. They are also selected for their ability to provide students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. During the art and music curriculum, students will also be taught a modified version of Feldman’s Method of Critical Inquiry. These are a set of effective questioning strategies to initiate verbal interaction that encourages reasoning, critical thinking resulting in positive learning outcomes.
