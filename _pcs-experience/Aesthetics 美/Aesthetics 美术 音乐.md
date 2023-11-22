@@ -24,7 +24,7 @@ In Poi Ching, we also hope to provide an enriching broad-based experience for ou
 
 The Visual Art Curriculum is structured based on Art Forms as we want to give our students the exposure to a wide variety of art forms so that they can explore and discover their interests. Students are also taught Art Theory such as the Elements and Principles of Design as well as Feldman’s approach to art criticism so that students have the vocabulary and skills discuss artworks.
 
-![](/images/aesthetics03.png)
+![](/images/Aesthetic_Arts_2023.png)
 
 **Music**
 
