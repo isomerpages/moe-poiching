@@ -98,6 +98,6 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
   </tr>
 	<tr>
  <td>2023</td>
-    <td>Celebrated 103rd Anniversary<br> <img style="width:300px; height= 30px" src="/images/53245699329_55658d1fc2_o.jpg"></td>
+    <td>Celebrated 103rd Anniversary<br> <img style="width:100%" src="/images/53245699329_55658d1fc2_o.jpg"></td>
   </tr>
   </tbody></table>
