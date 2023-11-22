@@ -17,6 +17,8 @@ Through Chinese Speech and Drama lessons, the lower primary students were expose
 
 The P3 students were exposed to various themes and text types through Chinese group story telling lessons. They learnt the basics of storytelling, how to project their voice and the importance of collaboration. Through practice and perseverance, the students were able to build confidence in using Chinese language.
 
+![](/images/WhatsApp_Image_2023_11_20_at_1_41_37_PM.jpeg)
+
 **P4 English Language Speech & Drama Programme**
 
 At the P4 level, our students went through a curated Speech and Drama programme where they were introduced to the basics of acting and stage production. Our students learnt the foundations of proper speech, enunciation, tone, volume and pitch as applied in various forms of dramatic expression. They were also exposed to the various themes and text types such as poems, fables, short stories, plays and choral pieces.
@@ -30,6 +32,8 @@ EL Speech & Drama students putting up a performance.
 **P5 Chinese Young Reporters & English Language Public Speaking Programme**
 
 A group of P5 students were chosen to participate in the Chinese Young Reporters programme where they learnt basic reporting skills, critical thinking and analytical skills as well as effective communication skills. At the end of the programme, these students put what they have learnt into practice when they recorded interviews for the National Calligraphy Competition and Mid-Autumn Festival celebration.
+
+![](/images/WhatsApp_Image_2023_11_20_at_3_58_59_PM__3_.jpeg)
 
 The English Language Public Speaking Programme equipped our students with the skills to present in front of an audience, using the language that is appropriate to audience, setting and occasion. They were taught to express their views and opinions appropriately and confidently which helped to develop their social interaction skills. The students were challenged to write and present their own speech based on a given topic at the end of the programme.
 
