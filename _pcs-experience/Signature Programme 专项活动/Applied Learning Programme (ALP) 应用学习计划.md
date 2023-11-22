@@ -27,6 +27,16 @@ Joy of learning at a EL Speech & Drama lesson.
 ![](/images/ALP_2023_website_2.jpg)
 EL Speech & Drama students putting up a performance.
 
+**P5 Chinese Young Reporters & English Language Public Speaking Programme**
 
+A group of P5 students were chosen to participate in the Chinese Young Reporters programme where they learnt basic reporting skills, critical thinking and analytical skills as well as effective communication skills. At the end of the programme, these students put what they have learnt into practice when they recorded interviews for the National Calligraphy Competition and Mid-Autumn Festival celebration.
 
+The English Language Public Speaking Programme equipped our students with the skills to present in front of an audience, using the language that is appropriate to audience, setting and occasion. They were taught to express their views and opinions appropriately and confidently which helped to develop their social interaction skills. The students were challenged to write and present their own speech based on a given topic at the end of the programme.
+
+![](/images/ALP_2023_website_3.jpg)
+Learning to be a confident speaker in front of an audience during an EL Public Speaking lesson.
+
+**P6 Chinese Vlogging Workshop**
+
+Keeping up with online and social media trends, the CL department introduced students to a Chinese vlogging workshop where students learnt the basic techniques of social media content writing, video-making and post-production for vlogging. Students filmed and edited their vlogs in school, interviewed schoolmates and teachers, added voiceovers and subtitles in Chinese, and created creative vlogs which displayed their language skills and interdisciplinary competencies.
 
