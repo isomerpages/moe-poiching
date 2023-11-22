@@ -24,19 +24,13 @@ In Poi Ching, we also hope to provide an enriching broad-based experience for ou
 
 The Visual Art Curriculum is structured based on Art Forms as we want to give our students the exposure to a wide variety of art forms so that they can explore and discover their interests. Students are also taught Art Theory such as the Elements and Principles of Design as well as Feldman’s approach to art criticism so that students have the vocabulary and skills discuss artworks.
 
-![](/images/aesthetics03.png)
+![](/images/Aesthetic_Arts_2023.png)
 
 **Music**
 
 The Music Curriculum is structured to provide our students with the opportunity to explore a wide range of instruments and learn to use these instruments to express and communicate. &nbsp;Principles of music specific pedagogies such as Kodaly, Dalcroze and Orff are also used in the teaching of music concepts. In Poi Ching, our students also develop an awareness and appreciation of local and global cultures through music.
 
-![](/images/aesthetics04.png)
-
-**Dance**
-
-![](/images/aesthetics05.png)
-
-
+![](/images/Aesthetic_Music_2023.png)
 
 ### Exposure: Broad-Based Curriculum for All
 
