@@ -30,7 +30,7 @@ The Visual Art Curriculum is structured based on Art Forms as we want to give ou
 
 The Music Curriculum is structured to provide our students with the opportunity to explore a wide range of instruments and learn to use these instruments to express and communicate. &nbsp;Principles of music specific pedagogies such as Kodaly, Dalcroze and Orff are also used in the teaching of music concepts. In Poi Ching, our students also develop an awareness and appreciation of local and global cultures through music.
 
-![](/images/aesthetics04.png)
+![](/images/Aesthetic_Music_2023.png)
 
 **Dance**
 
