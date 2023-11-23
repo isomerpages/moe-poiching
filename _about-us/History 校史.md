@@ -90,7 +90,7 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 	</tr>
 <tr>
  <td>2016</td>
-    <td>Accorded Learning for Life Programme in D'ARTS@PCS<br>  <img style="width:100%" src="/images/History_2016_D_Arts_for_website.png"></td>
+    <td>Accorded Learning for Life Programme in D'ARTS@PCS<br>  <img align="left" style="width:75%" src="/images/History_2016_D_Arts_for_website.png"></td>
   </tr>
 <tr>
  <td>2020</td>
@@ -98,5 +98,5 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
   </tr>
 	<tr>
  <td>2023</td>
-    <td>Celebrated 103rd Anniversary<br> <img align="left" style="width: 500px" src="/images/53245699329_55658d1fc2_o.jpg"></td></tr>
+    <td>Celebrated 103rd Anniversary<br> <img align="left" style="width:75%" src="/images/53245699329_55658d1fc2_o.jpg"></td></tr>
   </tbody></table>
