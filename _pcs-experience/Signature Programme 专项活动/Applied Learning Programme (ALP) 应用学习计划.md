@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP) 应用学习计划
-permalink: /pcs-experience/signature-programme/permalink/
+permalink: /pcs-experience/signature-programme/alp/
 variant: markdown
 description: ""
 third_nav_title: Signature Programme 专项活动
@@ -43,4 +43,3 @@ Learning to be a confident speaker in front of an audience during an EL Public S
 **P6 Chinese Vlogging Workshop**
 
 Keeping up with online and social media trends, the CL department introduced students to a Chinese vlogging workshop where students learnt the basic techniques of social media content writing, video-making and post-production for vlogging. Students filmed and edited their vlogs in school, interviewed schoolmates and teachers, added voiceovers and subtitles in Chinese, and created creative vlogs which displayed their language skills and interdisciplinary competencies.
-

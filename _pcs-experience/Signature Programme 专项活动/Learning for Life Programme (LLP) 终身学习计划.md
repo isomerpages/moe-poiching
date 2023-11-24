@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP) 终身学习计划
-permalink: /pcs-experience/signature-programme/permalink/
+permalink: /pcs-experience/signature-programme/llp/
 variant: markdown
 description: ""
 third_nav_title: Signature Programme 专项活动

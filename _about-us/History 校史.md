@@ -4,7 +4,7 @@ permalink: /about-us/history/
 description: ""
 variant: markdown
 ---
-Poi Ching School was founded in 1919 by the late Reverend Canon Guok Koh Muo（郭可模） as a Chinese-medium school at Victoria Street. In 1924, due to financial difficulties, the Futsing Association took over the management of the school and shifted the school from Victoria Street to its office in Queen Street.
+Poi Ching School was founded in 1919 by the late Reverend Canon Guok Koh Muo（郭可模）as a Chinese-medium school at Victoria Street. In 1924, due to financial difficulties, the Futsing Association took over the management of the school and shifted the school from Victoria Street to its office in Queen Street.
 
 In 1958, the school became a Government-aided school. In 1970, Poi Ching School moved from Queen Street to Toa Payoh. In 1992, the school was selected as a Special Assistance Plan (SAP) School by the Ministry of Education to offer English and Chinese as first languages.
 
@@ -90,14 +90,13 @@ Poi Ching School was accorded Learning for Life Programme in D’ARTS@PCS.
 	</tr>
 <tr>
  <td>2016</td>
-    <td>Accorded Learning for Life Programme in D'ARTS@PCS<br>  <img style="width:100%" src="/images/History_2016_D_Arts_for_website.png"></td>
+    <td>Accorded Learning for Life Programme in D'ARTS@PCS<br>  <img align="left" style="width:70%" src="/images/History_2016_D_Arts_for_website.png"></td>
   </tr>
 <tr>
  <td>2020</td>
-    <td>Celebrated 100th Anniversary<br> <img style="width:100%" src="/images/50495008012_d6f9a20e6c_k.jpg"> </td>
+    <td>Celebrated 100th Anniversary<br> <img align="left" style="width:70%" src="/images/50495008012_d6f9a20e6c_k.jpg"> </td>
   </tr>
 	<tr>
  <td>2023</td>
-    <td>Celebrated 103rd Anniversary<br> <img style="width:100%" src="/images/53245699329_55658d1fc2_o.jpg"></td>
-  </tr>
+    <td>Celebrated 103rd Anniversary<br> <img align="left" style="width:70%" src="/images/53245699329_55658d1fc2_o.jpg"></td></tr>
   </tbody></table>
