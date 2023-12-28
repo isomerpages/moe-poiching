@@ -9,8 +9,9 @@ variant: markdown
 | | |  |
 | -------- | -------- | -------- |
 | Mrs Cheong Ye Ling    | | Principal    |
-| Mdm Peh Tan Wee   | | Vice Principal  (1)   |
-| Mrs Cheak Seok Kuan    | | Vice Principal (2)  |
+| Mrs Cheak Seok Kuan   | | Vice Principal     |
+| Mrs Irene Goh    | | Vice Principal   |
+| Mrs Chen Jing Jing    | | Vice Principal   |
 
 
 
