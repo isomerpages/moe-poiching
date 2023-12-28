@@ -27,6 +27,7 @@ variant: markdown
 | Mr Alvin Goh | | Physical Education (PE) & CCA|
 | Mdm Saadah   | |School Staff Developer|
 | Mr Abdul  | | Discipline & Student Leadership|
+| Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
 
 
 ### Subject Heads /Level Heads
