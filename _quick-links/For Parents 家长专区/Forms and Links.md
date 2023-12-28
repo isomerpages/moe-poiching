@@ -15,7 +15,7 @@ variant: markdown
 
 **SCHOOL FORMS**
 
-* [Waiting List](https://form.gov.sg/5d43ad992779fc00128970a1)
+* [Waiting List](https://form.gov.sg/6555725ea1e3710012a31498)
 *  [Leave of Absence application form](https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/)
 <br><br>
 
