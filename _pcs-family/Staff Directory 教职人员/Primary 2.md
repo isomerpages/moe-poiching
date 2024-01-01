@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Directory 教职人员
 variant: markdown
 ---
-#### 2023
+#### 2024
 
 <table>
 <thead>
@@ -18,79 +18,76 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="2">2S1</td>
-    <td>Mdm Nur Khairin</td>
-    <td>nur_khairin_abdul_jafar@moe.edu.sg</td>
+     <td>Mdm Suryana </td>
+    <td>suryana_buang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Zhang Shuying</td>
-    <td>zhang_shuying@moe.edu.sg</td>
+    <td>Ms Hsu Tzu Chun</td>
+    <td>hsu_tzu_chun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2S2</td>
-    <td>Ms Bahiah</td>
-    <td>nurulbahiah_ishak@moe.edu.sg</td>
+		<td rowspan="2">2S2</td>
+    <td>Ms Sheryl Tan</td>
+    <td>tan_chai_yan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mrs Agnes Teo</td>
-    <td>yue_puay_leng@moe.edu.sg</td>
+    <td>Ms Lee Suk Fun</td>
+    <td>lee_suk_fun@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">2S3</td>
-    <td>Mrs Agnes Lee</td>
-    <td>chin_shiaw_yen@moe.edu.sg</td>
+		<td>Mdm Yuhana</td>
+    <td>dian_yuhana_sayuti@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Liau Mei Ling</td>
-    <td>liau_mei_ling@moe.edu.sg</td>
+    <td>Mrs Cheng Wan Chin</td>
+    <td>wong_wan_chin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2S4</td>
-    <td>Mdm Noraishah</td>
-    <td>noraishah_mhd_ayob@moe.edu.sg</td>
+		<td rowspan="2">2S4</td>
+    <td>Mrs Erin Ong</td>
+    <td>erin_tan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Wendy Goh</td>
-    <td>goh_sze_lin_wendy@moe.edu.sg</td>
+    <td>Ms Li Jiele</td>
+    <td>li_jiele@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2S5</td>
-    <td>Ms Nurul Amirah</td>
-    <td>nurul_amirah_amir@moe.edu.sg</td>
+		<td rowspan="2">2S5</td>
+    <td>Mdm Farah</td>
+    <td>farah_shauna_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Xu Haiying </td>
-    <td>xu_haiying@moe.edu.sg</td>
+    <td>Mdm Yu Danning</td>
+    <td>yu_danning@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2S6</td>
-    <td>Mrs Jeanette Tan </td>
-    <td>jeanette_neo_soo_ling@moe.edu.sg</td>
+		<td rowspan="2">2S6</td>
+    <td>Mdm Shirley Hoe</td>
+    <td>hoe_siok_cheng_shirley@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Yu Wei </td>
-    <td>yu_wei_a@moe.edu.sg</td>
-		</tr>
+    <td>Mdm Panny Ong</td>
+    <td>ong_panny@moe.edu.sg</td>
+  </tr>
+    <tr>
+		<td rowspan="2">2S7</td>
+    <td>Ms Lau Ee Shan</td>
+    <td>lau_ee_shan@moe.edu.sg
+  </td></tr>
+  <tr>
+    <td>Mdm Li Jing</td>
+    <td>li_jing_b@moe.edu.sg</td>
+  </tr>
+  <tr>
+		<td rowspan="2">2S8</td>
+    <td>Mdm Suhaini</td>
+    <td>suhaini_tohid@moe.edu.sg</td>
+  </tr>
 	<tr>
-     <td rowspan="2">2S7</td> 
-	<td>Mrs Pokhrel</td>
-    <td>tan_shu_jin@moe.edu.sg</td>
+    <td>Mdm Loh Wai Yee</td>
+    <td>loh_wai_yee@moe.edu.sg</td>
   </tr>
-	  <tr>
-    <td>Mdm Lin Feng</td>
-    <td>lin_feng@moe.edu.sg</td>
-  </tr>
-<tr>
-     <td rowspan="2">2S8</td> 
-    <td>Mrs Cassandra Lim</td>
-    <td>tan_jingyi@moe.edu.sg</td>
-  </tr>
-	  <tr>
-    <td>Mdm Liang Hong Bing</td>
-    <td>liang_hongbing@moe.edu.sg</td>
-  </tr>
-	<tr><td rowspan="2"></td>   
-  </tr>
-</tbody>
+	    <tr><td rowspan="2"></td>
+</tr></tbody>
 </table>
-
-
