@@ -13,7 +13,11 @@ variant: markdown
 | Mrs Irene Goh    | | Vice Principal   |
 | Mrs Chen Jing Jing    | | Vice Principal   |
 
+### School Staff Developer
 
+| | |  |
+| -------- | -------- | -------- |
+| Mdm Saadah   | |
 
 ### Heads of Department
 
@@ -21,13 +25,15 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Angeline Leow   | | English|
 | Mr Seow Chee How   | | Chinese Language|
-| Ms Scarlett Un | | Mathematics|
+| Mr Toh Wee Kwang | | Mathematics|
 | Mrs Yan Lim | | Science|
 | Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
 | Mr Alvin Goh | | Physical Education (PE) & CCA|
-| Mdm Saadah   | |School Staff Developer|
 | Mr Abdul  | | Discipline & Student Leadership|
 | Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
+| Ms Joanna Tan | | Partnership
+| Mdm Panny Ong | | Student Well-being
+
 
 
 ### Subject Heads /Level Heads
@@ -35,12 +41,13 @@ variant: markdown
 | | |  |
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
-| Mr Toh Wee Kwang | | Mathematics|
+| Ms Liana| |Science|
 | Mrs Junie Seetor | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
+| Mr Adam Yeo | | PE/ CCA|
 
 
 
@@ -49,12 +56,12 @@ variant: markdown
 
 | | |  ||
 | -------- | -------- | -------- |-------- |
-| Mdm Panny Ong | | Assistant Year Head| P1|
-| Mrs Jeanette Tan | | Year Head |P2|
-| Mrs Melissa Gomes| | Assistant Year Head (Internal)| P3|
-| Ms Ong Yi Ting | | Assistant Year Head |P4|
-| Mrs Junie Seetor | |  Assistant Year Head (Internal)| P5|
-| Ms Joanna Tan | | Year Head |P6|
+|  Mrs Melissa Gomes| | Assistant Year Head| P1|
+| Mdm Panny Ong | | Assistant Year Head |P2|
+| Mrs Jeanette Tan| | Year Head          | P3|
+| Ms Joanna Tan | | Year Head |P4|
+| Ms Ong Yi Ting | |  Assistant Year Head | P5|
+| Mrs Junie Seetor | | Assistant Year Head |P6|
 
 
 
