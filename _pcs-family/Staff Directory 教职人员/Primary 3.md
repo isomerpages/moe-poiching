@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Directory 教职人员
 variant: markdown
 ---
-#### 2023
+#### 2024
 
 <table>
 <thead>
@@ -18,60 +18,59 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="2">3M1</td>
-    <td>Mrs Rachel Neo</td>
-    <td>tan_ching_ling_rachel@moe.edu.sg</td>
+    <td>Ms Nur Amira</td>
+    <td>nur_amira_syahidah_mazlan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Khadijah</td>
-    <td>khadijah_mohammed_iqbal@moe.edu.sg</td>
+    <td>Mdm Zhang Shuying</td>
+    <td>zhang_shuying@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M2</td>
-    <td>Mr Firdaus</td>
-    <td>mohammed_firdaus_salim@moe.edu.sg</td>
+    <td>Mdm Radiah</td>
+    <td>radiah_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Marwati</td>
-    <td>marwati_kamarudin@moe.edu.sg</td>
+    <td>Mr Ng Theng Hian</td>
+    <td>ng_theng_hian@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M3</td>
-    <td>Mrs Melissa Gomes</td>
-    <td>melissa_hoeden@moe.edu.sg</td>
+    <td>Ms Liana</td>
+    <td>liana_aziz@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Ra'idah</td>
-    <td>raidah_rahmat@moe.edu.sg</td>
+    <td>Mr Eugene Chin</td>
+    <td>eugene_chin@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M4</td>
-    <td>Mdm Amalina </td>
-    <td>amalina_juhari@moe.edu.sg</td>
+    <td>Mr Marcus Choy </td>
+    <td>marcus_choy_zheng_hoe@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mrs Lee Kheng Leng</td>
-    <td>yap_kheng_leng@moe.edu.sg</td>
+    <td>Ms Wendy Goh</td>
+    <td>goh_sze_lin_wendy@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M5</td>
-    <td>Mdm Fazila </td>
-    <td>fazila_banu_dhadha_hussain@moe.edu.sg</td>
+    <td>Mrs Yan Lim </td>
+    <td>ong_yu_yan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Victor Ho</td>
-    <td>ho_see_hoong_victor@moe.edu.sg</td>
+    <td>Mdm Yu Wei</td>
+    <td>yu_wei@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M6</td>
-    <td>Mr Jason Lim </td>
-    <td>lim_teck_heen_jason@moe.edu.sg</td>
+    <td>Ms Nurul Amirah </td>
+    <td>nurul_amirah_amir@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Aishah</td>
-    <td>nur_aishah@moe.edu.sg</td>
+    <td>Mr Seow Chee How</td>
+    <td>seow_chee_how@moe.edu.sg@moe.edu.sg</td>
 		</tr>
     <tr><td rowspan="2"></td>   
   </tr>
 </tbody>
 </table>
-
