@@ -33,7 +33,10 @@ variant: markdown
     <td>cheong_ye_meng_clarence@moe.edu.sg </td>
   </tr>
   <tr>
-   
+        <td>Mr Abdul Hamid </td>
+    <td>abdul_hamid_so_mohamed@moe.edu.sg </td>
+  </tr>
+  <tr>
   </tr><tr>
     </tr><tr><td rowspan="1"></td>   
   </tr>
