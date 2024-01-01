@@ -35,7 +35,6 @@ variant: markdown
 | | |  |
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
-| Mr Toh Wee Kwang | | Mathematics|
 | Mrs Junie Seetor | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
