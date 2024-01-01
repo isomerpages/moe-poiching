@@ -40,6 +40,7 @@ variant: markdown
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
+| Mr Adam Yeo | | PE/ CCA|
 
 
 
