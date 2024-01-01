@@ -21,7 +21,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Angeline Leow   | | English|
 | Mr Seow Chee How   | | Chinese Language|
-| Ms Scarlett Un | | Mathematics|
+| Mr Toh Wee Kwang | | Mathematics|
 | Mrs Yan Lim | | Science|
 | Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
 | Mr Alvin Goh | | Physical Education (PE) & CCA|
