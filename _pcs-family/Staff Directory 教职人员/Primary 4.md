@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Directory 教职人员
 variant: markdown
 ---
-#### 2023
+#### 2024
 
 <table>
 <thead>
@@ -18,60 +18,59 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="2">4P1</td>
-    <td>Ms Janice Chuan</td>
-    <td>janice_chuan_jia_en@moe.edu.sg </td>
+    <td>Mrs Rachel Neo</td>
+    <td>tan_ching_ling_rachel@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Seow Chee How </td>
-    <td>seow_chee_how@moe.edu.sg</td>
+    <td>Ms Khoo Wee Wee</td>
+    <td>khoo_wee_wee@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">4P2</td>
-    <td>Mdm Suhaila</td>
-    <td>suhaila_abdullah@moe.edu.sg</td>
+    <td>Mr Firdaus</td>
+    <td>mohammed_firdaus_salim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Scarlett Un</td>
-    <td>un_yih_miin@moe.edu.sg</td>
+    <td>Mdm Marwati</td>
+    <td>marwati_kamarudin@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">4P3</td>
-    <td>Mdm Tee Li Ping </td>
-    <td>tee_li_ping@moe.edu.sg </td>
+    <td>Mrs Melissa Gomes</td>
+    <td>melissa_hoeden@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Ivy Wong</td>
-    <td>wong_ye_shuang_ivy@moe.edu.sg</td>
+    <td>Mdm Ra'idah</td>
+    <td>raidah_rahmat@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">4P4</td>
-    <td>Mr Khairul</td>
-    <td>khairul_annuar_ibrahim_alsagoff@moe.edu.sg </td>
+    <td>Mdm Amalina </td>
+    <td>amalina_juhari@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Woo Ying Teng </td>
-    <td>woo_ying_teng@moe.edu.sg</td>
+    <td>Mrs Lee Kheng Leng</td>
+    <td>yap_kheng_leng@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">4P5</td>
-    <td>Ms Nur Amira</td>
-    <td>nur_amira_syahidah_mazlan@moe.edu.sg </td>
+    <td>Mdm Fazila </td>
+    <td>fazila_banu_dhadha_hussain@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Eugene Chin</td>
-    <td> eugene_chin@moe.edu.sg</td>
+    <td>Ms Joanna Tan</td>
+    <td>tan_phaedra_joanna@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">4P6</td>
-    <td>Mdm Suseila</td>
-    <td>k_suseila@moe.edu.sg </td>
+    <td>Mr Jason Lim </td>
+    <td>lim_teck_heen_jason@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Ng Theng Hian  </td>
-    <td>ng_theng_hian@moe.edu.sg</td>
+    <td>Mdm Aishah</td>
+    <td>nur_aishah@moe.edu.sg</td>
 		</tr>
     <tr><td rowspan="2"></td>   
   </tr>
 </tbody>
 </table>
-
