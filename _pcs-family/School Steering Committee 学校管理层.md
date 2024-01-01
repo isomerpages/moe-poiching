@@ -35,6 +35,7 @@ variant: markdown
 | | |  |
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
+| Ms Liana| |Science|
 | Mrs Junie Seetor | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
