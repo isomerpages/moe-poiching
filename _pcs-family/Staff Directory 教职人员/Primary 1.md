@@ -45,48 +45,48 @@ variant: markdown
   </tr>
   <tr>
 		<td rowspan="2">1D4</td>
-    <td>Mrs Erin Ong</td>
-    <td>erin_tan@moe.edu.sg</td>
+    <td>Mdm Khairin</td>
+    <td>nur_khairin_abdul_jafar@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Li Jiele</td>
-    <td>li_jiele@moe.edu.sg</td>
+    <td>Mdm Lin Feng</td>
+    <td>lin_feng@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">1D5</td>
-    <td>Mdm Farah</td>
-    <td>farah_shauna_mohamed@moe.edu.sg</td>
+    <td>Mdm Nurain</td>
+    <td>nurain_amirah_abdul_rahim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Yu Danning</td>
-    <td>yu_danning@moe.edu.sg</td>
+    <td>Mr Dave Yang</td>
+    <td>yang_kin_ngian@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">1D6</td>
-    <td>Mdm Shirley Hoe</td>
-    <td>hoe_siok_cheng_shirley@moe.edu.sg</td>
+    <td>Mrs Agnes Lee</td>
+    <td>chin_shiaw_yen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Panny Ong</td>
-    <td>ong_panny@moe.edu.sg</td>
+    <td>Mdm Liang Hong Bing</td>
+    <td>Liang_hongbing@moe.edu.sg</td>
   </tr>
     <tr>
 		<td rowspan="2">1D7</td>
-    <td>Mdm Elmizah</td>
-    <td>nur_elmizah_mhd_yassin@moe.edu.sg</td>
+    <td>Mr Khairul</td>
+    <td>khairul_annuar_ibrahim_alsagoff@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Li Jing</td>
-    <td>li_jing_b@moe.edu.sg</td>
+    <td>Mrs Agnes Teo</td>
+    <td>yue_puay_leng@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">1D8</td>
-    <td>Mdm Suhaini</td>
-    <td>suhaini_tohid@moe.edu.sg</td>
+    <td>Mrs Jeanette Tan</td>
+    <td>jeanette_neo_soo_ling@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Loh Wai Yee</td>
-    <td>loh_wai_yee@moe.edu.sg</td>
+    <td>Ms Cheong Shi Min</td>
+    <td>cheong_shi_min@moe.edu.sg</td>
   </tr>
 	    <tr><td rowspan="2"></td>
 </tr></tbody>
