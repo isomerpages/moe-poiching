@@ -32,6 +32,7 @@ variant: markdown
 | Mr Abdul  | | Discipline & Student Leadership|
 | Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
 | Ms Joanna Tan | | Partnership
+| Mdm Panny Ong | | Student Well-being
 
 
 
