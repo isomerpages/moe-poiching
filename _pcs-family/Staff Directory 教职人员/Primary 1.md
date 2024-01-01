@@ -18,30 +18,30 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="2">1D1</td>
-     <td>Mdm Suryana </td>
-    <td>suryana_buang@moe.edu.sg</td>
+     <td>Ms Bahiah </td>
+    <td>nurulbahiah_ishak@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Hsu Tzu Chun</td>
-    <td>hsu_tzu_chun@moe.edu.sg</td>
+    <td>Ms Ivy Wong</td>
+    <td>wong_ye_shuang_ivy@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">1D2</td>
-    <td>Ms Sheryl Tan</td>
-    <td>tan_chai_yan@moe.edu.sg</td>
+    <td>Mdm Noraishah</td>
+    <td>noraishah_mhd_ayob@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Lee Suk Fun</td>
-    <td>lee_suk_fun@moe.edu.sg</td>
+    <td>Mdm Liau Mei Ling</td>
+    <td>liau_mei_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1D3</td>
-		<td>Mdm Yuhana</td>
-    <td>dian_yuhana_sayuti@moe.edu.sg</td>
+		<td>Mrs Pokhrel</td>
+    <td>tan_shu_jin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mrs Cheng Wan Chin</td>
-    <td>wong_wan_chin@moe.edu.sg</td>
+    <td>Mdm Xu Haiying</td>
+    <td>xu_haiying@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">1D4</td>
