@@ -59,7 +59,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Mdm Yu Wei</td>
-    <td>yu_wei@moe.edu.sg</td>
+    <td>yu_wei_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3M6</td>
