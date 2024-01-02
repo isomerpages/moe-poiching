@@ -32,7 +32,7 @@ variant: markdown
 | Mr Abdul  | | Discipline & Student Leadership|
 | Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
 | Ms Joanna Tan | | Partnership
-| Mdm Panny Ong | | Student Well-being
+
 
 
 
@@ -42,12 +42,13 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
 | Ms Liana| |Science|
-| Mrs Junie Seetor | | Student Well-Being|
+| Mdm Panny Ong | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
 | Mrs Erin Ong | | National Education & Social Studies (NESS)|
 | Mr Adam Yeo | | PE/ CCA|
+
 
 
 
