@@ -23,7 +23,7 @@ variant: markdown
 
 | | |  |
 | -------- | -------- | -------- |
-| Mdm Angeline Leow   | | English|
+| Mdm Angeline Leow   | | English Language| 
 | Mr Seow Chee How   | | Chinese Language|
 | Mr Toh Wee Kwang | | Mathematics|
 | Mrs Yan Lim | | Science|
