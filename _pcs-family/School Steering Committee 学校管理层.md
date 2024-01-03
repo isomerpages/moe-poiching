@@ -17,7 +17,7 @@ variant: markdown
 
 | | |  |
 | -------- | -------- | -------- |
-| Mdm Saadah   | |
+| Mdm Saadah Bte Abdul Samad  | |
 
 ### Heads of Department
 
@@ -29,7 +29,7 @@ variant: markdown
 | Mrs Yan Lim | | Science|
 | Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
 | Mr Alvin Goh | | Physical Education (PE) & CCA|
-| Mr Abdul  | | Discipline & Student Leadership|
+| Mr Abdul Mohamed Ziawul Haq  | | Discipline & Student Leadership|
 | Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
 | Ms Joanna Tan | | Partnership
 
@@ -41,7 +41,7 @@ variant: markdown
 | | |  |
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
-| Ms Liana| |Science|
+| Ms Liana Binte Aziz | |Science|
 | Mdm Panny Ong | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
