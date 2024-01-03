@@ -28,6 +28,7 @@ variant: markdown
 
 |**Name** | |**Designation**  |
 | -------- | -------- | -------- |
+| Mr Koh Chee Wei | | ICT Manager|
 | Mr Wong Chee Wee | | Desktop Engineer|
 | Mr Mohamed Alif | | Desktop Engineer|
 | Ms Chang Chuan Ping | | Librarian|
