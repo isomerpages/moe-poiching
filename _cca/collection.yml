@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA 课程辅助活动/.keep
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/Wushu.md
+      - Performing Arts/.keep
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Chinese Calligraphy.md
+      - Performing Arts/Festive Drum.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Dance.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Science Club.md
+      - Clubs & Societies/Outdoor Activities Club.md
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Infocomm Club.md

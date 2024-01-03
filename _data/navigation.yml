@@ -1,0 +1,10 @@
+logo: /images/school logo cover.PNG
+links:
+  - title: About Us 培青简介
+    collection: about-us
+  - title: Pcs Family 培青家庭
+    collection: pcs-family
+  - title: PCS Experience 培青课程
+    collection: pcs-experience
+  - title: Info Hub 信息专区
+    collection: quick-links

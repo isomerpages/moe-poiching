@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - History 校史.md
+      - School Mission & Vision 愿景与使命.md
+      - Principal's Message 校长献词.md
+      - Our School Crest 校徽.md
+      - School Core Values 价值观.md
+      - School Song 校歌.md
+      - School Rules 校规.md
