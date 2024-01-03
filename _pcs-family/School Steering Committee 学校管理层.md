@@ -25,13 +25,13 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Angeline Leow   | | English Language| 
 | Mr Seow Chee How   | | Chinese Language|
-| Mr Toh Wee Kwang | | Mathematics|
+| Mr Toh Wee Kwang (covering) | | Mathematics|
 | Mrs Yan Lim | | Science|
 | Mrs Cheng Wan Chin | | Information & Communication Technology (ICT)|
 | Mr Alvin Goh | | Physical Education (PE) & CCA|
 | Mr Abdul Mohamed Ziawul Haq  | | Discipline & Student Leadership|
 | Mdm Jelena Chua | | Character & Citizenship Education (CCE)|
-| Ms Joanna Tan | | Partnership
+
 
 
 
@@ -42,7 +42,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | Mdm Julianna Pushpam | | English Language|
 | Ms Liana Binte Aziz | |Science|
-| Mdm Panny Ong | | Student Well-Being|
 | Mrs Agnes Teo | | Special Assistance Plan (SAP)|
 | Ms Wendy Goh | | Character & Citizenship Education (CCE)|
 | Mrs Ginger Oh | | Information & Communication Technology (ICT)|
