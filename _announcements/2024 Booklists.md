@@ -1,7 +1,8 @@
 ---
-title: 2023 Booklists
-permalink: /announcements/permalink/
+title: 2024 Booklists
+permalink: /2024booklist/
 description: ""
+variant: tiptap
 ---
 [Primary 1 Booklist](/files/PCS%20BOOKLIST%20P1%202023.pdf)
 

@@ -2,37 +2,6 @@
 title: Executive & Administrative Staff 执行与行政人员
 permalink: /our-family/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Administration Team
-
-
-|Name | |Designation |
-| -------- | -------- | -------- |
-| Mr K. Adiyapatham  | | Operations Manager 1|
-| Mr Alex Mahendran | | Operations Manager 2|
-| Ms Lin Haijiao | | Administration Manager 1|
-| Ms Lim Hui Fong | | Administration Manager 2|
-| Mdm Elsie Yong | | Administration Executive|
-| Mdm Saudah Bte Kazim | | Corporate Support Officer|
-| Mr Raymond Thong | | Corporate Support Officer|
-| Ms Siti Nur Hafizah | | Corporate Support Officer|
-| Mdm Tieng Cheng Yee | | Operations Support Officer|
-| Mdm Fauziah Bte Othman | | Operations Support Officer|
-| Mdm Ong Ah Ee | | Operations Support Officer|
-| Mr Jufri | | Operations Support Officer|
-
-
-### School Support Staff
-
-
-|**Name** | |**Designation**  |
-| -------- | -------- | -------- |
-| Mr Koh Chee Wei | | ICT Manager|
-| Mr Wong Chee Wee | | Desktop Engineer|
-| Mr Mohamed Alif | | Desktop Engineer|
-| Ms Chang Chuan Ping | | Librarian|
-| Mdm Ling Swee Lian | | Dental Therapist|
-| Mdm Chua Soo Mian | | Science Lab Assistant|
-| Mr Mohd Sallim | | Senior Security Officer|
-| Mr Nahari | | Security Officer|
+<h3>School Administration Team</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr K. Adiyapatham</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Manager 1</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Alex Mahendran</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Manager 2</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lin Haijiao</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Administration Manager 1</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lim Hui Fong</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Administration Manager 2</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Elsie Yong</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Administration Executive</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Saudah Bte Kazim</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Raymond Thong</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Siti Nur Hafizah</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Tieng Cheng Yee</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Fauziah Bte Othman</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Ah Ee</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Jufri</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr></tbody></table><h3>School Support Staff</h3><p></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Koh Chee Wei</p></td><td rowspan="1" colspan="1"><p>ICT Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Wong Chee Wee</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohamed Alif</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chang Chuan Ping</p></td><td rowspan="1" colspan="1"><p>Librarian</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ling Swee Lian</p></td><td rowspan="1" colspan="1"><p>Dental Therapist</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chua Soo Mian</p></td><td rowspan="1" colspan="1"><p>Science Lab Assistant</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohd Sallim</p></td><td rowspan="1" colspan="1"><p>Senior Security Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Nahari</p></td><td rowspan="1" colspan="1"><p>Security Officer</p></td></tr></tbody></table><p></p>
