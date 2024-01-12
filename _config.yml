@@ -8,14 +8,15 @@ colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#991629"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Poi Ching School was founded in 1919 by the late Reverend Canon
+  Guok Koh Muo（郭可模）as a Chinese-medium school at Victoria Street.
 permalink: none
 baseurl: ""
 exclude:
