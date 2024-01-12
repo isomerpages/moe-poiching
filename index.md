@@ -8,13 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: ""
         - title: Info Hub
           description: ""
           url: /links-and-resources/usefullinks/
-        - title: 100th Anniversary Celebration
+        - title: 103th Anniversary Celebration
           description: ""
           url: /100th-anniversary-celebration/
       background: /images/front cover.png
