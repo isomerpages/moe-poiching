@@ -38,7 +38,8 @@ families);
 decisions for yourself, your family and society; and
 <br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
-<br>Casual sex can harm and hurt you and your loved ones.
+Casual sex can harm and hurt you and your loved ones.
+<br>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
@@ -79,10 +80,8 @@ of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Poi Ching School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Primary_Schools__290124_Page_1.jpg">
-</div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/images/2024_Info_on_SEd_for_Pri5.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_Pri5.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/2024_Info_on_SEd_for_Pri6.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_Pri6.jpg"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Primary_Schools__290124_Page_2.jpg">
 </div>
