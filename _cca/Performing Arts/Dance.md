@@ -59,8 +59,8 @@ thoughts and beliefs.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Wenna</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_wenna@moe.edu.sg</a>
+<p>Mdm Wong Wenna
+<br><a rel="noopener noreferrer nofollow" target="_blank">wong_wenna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -69,10 +69,10 @@ thoughts and beliefs.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Wong</p>
-<p>Ms Janice Chuan</p>
-<p>Ms Yu Danning</p>
-<p>Ms Cheong Shi Min</p>
+<p>Ms Ivy Wong
+<br>Ms Janice Chuan
+<br>Ms Yu Danning
+<br>Ms Cheong Shi Min</p>
 </td>
 </tr>
 </tbody>
