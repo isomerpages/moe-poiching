@@ -82,9 +82,6 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/images/2024_Info_on_SEd_for_Pri5.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_Pri5.jpg"></a>
 <p></p><a class="isomer-image-wrapper" href="/images/2024_Info_on_SEd_for_Pri6.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_Pri6.jpg"></a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Primary_Schools__290124_Page_2.jpg">
-</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
