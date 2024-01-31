@@ -1,8 +1,72 @@
 ---
 title: Forms and Links
 permalink: /quick-links/permalink/
+variant: tiptap
 description: ""
 third_nav_title: For Parents 家长专区
-variant: tiptap
 ---
-<p><strong>RESOURCES FOR PARENTS</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">Parents' Gateway (PG)</a></p></li><li><p><a href="https://familiesforlife.sg/Parenting/Pages/Home.aspx?utm_source=SEM&amp;gclid=CjwKCAjw-eKpBhAbEiwAqFL0mvxGyrBe60wD6YPdfD5hHBQkv302vu5TMgiLqGpJmdN--x0kUT1lWxoCDL0QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Families for Life</a></p></li><li><p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a></p></li><li><p><a href="https://poiching.moe.edu.sg/2024booklist/" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a><br><br></p></li></ul><p><strong>SCHOOL FORMS</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://form.gov.sg/6555725ea1e3710012a31498" rel="noopener noreferrer nofollow" target="_blank">Waiting List</a></p></li><li><p><a href="https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a> <br><br></p></li></ul><p><strong>MOE WEBSITES</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Portal</a></p></li><li><p><a href="https://www.instagram.com/parentingwith.moesg/?utm_medium=copy_link" rel="noopener noreferrer nofollow" target="_blank">Parenting with MOE</a></p></li><li><p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Subject Based Banding (SBB)</a></p></li><li><p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a></p></li><li><p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Scheme</a></p></li></ul><p></p>
+<p><strong>RESOURCES FOR PARENTS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">Parents' Gateway (PG)</a>
+</p>
+</li>
+<li>
+<p><a href="https://familiesforlife.sg/Parenting/Pages/Home.aspx?utm_source=SEM&amp;gclid=CjwKCAjw-eKpBhAbEiwAqFL0mvxGyrBe60wD6YPdfD5hHBQkv302vu5TMgiLqGpJmdN--x0kUT1lWxoCDL0QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Families for Life</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
+</p>
+</li>
+<li>
+<p><a href="https://poiching.moe.edu.sg/2024booklist/" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a> 
+<br>
+<br>
+</p>
+</li>
+</ul>
+<p><strong>SCHOOL FORMS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/6555725ea1e3710012a31498" rel="noopener noreferrer nofollow" target="_blank">Waiting List</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Poi Ching School Parent Volunteer Scheme 2024</a> 
+<br>
+<br>
+</p>
+</li>
+</ul>
+<p><strong>MOE WEBSITES</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/parentingwith.moesg/?utm_medium=copy_link" rel="noopener noreferrer nofollow" target="_blank">Parenting with MOE</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Subject Based Banding (SBB)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Scheme</a>
+</p>
+</li>
+</ul>
+<p></p>
