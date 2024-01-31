@@ -21,7 +21,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="https://poiching.moe.edu.sg/2024booklist/" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a>
+<p><a href="https://poiching.moe.edu.sg/2024booklist/" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a> 
 <br>
 <br>
 </p>
@@ -35,11 +35,11 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a> 
+<p><a href="https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Poi Ching School Parent Volunteer Scheme 2024</a>
+<p><a href="/files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Poi Ching School Parent Volunteer Scheme 2024</a> 
 <br>
 <br>
 </p>
