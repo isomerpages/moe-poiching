@@ -16,16 +16,4 @@ sections:
           description: ""
           url: /100th-anniversary-celebration/
       background: /images/front cover.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: PCS PV Scheme
-          date: 01 February 2024
-          announcement: Application for Poi Ching School’s Parent Volunteer Scheme (PCS PV
-            Scheme) is now open for parents whose child (Singapore Citizen or
-            Singapore Permanent Resident) is born between 2 January 2019 and 1
-            January 2020 (both dates inclusive).
-          link_text: Link
-          link_url: /files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf
 ---
