@@ -3,102 +3,143 @@ title: Outdoor Activities Club
 permalink: /cca/Clubs-and-Societies/outdoor-activities-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-ODAC (OutDoor Activities Club) aims to inspire and empower our students to connect with nature, challenge their limits, and foster a sense of community through outdoor adventure.
-
-Through this CCA, we want our students to be adventurous and nature-loving with a passion for the great outdoors.
-<br><br>
-
-![](/images/odac%201.jpg)
-
-
-
-### Training Schedule
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Day</th>
-      <th style="border: 1px solid black;">Time</th>
-      <th style="border: none" width="200">Level</th>
-	    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: none;">Monday</td>
-      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black"> P3 - P6</td>
-				</tr>
-		    <tr>
-      <td style="border-right: 1px solid black">
-      </td>
-		<td style="border none;">2.00 pm to 5.00 pm</td>
-      <td style="border none;"> Learning Journey / External Training</td>
-								</tr>
-		  </tbody>
+<p>ODAC (OutDoor Activities Club) aims to inspire and empower our students
+to connect with nature, challenge their limits, and foster a sense of community
+through outdoor adventure.</p>
+<p>Through this CCA, we want our students to be adventurous and nature-loving
+with a passion for the great outdoors.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC2.jpg">
+</div>
+<h3>Training Schedule</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 4.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journey / External Training</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-**Venue:**
-Rockwall &amp; 3M1 Classroom
-
-### CCA Teachers
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <tbody>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th><td style="border: none;">Ms Faezah</td>
-		 </tr>
-    <tr>
-      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
-      <td style="border-bottom: 1px solid black;">faezah_abdul_samad@moe.edu.sg</td>
-    </tr>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Teachers-in-charge
-      </th><td style="border: none;">Mdm Noraishah</td>
-    </tr>
-    <tr>
-      <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Mr Jais</td>
-        </tr>
-  </tbody>
+<p><strong>Venue:</strong> Rockwall &amp; 3M1 Classroom</p>
+<h3>CCA Teachers</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Overall Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Faezah
+<br><a href="faezah_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faezah_abdul_samad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraishah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Choy</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-### CCA Leaders
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Name</th>
-      <th style="border: 1px solid black;">Class</th>
-      <th style="border: 1px solid black;">Position</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid black;">Jade Lee Zhi Xuan</td>
-      <td style="border: 1px solid black;">5L4</td>
-      <td style="border: 1px solid black;">Captain</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">Chen Minrui Joelle</td>
-      <td style="border: 1px solid black;">5L2</td>
-      <td style="border: 1px solid black;">Vice-Captain</td>
-    </tr>
-		  <tr>
-      <td style="border: 1px solid black;">Cheah Wei Kai Lucas</td>
-      <td style="border: 1px solid black;">5L6</td>
-      <td style="border: 1px solid black;">Vice-Captain</td>
-    </tr>
-  </tbody>
+<h3>CCA Leaders</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jade Lee Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6J4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Minrui Joelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6J2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheah Wei Kai Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6J6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-### Accolades 
-
-**NPSSCC 2023 Team Awards**  <br>
-Senior Boys Division - 3rd
-
-**NPSSCC 2022 Team Awards**  <br>
-Junior Girls Division - 3rd
+<h3>Accolades</h3>
+<p><strong>NPSSCC 2023 Team Awards</strong> 
+<br>Senior Boys Division - 3rd</p>
+<p><strong>NPSSCC 2022 Team Awards</strong> 
+<br>Junior Girls Division - 3rd</p>
