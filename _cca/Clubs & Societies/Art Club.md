@@ -3,92 +3,139 @@ title: Art Club
 permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-Poi Ching School Art Club aims to cultivate the love and appreciation of visual arts in our members by fostering individual creative expression and honing their artistic skills through fun and engaging art making processes. 
-
-Students will be equipped with art-making techniques and knowledge through the exposure and experimentation of a wide array of art experiences with a variety of art making tools and art mediums.
-
-
-![](/images/art1.jpg)
-
-### Training Schedule
-
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Day</th>
-      <th style="border: 1px solid black;">Time</th>
-      <th style="border: 1px solid black;">Level</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    </tr><tr>
-      <td style="border: 1px solid black;">Thursday</td>
-      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black;">P3 - P6</td>
-    </tr>
-    </tbody>
+<p>Poi Ching School Art Club aims to cultivate the love and appreciation
+of visual arts in our members by fostering individual creative expression
+and honing their artistic skills through fun and engaging art making processes.</p>
+<p>Students will be equipped with art-making techniques and knowledge through
+the exposure and experimentation of a wide array of art experiences with
+a variety of art making tools and art mediums.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art1.jpg">
+</div>
+<h3>Training Schedule</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 4.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-**Venue:**
-Art Rooms
-
-### CCA Teachers
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <tbody>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th><td style="border: none;">Mdm Aishah</td>
-		 </tr>
-    <tr>
-      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
-      <td style="border-bottom: 1px solid black;">nur_aishah@moe.edu.sg</td>
-    </tr>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
-  </th>
-			<td style="border: none;">Mrs Jazreel Quah</td>
-    </tr>  
-		<tr>
-      <td style="border: none;border-right: 1px solid black"></td>
-      <td style="border: none;">Mrs Joyce Goh</td>
-        </tr>
-     </tbody>
+<p><strong>Venue:</strong> Art Rooms</p>
+<h3>CCA Teachers</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Overall Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Aishah
+<br><a href="nur_aishah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aishah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Jazreel Quah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Goh</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-### CCA Leaders
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Name</th>
-      <th style="border: 1px solid black;">Class</th>
-      <th style="border: 1px solid black;">Position</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid black;">Sophia Tan Shi Han</td>
-      <td style="border: 1px solid black;">6J4</td>
-      <td style="border: 1px solid black;">Chairman</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">Tyanni Loy Jui Diam</td>
-      <td style="border: 1px solid black;">5L6</td>
-      <td style="border: 1px solid black;">Vice-Chairman</td>
-    </tr>
-  </tbody>
+<h3>CCA Leaders</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tyanni Loy Jui Diam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6J6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hazel Lee Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5L3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-### Accolades
-
-**SYF 2023** <br> 
-*  Certificate of Recognition (Category A)<br>
-*  Certificate of Participation (Category C)
-
-**SYF 2021** <br> 
-* Certificate of Recognition (Category B &amp; C)<br>
-* Certificate of Participation (Category A)
+<h3>Accolades</h3>
+<p><strong>SYF 2023</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Recognition (Category A)
+<br>
+</p>
+</li>
+<li>
+<p>Certificate of Participation (Category C)</p>
+</li>
+</ul>
+<p><strong>SYF 2021</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Recognition (Category B &amp; C)
+<br>
+</p>
+</li>
+<li>
+<p>Certificate of Participation (Category A)</p>
+</li>
+</ul>
+<p></p>
