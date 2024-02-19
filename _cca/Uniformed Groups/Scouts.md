@@ -3,57 +3,66 @@ title: Scouts
 permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-The Scouts equip students with leadership and organisational skills they acquire through running their own activities and setting their own goals equip them for the challenge of the future, and a life of service.
-
-Through the Scouts, students can build life-long friendships with people of different races and creeds, both at home and abroad.
-
-![](/images/scouts%202.jpg)
-
-
-### Training Schedule
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Day</th>
-      <th style="border: 1px solid black;">Time</th>
-      <th style="border: 1px solid black;">Level</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td style="border: 1px solid black;">Monday</td>
-      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black;">P3 - P6</td>
-    </tr>
-  </tbody>
+<p>The Scouts equip students with leadership and organisational skills they
+acquire through running their own activities and setting their own goals
+equip them for the challenge of the future, and a life of service.</p>
+<p>Through the Scouts, students can build life-long friendships with people
+of different races and creeds, both at home and abroad.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts%202.jpg">
+</div>
+<h3>Training Schedule</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 4.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-**Venue:**
- Field &amp; Hall Of Wellness
- 
-### CCA Teachers
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <tbody>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th>
-			<td style="border: none;">Mr Firdaus </td>
-		 </tr>
-    <tr>
-      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
-      <td style="border-bottom: 1px solid black;">mohammed_firdaus_salim@moe.edu.sg </td>
-    </tr>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
-      </th><td style="border: none;">Mdm Khairin </td>
-    </tr>
-    </tbody>
+<p><strong>Venue:</strong> Field &amp; Classroom</p>
+<h3>CCA Teachers</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Overall Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr Firdaus
+<br><a href="mohammed_firdaus_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_firdaus_salim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Khairin</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-### Accolades
-
-2021 –  Akela Award Recipient 
+<h3>Accolades</h3>
+<p>2021 – Akela Award Recipient</p>
