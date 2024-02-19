@@ -34,7 +34,7 @@ thoughts and beliefs.</p>
 <p>2.00 pm to 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - P5</p>
+<p>Primary 3 – Primary 6</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ thoughts and beliefs.</p>
 <p>2.00 pm to 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - P5</p>
+<p>Primary 2 – Primary 6</p>
 </td>
 </tr>
 </tbody>
@@ -93,32 +93,10 @@ thoughts and beliefs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Min Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chow Ke Xuan Kezenn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Hazel Chan Yan Tung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5L3</p>
+<p>6J3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -129,7 +107,7 @@ thoughts and beliefs.</p>
 <p>Xu Jiayan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5L3</p>
+<p>6J3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
