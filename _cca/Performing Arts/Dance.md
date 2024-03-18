@@ -69,10 +69,10 @@ thoughts and beliefs.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Wong
-<br>Ms Janice Chuan
-<br>Ms Yu Danning
-<br>Ms Cheong Shi Min</p>
+<p>Ms Ivy Wong (P2/P6)</p>
+<p>Ms Khadijah (P3)</p>
+<p>Ms Cheong Shi Min (P4)</p>
+<p>Ms Janice Chuan (P5)</p>
 </td>
 </tr>
 </tbody>
