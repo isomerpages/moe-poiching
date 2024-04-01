@@ -16,4 +16,16 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1xulme6cX52_JnkDrBKduQhyQAeFGiDMH/view?usp=sharing
       background: /images/front cover.png
+  - infobar:
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: 13th National Schools Chinese Calligraphy Competition
+      id: infopic
+      description: Rules & Regulations
+      button: Click Here
+      url: /files/Rules___Regulations_13th_National_Schools_On_The_Spot_Chinese_Calligraphy_Competition
+      image: /images/MOTD_13th_Chinese_Calligraphyv2.png
+      alt: Image alt text
 ---
