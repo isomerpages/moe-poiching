@@ -35,7 +35,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="https://www.poiching.moe.edu.sg/announcements/leave-of-absence-application-form/" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a>
+<p><a href="https://form.gov.sg/60c02950effdaf0011c8f245" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence application form</a>
 </p>
 </li>
 <li>
