@@ -1,11 +1,9 @@
 ---
 title: Principal's Message 校长献词
-permalink: /about-us/pricipals-message/
+permalink: /about-us/principal-message/
 description: ""
 variant: markdown
 ---
-        
-
 **构建自主学习者的课堂**
 
 尊敬的家长们：
