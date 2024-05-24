@@ -11,14 +11,19 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h3><strong>第十三届全国中小学生现场书法比赛得奖名单</strong></h3>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/IMG_2919.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_2919.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/IMG_2924.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_2924.jpg">
 </div>
 <p></p>
 </th>
