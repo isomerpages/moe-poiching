@@ -16,4 +16,13 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1xulme6cX52_JnkDrBKduQhyQAeFGiDMH/view?usp=sharing
       background: /images/front cover.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 第十三届全国中小学生现场书法比赛
+          date: 24 May 2024
+          announcement: 第十三届全国中小学生现场书法比赛得奖名单
+          link_text: 点此查看得奖名单
+          link_url: /national-caligraphy-competition-2024/
 ---
