@@ -2,6 +2,7 @@
 title: Alumni 校友
 permalink: /our-family/alumni/
 description: ""
+variant: markdown
 ---
 ### About Us
 
@@ -60,10 +61,10 @@ The Poi Ching School Alumni Association was formed on 16th June 1998.
 2009 : Joyce Tham <br>
 2010 to current: Yong Ming Fung
 
-### EXCO (2018)
+### EXCO (2024)
 
-President: Charlene Tan Shin Jee  <br>
-Secretary: Jean Tee Lin Ju  <br>
+President: Ong Luyi Kendra  <br>
+Secretary: Chun Jhian Wai Lucus  <br>
 Treasurer: Jeanette Huang
 
 Ordinary Members:
@@ -72,7 +73,6 @@ Ordinary Members:
 *   Neo Shi Yong Shawn
 *   Lew Poh Siang Clarence
 *   Kho Xiao Fen
-*   Ong Luyi Kendra
 *   Catherine Teo Soo Ling
 *   Goh June Ping Jerlyn
 
