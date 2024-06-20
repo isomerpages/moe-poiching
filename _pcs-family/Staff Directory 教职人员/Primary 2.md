@@ -58,8 +58,8 @@ variant: markdown
     <td>farah_shauna_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Yu Danning</td>
-    <td>yu_danning@moe.edu.sg</td>
+    <td>Mdm Priscilla Wong</td>
+    <td>Wong_Pei_Xin_Priscilla@moe.edu.sg</td>
   </tr>
   <tr>
 		<td rowspan="2">2S6</td>
@@ -72,8 +72,8 @@ variant: markdown
   </tr>
     <tr>
 		<td rowspan="2">2S7</td>
-    <td>Ms Lau Ee Shan</td>
-    <td>lau_ee_shan@moe.edu.sg
+    <td>Mdm Elmizah</td>
+    <td>nur_elmizah_mhd_yassin@moe.edu.sg
   </td></tr>
   <tr>
     <td>Mdm Li Jing</td>
