@@ -8,8 +8,8 @@ variant: tiptap
 <h3>SCHOOL SERVICE PROVIDERS</h3>
 <p><strong>School-Based Student Care Centre</strong>
 <br><strong>Ace @ Work Studentcare Pte Ltd</strong>
-<br>Tel: 6899 8622
-<br>Email:&nbsp;<a href="feedbackpcs@aceatwork.com.sg" rel="noopener noreferrer nofollow" target="_blank">feedbackpcs@aceatwork.com.sg</a> 
+<br>Tel: 6988 6452
+<br>Email:&nbsp;<a href="mailto:acepoiching@gmail.com" rel="noopener noreferrer nofollow" target="_blank">acepoiching@gmail.com</a>
 <br>URL:&nbsp; <a href="https://www.aceatwork.com.sg/ace529067" rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace529067</a>
 </p>
 <p><strong>Bookshop</strong>
