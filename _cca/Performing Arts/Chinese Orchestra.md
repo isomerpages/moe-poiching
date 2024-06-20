@@ -91,49 +91,6 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </tr>
 </tbody>
 </table>
-<h3>CCA Leaders</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Accolades</h3>
 <p>SYF 2024 - <strong>Certificate of Accomplishmen</strong>
 <br>SYF 2018 – <strong>Gold</strong>
