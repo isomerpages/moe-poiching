@@ -13,7 +13,12 @@ thoughts and beliefs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ch%20dance%20CNY%203.jpg">
 </div>
 <h3>Training Schedules</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,7 +57,11 @@ thoughts and beliefs.</p>
 </table>
 <p><strong>Venue:</strong> Dance Room / PAL Room</p>
 <h3>CCA Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,7 +87,12 @@ thoughts and beliefs.</p>
 </tbody>
 </table>
 <h3>CCA Leaders</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -116,6 +130,17 @@ thoughts and beliefs.</p>
 </tbody>
 </table>
 <h3>Accolades</h3>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF (Chinese Dance) – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF (International Dance) – Certificate of Distinction</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2018</strong>
 </p>
 <ul data-tight="true" class="tight">
