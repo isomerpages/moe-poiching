@@ -31,4 +31,4 @@ For more information on the Primary One Registration Exercise, please refer to t
 
 **Does PCS have a waitlist?**
 
-There is high demand for places at Poi Ching School and waitlists do exist. For information on the availability of places, please submit this [form](https://form.gov.sg/#!/5d43ad992779fc00128970a1) and the school will contact you should there be a vacancy available for your child.
+There is high demand for places at Poi Ching School and waitlists do exist. For information on the availability of places, please submit this [form](https://form.gov.sg/6555725ea1e3710012a31498) and the school will contact you should there be a vacancy available for your child.
