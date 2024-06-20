@@ -13,7 +13,12 @@ development in their quest for music-making and joy for learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co%20main.jpg">
 </div>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +60,11 @@ development in their quest for music-making and joy for learning.</p>
 <p><strong>Venue:</strong> Chinese Orchestra Room/ Art Room 1/ 3M1 to 3M6
 Classrooms/ 4P1 to 4P3 Classrooms</p>
 <h3>CCA Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,45 +91,9 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </tr>
 </tbody>
 </table>
-<h3>CCA Leaders</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Accolades</h3>
-<p>SYF 2018 – Gold</p>
-<p>SYF 2016 – Gold</p>
-<p>SYF 2014 – Silver</p>
+<p>SYF 2024 - <strong>Certificate of Accomplishmen</strong>
+<br>SYF 2018 – <strong>Gold</strong>
+<br>SYF 2016 – <strong>Gold</strong>
+<br>SYF 2014 – <strong>Silver</strong>
+</p>

@@ -18,8 +18,8 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="2">5L1</td>
-    <td>Mr Adam Yeo</td>
-    <td>yeo_kok_how@moe.edu.sg </td>
+    <td>Mdm Tee Li Ping</td>
+    <td>tee_li_ping@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Ms Scarlett Un </td>
@@ -36,8 +36,8 @@ variant: markdown
   </tr>
   <tr>
     <td rowspan="2">5L3</td>
-    <td>Mdm Saadah </td>
-    <td>saadah_abdul_samad@moe.edu.sg </td>
+  <td>Mr Adam Yeo</td>
+    <td>yeo_kok_how@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Mr Victor Ho</td>

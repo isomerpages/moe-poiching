@@ -12,7 +12,12 @@ to work together in a team and have continuous exposure in music-making.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bandcover2.jpg">
 </div>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,7 +58,11 @@ to work together in a team and have continuous exposure in music-making.</p>
 </table>
 <p><strong>Venue:</strong> Band Room or Music Room 1</p>
 <h3>CCA Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,45 +87,8 @@ to work together in a team and have continuous exposure in music-making.</p>
 </tr>
 </tbody>
 </table>
-<h3>CCA Leaders</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Band Major</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Asst Band Major</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Accolades</h3>
+<p>SYF 2024 - Certificate of Accomplishment</p>
 <p>SYF 2022 - Performance (participation without benchmark)</p>
 <p>SYF 2018 – Certificate of Distinction</p>
 <p>SYF 2016 – Certificate of Accomplishment</p>
