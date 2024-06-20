@@ -3,74 +3,160 @@ title: Primary 3
 permalink: /our-family/Staff-Directory/primary-3/
 description: ""
 third_nav_title: Staff Directory 教职人员
-variant: markdown
+variant: tiptap
 ---
-#### 2024
-
-<table>
-<thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-    <th>Email</th>
-  </tr>
-</thead>
+<h4>2024</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td rowspan="2">3M1</td>
-    <td>Ms Nur Amira</td>
-    <td>nur_amira_syahidah_mazlan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Zhang Shuying</td>
-    <td>zhang_shuying@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3M2</td>
-    <td>Mdm Radiah</td>
-    <td>radiah_mohamed@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Ng Theng Hian</td>
-    <td>ng_theng_hian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3M3</td>
-    <td>Ms Liana</td>
-    <td>liana_aziz@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Eugene Chin</td>
-    <td>eugene_chin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3M4</td>
-    <td>Mr Marcus Choy </td>
-    <td>marcus_choy_zheng_hoe@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Wendy Goh</td>
-    <td>goh_sze_lin_wendy@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3M5</td>
-    <td>Mrs Yan Lim </td>
-    <td>ong_yu_yan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Yu Wei</td>
-    <td>yu_wei_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3M6</td>
-    <td>Ms Nurul Amirah </td>
-    <td>nurul_amirah_amir@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Seow Chee How</td>
-    <td>seow_chee_how@moe.edu.sg@moe.edu.sg</td>
-		</tr>
-    <tr><td rowspan="2"></td>   
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_amira_syahidah_mazlan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Shuying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhang_shuying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Law Mei Fun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>law_mei_fun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Radiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>radiah_mohamed@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Theng Hian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_theng_hian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3M3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liana_aziz@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eugene Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eugene_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3M4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marcus_choy_zheng_hoe@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_sze_lin_wendy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3M5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_yu_yan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yu Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yu_wei_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3M6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Amirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_amirah_amir@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seow Chee How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seow_chee_how@moe.edu.sg@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
