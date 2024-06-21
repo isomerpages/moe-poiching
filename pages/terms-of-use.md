@@ -3,24 +3,23 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
-<h2><strong>Terms of Use</strong></h2>
 <p>Thank you for visiting Poi Ching School. By accessing and using this website,
 you shall be deemed to have accepted to be legally bound by these Terms
 of Use. If you disagree to these Terms of Use, please do not use this website.</p>
-<h4><strong>General </strong></h4>
+<h4><strong>General</strong></h4>
 <p>1. These Terms of Use may be changed from time to time. Changes will be
 posted on this page and your use of this website after such changes have
 been posted will constitute your agreement to the modified Terms of Use
 and all of the changes.</p>
-<h4><strong>Proprietary Rights </strong></h4>
+<h4><strong>Proprietary Rights</strong></h4>
 <p>2. This website is maintained and owned by Poi Ching School.</p>
 <p>3. The materials located on this website including the information and
 software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Poi Ching School.</p>
-<h4><strong>Privacy Policy </strong></h4>
+<h4><strong>Privacy Policy</strong></h4>
 <p>4. Click here to review this website Privacy Statement.</p>
-<h4><strong>Restrictions on Use of Materials </strong></h4>
+<h4><strong>Restrictions on Use of Materials</strong></h4>
 <p>5. Except as otherwise provided, the Contents of this website shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
 distributed in any way, without the prior written permission of Poi Ching
@@ -34,12 +33,12 @@ other purpose will be a violation of Poi Ching School’s copyright and other
 intellectual property rights. Graphics and images on this website are protected
 by copyright and may not be reproduced or appropriated in any manner without
 written permission of Poi Ching School.</p>
-<h4><strong>Right of Access </strong></h4>
+<h4><strong>Right of Access</strong></h4>
 <p>7. Poi Ching School reserves all rights to deny or restrict access to
 this website to any particular person, or to block access from a particular
 external address to this website, at any time, without ascribing any reasons
 whatsoever.</p>
-<h4><strong>Disclaimer of Warranties and Liability </strong></h4>
+<h4><strong>Disclaimer of Warranties and Liability</strong></h4>
 <p>8. The Contents of this website are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Poi Ching
 School does not warrant and hereby disclaims any warranty:</p>
@@ -54,7 +53,7 @@ of all viruses and/or other harmful elements.</p>
 any kind caused as a result (direct or indirect) of the use of the website,
 including but not limited to any damage or loss suffered as a result of
 reliance on the Contents contained in or available from the website.</p>
-<h4><strong>Links from This website to Other websites </strong></h4>
+<h4><strong>Links from This website to Other websites</strong></h4>
 <p>10. This website contains hyperlinks to websites which are not maintained
 Poi Ching School. Poi Ching School is not responsible for the contents
 of those websites and shall not be liable for any damages or loss arising
@@ -64,7 +63,7 @@ websites are entirely at your own risk.</p>
 circumstances shall Poi Ching School be considered to be associated or
 affiliated with any trade or service marks, logos, insignia or other devices
 used or appearing on websites to which this website is linked.</p>
-<h4><strong>Links to This website from Other websites </strong></h4>
+<h4><strong>Links to This website from Other websites</strong></h4>
 <p>12. Except as set forth below, caching and links to, and the framing of
 this website or any of the Contents are prohibited.</p>
 <p>13. You must secure permission from Poi Ching School prior to hyperlinking
@@ -89,7 +88,7 @@ property, proprietary, privacy or publicity rights.</p>
 <p>17. Poi Ching School reserves the right to disable any unauthorised links
 or frames and disclaims any responsibility for the content available on
 any other site reached by links to or from this website or any of the Contents.</p>
-<h4><strong>Governing Law </strong></h4>
+<h4><strong>Governing Law</strong></h4>
 <p>18. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
 <p></p>
