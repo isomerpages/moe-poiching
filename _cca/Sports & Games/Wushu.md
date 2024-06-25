@@ -10,8 +10,13 @@ during the training, focusing on values like resilience, loyalty, respect
 and excellence. We aim to develop our students to be disciplined, humble
 and always striving for the best they can do.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WuShu/Wushu_CCA_Website_Update_2024_Page_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu%20cover.jpg">
 </div>
+<p></p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
