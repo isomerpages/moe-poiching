@@ -33,6 +33,13 @@ to school.</p>
 Libby网站查看更多电子书推荐。</p>
 <p></p>
 <h3>Accolades</h3>
+<h3><strong>2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_25_084923.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023______Page_1.jpg">
 </div>
