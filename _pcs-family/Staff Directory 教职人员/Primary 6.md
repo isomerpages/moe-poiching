@@ -120,7 +120,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6J6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,6 +144,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_ee_shan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jelena Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_qiu_mei_jelena@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
