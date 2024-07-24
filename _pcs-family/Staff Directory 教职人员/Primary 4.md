@@ -3,74 +3,152 @@ title: Primary 4
 permalink: /our-family/Staff-Directory/primary-4/
 description: ""
 third_nav_title: Staff Directory 教职人员
-variant: markdown
+variant: tiptap
 ---
-#### 2024
-
-<table>
-<thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-    <th>Email</th>
-  </tr>
-</thead>
+<h4>2024</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td rowspan="2">4P1</td>
-    <td>Mrs Rachel Neo</td>
-    <td>tan_ching_ling_rachel@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Khoo Wee Wee</td>
-    <td>khoo_wee_wee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4P2</td>
-    <td>Mr Firdaus</td>
-    <td>mohammed_firdaus_salim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Marwati</td>
-    <td>marwati_kamarudin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4P3</td>
-    <td>Mrs Melissa Gomes</td>
-    <td>melissa_hoeden@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Ra'idah</td>
-    <td>raidah_rahmat@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4P4</td>
-    <td>Mdm Amalina </td>
-    <td>amalina_juhari@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mrs Lee Kheng Leng</td>
-    <td>yap_kheng_leng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4P5</td>
-    <td>Mdm Fazila </td>
-    <td>fazila_banu_dhadha_hussain@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Joanna Tan</td>
-    <td>tan_phaedra_joanna@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4P6</td>
-    <td>Mr Jason Lim </td>
-    <td>lim_teck_heen_jason@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Aishah</td>
-    <td>nur_aishah@moe.edu.sg</td>
-		</tr>
-    <tr><td rowspan="2"></td>   
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rachel Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ching_ling_rachel@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Wee Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khoo_wee_wee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Firdaus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammed_firdaus_salim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Marwati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marwati_kamarudin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Gomes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>melissa_hoeden@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ra'idah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>raidah_rahmat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amalina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amalina_juhari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Kheng Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_kheng_leng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fazila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fazila_banu_dhadha_hussain@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joanna Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_phaedra_joanna@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_teck_heen_jason@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Aishah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_aishah@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
