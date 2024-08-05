@@ -148,10 +148,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jelena Chua</p>
+<p>Ms Bahiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_qiu_mei_jelena@moe.edu.sg</p>
+<p>nurulbahiah_ishak@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
