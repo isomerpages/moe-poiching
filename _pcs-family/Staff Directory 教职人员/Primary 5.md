@@ -48,7 +48,7 @@ variant: tiptap
 <p>5L2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suseila</p>
+<p>Mdm Jelena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_qiu_mei_jelena@moe.edu.sg</p>
