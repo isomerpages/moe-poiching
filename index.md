@@ -12,9 +12,6 @@ sections:
         - title: Info Hub
           description: ""
           url: /links-and-resources/usefullinks/
-        - title: 103th Anniversary Celebration
-          description: ""
-          url: https://drive.google.com/file/d/1xulme6cX52_JnkDrBKduQhyQAeFGiDMH/view?usp=sharing
       background: /images/front cover.png
   - announcements:
       title: Announcements
