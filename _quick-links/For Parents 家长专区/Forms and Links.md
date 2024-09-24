@@ -18,11 +18,6 @@ third_nav_title: For Parents 家长专区
 </li>
 <li>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
-</p>
-</li>
-<li>
-<p><a href="https://poiching.moe.edu.sg/2024booklist/" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a> 
-<br>
 <br>
 </p>
 </li>
@@ -40,7 +35,6 @@ third_nav_title: For Parents 家长专区
 </li>
 <li>
 <p><a href="/files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Poi Ching School Parent Volunteer Scheme 2024</a> 
-<br>
 <br>
 </p>
 </li>
