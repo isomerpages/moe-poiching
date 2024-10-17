@@ -100,7 +100,7 @@ disciplined and passionate players.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Ho</p>
+<p>Ms Scarlett Un</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ disciplined and passionate players.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_see_hoong_victor@moe.edu.sg</p>
+<p>un_yih_miin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
