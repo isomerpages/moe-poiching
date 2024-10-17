@@ -116,14 +116,6 @@ disciplined and passionate players.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Radiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Redzuan</p>
 </td>
 </tr>
@@ -140,7 +132,15 @@ disciplined and passionate players.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Choy</p>
+<p>Ms Hsu Tzu Chun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
