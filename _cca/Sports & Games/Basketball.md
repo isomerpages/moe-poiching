@@ -51,7 +51,7 @@ classes and levels.</p>
 <p>2.00 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 &amp; P4</p>
+<p>P3 - P4</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ classes and levels.</p>
 <p>3.30 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
+<p>P5 - P6</p>
 </td>
 </tr>
 <tr>
