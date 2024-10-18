@@ -39,7 +39,7 @@ with a passion for the great outdoors.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,9 +50,6 @@ with a passion for the great outdoors.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm to 5.00 pm</p>
 </td>
