@@ -75,7 +75,7 @@ Science concepts.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -84,10 +84,15 @@ Science concepts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tan Ching Ling Rachel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ching Ling Rachel</p>
+<p></p>
 </td>
 </tr>
 </tbody>
