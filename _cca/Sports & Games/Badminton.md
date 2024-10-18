@@ -31,7 +31,7 @@ disciplined and passionate players.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,9 +43,6 @@ disciplined and passionate players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +50,7 @@ disciplined and passionate players.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,9 +61,6 @@ disciplined and passionate players.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm to 5.00 pm</p>
 </td>
@@ -100,12 +94,13 @@ disciplined and passionate players.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Scarlett Un <a href="mailto:un_yih_miin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">un_yih_miin@moe.edu.sg</a>
+<p>Ms Scarlett Un
+<br><a href="mailto:un_yih_miin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">un_yih_miin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="3" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -114,16 +109,10 @@ disciplined and passionate players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Jason Lim</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Hsu Tzu Chun</p>
 </td>
