@@ -102,15 +102,8 @@ during their training as well as during competitions.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Theng Hian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_theng_hian@moe.edu.sg</p>
+<p>Mr Ng Theng Hian <a href="mailto:ng_theng_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_theng_hian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
