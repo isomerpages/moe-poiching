@@ -129,8 +129,7 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </tbody>
 </table>
 <h3>Accolades</h3>
-<p>SYF 2024 - <strong>Certificate of Accomplishment</strong>
-<br>SYF 2018 – <strong>Gold</strong>
-<br>SYF 2016 – <strong>Gold</strong>
-<br>SYF 2014 – <strong>Silver</strong>
-</p>
+<p>SYF 2024 - Certificate of Accomplishment
+<br>SYF 2018 – Gold
+<br>SYF 2016 – Gold
+<br>SYF 2014 – Silver</p>
