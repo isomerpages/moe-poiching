@@ -55,7 +55,7 @@ society at large.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong>Computer Labs</p>
+<p><strong>Venue: </strong>Computer Labs</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
