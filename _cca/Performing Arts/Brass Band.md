@@ -65,7 +65,7 @@ to work together in a team and have continuous exposure in music-making.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Band Room &amp; Music Room 1</p>
+<p><strong>Venue:</strong> Band Room/ Music Room 1</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
