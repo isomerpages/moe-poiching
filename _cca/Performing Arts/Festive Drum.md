@@ -54,7 +54,7 @@ history and immense cultural performance expressions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong>Music Room 1 &amp; 2</p>
+<p><strong>Venue: </strong>Music Room 1 &amp; 2</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -67,7 +67,9 @@ history and immense cultural performance expressions.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Liau Mei Ling liau_mei_ling@moe.edu.sg</p>
+<p>Mdm Liau Mei Ling
+<br><a href="mailto:liau_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liau_mei_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
