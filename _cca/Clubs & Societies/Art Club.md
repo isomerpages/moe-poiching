@@ -98,7 +98,6 @@ a variety of art making tools and art mediums.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Accolades</h3>
 <p><strong>SYF 2023</strong> 
 <br>
