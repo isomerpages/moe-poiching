@@ -127,7 +127,7 @@ and fulfillment in the sport.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Indoor Sports Hall Level 1 and 2</p>
+<p><strong>Venue:</strong> Indoor Sports Hall Level 1 &amp; 2</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -140,13 +140,17 @@ and fulfillment in the sport.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Kheng Leng <a href="mailto:yap_kheng_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kheng_leng@moe.edu.sg</a>
+<p>Mrs Lee Kheng Leng
+<br><a href="mailto:yap_kheng_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kheng_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Marwati</p>
@@ -154,24 +158,15 @@ and fulfillment in the sport.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nurul Amirah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tee Li Ping</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Ee Shan</p>
 </td>
@@ -182,6 +177,14 @@ and fulfillment in the sport.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adam Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
