@@ -115,7 +115,7 @@ and always striving for the best they can do.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MdmLoh Wai Yee</p>
+<p>Mdm Loh Wai Yee</p>
 </td>
 </tr>
 <tr>
@@ -126,90 +126,12 @@ and always striving for the best they can do.</p>
 <p>Mdm Li Jiele</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h3>CCA Leaders (Boys)</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Jia'an</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6J5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>James Chew An</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>CCA Leaders (Girls)</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Wai Zing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xie Xintong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p></p>
 </td>
 </tr>
 </tbody>
