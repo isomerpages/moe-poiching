@@ -53,9 +53,20 @@ thoughts and beliefs.</p>
 <p>P2 – P6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Dance Room / PAL Room</p>
+<p><strong>Venue:</strong> Dance Room &amp; PAL Room</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
