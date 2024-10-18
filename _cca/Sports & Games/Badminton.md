@@ -100,15 +100,8 @@ disciplined and passionate players.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Scarlett Un</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>un_yih_miin@moe.edu.sg</p>
+<p>Ms Scarlett Un <a href="mailto:un_yih_miin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">un_yih_miin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
