@@ -58,14 +58,15 @@ and always striving for the best they can do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday (Semester 2)</strong>
+<p><strong>Friday </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 pm to 3.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 (selected pupils)
+<p>P2 (Semester 2)
+<br><em>* selected pupils</em>
 <br>
 </p>
 </td>
