@@ -3,55 +3,102 @@ title: Brownies
 permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-In Brownies CCA, all girls are valued and take action to change the world. Through this CCA, we aim to enable girls and young women to develop their fullest potential as responsible citizens of the world.
-
-![](/images/brownies%207.jpg)
-
-### Training Schedule
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid black;">Day</th>
-      <th style="border: 1px solid black;">Time</th>
-      <th style="border: 1px solid black;">Level</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td style="border: 1px solid black;">Thursday</td>
-      <td style="border: 1px solid black;">2.00 pm to 4.00 pm</td>
-      <td style="border: 1px solid black;">P3 - P6</td>
-    </tr>
-  </tbody>
+<p>In Brownies CCA, all girls are valued and take action to change the world.
+Through this CCA, we aim to enable girls and young women to develop their
+fullest potential as responsible citizens of the world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies%207.jpg">
+</div>
+<h3>Training Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 4.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
-
-**Venue:**
-Hall of Wellness
-
-### CCA Teachers
-
-<table style="border-collapse: collapse; border: 1px solid black;">
-  <tbody>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Overall Teacher-in-charge
-      </th><td style="border: none;">Mdm Suhaini</td>
-		 </tr>
-    <tr>
-      <td style="border-bottom: 1px solid black; border-right: 1px solid black"></td>
-      <td style="border-bottom: 1px solid black;">suhaini_tohid@moe.edu.sg </td>
-    </tr>
-    <tr>
-      <th style="border: none; border-right: 1px solid black">Teacher-in-charge
-      </th><td style="border: none;">Mdm Yuhana</td>
-    </tr>
-    </tbody>
+<p><strong>Venue: </strong>Hall of Wellness</p>
+<h3>CCA Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Overall Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Suhaini <a href="mailto:suhaini_tohid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaini_tohid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Yuhana</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
-
-### Accolades
-
-**Girl Guides Singapore East Division Day 2021** <br>
-
-* Comic Strip Competition - Gold
-* Patch Design Competition - Silver
+<h3>Accolades</h3>
+<p><strong>Girl Guides Singapore East Division Day 2021</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Comic Strip Competition - Gold</p>
+</li>
+<li>
+<p>Patch Design Competition - Silver</p>
+</li>
+</ul>
+<p></p>
