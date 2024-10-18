@@ -39,7 +39,7 @@ and fulfillment in the sport.</p>
 <td rowspan="4" colspan="1">
 <p>Tuesday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,9 +47,6 @@ and fulfillment in the sport.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
 </td>
@@ -71,17 +68,15 @@ and fulfillment in the sport.</p>
 <td rowspan="4" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2:00 pm to 4:00 pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 (Semester 2)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2:00 pm to 4:00 pm</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
 </td>
