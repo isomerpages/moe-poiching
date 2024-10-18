@@ -44,7 +44,7 @@ classes and levels.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,9 +55,6 @@ classes and levels.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>3.30 pm to 5.00 pm</p>
 </td>
@@ -91,19 +88,13 @@ classes and levels.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Qian Yan</p>
+<p>Ms Qian Yan
+<br><a href="mailto:qian_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qian_yan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>qian_yan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -112,10 +103,15 @@ classes and levels.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Khairul Annuar</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
