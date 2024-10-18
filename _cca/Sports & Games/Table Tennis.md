@@ -33,7 +33,7 @@ during their training as well as during competitions.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,9 +45,6 @@ during their training as well as during competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.00 pm to 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +52,7 @@ during their training as well as during competitions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,9 +63,6 @@ during their training as well as during competitions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm to 5.00 pm</p>
 </td>
@@ -102,12 +96,13 @@ during their training as well as during competitions.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Theng Hian <a href="mailto:ng_theng_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_theng_hian@moe.edu.sg</a>
+<p>Mr Ng Theng Hian
+<br><a href="mailto:ng_theng_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_theng_hian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -115,9 +110,6 @@ during their training as well as during competitions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Elmizah</p>
 </td>
