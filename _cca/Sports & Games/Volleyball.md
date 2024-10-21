@@ -26,13 +26,16 @@ and fulfillment in the sport.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +140,8 @@ and fulfillment in the sport.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overall Teacher-in-charge</p>
+<p><strong>Overall Teacher-in-charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lee Kheng Leng
@@ -147,10 +151,14 @@ and fulfillment in the sport.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Teachers-in-charge</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Teachers-in-charge</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Marwati</p>
@@ -173,7 +181,8 @@ and fulfillment in the sport.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Advisor</p>
+<p><strong>Advisor</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adam Yeo</p>
