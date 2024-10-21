@@ -11,7 +11,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calligraphy%20cover.jpg">
 </div>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,11 +40,26 @@ variant: tiptap
 <p>P3 - P6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Venue:</strong> CL Modular Room</p>
 <h3>CCA Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,58 +73,26 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Teacher-in-charge</p>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Jiele</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Training Schedule</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhang Junxin Louis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5L5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Main Leader</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aik Yong Ni Jolies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Leader</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h3>Accolades</h3>
 <p><strong>2023</strong>
 </p>
 <p><strong>National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -133,7 +121,12 @@ variant: tiptap
 <p><strong>Ngee Ann National Students' Calligraphy Competition organised by Ngee Ann Cultural Centre (NACC), a subsidy of the Ngee Ann Kongsi</strong>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -163,7 +156,12 @@ variant: tiptap
 </p>
 <p><strong>10th National Chinese Calligraphy Competition organised by Futsing Association and Poi Ching School</strong> 第十届全国中、小学书法比赛《翰墨逸香迎国庆》
 培青学校与福清会馆联办</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -213,7 +211,12 @@ variant: tiptap
 </table>
 <p><strong>32nd National Schools Chinese Calligraphy Competition (第三十二届全国学生书法比赛) organized by the Chinese Calligraphy Society of Singapore&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -241,7 +244,12 @@ variant: tiptap
 </table>
 <p><strong>N Cube National Chinese Calligraphy Competition 2021 (Inkception) (第一届 N 立方全国书法大赛元墨启行)</strong>
 <br>Hosted by N Cube National Chinese Calligraphy Competition (NCCC) Committee</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -270,7 +278,12 @@ variant: tiptap
 <p><strong>National Chinese Calligraphy Competition organised by Hong Wen School and Hong Wen Alumni</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

@@ -58,14 +58,28 @@ and always striving for the best they can do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday (Term 3 &amp; Term 4)</strong>
+<p><strong>Friday </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 pm to 3.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 (selected pupils)</p>
+<p>P2 (Semester 2)
+<br><em>* selected pupils</em>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -83,19 +97,13 @@ and always striving for the best they can do.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Dave Yang</p>
+<p>Mr Dave Yang
+<br><a href="mailto:yang_kin_ngian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_kin_ngian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yang_kin_ngian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
+<th rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -104,112 +112,25 @@ and always striving for the best they can do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Liang Hongbing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MdmLoh Wai Yee</p>
+<p>Mdm Loh Wai Yee</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Jiele</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h3>CCA Leaders (Boys)</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Jia'an</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6J5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>James Chew An</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>CCA Leaders (Girls)</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Wai Zing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xie Xintong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p></p>
 </td>
 </tr>
 </tbody>

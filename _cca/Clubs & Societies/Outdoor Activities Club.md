@@ -20,7 +20,12 @@ with a passion for the great outdoors.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC2.jpg">
 </div>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -34,7 +39,7 @@ with a passion for the great outdoors.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,20 +51,32 @@ with a passion for the great outdoors.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning Journey / External Training</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Venue:</strong> Rockwall &amp; 3M1 Classroom</p>
 <h3>CCA Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,11 +89,16 @@ with a passion for the great outdoors.
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraishah</p>
+<p>Mdm Amalina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Choy</p>
 </td>
 </tr>
 <tr>
@@ -84,56 +106,7 @@ with a passion for the great outdoors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Choy</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>CCA Leaders</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jade Lee Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chen Minrui Joelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheah Wei Kai Lucas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6J6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p></p>
 </td>
 </tr>
 </tbody>

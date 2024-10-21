@@ -38,8 +38,7 @@ to work together in a team and have continuous exposure in music-making.</p>
 <p>2.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 3 to Primary 6 ( Semester 1)
-<br>Primary 3 to Primary 5 ( Semester 2)</p>
+<p>P3 - P6</p>
 </td>
 </tr>
 <tr>
@@ -50,13 +49,23 @@ to work together in a team and have continuous exposure in music-making.</p>
 <p>2.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 3 to Primary 6 ( Semester 1)
-<br>Primary 3 to Primary 5 ( Semester 2)</p>
+<p>P3 - P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Band Room or Music Room 1</p>
+<p><strong>Venue:</strong> Band Room/ Music Room 1</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -75,14 +84,34 @@ to work together in a team and have continuous exposure in music-making.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Huda
-<br>Mdm Susiela
-<br>Ms Cheong Shi Min
-<br>Ms Cassandra Tan</p>
+<p>Ms Huda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cassandra Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Agnes Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Farah</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

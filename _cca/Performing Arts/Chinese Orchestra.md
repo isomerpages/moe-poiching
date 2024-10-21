@@ -32,27 +32,46 @@ development in their quest for music-making and joy for learning.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 4 to Primary 6 ( Semester 1)
-<br>Primary 3 to Primary 5 ( Semester 2)</p>
+<p>P4 - P6 (Semester 1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3 - P5 (Semester 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 3 to Primary 6 ( Semester 1)
-<br>Primary 2 to Primary 5 ( Semester 2)</p>
+<p>P3 - P6 (Semester 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 - P5 (Semester 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -77,23 +96,40 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Zheng
-<br>Ms Evelyn Leow
-<br>Ms Lee Suk Fun
-<br>Mdm Yu Danning
-<br>Mdm Zhang Shuying
-<br>Ji Xiaoyi (Semster 2)</p>
+<p>Mr Vincent Zheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Evelyn Leow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ji Xiaoyi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Suk Fun</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Accolades</h3>
-<p>SYF 2024 - <strong>Certificate of Accomplishmen</strong>
-<br>SYF 2018 – <strong>Gold</strong>
-<br>SYF 2016 – <strong>Gold</strong>
-<br>SYF 2014 – <strong>Silver</strong>
-</p>
+<p>SYF 2024 - Certificate of Accomplishment</p>
+<p>SYF 2018 – Gold</p>
+<p>SYF 2016 – Gold</p>
+<p>SYF 2014 – Silver</p>
