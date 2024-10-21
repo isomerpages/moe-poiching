@@ -21,13 +21,16 @@ to work together in a team and have continuous exposure in music-making.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 </tr>
 <tr>
