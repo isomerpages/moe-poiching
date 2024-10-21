@@ -69,7 +69,8 @@ fullest potential as responsible citizens of the world.</p>
 <p>Overall Teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaini <a href="mailto:suhaini_tohid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaini_tohid@moe.edu.sg</a>
+<p>Mdm Suhaini
+<br><a href="mailto:suhaini_tohid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaini_tohid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,7 +93,7 @@ fullest potential as responsible citizens of the world.</p>
 </tbody>
 </table>
 <h3>Accolades</h3>
-<p><strong>Girl Guides Singapore East Division Day 2024</strong> 
+<p><strong>Girl Guides Singapore East Division Day 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
