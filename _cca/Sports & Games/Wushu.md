@@ -38,8 +38,7 @@ and always striving for the best they can do.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Monday &amp; Thursday</strong>
-</p>
+<p>Monday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 pm to 3.45 pm</p>
@@ -58,8 +57,7 @@ and always striving for the best they can do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday </strong>
-</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 pm to 3.45 pm</p>
