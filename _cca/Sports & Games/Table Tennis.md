@@ -106,7 +106,7 @@ during their training as well as during competitions.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mrs Pokhel</p>
+<p>Mrs Pokhrel</p>
 </td>
 </tr>
 <tr>
