@@ -9,6 +9,10 @@ variant: tiptap
 but we also aim to install values and character. As basketball is a team
 sport, teamwork is also promoted amongst pupils who come from different
 classes and levels.</p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Picture_1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball.jpg">
 </div>
