@@ -63,21 +63,10 @@ development in their quest for music-making and joy for learning.</p>
 <p>P2 - P5 (Semester 2)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Chinese Orchestra Room/ Art Room 1/ 3M1 to 3M6
-Classrooms/ 4P1 to 4P3 Classrooms</p>
+<p><strong>Venue:</strong> Chinese Orchestra Room / Art Gallery / 2S1 to 2S8
+Classrooms</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -110,7 +99,7 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ji Xiaoyi</p>
+<p>Mdm Ji Xiaoyi</p>
 </td>
 </tr>
 <tr>
@@ -118,18 +107,12 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 <p>Ms Lee Suk Fun</p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Accolades</h3>
-<p>SYF 2024 - Certificate of Accomplishment</p>
-<p>SYF 2018 – Gold</p>
-<p>SYF 2016 – Gold</p>
-<p>SYF 2014 – Silver</p>
+<p>SYF 2024 -&nbsp;<strong>Certificate of Accomplishment</strong>
+<br>SYF 2022 - <strong>Performance (participation without benchmark)</strong>
+<br>SYF 2018 –&nbsp;<strong>Gold</strong>
+<br>SYF 2016 –&nbsp;<strong>Gold</strong>
+<br>SYF 2014 –&nbsp;<strong>Silver</strong>
+</p>
