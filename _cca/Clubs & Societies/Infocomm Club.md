@@ -91,7 +91,73 @@ society at large.</p>
 </tr>
 </tbody>
 </table>
+<h3>CCA Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JAYDEN ONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6J6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAN JIA YIN MELODY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6J2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Chairman</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Accolades</h3>
+<p><strong>HCIC Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jayden Ong / 6J6: Platinum Award</p>
+</li>
+</ul>
+<p><strong>NPGCC 2024 (NATIONAL PRIMARY SCHOOL GAMES AND CODING COMPETITION）</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participated</p>
+</li>
+</ul>
 <p><strong>4th&nbsp;National Coding Competition (2018)</strong>
 </p>
 <ul data-tight="true" class="tight">
