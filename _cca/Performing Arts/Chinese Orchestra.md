@@ -9,9 +9,63 @@ variant: tiptap
 and interest in Chinese Orchestra music in our Poi Ching pupils. Through
 CO, our pupils learn the values of mutual respect, team work and character
 development in their quest for music-making and joy for learning.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_02_at_1_43_06_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240502_121812.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/20240502_121802.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co%20main.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poi_Ching_School_Z62_6448.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poi_Ching_School_Z62_6455.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poi_Ching_School_Z62_6462.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poi_Ching_School_Z62_6532.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poi_Ching_School_Z62_6475.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -63,21 +117,10 @@ development in their quest for music-making and joy for learning.</p>
 <p>P2 - P5 (Semester 2)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Chinese Orchestra Room/ Art Room 1/ 3M1 to 3M6
-Classrooms/ 4P1 to 4P3 Classrooms</p>
+<p><strong>Venue:</strong> Chinese Orchestra Room / Art Gallery / 2S1 to 2S8
+Classrooms</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -110,7 +153,7 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ji Xiaoyi</p>
+<p>Mdm Ji Xiaoyi</p>
 </td>
 </tr>
 <tr>
@@ -118,18 +161,13 @@ Classrooms/ 4P1 to 4P3 Classrooms</p>
 <p>Ms Lee Suk Fun</p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Accolades</h3>
-<p>SYF 2024 - Certificate of Accomplishment</p>
-<p>SYF 2018 – Gold</p>
-<p>SYF 2016 – Gold</p>
-<p>SYF 2014 – Silver</p>
+<p>SYF 2024 -&nbsp;<strong>Certificate of Accomplishment</strong>
+<br>SYF 2022 - <strong>Performance (participation without benchmark)</strong>
+<br>SYF 2018 –&nbsp;<strong>Gold</strong>
+<br>SYF 2016 –&nbsp;<strong>Gold</strong>
+<br>SYF 2014 –&nbsp;<strong>Silver</strong>
+</p>
+<p></p>

@@ -16,6 +16,14 @@ and fulfillment in the sport.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volley%20cover.PNG">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5525.jpg">
+</div>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5614__002_.jpg">
+</div>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -59,12 +67,12 @@ and fulfillment in the sport.</p>
 <p>3:00 pm to 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 (School Team)</p>
+<p>P5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 - P6</p>
+<p>P6 (Semester 1)</p>
 </td>
 </tr>
 <tr>
@@ -85,19 +93,16 @@ and fulfillment in the sport.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2:00 pm to 4:30 pm</p>
+<td rowspan="2" colspan="1">
+<p>3:00 pm to 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 (School Team)</p>
+<p>P5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00 pm to 5:30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 - P6</p>
+<p>P6 (Semester 1)</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +119,7 @@ and fulfillment in the sport.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 (Semester 2)</p>
+<p>P2</p>
 </td>
 </tr>
 <tr>
@@ -200,15 +205,21 @@ and fulfillment in the sport.</p>
 </table>
 <p></p>
 <h3>Accolades</h3>
+<p><strong>2024 Senior Division</strong> 
+<br>Senior Boys: Tier 3 - 2nd runner-up
+<br>Senior Girls: Tier 2 - Champion</p>
+<p></p>
+<p><strong>2024 Junior Division</strong> 
+<br>Junior Girls: Tier 1 - 1sr runner-up</p>
+<p></p>
 <p><strong>2023 Senior Division</strong> 
-<br>
 <br>Senior Boys: Tier 2 - 1st
 <br>Senior Girls: Tier 1 - 3rd</p>
+<p></p>
 <p><strong>2023 Junior Division</strong> 
-<br>
 <br>Junior Boys: Tier 1 - 5th
 <br>Junior Girls: Tier 1 - 4th</p>
+<p></p>
 <p><strong>2022 Junior Division</strong> 
-<br>
 <br>Junior Boys: Tier 2 - 2nd
 <br>Junior Girls: Tier 2 - 1st</p>
