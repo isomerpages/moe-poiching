@@ -12,7 +12,7 @@ classes and levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball.jpg">
 </div>
-<h3>Training Schedule</h3>
+<h3>Training Schedule for 2025</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -33,14 +33,22 @@ classes and levels.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 4.30 pm</p>
+<p>2.00 pm to 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - P6</p>
+<p>P3 – P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00 pm to 4.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 – P6</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +59,7 @@ classes and levels.</p>
 <p>2.00 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - P4</p>
+<p>P3 – P4</p>
 </td>
 </tr>
 <tr>
@@ -59,18 +67,7 @@ classes and levels.</p>
 <p>3.30 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 - P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>P5 – P6</p>
 </td>
 </tr>
 </tbody>
@@ -98,20 +95,12 @@ classes and levels.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Bahiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Khairul Annuar</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Priscilla Wong</p>
 </td>
 </tr>
 </tbody>
