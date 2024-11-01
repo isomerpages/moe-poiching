@@ -9,11 +9,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Info Hub
-          description: ""
+        - title: School Info
+          description: Get in touch
           url: /links-and-resources/usefullinks/
+        - title: pupils
+          description: Access learning platforms
+          url: https://www.poiching.moe.edu.sg/quick-links/for-students/
+        - title: Parents
+          description: Find useful info
+          url: https://www.poiching.moe.edu.sg/quick-links/permalink/
       background: /images/front cover.png
-  - announcements:
-      title: Announcements
-      id: announcements
 ---
