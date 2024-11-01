@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: School Info
           description: Get in touch
-          url: /links-and-resources/usefullinks/
+          url: https://www.poiching.moe.edu.sg/contact-us/
         - title: pupils
           description: Access learning platforms
           url: https://www.poiching.moe.edu.sg/quick-links/for-students/
