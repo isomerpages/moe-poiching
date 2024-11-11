@@ -19,25 +19,57 @@ of Chinese Language and Chinese Culture.</p>
 <p>It is compulsory for all P1 students to take Chinese Language upon admission
 to school.</p>
 <p></p>
+<h4><strong>阅读活动</strong></h4>
+<p>-<strong>晨读</strong>：每周四和周五，学生阅读华文故事书，有时老师给学生播放绘本录像
+<br>-<strong>班级图书</strong>：每班的阅读角落都有华文故事书
+<br>-<strong>老师导读</strong>：每班一到两箱故事书，学生一人一本。这些书在各班轮转。
+<br>-<strong>听故事</strong>：休息时间，义工在图书馆给小一小二的学生讲故事
+<br>-<strong>借阅故事书</strong>：一年级老师在华文课上带学生去图书馆借阅故事书
+<br>-“<strong>世界书香日”</strong>：不同年级的学生在各班进行不同的阅读活动
+<br>-<strong>双语阅读护照：</strong>学生人手一册，记录所读的故事，完成阅读活动
+<br>-<strong>双语校刊《青苗》：</strong>《青苗》收集的是学生作品，学生每年都会拥有一本</p>
+<p></p>
+<h4><strong>游戏活动</strong></h4>
+<p>线上：同学们在SLS上参与活动
+<br>线下：同学们在休息时间去游戏角参加活动</p>
+<p></p>
+<h4><strong>校内外比赛</strong></h4>
+<p>-校内比赛：所有学生
+<br>-校外比赛：选拔一些同学</p>
+<h4>&nbsp;<strong>教学资源</strong></h4>
+<p>(1)教育部《欢乐伙伴》
+<br>-小一到小四：《欢乐伙伴》高华课本
+<br>-小五和小六
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 基华班：《欢乐伙伴》基华课本
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;普华班：《欢乐伙伴》普华课本
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高华班：《欢乐伙伴》高华课本</p>
+<p>(2) 教育部提供的SLS
+<br>(3) e知识：<a rel="noopener noreferrer nofollow" target="_blank">ezhishi.net</a>
+</p>
+<p></p>
 <h4><strong>教育部批准在小六会考（PSLE）中可以使用的字典</strong></h4>
 <p>LIST OF APPROVED DICTIONARIES FOR USE IN 2024 PSLE</p>
 <p>请点击此<a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=7f047200_10" rel="noopener noreferrer nofollow" target="_blank">链接</a>
+<br>
 </p>
-<p></p>
 <p><strong>华文阅读书单</strong>
+<br>六月假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。
+<br>
 </p>
-<p>六月假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。</p>
-<p>&nbsp;</p>
 <p>“假期阅读乐”是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。</p>
 <p>每个学校假期前，我们都会为学校推荐适合学生阅读的华文书籍。你只需打开<a href="/files/Book_Recommendation__CPCLL__Primary_Term_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF文件</a>，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书。他们也可以扫描或点击以下二维码登入
 Libby网站查看更多电子书推荐。</p>
 <p></p>
-<h3>Accolades</h3>
-<h3><strong>2024</strong></h3>
+<h3>Accolades<br><strong>2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024______Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024______Page_3.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_25_084923.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
