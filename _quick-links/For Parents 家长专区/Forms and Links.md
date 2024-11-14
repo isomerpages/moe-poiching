@@ -26,7 +26,7 @@ third_nav_title: For Parents 家长专区
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/6555725ea1e3710012a31498" rel="noopener noreferrer nofollow" target="_blank">Waiting List</a>
+<p><a href="https://form.gov.sg/673550f52196d3852439e91b" rel="noopener noreferrer nofollow" target="_blank">Waiting List 2025</a>
 </p>
 </li>
 <li>
