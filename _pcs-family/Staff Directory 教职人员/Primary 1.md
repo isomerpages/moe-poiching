@@ -309,10 +309,10 @@ variant: tiptap
 <p>1D6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Goh</p>
+<p>Mdm Wong Wenna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>joyce_teh_kiam_peng@moe.edu.sg</p>
+<p>wong_wenna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
