@@ -208,10 +208,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Rachel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_ching_ling_rachel@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
