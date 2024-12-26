@@ -3,120 +3,192 @@ title: Infocomm Technology 资讯通讯科技
 permalink: /le-folders/cognitive/infocomm/
 description: ""
 third_nav_title: Cognitive 智
+variant: tiptap
 ---
-### Vision
-
-_Every student a future-ready and responsible digital learner_
-
-### Mission
-
-_To equip students with baseline ICT skills and competencies in order to be effective and responsible digital users_
-
-_To cultivate a culture of innovation amongst staff to design quality ICT learning experiences_
-
-### Overview of ICT Education in Poi Ching School
-
-
-The school takes an integrated approach to the use of ICT for teaching and learning.&nbsp; Beyond the lessons specifically designed to teach digital literacy skills, IP and Non-IP departments strive to integrate the use of ICT into their curriculum.
-
-The table below lists the ICT baseline skills and competencies to be acquired at each level (2023):
-
-
-
-|Level | ICT Application/ Tool | Subject |
-| -------- | -------- | -------- |
-| P1    |  FLIP    | English    |
-| P2    |   FLIP   |  English   |
-| P3    |  SLS    | Social Studies    |
-|   |   SLS   | Math   |
-| P4   |  SLS    |  Social Studies   |
-|    |   FLIP   | English    |
-| P5    | Stop Motion Programme     | Art    |
-| P6    |  Code For Fun    |   -  |
-
-
-
-
-
-### Code for Fun Programme
-![](/images/ICT2020-05.jpg)
-
-During the Code for Fun programme, P6 students learnt the following:
-
-*   Computational Thinking and how it can be applied to other aspects of the students’ lives
-*   Basic programming concepts such as events, loops, variables and functions were taught to the students
-*   Develop logical thinking and problem-solving skills by breaking down problems into bite-sizes
-*   Promote collaboration through small group peer-learning. They also got a chance to work together to program a dance using their Sphero robotic kits!
-*   Students ended off the 10-hour session with an introduction to Artificial intelligence
-
-### ICT Mentors
-
-Our ICT Mentors lead in the use of ICT tools in their lessons and conduct professional sharing with other staff to cultivate the use of ICT in teaching and learning. 
-
-
-
-### PCS100 Coding Games
-
-As part of our school’s centennial celebrations, the Infocomm Technology Department proudly presents PCS100 Coding Games.
-
-Our P4 and P5 students developed their Digital Literacy by learning basic programming techniques and understanding of computational thinking through creation of animated games.&nbsp;
-
-**Click the games below to play!**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-531m{background-color:#FFF;color:#F1AE16;text-align:center;text-decoration:underline;vertical-align:middle}
-.tg .tg-b36l{background-color:#E6E6E6;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-b04k{background-color:#FFF;color:#F1AE16;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-eixh{background-color:#E6E6E6;color:#F1AE16;text-align:center;text-decoration:underline;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b04k"><img src="/images/Coding15.jpeg" alt="Coding15" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450875773/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Javen 4H</span></a></th>
-    <th class="tg-531m"><img src="/images/Coding16.jpeg" alt="Coding16" width="72" height="53"><br><a href="https://scratch.mit.edu/projects/450875370/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Lori 4H</span></a></th>
-    <th class="tg-531m"><img src="/images/Coding18.jpeg" alt="Coding18" width="68" height="51"><br><a href="https://scratch.mit.edu/projects/450733946/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Darius 4E</span></a></th>
-  </tr>
-</thead>
+<h3>Vision</h3>
+<p><em>A Digitally Ready Learning Community</em>
+</p>
+<p><strong><em>Every student: </em></strong><em>A future-ready and responsible digital learner and innovator </em>
+<br><strong><em>Every teacher:</em></strong><em> A technology-adept, collaborative learning designer</em>
+</p>
+<p></p>
+<h3>Mission</h3>
+<p><em>To nurture a community of responsible digital learners and innovators by equipping students with future-ready skills and fostering ethical digital practices.</em>
+</p>
+<h3>ICT Skills Development </h3>
+<p>Through the integration of Information and Communication Technology (ICT)
+in our curriculum, we provide students with a broad range of digital tools
+and platforms that enhance their learning experiences across various subjects.
+Our approach ensures that every student not only becomes proficient in
+using technology but also learns to navigate the digital world responsibly
+and creatively.</p>
+<p>Some of the tools/skills the students will use for their learning over
+the course of 6 years</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-eixh"><img src="/images/Coding17.jpeg" alt="Coding17" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450874987/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Geraldine 4H</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding19.jpeg" alt="Coding19" width="72" height="54"><br><a href="https://scratch.mit.edu/projects/450733708/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Chester 4E</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding21.jpeg" alt="Coding21" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/448646533/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Abigail 4C</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-b04k"><img src="/images/Coding22.jpeg" alt="Coding22" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450688827/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Jayden 4C</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding20.jpeg" alt="Coding20" width="72" height="54"><br><a href="https://scratch.mit.edu/projects/450733388/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Alethea 4E</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding23.jpeg" alt="Coding23" width="68" height="51"><br><a href="https://scratch.mit.edu/projects/450688399/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Gan Hong Yi Darius 4C</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-b36l"><img src="/images/Coding01.jpeg" alt="Coding01" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450973051/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Cayden 5I</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding02.jpeg" alt="Coding02" width="72" height="54"><br><a href="https://scratch.mit.edu/projects/450974730/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Karin Lee 5I</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding03.jpeg" alt="Coding03" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/450976336/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Tan Yi Fei 5I</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-531m"><img src="/images/Coding24-768x495.jpeg" alt="Coding24" width="84" height="54"><br><a href="https://scratch.mit.edu/projects/450981094/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Belle 5D</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding04.jpeg" alt="Coding04" width="72" height="54"><br><a href="https://scratch.mit.edu/projects/450982070/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Shum Joe Wen 5D</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding12.jpeg" alt="Coding12" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/450926882/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Wong Yu Jie 5E</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-eixh"><img src="/images/Coding05.jpeg" alt="Coding05" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450982344/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Yee Xin 5D</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding06.jpeg" alt="Coding06" width="72" height="55"><br><a href="https://scratch.mit.edu/projects/450978243/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Abrielle 5C</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding07.jpeg" alt="Coding07" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/450979314/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Chloe Lim 5C</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-b04k"><img src="/images/Coding13.jpeg" alt="Coding13" width="84" height="63"><br><a href="https://scratch.mit.edu/projects/450927095/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Xavier Tan 5E</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding08.jpeg" alt="Coding08" width="72" height="55"><br><a href="https://scratch.mit.edu/projects/450979617/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Zhang Yaojia 5C</span></a></td>
-    <td class="tg-531m"><img src="/images/Coding09.jpeg" alt="Coding09" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/450949121/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Zhanjie 5G</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-eixh"><img src="/images/Coding10.jpeg" alt="Coding10" width="84" height="64"><br><a href="https://scratch.mit.edu/projects/450948496/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Lucas 5G</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding11.jpeg" alt="Coding11" width="72" height="55"><br><a href="https://scratch.mit.edu/projects/450949354/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Ziqing 5G</span></a></td>
-    <td class="tg-eixh"><img src="/images/Coding14.jpeg" alt="Coding14" width="68" height="52"><br><a href="https://scratch.mit.edu/projects/450927435/"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">Zenda Chin 5E</span></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Digital Skills/Tools</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Computational Skills:</em></strong> Lego Spikes
+<br><strong><em>Digital Collaboration and Communication Tools:</em></strong> Padlet
+<br><strong><em>Digital Creative Tool:</em></strong> SketchPro</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Computational Skills:</em></strong> Lego Spikes
+<br><strong><em>Digital Collaboration and Communication Tools:</em></strong> Padlet
+<br><strong><em>Digital Creative Tool: </em></strong>See Saw and Flipgrid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Digital Collaboration and Communication Tools:</em></strong> Keynote,
+Padlet
+<br><strong><em>Data Management Tool: </em></strong>Numbers&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Digital Collaboration and Communication Tools:</em></strong> Keynote,
+Padlet
+<br><strong><em>Data Management Tool:</em></strong> Numbers
+<br><strong><em>Digital Creative Tool: </em></strong>Chromelab, Stopmotion,
+Flipgrid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Computational Skills:</em></strong> Code for Fun
+<br><strong><em>Digital Collaboration and Communication Tools:</em></strong> Keynote,
+Padlet
+<br><strong><em>Data Management Tool:</em></strong> Numbers
+<br><strong><em>Digital Creative Tool: </em></strong>Photography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Computational Skills:</em></strong> Artificial Intelligence
+<br><strong>Digital Collaboration and Communication Tools:</strong> Keynote,
+Padlet
+<br><strong><em>Digital Creative Tool: </em></strong>Procreate, Capcut</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h3><strong>Maker Education @PCS</strong></h3>
+<p>Innovative Maker Education at Poi Ching School</p>
+<p>At Poi Ching School, our Maker Education programme equips students with
+essential 21st-century skills such as critical thinking, creativity, and
+collaboration through a dynamic mix of digital and analogue activities.
+By fostering a hands-on learning environment, we empower students to become
+confident, innovative problem-solvers prepared for the future. Through
+engaging projects, students develop the skills they need to thrive in an
+ever-changing world.</p>
+<p>Code for Fun</p>
+<p></p>
+<h3><strong><em>Design Thinking@PCS</em></strong></h3>
+<p>The different stages of thinking are introduced through Maker Education
+activities, using the Design Thinking Process and a spiral approach.</p>
+<p></p>
+<h3><strong>Hands-On Analogue Activities</strong></h3>
+<p>Our students dive into engaging STEM challenges that make complex concepts
+come to life, including:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bridge Building with Legos (P1)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Students experiment and build a bridge across a ‘river’ that can
+support a specific amount of weight.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Build-A-Boat Project (P3)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students build boats using recycled materials, exploring how objects float
+and understanding the importance of sustainability.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parachute Design Challenge ( P4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students make parachutes using appropriate materials that can stay in
+the air for the longest possible time, encouraging problem-solving and
+new ideas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>These activities are enhanced with digital tools like SLS and Padlet,
+allowing students to document, collaborate, and reflect on their learning
+journeys.</p>
+<p>Some of the creation of our students work</p>
+<p></p>
+<h3><strong><em>Digital Tool Activities</em></strong></h3>
+<p>Students &nbsp;to the world of LEGO Spike, where they experience hands-on
+robotics and basic programming. This initiative encourages physical engagement,
+cognitive growth, and essential skills like teamwork, adaptability, and
+problem-solving.</p>
+<p></p>
+<h3><strong>Cyberwellness@PCS</strong></h3>
+<p>The school is dedicated to teaching students how to navigate cyberspace
+responsibly. From Primary 3 to Primary 6, students participate in a termly
+CyberWellness programme aligned with the Ministry of Education's CyberWellness
+framework. Through this, students learn online safety, respect, and responsibility.
+The curriculum is divided into four parts:</p>
+<p><strong>Tier 1</strong> provides lessons for all students,
+<br><strong>Tier 2</strong> trains CyberWellness Ambassadors to lead activities,
+<br><strong>Tier 3</strong> involves parents through lessons and outreach,
+and
+<br><strong>Tier 4</strong> offers support to students in need with the help
+of counselors and the discipline committee.</p>
+<p><strong><em>Safe Internet Day</em></strong>
+</p>
+<p><strong><em>Cyberwellness Week Activities</em></strong>
+<br>
+</p>
