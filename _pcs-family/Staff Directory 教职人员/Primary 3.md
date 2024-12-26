@@ -267,10 +267,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jazreel Quah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jazreel_lim_seh_kai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
