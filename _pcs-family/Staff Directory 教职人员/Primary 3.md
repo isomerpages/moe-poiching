@@ -199,10 +199,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Theng Hian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_theng_hian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
