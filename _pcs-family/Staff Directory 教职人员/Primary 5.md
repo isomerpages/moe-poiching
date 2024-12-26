@@ -233,10 +233,10 @@ variant: tiptap
 <p>5L4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Evelyn Leow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>leow_ling_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -260,10 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Qian Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>qian_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,4 +287,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
