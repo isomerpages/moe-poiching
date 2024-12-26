@@ -248,7 +248,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Character &amp; Citizenship Education (CCE)</p>
+<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
