@@ -222,10 +222,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lau Ee Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lau_ee_shan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
