@@ -259,10 +259,10 @@ variant: tiptap
 <p>3M5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Amalina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>amalina_juhari@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
