@@ -260,10 +260,10 @@ variant: tiptap
 <p>2S3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Pokhrel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan_Shu_Jin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +294,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2S5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -306,18 +306,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Dave Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>yang_kin_ngian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -325,10 +317,10 @@ variant: tiptap
 <p>2S6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Agnes Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chin_shiaw_yen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +328,7 @@ variant: tiptap
 <p>Mdm Liang Hong Bing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liang_hongbing@moe.edu.sg</p>
+<p>liang_hongbing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -344,10 +336,10 @@ variant: tiptap
 <p>2S7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Si Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_si_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
