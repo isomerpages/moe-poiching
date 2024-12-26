@@ -278,10 +278,10 @@ variant: tiptap
 <p>3M6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Firdaus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mohammed_firdaus_salim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
