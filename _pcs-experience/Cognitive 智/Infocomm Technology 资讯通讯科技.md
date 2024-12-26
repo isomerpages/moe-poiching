@@ -15,7 +15,7 @@ variant: tiptap
 <h3>Mission</h3>
 <p><em>To nurture a community of responsible digital learners and innovators by equipping students with future-ready skills and fostering ethical digital practices.</em>
 </p>
-<h3>ICT Skills Development </h3>
+<h3>ICT Skills Development</h3>
 <p>Through the integration of Information and Communication Technology (ICT)
 in our curriculum, we provide students with a broad range of digital tools
 and platforms that enhance their learning experiences across various subjects.
