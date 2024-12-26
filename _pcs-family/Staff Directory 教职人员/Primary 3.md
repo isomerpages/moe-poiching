@@ -191,10 +191,10 @@ variant: tiptap
 <p>3M1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yuslina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yuslina_Mohamed_Salleh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ variant: tiptap
 <p>3M2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Felicia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -229,10 +229,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Joyce Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>joyce_teh_kiam_peng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -240,10 +240,10 @@ variant: tiptap
 <p>3M4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Penny Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hong_Yen_Penny_Lim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
