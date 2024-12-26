@@ -241,10 +241,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Vincent Zheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zheng_xiaodong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -252,10 +252,10 @@ variant: tiptap
 <p>5L5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Redzuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>muhammad_redzuan_omar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
