@@ -260,10 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Julianna Pushpam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>julianna_dyalashree_pushpam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
