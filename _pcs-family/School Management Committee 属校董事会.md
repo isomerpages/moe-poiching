@@ -39,7 +39,7 @@ variant: tiptap
 <p>Honorary Secretary 秘书长</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheong Ye Ling 蔡颐龄女士</p>
+<p>Mrs Soh-Lim Tzyy Shiuan 林紫萱女士</p>
 </td>
 </tr>
 <tr>
