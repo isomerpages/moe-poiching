@@ -352,10 +352,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Agnes Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yue_puay_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
