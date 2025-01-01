@@ -116,12 +116,22 @@ By fostering a hands-on learning environment, we empower students to become
 confident, innovative problem-solvers prepared for the future. Through
 engaging projects, students develop the skills they need to thrive in an
 ever-changing world.</p>
-<p>Code for Fun</p>
-<p></p>
+<p><strong>Code for Fun</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/cof1.jpg">
+</div>
+<p><strong>Stop Motion</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/stop.jpg">
+</div>
 <h3><strong><em>Design Thinking@PCS</em></strong></h3>
 <p>The different stages of thinking are introduced through Maker Education
 activities, using the Design Thinking Process and a spiral approach.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/design.png">
+</div>
 <h3><strong>Hands-On Analogue Activities</strong></h3>
 <p>Our students dive into engaging STEM challenges that make complex concepts
 come to life, including:</p>
@@ -169,12 +179,41 @@ allowing students to document, collaborate, and reflect on their learning
 journeys.</p>
 <p>Some of the creation of our students work</p>
 <p></p>
+<p><strong>P1 Build A bridge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/brisge1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/bridge2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong><em>Digital Tool Activities</em></strong></h3>
 <p>Students &nbsp;to the world of LEGO Spike, where they experience hands-on
 robotics and basic programming. This initiative encourages physical engagement,
 cognitive growth, and essential skills like teamwork, adaptability, and
 problem-solving.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/tool1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/tool2.jpg">
+</div>
 <h3><strong>Cyberwellness@PCS</strong></h3>
 <p>The school is dedicated to teaching students how to navigate cyberspace
 responsibly. From Primary 3 to Primary 6, students participate in a termly
@@ -189,6 +228,48 @@ and
 of counselors and the discipline committee.</p>
 <p><strong><em>Safe Internet Day</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/SafeInternet1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/SafeInternet2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><em>Cyberwellness Week Activities</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/cyber1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Dept/cyber2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
