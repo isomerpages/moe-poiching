@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Jiele</p>
+<p>Mdm Loh Wai Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>li_jiele@moe.edu.sg</p>
+<p>loh_wai_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,10 +56,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Wai Yee</p>
+<p>Ms Li Jiele</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_wai_yee@moe.edu.sg</p>
+<p>li_jiele@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
