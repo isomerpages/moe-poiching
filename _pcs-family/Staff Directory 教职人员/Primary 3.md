@@ -97,10 +97,10 @@ variant: tiptap
 <p>3M5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina</p>
+<p>Mr Firdaus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>amalina_juhari@moe.edu.sg</p>
+<p>mohammed_firdaus_salim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p>3M6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Firdaus</p>
+<p>Mdm Amalina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammed_firdaus_salim@moe.edu.sg</p>
+<p>amalina_juhari@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
