@@ -82,7 +82,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1D4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,6 +98,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ji_xiao_yi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ginger Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ginger_tay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
