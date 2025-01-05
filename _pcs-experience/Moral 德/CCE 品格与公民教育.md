@@ -3,6 +3,7 @@ title: CCE 品格与公民教育
 permalink: /le-folders/moral/cceeducation/
 description: ""
 third_nav_title: Moral 德
+variant: markdown
 ---
 ### Vision
 
@@ -15,42 +16,6 @@ Persons of good character and are concerned citizens
 
 
 
-### Key Programmes
-
-
-*   Bamboo Programme (incorporating FTGP, Core Values)
-    
-*   Weekly CCE-CL Lessons
-    
-*   Values In Action (VIA)
-    
-*   Core NE Events
-    
-*   NE Infused Curriculum
-    
-*   Student Leadership Development Programme
-    
-*   SAP Programme
-    
-*   Immersion Programme
-    
-*   Co-Curricular Programme
-    
-*   Educational and Career Guidance (ECG)
-    
-*   Counselling and Guidance
-    
-*   Support for Special Needs
-    
-*   Case Management
-    
-*   Enterprise
-    
-*   Sexuality Education
-    
-*   Cyber-Wellness
-    
-*   Student Discipline
 
 **Commemorating World Mental Health Day**
 
