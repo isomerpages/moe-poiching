@@ -14,8 +14,8 @@ variant: tiptap
 </p>
 <p></p>
 <h4><strong>Welcome Message from the Principal</strong></h4>
-<p>&nbsp;It is my privilege to take on the appointment as the 17th Principal
-of Poi Ching School. The school has nurtured multiple generations of students
+<p>It is my privilege to take on the appointment as the 17th Principal of
+Poi Ching School. The school has nurtured multiple generations of students
 over the past 106 years, and I would like to express my heartfelt gratitude
 and appreciation to the school leaders and staff – both past and present
 – for their immense contribution to the school over the years.</p>
