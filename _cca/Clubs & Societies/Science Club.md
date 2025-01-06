@@ -34,7 +34,7 @@ Science concepts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm to 4.00 pm</p>
