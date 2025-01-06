@@ -2,55 +2,58 @@
 title: Principal's Message 校长献词
 permalink: /about-us/principal-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**构建自主学习者的课堂**
-
-尊敬的家长们：
-
-有些人把学生比喻成一个 “容器”(container)，当学问和知识被装进这个“容器”里，学生就学会了许多东西，因为“容器”已被知识和学问给填满了。
-
-这个比喻虽然看起来有道理，但其实不是每个人都认同学习就是“老师把知识装进学生的脑袋里”这样的说法。中国著名的教育学家叶圣陶写的一篇文章《瓶子观点》就分享了他为何反对这个说法。
-
-叶圣陶认为瓶子是装东西的“物件”(object) 。把东西装在瓶子里，瓶子还是瓶子，东西还是东西，没有人能够保证“东西”和“瓶子”会混为一体，进而创造出新的事物。从教育的角度来说，这就好像老师们把要教的知识、重点、概念等等，硬硬塞进学生的脑袋里。这是死背硬记的学习方式，学生没有因此融会贯通，当然也就不会活学活用，更没有能力推陈出新、精益求精。
-
-他也提醒我们，瓶子只是死物一件，当然不会思考。然而，我们的学生都可以是有思想、有智慧的人，如果把他们当瓶子一样来填鸭，这是不是错误的做法呢？所以，当我们责备孩子们不动脑筋思考之前，我们要先想想，我们有没有让他们有机会练习动脑筋呢？
-
-教育部长陈振声说过，今时今日的学习模式已从根本上改变了。学习的平台和空间不再限于学校和课堂，真实和虚拟的世界处处都有让学生获取信息和知识的机会。为了应付快速变化世界中的种种需求， 学习的方式也要随之变革。
-
-随着学习方式的改变，老师传授知识的方式也要跟着转变。在这个信息爆炸的时代，学生需要懂得如何过滤没用和虚假的信息、汲取真实的信息并解读这些信息主要传递的意义，从而构建认知。老师们不再是装东西的人，而是学习过程的设计师。通过精巧的课程设计促成学生的学习，让他们在搜索所要的信息时更得心应手，在解读讯息时能举一反三，并从而构建新的知识。
-
-用“容器”的比喻来重新诠释：学习，不再是填满容器，而是烹煮火锅的过程。学习，也好像在吃火锅，老师上菜市场采购各种食材，准备各种配料，然后指导学生如何设计一锅适合自己的火锅大餐。学生根据自己的口味和食量选择适当的汤底和食材，烹调出美味可口又营养丰富的食物，再调配自己喜欢的沾酱来享用火锅，一切变得客制化。这个过程就好比学生按照自己的学习需求和进度，设定适合自己的学习目标，设计适合自己的学习体验，从而达到快乐、自主学习的目的。
-
-世界在改变，学校也在改变。今天的课堂不再是装东西的工厂，而是培养学生自主学习的殿堂。把学习的自主权交到学习者手中，引导他们运用手中的力量，构建一个以有效且快乐为学习主旨的课堂。培青的课堂将致力向这个方向迈进。
-
-祝愿同学们成为快乐的自主学习者！
-
-蔡颐龄校长
-
-
-
-
-**Building the Classroom for Self-directed Learners**
-
-Dear Parents
-
-The metaphor of students as a "container for knowledge" is common. In that light, teaching is seen as an act of “filling” said container with knowledge. The belief is that students learn when they are filled with knowledge and wisdom. While seemingly reasonable, not everyone agrees that learning is about “filling containers”. Renowned Chinese writer and educator, Ye Shengtao (叶圣陶), shares his opposing view in his article, “The Bottle Viewpoint” 《瓶子观点》.
-
-Ye believes that a bottle (a container) is an "object" for holding things. While it can be filled with a myriad of things, the bottle remains a bottle, and the things filling it remain things. The "things" and the "bottle" do not synergise to create something new. From an educational perspective, this is akin to teachers forcefully cramming knowledge, key points, and concepts into students' minds. This rote method of learning does not allow students to truly understand or apply knowledge they have received. As mere bottles, they do not have the ability to innovate, refine, and apply what they have learned.
-
-He reminds us that a bottle is just an inanimate object that cannot think. Our students though, have thoughts and intelligence, feelings and interests, strengths and weaknesses. We would be misguided if we treated them like bottles and force-fed them with information. Therefore, before chastising our children for not “using their brains”, perhaps we could first consider whether we have given them opportunities to practise thinking.
-
-Mr. Chan Chun Sing, Minister of Education, pointed out how learning patterns of today have fundamentally changed. Learning platforms and spaces are no longer confined to schools and classrooms; opportunities to acquire information and knowledge exist everywhere in the real and virtual worlds. Indeed, education is shifting from “the school as our world, to the world as our school”. To meet the diverse demands of a rapidly changing world, learning approaches  also need to undergo transformation.
-
-As learning approaches change, the way teachers impart knowledge must also evolve. In this era of “infobesity”, students need to learn how to discern and filter misinformation and disinformation; and have the savvy to identify useful information for their purposes. Teachers are no longer just people filling containers; they are now architects of the learning process. Through skillful curriculum design, they facilitate students' learning, enabling them to easily search for information, draw connections and construct new knowledge.
-
-In this light, perhaps learning is no longer about filling a container but preparing a sumptuous hotpot. Teachers go to the market to buy various ingredients, preparing different condiments, and then guide students in savouring the hotpot feast to their preference. Students choose a suitable broth and ingredients based on their taste and appetite, cook delicious and nutritious food, and then enjoy the hotpot with their favorite dipping sauce. Everything is bespoke. This process is akin to students setting learning goals and designing learning experiences according to their needs and pace, ultimately achieving the goal of joyful and independent learning.
-
-The world is changing, and so are schools. Today's classrooms are no longer factories for filling things; they are institutions for cultivating students' independent learning. By handing over the autonomy of learning to learners, guiding them to use their own power, Poi Ching aims to create a conducive and joyful learning environment for our students.
-
-May all our students enjoy their hotpot feasts, and become happy, independent and self-directed learners!
-
-Mrs Cheong Ye Ling
-
-Principal
+<h3><strong>校长献词</strong></h3>
+<p>&nbsp;作为培青学校第十七任校长，我深感荣幸。在过去漫长的106年里，培青学校培养了无数代的莘莘学子。我衷心感谢历任学校领导和教师，感激他们多年对学校和教育事业的卓越贡献。</p>
+<p>&nbsp;迈入新的学年，我们满怀激动与期待，欢迎每一位师生回到培青学校——一个充满学习与成长无限可能的地方。今年，我们将以价值观为核心，充分发挥我校双语双文化环境的优势，为学生的未来做好准备。通过深入了解自身文化，学生将更自信、更具底气，能够与全球多元文化背景的人有效沟通，成为全球化社会中积极贡献的一员。</p>
+<p>&nbsp;在这个瞬息万变的时代，我们的教育必须确保学生能够在充满不确定因素的未来中继续茁壮成长。我们的课程旨在培养学生的创造力、适应能力和批判性思维能力，这些都是21世纪成功的关键技能。除了追求学术卓越，我们还致力于培养自信、坚韧的未来人才，使他们无论身处何种领域，都具备引领创新的能力。</p>
+<p>&nbsp;作为一所特选学校（SAP），我们将继续秉承优良校风与核心价值观——<strong>忠、孝、节、义、勤、慎、诚、朴</strong>。这些价值观不仅是我们教育工作的基础，更是我们对每一位培青学子的期望。它们将引领学生在校期间的成长，并伴随他们一生，帮助他们成为有道德、有同理心、对社会积极贡献的全球公民。我们也将与家长紧密合作，共同营造一个重视品德修养的学习环境。</p>
+<p>&nbsp;小学教育是学生成长与学习的启蒙阶段，也是他们接受正式学校教育的起点。在这段关键的学习旅程中，我们鼓励每一位培青学子抱着对学习的热忱，秉持孜孜不倦的态度与百折不挠的决心，迎接未来的机遇与挑战。对于各位家长和监护人，我们衷心感谢您将孩子的教育重任托付于我们。我们期待与您携手合作，共同支持孩子的全面发展。</p>
+<p><strong>林紫萱<br>校长<br>培青学校</strong>
+</p>
+<p></p>
+<h4><strong>Welcome Message from the Principal</strong></h4>
+<p>&nbsp;It is my privilege to take on the appointment as the 17th Principal
+of Poi Ching School. The school has nurtured multiple generations of students
+over the past 106 years, and I would like to express my heartfelt gratitude
+and appreciation to the school leaders and staff – both past and present
+– for their immense contribution to the school over the years.</p>
+<p>As we step into a new academic year, it is with great excitement and optimism
+that I welcome each of you to Poi Ching School, a place of learning, growth,
+and boundless potential. Our shared journey this year will be shaped by
+our commitment to prepare our pupils for a dynamic future, grounded by
+a values-driven education, and the unique opportunities afforded by our
+bicultural environment.</p>
+<p>In a world that is rapidly evolving, the education we provide must prepare
+our students to thrive in dynamic and uncertain futures. Our curriculum
+is designed to cultivate creativity, adaptability, and critical thinking—skills
+essential for success in the 21st century. Beyond academic excellence,
+we aim to nurture individuals who are future-ready, equipped with the confidence
+and resilience to lead and innovate in any field they choose to pursue.</p>
+<p>At the heart of our school lies a steadfast dedication to values-driven
+education. Our core values of Loyalty, Filial Piety, Integrity, Justice,
+Diligence, Prudence, Sincerity, and Modesty (忠孝节义&nbsp; 勤慎诚朴) are the foundation
+of all that we do. These values will guide our students not only during
+their time here but throughout their lives, shaping them into ethical,
+compassionate, and socially responsible global citizens. Together, we will
+foster an environment where character is celebrated as much as achievement.</p>
+<p>Additionally, as an SAP school, our emphasis on bicultural education reflects
+our recognition of the richness of diverse cultures and perspectives. By
+embracing both local and global viewpoints, our students gain a deeper
+appreciation of their heritage while developing the skills to engage meaningfully
+with the world. This dual focus equips them to bridge cultures, communicate
+effectively across boundaries, and contribute to the interconnected global
+community.</p>
+<p>As we embark on this exciting journey together, I encourage every student
+to embrace the opportunities ahead with curiosity and determination. To
+parents and guardians, I extend my gratitude for entrusting us with your
+children’s education, and I look forward to working hand in hand with you
+in supporting them in their holistic development.</p>
+<p>Together, let us make this academic year one of growth, collaboration,
+and success, as we prepare our students to lead meaningful lives and make
+a positive impact on the world.</p>
+<p><strong>Mrs Soh-Lim Tzyy Shiuan<br>Principal</strong>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
