@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Cognitive 智
 variant: tiptap
 ---
-<h3>Vision (愿景)</h3>
+<h3><strong>Vision (愿景)</strong></h3>
 <p>Students are proficient in the Chinese Language and enjoy the learning
-of Chinese Language and Chinese Culture.</p>
-<p>学生都能精通华文，热爱学习华文与文化。</p>
-<h3>Mission (使命)</h3>
-<p>Provide an environment where students find Chinese learning fun and interesting.</p>
-<p>营造一个充满乐趣的华文学习氛围，激发学生的学习兴趣。</p>
-<h3>Key Programmes (部门的主要活动与计划)</h3>
+of Chinese Language and Chinese Culture.
+<br>学生都能精通华文，热爱学习华文与文化。</p>
+<h3><strong>Mission (使命)</strong></h3>
+<p>Provide an environment where students find Chinese learning fun and interesting.
+<br>营造一个充满乐趣的华文学习氛围，激发学生的学习兴趣。</p>
+<h3><strong>Key Programmes (部门的主要活动与计划)</strong></h3>
 <h4><strong>阅读活动</strong></h4>
 <p>-<strong>晨读</strong>：每周四和周五，学生阅读华文故事书，有时老师给学生播放绘本录像
 <br>-<strong>班级图书</strong>：每班的阅读角落都有华文故事书
