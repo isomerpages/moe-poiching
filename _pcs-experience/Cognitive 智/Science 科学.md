@@ -18,11 +18,11 @@ the world.</p>
 </p>
 </li>
 <li>
-<p><strong>Our Science Journal </strong>
+<p><strong>Our Science Journal</strong>
 </p>
 </li>
 <li>
-<p><strong>Eureka </strong>
+<p><strong>Eureka</strong>
 </p>
 </li>
 </ul>
