@@ -44,14 +44,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3M2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Felicia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>felicia_chia_yee_qui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Leanne Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leanne_rae_neo_lay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
