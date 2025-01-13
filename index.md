@@ -18,5 +18,5 @@ sections:
         - title: Parents
           description: Find useful info
           url: https://www.poiching.moe.edu.sg/quick-links/permalink/
-      background: /images/front cover.png
+      background: /images/Cover_New.png
 ---
