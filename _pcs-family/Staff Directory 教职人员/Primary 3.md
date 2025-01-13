@@ -81,7 +81,7 @@ variant: tiptap
 <p>Mrs Penny Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hong_Yen_Penny_Lim@moe.edu.sg</p>
+<p>lim_hong_yen_penny@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
