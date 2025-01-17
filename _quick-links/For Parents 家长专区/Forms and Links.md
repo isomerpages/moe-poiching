@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents 家长专区
 ---
-<p><strong>RESOURCES FOR PARENTS</strong>
+<p><strong>Useful Links FOR PARENTS</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -18,6 +18,10 @@ third_nav_title: For Parents 家长专区
 </li>
 <li>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_School_Canteen_Menu_and_Pricing.pdf" rel="noopener noreferrer nofollow" target="_blank">School Canteen Menu</a>
 <br>
 </p>
 </li>
