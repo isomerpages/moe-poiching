@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>School Administration Team</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -15,9 +14,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Designation</p>
@@ -28,18 +24,12 @@ variant: tiptap
 <p>Mr Alex Mahendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Haijiao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -50,9 +40,6 @@ variant: tiptap
 <p>Ms Lim Hui Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 </tr>
@@ -61,18 +48,20 @@ variant: tiptap
 <p>Mdm Elsie Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administration Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Saudah Bte Kazim</p>
+<p>Mr Koh Chee Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Saudah Bte Kazim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -83,18 +72,12 @@ variant: tiptap
 <p>Mr Raymond Thong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nur Hafizah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -105,18 +88,12 @@ variant: tiptap
 <p>Mdm Tieng Cheng Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Bte Othman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -127,18 +104,12 @@ variant: tiptap
 <p>Mdm Ong Ah Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Jufri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -164,14 +135,6 @@ variant: tiptap
 <p><strong>Designation</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Chee Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
