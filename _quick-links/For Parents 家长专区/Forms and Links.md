@@ -38,7 +38,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="/files/Poi_Ching_School_Parent_Volunteer_Scheme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Poi Ching School Parent Volunteer Scheme 2024</a> 
+<p>Poi Ching School Parent Volunteer Scheme 2025 (<strong>To be opened in February 2025</strong>)
 <br>
 </p>
 </li>
