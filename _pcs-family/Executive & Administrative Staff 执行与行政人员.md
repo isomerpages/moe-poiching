@@ -118,8 +118,6 @@ variant: tiptap
 </tbody>
 </table>
 <h3>School Support Staff</h3>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
