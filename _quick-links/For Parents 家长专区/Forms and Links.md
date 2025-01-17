@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents 家长专区
 ---
-<p><strong>Useful Links FOR PARENTS</strong>
+<p><strong>USEFUL LINKS FOR PARENTS</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -13,7 +13,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="https://familiesforlife.sg/Parenting/Pages/Home.aspx?utm_source=SEM&amp;gclid=CjwKCAjw-eKpBhAbEiwAqFL0mvxGyrBe60wD6YPdfD5hHBQkv302vu5TMgiLqGpJmdN--x0kUT1lWxoCDL0QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Families for Life</a>
+<p><a href="https://familiesforlife.sg/pages/homepage" rel="noopener noreferrer nofollow" target="_blank">Families for Life</a>
 </p>
 </li>
 <li>
