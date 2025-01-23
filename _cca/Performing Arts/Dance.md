@@ -50,7 +50,7 @@ thoughts and beliefs.</p>
 <p>2.00 pm to 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 – P6</p>
+<p>P3 – P6</p>
 </td>
 </tr>
 <tr>
