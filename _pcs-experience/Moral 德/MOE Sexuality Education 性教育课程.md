@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Moral 德
 variant: tiptap
 ---
-<h4><strong>Moe Sexuality Education in Schools</strong><br></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
@@ -17,18 +17,20 @@ and stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p></p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.
-<br>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.
-<br>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<p></p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
+in managing their physiological, social and emotional changes as they grow
+up and develop safe and healthy relationships.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
+to make wise, informed and responsible decisions on sexuality matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
+<p></p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
 yourself as you love and respect others;
 <br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
@@ -38,15 +40,13 @@ families);
 decisions for yourself, your family and society; and
 <br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.
-<br>
-<br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
+Casual sex can harm and hurt you and your loved ones.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Poi Ching School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Poi Ching School’s Sexuality Education Programme for 2025</strong>
 </p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -55,9 +55,10 @@ Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-educatio
 for more information on the scope of Sexuality Education in the school
 curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
-<p>a. Science
-<br>b. Character and Citizenship Education (CCE)</p>
+topics on sexuality include:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
 <p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
@@ -78,10 +79,17 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Poi Ching School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong>
+<p></p>
+<p><strong>At Poi Ching School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,7 +107,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -121,7 +129,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +149,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -159,16 +167,19 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>Primary 6</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
-<table>
+<h4><strong>Primary 6&nbsp;</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,7 +197,7 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -209,7 +220,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -238,10 +249,9 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are to give
 consent for your child to attend the Sexuality Education lessons via Parent
-Gateway from <strong>26/02/2024</strong>. Parents who wish to opt their
+Gateway from <strong>31/01/2025</strong>. Parents who wish to opt their
 child out, please complete an opt-out form by clicking on the link provided
-in Parent Gateway. <strong>This is to be done and submitted by 11/03/2024</strong>.</p>
+in Parent Gateway. This is to be done and submitted by <strong>07/03/2025</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 67856420 for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
-<p></p>
+at <strong>67856420</strong> for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
