@@ -27,7 +27,7 @@ be conducted if the number of qualifying applicants in Phase 2B exceeds
 the school available vacancies for that phase.&nbsp;
 <br>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For further details
 on Primary One Registration Exercise, please refer to MOE’s website at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a><u>.</u>
+<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.
 <br>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are
-interested may submit their application via the FormSG link at <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67888674fafcb11a5e57c544</a> &nbsp;</p>
+interested may submit their application via the FormSG link at <a href="https://form.gov.sg/67888674fafcb11a5e57c544" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67888674fafcb11a5e57c544</a>.</p>
 <p>&nbsp;</p>
