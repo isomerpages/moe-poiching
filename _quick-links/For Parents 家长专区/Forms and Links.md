@@ -38,7 +38,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p>Poi Ching School Parent Volunteer Scheme 2025 (<strong>To be opened in February 2025</strong>)
+<p><a href="https://form.gov.sg/67888674fafcb11a5e57c544" rel="noopener nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
 <br>
 </p>
 </li>
