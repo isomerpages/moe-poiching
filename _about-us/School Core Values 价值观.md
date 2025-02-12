@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20values.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20values_2_new.jpg">
 </div>
 <p></p>
@@ -109,44 +106,72 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>勤</strong></h4>
+<h4><strong>勤奋进取</strong><br><strong>Diligence</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>慎</strong></h4>
+<h4><strong>谨言慎行</strong><br><strong>Prudence</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>诚</strong></h4>
+<h4><strong>真心诚意</strong><br><strong>Sincerity</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>扑</strong></h4>
+<h4><strong>朴实无华</strong><br><strong>Modesty</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>我做事认真，准时完成任务。</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>我会注意自己的言行举止。</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>我以诚待人。</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>我践行简单的生活方式。</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I take my work seriously and complete my tasks on time.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I am mindful of my words and actions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I am genuine in my interactions with others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I lead a simple lifestyle.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>我精益求精，不断探索知识。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>我在做决定前会冷静思考。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>我为他人着想。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>我不追求奢华。</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I constantly seek improvement and knowledge.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I make responsible decisions and I think before I act.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I consider the feelings of others.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I do not seek extravagance.</p>
 </td>
 </tr>
 </tbody>
