@@ -4,14 +4,10 @@ permalink: /about-us/school-core-values/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20values_2_new.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Part1_NoTxt.png">
 </div>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -92,7 +88,18 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Part2_NoTxt.png">
 </div>
