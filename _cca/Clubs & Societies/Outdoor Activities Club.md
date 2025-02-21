@@ -5,13 +5,63 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p>ODAC (OutDoor Activities Club) aims to inspire and empower our students
-to connect with nature, challenge their limits, and foster a sense of community
-through outdoor adventure.</p>
-<p>Through this CCA, we want our students to be adventurous and nature-loving
-with a passion for the great outdoors.
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC1n.png">
+</div>
+<p>Outdoor Activities Club (ODAC) is about embracing the outdoors, challenging
+our limits, building leadership skills and working together. Every adventure
+is a chance to learn, grow and connect with nature and each other.</p>
+<p>Through ODAC, we aim to inspire students with a sense of responsibility,
+adaptability and teamwork while encouraging a love for the outdoors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC2n.png">
+</div>
+<p>ODAC is full of hands-on activities that let students explore, problem-solve
+and discover new skills:</p>
+<ul>
+<li>
+<p><em>Outdoor Trails</em>: We visit nature reserves and parks to explore
+biodiversity, sustainability and basic navigation.</p>
+</li>
+<li>
+<p><em>Team Challenges</em>: From orienteering to team-based tasks, we challenge
+ourselves while building problem-solving skills and teamwork.</p>
+</li>
+<li>
+<p><em>Environmental LJs</em>: We take action through clean-up drives to
+do our part in caring for the environment.</p>
+</li>
+<li>
+<p><em>ODAC Camp</em>: An experience to develop leadership and communication
+skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC3n.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC5n.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC1.jpg">
 </div>
@@ -70,7 +120,7 @@ with a passion for the great outdoors.
 </tr>
 </tbody>
 </table>
-<p><strong>Venue:</strong> Rockwall &amp; 3M1 Classroom</p>
+<p><strong>Venue:</strong> 3M1 Classroom</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
