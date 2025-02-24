@@ -122,7 +122,7 @@ parents.</p>
 <p>1984 - 1995</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yu Chu Siong</p>
+<p>俞书祥 Mr Yu Chu Siong</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ parents.</p>
 <p>1995 - 1999</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chin Sam</p>
+<p>林清山 Mr Lim Chin Sam</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ parents.</p>
 <p>2000 - 2006</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Mui Chuw</p>
+<p>符美珠 Mdm Foo Mui Chuw</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ parents.</p>
 <p>2007 - 2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Kwai Kuen</p>
+<p>钟桂权 Mr Lawrence Chong Kwai Kuen</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ parents.</p>
 <p>2015 - 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Mah</p>
+<p>马成忠 Mr Andrew Mah Seng Thong</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ parents.</p>
 <p>2021 - 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheong Ye Ling</p>
+<p>蔡颐龄 Mrs Cheong Ye Ling</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ parents.</p>
 <p>Present</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh-Lim Tzyy Shiuan</p>
+<p>林紫萱 Mrs Soh-Lim Tzyy Shiuan</p>
 </td>
 </tr>
 </tbody>
