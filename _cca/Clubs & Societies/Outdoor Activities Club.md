@@ -38,37 +38,20 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC3n.png">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC4.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC5n.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC4.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC6.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC2.jpg">
-</div>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -161,8 +144,4 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<h3>Accolades</h3>
-<p><strong>NPSSCC 2023 Team Awards</strong> 
-<br>Senior Boys Division - 3rd</p>
-<p><strong>NPSSCC 2022 Team Awards</strong> 
-<br>Junior Girls Division - 3rd</p>
+<p></p>
