@@ -55,8 +55,8 @@ variant: tiptap
 <br>Mr Chen Ronggui 陈荣贵先生
 <br>Mr Xue Xipan 薛希潘先生
 <br>Mr Lee Chek Khoon 李积康先生
-<br>Mr Zhang Qinjie 张勤杰先生</p>
-<p>Ms Zhang Meilan 张美兰女士</p>
+<br>Mr Zhang Qinjie 张勤杰先生
+<br>Ms Zhang Meilan 张美兰女士</p>
 </td>
 </tr>
 </tbody>
