@@ -35,11 +35,12 @@ do our part in caring for the environment.</p>
 <li>
 <p><em>ODAC Camp</em>: An experience to develop leadership and communication
 skills.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC3n.png">
 </div>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC4.png">
 </div>
