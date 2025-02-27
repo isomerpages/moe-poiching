@@ -31,7 +31,7 @@ variant: tiptap
 <p>Honorary Treasurer 财政</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Meilan 张美兰女士</p>
+<p>Mr Lim Peng Huat 林炳发先生</p>
 </td>
 </tr>
 <tr>
@@ -54,9 +54,9 @@ variant: tiptap
 <br>Mr Chia How Ming 谢孝铭先生
 <br>Mr Chen Ronggui 陈荣贵先生
 <br>Mr Xue Xipan 薛希潘先生
-<br>Mr Lim Peng Huat 林炳发先生
 <br>Mr Lee Chek Khoon 李积康先生
 <br>Mr Zhang Qinjie 张勤杰先生</p>
+<p>Ms Zhang Meilan 张美兰女士</p>
 </td>
 </tr>
 </tbody>
