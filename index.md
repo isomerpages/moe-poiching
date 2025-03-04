@@ -25,7 +25,7 @@ sections:
       announcement_items:
         - title: 14th National Schools Chinese Calligraphy Competition
           date: 04 March 2025
-          announcement: 第十四届全国中小学现场书法比赛
+          announcement: 第十四届全国中小学现场书法比赛 (2025年5月16日, 星期五）
           link_text: Rules and Regulations 规则
           link_url: https://go.gov.sg/pcs14nccc2025rules
 ---
