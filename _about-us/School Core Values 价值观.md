@@ -12,11 +12,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school values.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school values_2_new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/WebsiteValues.jpg">
 </div>
 <p></p>
