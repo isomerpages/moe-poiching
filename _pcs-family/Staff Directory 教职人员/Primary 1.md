@@ -113,10 +113,10 @@ variant: tiptap
 <p>1D5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Elmizah</p>
+<p>Miss Chloe Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_elmizah_mhd_yassin@moe.edu.sg</p>
+<p>chloe_lin_an_chi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
