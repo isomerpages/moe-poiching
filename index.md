@@ -19,13 +19,12 @@ sections:
           description: Find useful info
           url: https://www.poiching.moe.edu.sg/quick-links/permalink/
       background: /images/Cover_New.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 14th National Schools Chinese Calligraphy Competition
-          date: 04 March 2025
-          announcement: 第十四届全国中小学现场书法比赛 (2025年5月16日, 星期五）
-          link_text: Rules and Regulations 规则
-          link_url: https://go.gov.sg/pcs14nccc2025rules
+  - infopic:
+      title: 第十五届“会馆杯”庆国庆华语卡啦OK比赛
+      subtitle: Add an image and text
+      id: infopic
+      button: Find Out More
+      url: /2025karaok/
+      image: /images/OTD_KROK_2025.png
+      alt: Image alt text
 ---
