@@ -21,7 +21,6 @@ sections:
       background: /images/Cover_New.png
   - infopic:
       title: 第十五届“会馆杯”庆国庆华语卡啦OK比赛
-      subtitle: Add an image and text
       id: infopic
       button: Find Out More
       url: /2025karaok/
