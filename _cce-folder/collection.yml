@@ -1,8 +1,0 @@
-collections:
-  cce-folder:
-    output: true
-    order:
-      - CCE Curriculum.md
-      - NESS.md
-      - Sexuality Education.md
-      - Character Education.md
