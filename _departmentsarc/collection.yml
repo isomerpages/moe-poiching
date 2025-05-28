@@ -1,5 +1,5 @@
 collections:
-  departments:
+  departmentsarc:
     output: true
     order:
       - Non Academic/.keep
