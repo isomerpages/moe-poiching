@@ -36,7 +36,7 @@ of Chinese Language and Chinese Culture.
 <br>普华班：《欢乐伙伴》普华课本
 <br>高华班：《欢乐伙伴》高华课本</p>
 <p>(2) 教育部提供的SLS</p>
-<p>(3) e知识：<a href="http://ezhishi.net" rel="noopener noreferrer nofollow" target="_blank">ezhishi.net</a>
+<p>(3) e知识：<a href="https://www.ezhishi.com/" rel="noopener noreferrer nofollow" target="_blank">ezhishi</a>
 </p>
 <p></p>
 <p></p>
@@ -45,8 +45,8 @@ of Chinese Language and Chinese Culture.
 <p>It is compulsory for all P1 students to take Chinese Language upon admission
 to school.</p>
 <h4><strong>教育部批准在小六会考（PSLE）中可以使用的字典</strong></h4>
-<p>LIST OF APPROVED DICTIONARIES FOR USE IN 2024 PSLE</p>
-<p>请点击此<a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf?sfvrsn=7f047200_10" rel="noopener noreferrer nofollow" target="_blank">链接</a>
+<p>LIST OF APPROVED DICTIONARIES FOR USE IN 2025 PSLE</p>
+<p>请点击此<a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">链接</a>
 </p>
 <p><strong>华文阅读书单</strong>
 </p>
