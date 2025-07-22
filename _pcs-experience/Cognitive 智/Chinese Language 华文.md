@@ -38,12 +38,19 @@ of Chinese Language and Chinese Culture.
 <p>(2) 教育部提供的SLS</p>
 <p>(3) e知识：<a href="https://www.ezhishi.com/" rel="noopener noreferrer nofollow" target="_blank">ezhishi</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>It is compulsory for all P1 students to take Chinese Language upon admission
 to school.</p>
+<p></p>
+<h4><strong>世界书香日</strong></h4>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 每年的4月23日是“世界书香日”，也称“世界图书与版权日”。这一天，全球一百多个国家都会举办丰富有趣的阅读活动，鼓励大家多读书、爱写作，让书香飘进每个人的生活中。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为响应这一意义非凡的日子，<strong>我校华文部特别安排了读书活动。学生在完成阅读报告后，各班选出两份佳作，这两位同学荣获“佳作奖”及奖品。这些佳作也张贴在学校壁报板上，与 全校师生共享阅读的成果与喜悦。</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/.png">
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡建国总理李光耀先生曾指出：“我们必须成为一个爱读书的民族。”这句名言深刻表达了阅读的重要性。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 书籍点亮心灵，阅读丰富人生。同学们在书的世界里尽情遨游。为了帮助学生养成良好的阅读习惯，学校每天早上特设晨读时间，让孩子们一踏入校园，就沉浸在书香之中。日积月累，他们成长为爱思考、爱学习的小小读书人！</p>
+<p></p>
 <h4><strong>教育部批准在小六会考（PSLE）中可以使用的字典</strong></h4>
 <p>LIST OF APPROVED DICTIONARIES FOR USE IN 2025 PSLE</p>
 <p>请点击此<a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">链接</a>
