@@ -8,10 +8,10 @@ variant: tiptap
 <h3><strong>Vision (愿景)</strong></h3>
 <p>Students are proficient in the Chinese Language and enjoy the learning
 of Chinese Language and Chinese Culture.
-<br>学生都能精通华文，热爱学习华文与文化。</p>
+<br>精通华文　传承中华</p>
 <h3><strong>Mission (使命)</strong></h3>
 <p>Provide an environment where students find Chinese learning fun and interesting.
-<br>营造一个充满乐趣的华文学习氛围，激发学生的学习兴趣。</p>
+<br>趣味启学　喜爱华文</p>
 <h3><strong>Key Programmes (部门的主要活动与计划)</strong></h3>
 <h4><strong>阅读活动</strong></h4>
 <p>-<strong>晨读</strong>：每周四和周五，学生阅读华文故事书，有时老师给学生播放绘本录像
