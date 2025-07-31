@@ -43,8 +43,8 @@ to school.</p>
 <p></p>
 <h4><strong>世界书香日</strong></h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 每年的4月23日是“世界书香日”，也称“世界图书与版权日”。这一天，全球一百多个国家都会举办丰富有趣的阅读活动，鼓励大家多读书、爱写作，让书香飘进每个人的生活中。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为响应这一意义非凡的日子，<strong>我校华文部特别安排了读书活动。学生在完成阅读报告后，各班选出两份佳作，这两位同学荣获“佳作奖”及奖品。这些佳作也张贴在学校壁报板上，与 全校师生共享阅读的成果与喜悦。</strong>
-</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为响应这一意义非凡的日子，我校华文部特别安排了读书活动。学生在完成阅读报告后，各班选出两份佳作，这两位同学荣获“佳作奖”及奖品。这些佳作也张贴在学校壁报板上，与
+全校师生共享阅读的成果与喜悦。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/.png">
 </div>
