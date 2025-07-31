@@ -8,10 +8,10 @@ variant: tiptap
 <h3><strong>Vision (愿景)</strong></h3>
 <p>Students are proficient in the Chinese Language and enjoy the learning
 of Chinese Language and Chinese Culture.
-<br>学生都能精通华文，热爱学习华文与文化。</p>
+<br>精通华文　传承中华</p>
 <h3><strong>Mission (使命)</strong></h3>
 <p>Provide an environment where students find Chinese learning fun and interesting.
-<br>营造一个充满乐趣的华文学习氛围，激发学生的学习兴趣。</p>
+<br>趣味启学　喜爱华文</p>
 <h3><strong>Key Programmes (部门的主要活动与计划)</strong></h3>
 <h4><strong>阅读活动</strong></h4>
 <p>-<strong>晨读</strong>：每周四和周五，学生阅读华文故事书，有时老师给学生播放绘本录像
@@ -43,10 +43,10 @@ to school.</p>
 <p></p>
 <h4><strong>世界书香日</strong></h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 每年的4月23日是“世界书香日”，也称“世界图书与版权日”。这一天，全球一百多个国家都会举办丰富有趣的阅读活动，鼓励大家多读书、爱写作，让书香飘进每个人的生活中。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为响应这一意义非凡的日子，<strong>我校华文部特别安排了读书活动。学生在完成阅读报告后，各班选出两份佳作，这两位同学荣获“佳作奖”及奖品。这些佳作也张贴在学校壁报板上，与 全校师生共享阅读的成果与喜悦。</strong>
-</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为响应这一意义非凡的日子，我校华文部特别安排了读书活动。学生在完成阅读报告后，各班选出两份佳作，这两位同学荣获“佳作奖”及奖品。这些佳作也张贴在学校壁报板上，与
+全校师生共享阅读的成果与喜悦。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡建国总理李光耀先生曾指出：“我们必须成为一个爱读书的民族。”这句名言深刻表达了阅读的重要性。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 书籍点亮心灵，阅读丰富人生。同学们在书的世界里尽情遨游。为了帮助学生养成良好的阅读习惯，学校每天早上特设晨读时间，让孩子们一踏入校园，就沉浸在书香之中。日积月累，他们成长为爱思考、爱学习的小小读书人！</p>
