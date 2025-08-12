@@ -2,6 +2,7 @@ collections:
   links-and-resources:
     output: true
     order:
+      - School Bus Advertisement.md
       - Useful Links.md
       - For Parents 家长专区/.keep
       - For Parents 家长专区/Forms and Links.md
