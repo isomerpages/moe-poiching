@@ -38,7 +38,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="/parent-volunteer-scheme-2025/" rel="noopener nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
+<p><a href="/parent-volunteer-scheme/" rel="noopener nofollow" target="_blank">Parent Volunteer Scheme</a>
 <br>
 </p>
 </li>
