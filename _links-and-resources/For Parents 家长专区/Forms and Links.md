@@ -1,7 +1,7 @@
 ---
 title: Forms and Links
 permalink: /quick-links/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: For Parents 家长专区
 ---
