@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chin Ying</p>
+<p>Mdm Lim Chin Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_chin_yin_a@moe.edu.sg</p>
@@ -55,10 +55,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Clarence Cheong</p>
+<p>Ms Annie Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_ye_meng_clarence@moe.edu.sg</p>
+<p>toh_chin_chin_annie@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
