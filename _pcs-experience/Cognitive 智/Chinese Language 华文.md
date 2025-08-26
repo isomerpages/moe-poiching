@@ -65,6 +65,9 @@ Libby网站查看更多电子书推荐。</p>
 <h3>Accolades</h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_26_085148.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_____2_Page_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
