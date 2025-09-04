@@ -30,7 +30,7 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal – Annex A in <strong>a sealed Envelope</strong> by <u>5pm on the closing date, 26 Aug 2026</u>,
+<p>Submit the completed Call for Proposal – Annex A in <strong>a sealed Envelope</strong> by <u>5pm on the closing date, 26 Aug 2025</u>,
 to the School’s General Office.</p>
 </li>
 </ol>
