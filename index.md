@@ -24,11 +24,4 @@ sections:
       id: infobar
       button: 请点击此处了解更多信息
       url: /national-caligraphy-competition-2025/
-  - infopic:
-      title: 第十五届“会馆杯”庆国庆华语卡啦OK比赛
-      id: infopic
-      button: Find Out More
-      url: /2025karaok/
-      image: /images/OTD_KROK_2025.png
-      alt: Image alt text
 ---
