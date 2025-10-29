@@ -99,7 +99,7 @@ classes and levels.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Annuar</p>
+<p>Ms Koh Si Ping</p>
 </td>
 </tr>
 <tr>
