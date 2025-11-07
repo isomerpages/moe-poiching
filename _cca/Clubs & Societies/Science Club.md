@@ -5,13 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p>The Science Club aims to promote an appreciation for Science beyond the
-textbooks and for students to see the relevance in their daily lives.</p>
-<p>Through hands-on activities and interaction, students are provided the
-platform to enhance their creativity and gain a deeper understanding of
-Science concepts.</p>
+<p>The Eco Science Club is a vibrant community of students passionate about
+exploring the wonders of science and caring for the environment.</p>
+<p>Through hands-on projects, experiments, and eco-initiatives, members learn
+how Science shapes our everyday lives.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science%20cover.PNG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SciClub1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SciClub2.jpg">
 </div>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
