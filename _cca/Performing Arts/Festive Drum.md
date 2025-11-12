@@ -9,8 +9,13 @@ variant: tiptap
 <p>Festive Drum is traditional visual performance art-forms that have rich
 history and immense cultural performance expressions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190412-WA0020.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FD.png">
 </div>
+<p></p>
+<h3>Performance Video</h3>
+<p><a href="https://drive.google.com/file/d/1lPU77Ix1H2uEDsr48I5bHEnSEWqCUjd5/view" rel="noopener nofollow" target="_blank">Click to view</a>
+</p>
+<p></p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -38,7 +43,7 @@ history and immense cultural performance expressions.</p>
 <p>2.00 pm to 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - P5</p>
+<p>P3 - P6</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +59,7 @@ history and immense cultural performance expressions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Venue: </strong>Music Room 1 &amp; 2</p>
+<p><strong>Venue: </strong>Music Room 2</p>
 <h3>CCA Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
