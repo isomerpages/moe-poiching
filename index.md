@@ -19,9 +19,4 @@ sections:
           description: Find useful info
           url: https://www.poiching.moe.edu.sg/quick-links/permalink/
       background: /images/Cover_New.png
-  - infobar:
-      title: 2025年第十四届全国中小学现场书法比赛 - 成绩公布
-      id: infobar
-      button: 请点击此处了解更多信息
-      url: /national-caligraphy-competition-2025/
 ---
