@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Acceptable Use Policy (AUP).md
       - History 校史.md
       - School Mission & Vision 愿景与使命.md
       - Principal's Message 校长献词.md
