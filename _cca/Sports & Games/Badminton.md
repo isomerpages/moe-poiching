@@ -8,9 +8,16 @@ variant: tiptap
 <p>Our vision "Badminton for Life" guides us through our trainings and deepens
 our passion for the sport. In Badminton CCA, we focus on developing resilient,
 disciplined and passionate players.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%20cover.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton2.jpg">
+</div>
+<p></p>
+<p></p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -35,7 +42,7 @@ disciplined and passionate players.</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 4.00 pm</p>
+<p>2.00 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3</p>
@@ -43,7 +50,7 @@ disciplined and passionate players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.00 pm to 5.00 pm</p>
+<p>3.30 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
@@ -54,7 +61,7 @@ disciplined and passionate players.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 4.00 pm</p>
+<p>2.00 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -62,7 +69,7 @@ disciplined and passionate players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.00 pm to 5.00 pm</p>
+<p>3.30 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
@@ -114,7 +121,7 @@ disciplined and passionate players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hsu Tzu Chun</p>
+<p>Mdm Noraishah</p>
 </td>
 </tr>
 <tr>
