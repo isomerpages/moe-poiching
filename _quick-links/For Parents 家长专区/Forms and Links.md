@@ -22,6 +22,10 @@ third_nav_title: For Parents 家长专区
 </li>
 <li>
 <p><a href="/files/2025_School_Canteen_Menu_and_Pricing.pdf" rel="noopener noreferrer nofollow" target="_blank">School Canteen Menu</a>
+</p>
+</li>
+<li>
+<p><a href="/2026booklist/" rel="noopener nofollow" target="_blank">Booklist 2026</a>
 <br>
 </p>
 </li>
