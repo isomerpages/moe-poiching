@@ -48,18 +48,18 @@ variant: tiptap
 <p>4P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gomes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>melissa_hoeden@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Theng Hian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_theng_hian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Gomes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>melissa_hoeden@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
