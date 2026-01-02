@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo ciau Er</p>
+<p>Mdm Yeo Ciau Er</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -406,7 +406,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
