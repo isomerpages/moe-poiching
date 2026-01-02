@@ -32,7 +32,7 @@ variant: tiptap
 <p>Mr Marcus Choy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marcus_Choy_Zheng_Hoe@moe.edu.sg</p>
+<p>marcus_choy_zheng_hoe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mdm Yeo Ciau Er</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo_Ciau_Er@moe.edu.sg</p>
+<p>yeo_ciau_er@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Ms Janet Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong_Kim_Lian_Janet@moe.edu.sg</p>
+<p>leong_kim_lian_janet@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Ms Huda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti_Nurhuda_Hamid@moe.edu.sg</p>
+<p>siti_nurhuda_hamid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Ms Cheong Shi Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheong_Shi_Min@moe.edu.sg</p>
+<p>cheong_shi_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>Mr Toh Wee Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toh_Wee_Kwang@moe.edu.sg</p>
+<p>toh_wee_kwang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>Mdm Rozidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rozidah_Jaffar@moe.edu.sg</p>
+<p>rozidah_jaffar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>Ms Faezah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faezah_Abdul_Samad@moe.edu.sg</p>
+<p>faezah_abdul_samad@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
