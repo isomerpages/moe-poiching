@@ -56,6 +56,17 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Administration)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>School Staff Developer</h3>
@@ -79,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Saadah Bte Abdul Samad</p>
+<p>Mdm Yeo ciau Er</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +133,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Wee Kwang (covering)</p>
+<p>Ms Joanna Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Wee Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -322,7 +344,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Felicia Lim</p>
+<p>Mrs Penny Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -336,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Gomes</p>
+<p>Mrs Junie Seetor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -350,13 +372,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Penny Ng</p>
+<p>Ms Ong Yi Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3</p>
@@ -364,7 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Junie Seetor</p>
+<p>Mrs Melissa Gomes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -378,13 +400,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Tan</p>
+<p>Ms Janice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -392,13 +414,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Yi Ting</p>
+<p>Mrs Felicia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
