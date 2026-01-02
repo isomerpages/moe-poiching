@@ -32,7 +32,7 @@ variant: tiptap
 <p>Mdm Yuslina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuslina_Mohamed_Salleh@moe.edu.sg</p>
+<p>yuslina_mohamed_salleh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Ms Liana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liana_Aziz@moe.edu.sg</p>
+<p>liana_aziz@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mdm Tee Li Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tee_Li_Ping@moe.edu.sg</p>
+<p>tee_li_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>Mrs Rachel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_Ching_Ling_Rachel@moe.edu.sg</p>
+<p>tan_ching_ling_rachel@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
