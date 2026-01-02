@@ -317,6 +317,17 @@ variant: tiptap
 <p>Student Well-Being</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Discipline and Student Leadership (Covering)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Year Heads / Assistant Year Heads</h3>
