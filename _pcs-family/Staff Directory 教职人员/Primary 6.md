@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mrs Felicia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Felicia_Chia_Yee_Qui@moe.edu.sg</p>
+<p>felicia_chia_yee_qui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mrs Ginger Oh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ginger_Tay@moe.edu.sg</p>
+<p>ginger_tay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Ms Scarlett Un</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Un_Yih_Miin@moe.edu.sg</p>
+<p>un_yih_miin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
