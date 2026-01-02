@@ -127,7 +127,7 @@ variant: tiptap
 <p>Mrs Agnes Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chin_Shiaw_Yen@moe.edu.sg</p>
+<p>chin_shiaw_yen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
