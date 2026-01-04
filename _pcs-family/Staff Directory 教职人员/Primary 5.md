@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mdm Kelly Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee_li_choo_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
