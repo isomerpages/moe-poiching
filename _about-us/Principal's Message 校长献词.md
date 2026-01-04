@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>作为培青学校第十七任校长，我深感荣幸。在过去漫长的106年里，培青学校培养了无数代的莘莘学子。我衷心感谢历任学校领导和教师，感激他们多年对学校和教育事业的卓越贡献。</p>
+<p>作为培青学校第十七任校长，我深感荣幸。在过去漫长的107年里，培青学校培养了无数代的莘莘学子。我衷心感谢历任学校领导和教师，感激他们多年对学校和教育事业的卓越贡献。</p>
 <p>&nbsp;迈入新的学年，我们满怀激动与期待，欢迎每一位师生回到培青学校——一个充满学习与成长无限可能的地方。今年，我们将以价值观为核心，充分发挥我校双语双文化环境的优势，为学生的未来做好准备。通过深入了解自身文化，学生将更自信、更具底气，能够与全球多元文化背景的人有效沟通，成为全球化社会中积极贡献的一员。</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: tiptap
 </div>
 <p>It is my privilege to take on the appointment as the 17th Principal of
 Poi Ching School. The school has nurtured multiple generations of students
-over the past 106 years, and I would like to express my heartfelt gratitude
+over the past 107 years, and I would like to express my heartfelt gratitude
 and appreciation to the school leaders and staff – both past and present
 – for their immense contribution to the school over the years.</p>
 <p>As we step into a new academic year, it is with great excitement and optimism
