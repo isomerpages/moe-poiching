@@ -55,7 +55,7 @@ Chiu Tin Kee Home</p>
 <br>2007 – 2009 &nbsp; : Tan Lee Cheng
 <br>2009 : Joyce Tham
 <br>2010 to current: Yong Ming Fung</p>
-<h3>EXCO (2024)</h3>
+<h3>EXCO (2026)</h3>
 <p>President: Ong Luyi Kendra
 <br>Secretary: Chun Jhian Wai Lucus
 <br>Treasurer: Lee Zijun</p>
