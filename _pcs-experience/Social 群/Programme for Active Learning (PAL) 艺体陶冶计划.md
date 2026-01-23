@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Social 群
 variant: tiptap
 ---
-<h3>Objectives and Overview</h3>
+<h2>Objectives and Overview</h2>
 <p>The PAL curriculum aims for students to develop confidence, a sense of
 curiosity and a positive attitude towards learning. Its modules offer students
 the opportunity for collaboration through group activities and teamwork.</p>
@@ -41,7 +41,7 @@ and moral domains.</p>
 </div>
 <p>Students also learn socio-emotional competencies such as respecting others
 and responsible decision-making.</p>
-<h3>Approach and Learning Experience</h3>
+<h2>Approach and Learning Experience</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,24 +53,29 @@ and responsible decision-making.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAL/Picture4.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAL/Picture5.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p>PAL lessons are designed to:
-<br><strong>• Cultivate joy in learning <br>• Develop core values and socio-emotional competencies <br>• Provide authentic, experiential learning experiences <br>• Engage students in creative and purposeful learning <br>• Provide opportunities to create through individual and collaborative tasks</strong>
-</p>
-</th>
 </tr>
 </tbody>
 </table>
+<p><strong>PAL lessons are designed to: </strong>
+<br>• Cultivate joy in learning
+<br>• Develop core values and socio-emotional competencies
+<br>• Provide authentic, experiential learning experiences
+<br>• Engage students in creative and purposeful learning
+<br>• Provide opportunities to create through individual and collaborative
+tasks</p>
+<p></p>
 <p><strong>PAL is offered to all Primary 1 &amp; 2 students in the following domains:</strong>
 <br>• Outdoor Education
 <br>• Visual Arts
 <br>• Performance Arts (Drama)
 <br>• Sports and Games</p>
-<h4>Outdoor Education</h4>
+<h3>Outdoor Education</h3>
 <p>Through outdoor exploration, students learn to observe and appreciate
 their surroundings while developing orienteering skills and teamwork.</p>
 <table style="minWidth: 100px">
@@ -101,12 +106,11 @@ their surroundings while developing orienteering skills and teamwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture9.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Visual Arts</h4>
+<h3>Visual Arts</h3>
 <p>Through creative exploration, students apply imagination and creative
 thinking to express their ideas visually.</p>
 <table style="minWidth: 50px">
@@ -129,7 +133,7 @@ thinking to express their ideas visually.</p>
 </tr>
 </tbody>
 </table>
-<h4>Performance Arts (Drama)</h4>
+<h3>Performance Arts (Drama)</h3>
 <p>Through immersive role-play and drama activities, students develop creative
 expression as well as skills in empathy, collaboration and communication.</p>
 <table style="minWidth: 50px">
@@ -152,7 +156,7 @@ expression as well as skills in empathy, collaboration and communication.</p>
 </tr>
 </tbody>
 </table>
-<h4>Sports and Games</h4>
+<h3>Sports and Games</h3>
 <p>Through structured games, students build spatial and bodily awareness,
 develop fundamental movement skills (such as running, jumping and throwing),
 and engage in collaborative play.</p>
