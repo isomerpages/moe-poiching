@@ -9,8 +9,9 @@ variant: tiptap
 <p>The PAL curriculum aims for students to develop confidence, a sense of
 curiosity and a positive attitude towards learning. Its modules offer students
 the opportunity for collaboration through group activities and teamwork.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -18,14 +19,17 @@ the opportunity for collaboration through group activities and teamwork.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAL/Picture1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAL/Picture3.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -33,7 +37,7 @@ the opportunity for collaboration through group activities and teamwork.</p>
 their holistic development in the physical, cognitive, social, aesthetics
 and moral domains.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PAL/Picture2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PAL/Picture2.jpg">
 </div>
 <p>Students also learn socio-emotional competencies such as respecting others
 and responsible decision-making.</p>
