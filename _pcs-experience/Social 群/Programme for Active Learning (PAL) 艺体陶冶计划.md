@@ -66,47 +66,42 @@ and responsible decision-making.</p>
 <br>• Visual Arts
 <br>• Performance Arts (Drama)
 <br>• Sports and Games</p>
-<p></p>
 <h4>Outdoor Education</h4>
 <p>Through outdoor exploration, students learn to observe and appreciate
 their surroundings while developing orienteering skills and teamwork.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture7.jpg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture8.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture9.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Visual Arts</h4>
 <p>Through creative exploration, students apply imagination and creative
 thinking to express their ideas visually.</p>
