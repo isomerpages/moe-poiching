@@ -43,29 +43,67 @@ Chiu Tin Kee Home</p>
 <br>– Futsing Association 90th Anniversary</p>
 <p><strong>2006:</strong>&nbsp;Rekindle Passion @ Tampines</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese-New-Year-Gathering-.gif">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese-New-Year-Gathering-.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Christmas-cum-New-Year-Cele.gif">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Christmas-cum-New-Year-Cele.gif">
 </div>
 <p></p>
 <p><strong>2017:</strong> Fun for Hope Project</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture1.jpg">
+</div>
 <p><strong>2018: </strong>P6 Motivation Camp</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture2.jpg">
+</div>
 <p>NDP Celebration and Prefects’ Investiture</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture3.jpg">
+</div>
 <p>Mid-Autumn Photo Contest</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture4.jpg">
+</div>
 <p><strong>2019:</strong> Project Warming Hearts</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture5.jpg">
+</div>
 <p>SAP40 Commemorative Publication</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/Picture6.jpg">
+</div>
 <p>Video Production Competition</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/Picture7.jpg">
+</div>
 <p>Visit to Toa Payoh Campus</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/Picture8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/Picture9.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>2020: </strong>Movie Filming in preparation of 100th year Celebration</p>
 <p></p>
