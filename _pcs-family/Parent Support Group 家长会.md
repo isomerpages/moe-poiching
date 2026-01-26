@@ -5,25 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h3>Welcome to Poi Ching Parent Support Group.</h3>
-<h4>Our Mission </h4>
+<h4>Our Mission</h4>
 <p>To support PCS and enrich our children's learning journey by engaging
 and empowering families through meaningful activities, while building a
 strong and caring school community for every child.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG/Picture35.jpg">
+</div>
 <h4>Our Objectives</h4>
 <p><strong>Partnering with the School</strong>
 <br>To work closely with the school in a spirit of trust and collaboration,
 strengthening the home–school partnership to support the holistic development
 of every child.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PSG/Picture36.jpg">
+</div>
 <p><strong>Supporting Parents</strong>
 <br>To empower and support parents through resources, opportunities, and a
 caring network that nurtures confident families and happy, healthy children.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PSG/Picture37.jpg">
+</div>
 <p><strong>Growing Children</strong>
 <br>To provide meaningful, engaging, and values-driven experiences that support
 children's holistic growth and foster a love for learning beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PSG/Picture38.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Picture39.png">
+</div>
 <h4>Become a Member</h4>
 <p>All parents / guardians of current Poi Ching School students are welcome
 to join PSG. Membership is free.
@@ -43,10 +56,4 @@ Poi Ching School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community-events-collage.jpg">
-</div>
-<h3></h3>
 <p></p>
