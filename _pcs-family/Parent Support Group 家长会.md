@@ -51,9 +51,3 @@ visit us at <a href="http://www.pcspsg.org" rel="noopener noreferrer nofollow" t
 express your interest and area of contribution.
 <br>Please include your contact details and name of your child/children in
 Poi Ching School.</p>
-<h3>PSG Committee Members Directory</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
-</div>
-<p></p>
