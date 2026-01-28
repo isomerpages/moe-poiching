@@ -45,7 +45,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Poi Ching School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Poi Ching School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -80,8 +80,7 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Poi Ching School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
-</p>
+<h3><strong>2026 Sexuality Education Lessons in CCE</strong></h3>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -247,11 +246,12 @@ and learn to behave maturely towards each other.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
 children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are to give
-consent for your child to attend the Sexuality Education lessons via Parent
-Gateway from <strong>31/01/2025</strong>. Parents who wish to opt their
-child out, please complete an opt-out form by clicking on the link provided
-in Parent Gateway. This is to be done and submitted by <strong>07/03/2025</strong>.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <strong>67856420</strong> for discussion or to seek clarification about
-the school’s Sexuality Education programme.</p>
+<p>&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are to
+give consent for your child to attend the Sexuality Education lessons via
+Parent Gateway from <strong>30/01/2026</strong>. Parents who wish to opt
+their child out, please complete an opt-out form by clicking on the link
+provided in Parent Gateway. This is to be done and submitted by <strong>06/03/2026</strong>.</p>
+<p>&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>67856420</strong> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+<p></p>
