@@ -4,10 +4,16 @@ permalink: /parent-volunteer-scheme/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>2026 Parent Volunteer Application:</u></strong></h4>
-<p>Details for the Parent Volunteer application for parents whose child (Singapore
-Citizen or Singapore Permanent Resident) is born between <strong>2 January 2021 and 1 January 2022</strong> will
-be out in the school website by <strong><u>end January 2026 - early February 2026</u></strong>.</p>
+<h3><strong><u>2026 Parent Volunteer Application</u></strong></h3>
+<p>Parent Volunteer application for parents whose child (Singapore Citizen
+or Singapore Permanent Resident) is born between <strong>2 January 2021 and 1 January 2022(both dates inclusive) </strong>is
+now open.</p>
+<p></p>
+<p>The application period is from <strong>1 February 2026 to 28 February 2026.</strong>
+<br>Click <a href="https://form.gov.sg/697049bd007bb256037ee9ae" rel="noopener nofollow" target="_blank">HERE</a> to
+access the application form.</p>
+<p><strong><u>Only shortlisted applicants</u></strong> will be notified by <strong>30 April 2026.</strong> 
+</p>
 <p></p>
 <h4><strong><u>2025 Parent Volunteer Application:</u></strong></h4>
 <ul data-tight="true" class="tight">
