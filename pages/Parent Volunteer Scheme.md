@@ -13,7 +13,7 @@ now open.</p>
 <br>Click <a href="https://form.gov.sg/697049bd007bb256037ee9ae" rel="noopener nofollow" target="_blank">HERE</a> to
 access the application form.</p>
 <p></p>
-<p><strong><u>Only shortlisted applicants</u></strong> will be notified by <strong>30 April 2026.</strong>
+<p><strong><u>Only shortlisted applicants</u></strong> will be notified by <strong><u>30 April 2026.</u></strong>
 <br>Note: Selection is <strong><u>NOT</u></strong> on a first-come, first-served
 basis.
 <br>
