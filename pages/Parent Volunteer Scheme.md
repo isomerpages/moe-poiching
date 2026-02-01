@@ -12,7 +12,11 @@ now open.</p>
 <p>The application period is from <strong>1 February 2026 to 28 February 2026.</strong>
 <br>Click <a href="https://form.gov.sg/697049bd007bb256037ee9ae" rel="noopener nofollow" target="_blank">HERE</a> to
 access the application form.</p>
-<p><strong><u>Only shortlisted applicants</u></strong> will be notified by <strong>30 April 2026.</strong> 
+<p></p>
+<p><strong><u>Only shortlisted applicants</u></strong> will be notified by <strong>30 April 2026.</strong>
+<br>Note: Selection is <strong><u>NOT</u></strong> on a first-come, first-served
+basis.
+<br>
 </p>
 <p></p>
 <h4><strong><u>2025 Parent Volunteer Application:</u></strong></h4>
