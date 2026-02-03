@@ -16,7 +16,7 @@ classes and levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball.jpg">
 </div>
-<h3>Training Schedule for 2025</h3>
+<h3>Training Schedule</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
