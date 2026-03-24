@@ -19,4 +19,13 @@ sections:
           description: Find useful info
           url: https://www.poiching.moe.edu.sg/quick-links/permalink/
       background: /images/Cover_New.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 第十五届全国中小学现场书法比赛
+          date: 24 March 2026
+          announcement: 第十五届全国中小学现场书法比赛将在2026年5月15日（星期五）举行。
+          link_text: Click here for registration info
+          link_url: /calligraphy2026/
 ---
