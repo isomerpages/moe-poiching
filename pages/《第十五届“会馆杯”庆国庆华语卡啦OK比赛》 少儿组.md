@@ -124,7 +124,7 @@ ID，系统也会通过电邮自动转发报名的收据给予报名的老师。
 <br>评审团之委员由福清会馆所委任，皆由经验丰富的专业音乐老师担任。</p>
 <p></p>
 <p><strong>6.垂询</strong>
-<br>任何垂询，可联络邱玮玮老师。
+<br>任何垂询，可联络余佩玲老师。
 <br>•电话：67856420
 <br>•电邮:<a href="yue_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> yue_puay_leng@moe.edu.sg</a>
 </p>
