@@ -126,7 +126,7 @@ ID，系统也会通过电邮自动转发报名的收据给予报名的老师。
 <p><strong>6.垂询</strong>
 <br>任何垂询，可联络余佩玲老师。
 <br>•电话：67856420
-<br>•电邮:<a href="yue_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> yue_puay_leng@moe.edu.sg</a>
+<br>•电邮: <a href="yue_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> yue_puay_leng@moe.edu.sg</a>
 </p>
 <p>
 <br>本细则若有未尽善之处，主办单位将保留增删之权力，恕不另行通知。</p>
