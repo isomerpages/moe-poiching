@@ -23,6 +23,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 《第十六届“会馆杯”庆国庆华语卡拉 OK 歌唱比賽》少儿组
+          date: 12 May 2026
+          announcement: 新加坡福清会馆与培青学校联办《第十六届“会馆杯”庆国庆华语卡拉 OK 歌唱比賽》少儿组
+          link_text: Click here for registration info
+          link_url: /2026karaok/
         - title: 第十五届全国中小学现场书法比赛
           date: 24 March 2026
           announcement: 第十五届全国中小学现场书法比赛将在2026年5月15日（星期五）举行。
