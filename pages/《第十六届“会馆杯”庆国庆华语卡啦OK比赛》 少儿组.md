@@ -1,6 +1,6 @@
 ---
-title: 《第十五届“会馆杯”庆国庆华语卡啦OK比赛》 少儿组
-permalink: /2025karaok/
+title: 《第十六届“会馆杯”庆国庆华语卡啦OK比赛》 少儿组
+permalink: /2026karaok/
 variant: tiptap
 description: ""
 ---
