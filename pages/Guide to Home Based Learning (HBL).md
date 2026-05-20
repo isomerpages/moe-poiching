@@ -4,7 +4,7 @@ permalink: /guide-to-home-based-learning-hbl/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Home-Based Learning (HBL) Guide for Students (Pri 1- 6) 2026</strong></h3>
+<h2><strong>Home-Based Learning (HBL) Guide for Students (Pri 1- 6) 2026</strong></h2>
 <p>This guide provides important information on Home-Based Learning (HBL)
 for all students. Please read it carefully to understand expectations,
 schedules, submission requirements, and support channels.</p>
@@ -33,7 +33,9 @@ schedules, submission requirements, and support channels.</p>
 </tbody>
 </table>
 <h3><strong>2. HBL Level Schedule/Timetable</strong></h3>
-<p></p>
+<p>Access the schedule/timetable via the different level link.</p>
+<p>or</p>
+<p>Access the schedule/timetable via this link.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -143,5 +145,6 @@ all videos).</p>
 </li>
 </ul>
 <h3><strong>6. SLS and MIMS Support</strong></h3>
-<p>Refer to this page for more information.</p>
+<p>Refer to this <a href="/hblslsmimssupport/" rel="noopener nofollow" target="_blank">page</a> for
+more information.</p>
 <p></p>
