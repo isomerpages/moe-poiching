@@ -30,19 +30,43 @@ schedules, submission requirements, and support channels.</p>
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<h3><strong>2. HBL Level Schedule/Timetable</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 5</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary 2</strong>
+</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 6</strong>
+</p>
 </td>
 </tr>
 </tbody>
