@@ -33,46 +33,7 @@ schedules, submission requirements, and support channels.</p>
 </tbody>
 </table>
 <h3><strong>2. HBL Level Schedule/Timetable</strong></h3>
-<p>Access the schedule/timetable via the different level link.</p>
-<p>or</p>
-<p>Access the schedule/timetable via this link.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 6</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Access the schedule/timetable via this <a href="https://sites.google.com/moe.edu.sg/pcshbl" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3><strong>3. Structure of Home-Based Learning</strong></h3>
 <p>HBL consists of <strong>two components</strong>:</p>
 <table style="minWidth: 50px">
