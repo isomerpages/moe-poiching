@@ -47,7 +47,7 @@ schedules, submission requirements, and support channels.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>2. Structure of Home-Based Learning</strong></h3>
+<h3><strong>3. Structure of Home-Based Learning</strong></h3>
 <p>HBL consists of <strong>two components</strong>:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -87,7 +87,7 @@ schedules, submission requirements, and support channels.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>3. Assignment Submission</strong></h3>
+<h3><strong>4. Assignment Submission</strong></h3>
 <h4><strong>Submission Deadlines</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -96,7 +96,7 @@ schedules, submission requirements, and support channels.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>4. Important SLS (Student Learning Space) Information</strong></h3>
+<h3><strong>5. Important SLS (Student Learning Space) Information</strong></h3>
 <p>For an SLS assignment to be recorded as <strong>complete</strong>, students
 must ensure that:</p>
 <ul data-tight="true" class="tight">
@@ -117,4 +117,6 @@ all videos).</p>
 </p>
 </li>
 </ul>
+<h3><strong>6. SLS and MIMS Support</strong></h3>
+<p>Refer to this page for more information.</p>
 <p></p>
