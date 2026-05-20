@@ -112,7 +112,8 @@ schedules, submission requirements, and support channels.</p>
 </table>
 <p></p>
 <h3><strong>4. Assignment Submission</strong></h3>
-<h4><strong>Submission Deadlines</strong></h4>
+<p><strong>Submission Deadlines</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All HBL assignments must be submitted by <strong>xx p.m. on the HBL day</strong>
