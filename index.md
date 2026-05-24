@@ -27,7 +27,7 @@ sections:
           date: 25 May 2026
           announcement: 2026年第十五届全国中小学现场书法比赛 - 成绩公布
           link_text: 点击此处查看获奖者
-          link_url: /national-caligraphy-competition-2026/
+          link_url: /national-caligraphy-competition-2026-awardees
         - title: 《第十六届“会馆杯”庆国庆华语卡拉 OK 歌唱比賽》少儿组
           date: 12 May 2026
           announcement: 新加坡福清会馆与培青学校联办《第十六届“会馆杯”庆国庆华语卡拉 OK 歌唱比賽》少儿组
