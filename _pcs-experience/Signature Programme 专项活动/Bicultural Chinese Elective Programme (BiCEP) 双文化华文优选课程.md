@@ -30,6 +30,19 @@ gain a deeper understanding of the Chinese culture and values.</p>
 Hokkien Huay Kuan Arts and Cultural Troupe
 <br>4. P5 Overseas School Immersion &amp; Cultural Trip
 <br>5. P6 Graduation Ceremony</p>
+<h4><strong>Selection Criteria</strong></h4>
+<p>1. Consistently achieves strong academic performance across all subjects.
+<br>2. Maintains exemplary conduct and demonstrates positive behaviour at
+all times.
+<br>3.Exhibits a strong learning disposition, including curiosity, resilience,
+and a commitment to improvement in the subject area.
+<br>4.Highly recommended by teachers based on academic performance, attitude,
+and contribution to the learning environment.</p>
+<h4><strong>遴选标准</strong></h4>
+<p>1. 在各学科中持续取得优异的学业表现。
+<br>2. 始终保持良好的品行，并展现积极正面的行为表现。
+<br>3. 具备良好的学习态度与素养，包括求知精神、坚毅不拔的学习精神，以及不断追求进步的态度。
+<br>4. 获得教师的高度推荐。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whatsapp%20image%202023-05-22.jpeg">
