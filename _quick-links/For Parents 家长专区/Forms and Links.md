@@ -21,7 +21,7 @@ third_nav_title: For Parents 家长专区
 </p>
 </li>
 <li>
-<p><a href="/files/2025_School_Canteen_Menu_and_Pricing.pdf" rel="noopener noreferrer nofollow" target="_blank">School Canteen Menu</a>
+<p><a href="/files/2026_Canteen_Menu_Food_Item_Pricing_26_Jun_26.pdf" rel="noopener nofollow" target="_blank">School Canteen Menu</a>
 </p>
 </li>
 <li>
